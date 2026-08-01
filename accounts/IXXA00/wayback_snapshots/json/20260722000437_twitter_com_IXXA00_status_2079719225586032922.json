@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2079406929852735631",
+    "created_at": "2026-07-22T00:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079719225586032922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567825058202288128",
+          "start": 0,
+          "username": "ramensuki0103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079719225586032922",
+    "in_reply_to_user_id": "1567825058202288128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079406929852735631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ramensuki0103 这个录像设备也太强了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079406828132380672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuJfjZaMAAv9uu.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 3685,
+        "height": 3840,
+        "media_key": "13_2079406828128284672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079406828128284672/img/B0VyH_UwMWnANH_J.jpg",
+        "public_metrics": {
+          "view_count": 459486
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828128284672/vid/avc1/480x852/c2DojAn-8nmE9tTG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828128284672/vid/avc1/1080x1920/PbUWDlEOiOiuD2Gu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079406828128284672/pl/ADRfYOrcrw1nvoM4.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828128284672/vid/avc1/2160x3840/cbao1BjWNQ0Sn6j8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828128284672/vid/avc1/320x568/8p1X_S5WrVcHXkX7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828128284672/vid/avc1/720x1280/e-OwLM3vj4xmU5PD.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "duration_ms": 3785,
+        "height": 3840,
+        "media_key": "13_2079406828182810624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079406828182810624/img/7tg8PKSlwcgygxmO.jpg",
+        "public_metrics": {
+          "view_count": 61047
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828182810624/vid/avc1/480x852/Lhe06eNcJOLM0Jq9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828182810624/vid/avc1/720x1280/iYdX5Co8VifRidAU.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828182810624/vid/avc1/2160x3840/HOozIn2IGqZsnnHi.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828182810624/vid/avc1/320x568/A9um9RRZwaiyuWn_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079406828182810624/pl/JkmhwVNpu2Mb0uB2.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828182810624/vid/avc1/1080x1920/3Lls8USx4ZvbayTS.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "duration_ms": 2268,
+        "height": 3840,
+        "media_key": "13_2079406828145025024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079406828145025024/img/t1DiJhl-PGrV5aBz.jpg",
+        "public_metrics": {
+          "view_count": 11800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828145025024/vid/avc1/2160x3840/iSducSx8e6S2nghc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828145025024/vid/avc1/320x568/0YnTacVrWDULufsH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828145025024/vid/avc1/480x852/NsZfxE24kq4_8q1F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079406828145025024/pl/7NIy_gMqTa-BZ4Rx.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828145025024/vid/avc1/720x1280/lPDkqju-uOGjKTQP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079406828145025024/vid/avc1/1080x1920/oLz0pKnwX_7LYVs4.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2079406929852735631",
+        "created_at": "2026-07-22T00:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079719225586032922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567825058202288128",
+              "start": 0,
+              "username": "ramensuki0103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079719225586032922",
+        "in_reply_to_user_id": "1567825058202288128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079406929852735631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ramensuki0103 这个录像设备也太强了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079406828132380672",
+            "13_2079406828128284672",
+            "13_2079406828182810624",
+            "13_2079406828145025024"
+          ]
+        },
+        "author_id": "1567825058202288128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2079406929852735631",
+        "created_at": "2026-07-21T03:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079406929852735631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJW4s63Dbl",
+              "end": 58,
+              "expanded_url": "https://x.com/ramensuki0103/status/2079406929852735631/video/1",
+              "media_key": "3_2079406828132380672",
+              "start": 35,
+              "url": "https://t.co/IJW4s63Dbl"
+            },
+            {
+              "display_url": "pic.x.com/IJW4s63Dbl",
+              "end": 58,
+              "expanded_url": "https://x.com/ramensuki0103/status/2079406929852735631/video/1",
+              "media_key": "13_2079406828128284672",
+              "start": 35,
+              "url": "https://t.co/IJW4s63Dbl"
+            },
+            {
+              "display_url": "pic.x.com/IJW4s63Dbl",
+              "end": 58,
+              "expanded_url": "https://x.com/ramensuki0103/status/2079406929852735631/video/1",
+              "media_key": "13_2079406828182810624",
+              "start": 35,
+              "url": "https://t.co/IJW4s63Dbl"
+            },
+            {
+              "display_url": "pic.x.com/IJW4s63Dbl",
+              "end": 58,
+              "expanded_url": "https://x.com/ramensuki0103/status/2079406929852735631/video/1",
+              "media_key": "13_2079406828145025024",
+              "start": 35,
+              "url": "https://t.co/IJW4s63Dbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079406929852735631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6406,
+          "impression_count": 1958925,
+          "like_count": 18768,
+          "quote_count": 792,
+          "reply_count": 67,
+          "retweet_count": 1685
+        },
+        "reply_settings": "everyone",
+        "text": "この夏食べておきたい冷やしラーメンがやばい。鴨醤油ってのがまた最高。 https://t.co/IJW4s63Dbl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7527,
+          "following_count": 4540,
+          "like_count": 43450,
+          "listed_count": 18,
+          "media_count": 3181,
+          "tweet_count": 42915
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-08T10:40:04.000Z",
+        "description": "関西中心に全国ラーメン全力ご紹介‼️ 年間500杯以上ラーメン食べる人🍜 総フォロワー54万人 ※本人アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ramen19960103",
+                "end": 23,
+                "expanded_url": "https://lit.link/ramen19960103",
+                "start": 0,
+                "url": "https://t.co/9AWE1Dpnan"
+              }
+            ]
+          }
+        },
+        "id": "1567825058202288128",
+        "location": "日本 大阪",
+        "name": "らぁ麺が好きすぎる人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795277595816361984/XAZp3FpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 103,
+          "like_count": 209,
+          "listed_count": 7,
+          "media_count": 123,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/9AWE1Dpnan",
+        "username": "ramensuki0103",
+        "verified": true
+      }
+    ]
+  }
+}

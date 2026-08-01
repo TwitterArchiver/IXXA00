@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2052974145579954574",
+    "created_at": "2026-05-10T00:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053272243153797131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807097305067130880",
+          "start": 0,
+          "username": "tompsinsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053272243153797131",
+    "in_reply_to_user_id": "1807097305067130880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053223154277867804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tompsinsky 好女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2052974145579954574",
+        "created_at": "2026-05-10T00:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053272243153797131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807097305067130880",
+              "start": 0,
+              "username": "tompsinsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053272243153797131",
+        "in_reply_to_user_id": "1807097305067130880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053223154277867804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tompsinsky 好女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807097305067130880",
+        "conversation_id": "2052974145579954574",
+        "created_at": "2026-05-09T21:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053223154277867804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053223154277867804",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052974145579954574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/18/塔罗牌简单咨询：25r/张/线下",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2052824142580506690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7004,
+          "following_count": 4497,
+          "like_count": 39649,
+          "listed_count": 19,
+          "media_count": 2869,
+          "tweet_count": 39566
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:02:43.000Z",
+        "description": "多伦多 男娘爱好者 缚手 约克大学phd",
+        "id": "1807097305067130880",
+        "location": "卡尔克萨 哈利湖",
+        "name": "tompsinsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918823208658014209/g-cLCvhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 247,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 81
+        },
+        "username": "tompsinsky",
+        "verified": false
+      }
+    ]
+  }
+}

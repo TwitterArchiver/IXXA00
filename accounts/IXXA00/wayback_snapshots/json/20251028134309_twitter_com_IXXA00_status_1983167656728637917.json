@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983087553365627228",
+    "created_at": "2025-10-28T13:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T14:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983167656728637917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983167656728637917",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983167437295235334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983087553365627228",
+        "created_at": "2025-10-28T13:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983167656728637917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983167656728637917",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983167437295235334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552602100634251265",
+        "conversation_id": "1983087553365627228",
+        "created_at": "2025-10-28T13:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983167437295235334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983167437295235334",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983162974761369787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 虽然是文案但你这个回答让我莫名悲伤，青春好珍贵啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 4351,
+          "like_count": 31255,
+          "listed_count": 11,
+          "media_count": 2280,
+          "tweet_count": 31103
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "男的，叫我小弦 小七哩。七哩＝Chili🌶️是喜欢的乐队名，Yin🎼是弦的粤语读音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjvJsc"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "七哩哩🎼🔮",
+        "pinned_tweet_id": "1932738224021246228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980117436717322240/w02lD6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 808,
+          "like_count": 112888,
+          "listed_count": 12,
+          "media_count": 639,
+          "tweet_count": 22576
+        },
+        "url": "https://t.co/rhXAcjvJsc",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

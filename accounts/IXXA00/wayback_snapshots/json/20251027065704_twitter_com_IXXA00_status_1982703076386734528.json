@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982293281129308412",
+    "created_at": "2025-10-27T06:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982703076386734528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759403545739333632",
+          "start": 0,
+          "username": "JmwUsu39563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982703076386734528",
+    "in_reply_to_user_id": "1759403545739333632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982702931368616024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JmwUsu39563 装反了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-27T06:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982703076386734528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759403545739333632",
+              "start": 0,
+              "username": "JmwUsu39563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982703076386734528",
+        "in_reply_to_user_id": "1759403545739333632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982702931368616024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JmwUsu39563 装反了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759403545739333632",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-27T06:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982702931368616024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982702931368616024",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982293281129308412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 装一个吧😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4771,
+          "following_count": 4226,
+          "like_count": 30830,
+          "listed_count": 10,
+          "media_count": 2271,
+          "tweet_count": 30831
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T02:24:46.000Z",
+        "description": "在所有失去的人里，最怀恋的是曾经的自己",
+        "id": "1759403545739333632",
+        "location": "Canada",
+        "name": "水泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978723123382898688/uXoZYlfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "JmwUsu39563",
+        "verified": false
+      }
+    ]
+  }
+}

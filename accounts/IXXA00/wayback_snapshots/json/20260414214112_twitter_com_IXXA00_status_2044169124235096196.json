@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2044040417931677933",
+    "created_at": "2026-04-14T21:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T22:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044169124235096196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "988056572717776896",
+          "start": 0,
+          "username": "JProff190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044169124235096196",
+    "in_reply_to_user_id": "988056572717776896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044133441931771905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JProff190 谢谢……我经常自卑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2044040417931677933",
+        "created_at": "2026-04-14T21:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T22:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044169124235096196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "988056572717776896",
+              "start": 0,
+              "username": "JProff190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044169124235096196",
+        "in_reply_to_user_id": "988056572717776896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044133441931771905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JProff190 谢谢……我经常自卑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988056572717776896",
+        "conversation_id": "2044040417931677933",
+        "created_at": "2026-04-14T19:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044133441931771905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044133441931771905",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044040417931677933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 Dont be insecure, youre very pretty! (Assuming the photos on your profile are of you)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6427,
+          "following_count": 4399,
+          "like_count": 37791,
+          "listed_count": 16,
+          "media_count": 2719,
+          "tweet_count": 37928
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-22T14:06:58.000Z",
+        "description": "",
+        "id": "988056572717776896",
+        "name": "updog🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936375238956113921/viEpnt86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 114,
+          "like_count": 53888,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1097
+        },
+        "username": "JProff190",
+        "verified": false
+      }
+    ]
+  }
+}

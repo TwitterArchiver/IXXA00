@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1979924959674638585",
+    "created_at": "2025-10-19T16:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T17:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979949629744857326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1298921644027600896",
+          "start": 0,
+          "username": "t2481888763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979949629744857326",
+    "in_reply_to_user_id": "1298921644027600896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979943406295195938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t2481888763 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1979924959674638585",
+        "created_at": "2025-10-19T16:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979949629744857326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1298921644027600896",
+              "start": 0,
+              "username": "t2481888763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979949629744857326",
+        "in_reply_to_user_id": "1298921644027600896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979943406295195938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t2481888763 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1298921644027600896",
+        "conversation_id": "1979924959674638585",
+        "created_at": "2025-10-19T16:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979943406295195938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979943406295195938",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979924959674638585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 蚌，一看就是纸巾在裤子里洗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "通常你不需要了解我那么多。/有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4607,
+          "following_count": 4067,
+          "like_count": 30348,
+          "listed_count": 10,
+          "media_count": 2248,
+          "tweet_count": 30394
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T09:53:54.000Z",
+        "description": "",
+        "id": "1298921644027600896",
+        "name": "WWWWW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1298921739112443906/tyQaAWOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 88,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "t2481888763",
+        "verified": false
+      }
+    ]
+  }
+}

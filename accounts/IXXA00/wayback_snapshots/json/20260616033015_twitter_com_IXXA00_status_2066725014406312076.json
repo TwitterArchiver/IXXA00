@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2066724665624817682",
+    "created_at": "2026-06-16T03:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066725014406312076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066725014406312076",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066724665624817682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你太需要这个对话框里的人，来作为我生活的精神毒品了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2066724665624817682",
+        "created_at": "2026-06-16T03:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066725014406312076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066725014406312076",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066724665624817682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你太需要这个对话框里的人，来作为我生活的精神毒品了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066724665624817682",
+        "created_at": "2026-06-16T03:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066724665624817682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066724665624817682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "显然，我有一种在亲密关系和生活中挑战高难度课题的潜在本能，甚至容易一次性咬下超过自己当下咬合力的硬骨头。\n一个普通的、健康的、一眼看到底的恋爱关系，对于极具消耗力的庞大情感能量的我来说，太无聊了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/鲜嫩多汁的情绪自留地：@islaixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2066542618860015867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7354,
+          "following_count": 4525,
+          "like_count": 41947,
+          "listed_count": 18,
+          "media_count": 3037,
+          "tweet_count": 41441
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982702433676759538",
+    "created_at": "2025-10-27T08:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982725427841094111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559716543188963328",
+          "start": 0,
+          "username": "lsle00121475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982725427841094111",
+    "in_reply_to_user_id": "1559716543188963328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982724462266216645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsle00121475 🥢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982702433676759538",
+        "created_at": "2025-10-27T08:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982725427841094111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559716543188963328",
+              "start": 0,
+              "username": "lsle00121475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982725427841094111",
+        "in_reply_to_user_id": "1559716543188963328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982724462266216645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsle00121475 🥢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559716543188963328",
+        "conversation_id": "1982702433676759538",
+        "created_at": "2025-10-27T08:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982724462266216645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982724462266216645",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982702433676759538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 喂我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4784,
+          "following_count": 4232,
+          "like_count": 30861,
+          "listed_count": 10,
+          "media_count": 2271,
+          "tweet_count": 30844
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T01:39:43.000Z",
+        "description": "或许你会在某一条街道上遇到我",
+        "id": "1559716543188963328",
+        "location": "未知",
+        "name": "乐，死了",
+        "pinned_tweet_id": "1943856490173149633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977418660190081024/etP6R6Y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1386,
+          "like_count": 587,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 122
+        },
+        "username": "lsle00121475",
+        "verified": false
+      }
+    ]
+  }
+}

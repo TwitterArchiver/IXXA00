@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975913092589715809",
+    "created_at": "2025-10-08T15:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T16:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975941149505585155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830113097237086209",
+          "start": 0,
+          "username": "GaoBu15596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975941149505585155",
+    "in_reply_to_user_id": "1830113097237086209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975941092081389682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GaoBu15596 对，我就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975913092589715809",
+        "created_at": "2025-10-08T15:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975941149505585155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830113097237086209",
+              "start": 0,
+              "username": "GaoBu15596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975941149505585155",
+        "in_reply_to_user_id": "1830113097237086209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975941092081389682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GaoBu15596 对，我就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830113097237086209",
+        "conversation_id": "1975913092589715809",
+        "created_at": "2025-10-08T15:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975941092081389682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975941092081389682",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975940762086052333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 他们说抽象女不配拥有爱情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4441,
+          "following_count": 3894,
+          "like_count": 29950,
+          "listed_count": 9,
+          "media_count": 2218,
+          "tweet_count": 29943
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T05:19:26.000Z",
+        "description": "",
+        "id": "1830113097237086209",
+        "location": "Los Angeles, CA",
+        "name": "Lvrogne_ollll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968952516684750848/Froy23yy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "GaoBu15596",
+        "verified": false
+      }
+    ]
+  }
+}

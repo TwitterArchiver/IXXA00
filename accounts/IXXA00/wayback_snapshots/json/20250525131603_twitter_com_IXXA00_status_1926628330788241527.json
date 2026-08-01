@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926184643390287933",
+    "created_at": "2025-05-25T13:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T14:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926628330788241527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840715360833785856",
+          "start": 0,
+          "username": "popo49994419243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926628330788241527",
+    "in_reply_to_user_id": "1840715360833785856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926627621036503384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popo49994419243 我是女的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926184643390287933",
+        "created_at": "2025-05-25T13:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T14:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926628330788241527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840715360833785856",
+              "start": 0,
+              "username": "popo49994419243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926628330788241527",
+        "in_reply_to_user_id": "1840715360833785856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926627621036503384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popo49994419243 我是女的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840715360833785856",
+        "conversation_id": "1926184643390287933",
+        "created_at": "2025-05-25T13:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T14:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926627621036503384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926627621036503384",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926184643390287933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你这兄弟能处，银翼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1926304021137985851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 3025,
+          "like_count": 22176,
+          "listed_count": 7,
+          "media_count": 1597,
+          "tweet_count": 21591
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:28:44.000Z",
+        "description": "一个常人，各种意义上",
+        "id": "1840715360833785856",
+        "location": "世界的尽头",
+        "name": "Logos·popo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871100509043511296/2-lI4SDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 103,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 379
+        },
+        "username": "popo49994419243",
+        "verified": false
+      }
+    ]
+  }
+}

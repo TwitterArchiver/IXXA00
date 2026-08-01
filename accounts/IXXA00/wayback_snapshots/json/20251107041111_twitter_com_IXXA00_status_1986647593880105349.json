@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1986409528053899350",
+    "created_at": "2025-11-07T04:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T05:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986647593880105349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "21895799",
+          "start": 0,
+          "username": "ttmouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986647593880105349",
+    "in_reply_to_user_id": "21895799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986644928970301859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttmouse 我不想搞艺术了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1986409528053899350",
+        "created_at": "2025-11-07T04:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986647593880105349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "21895799",
+              "start": 0,
+              "username": "ttmouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986647593880105349",
+        "in_reply_to_user_id": "21895799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986644928970301859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttmouse 我不想搞艺术了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "21895799",
+        "conversation_id": "1986409528053899350",
+        "created_at": "2025-11-07T04:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986644928970301859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986644928970301859",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986409528053899350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 一个人吃饭不是孤独的象征，\n而是自由的勋章。\n不需要迁就别人的口味，\n不用等待迟到的人，\n想坐多久就坐多久。\n这分明是内心强大的表现，\n是享受独处的艺术。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5442,
+          "following_count": 4537,
+          "like_count": 32617,
+          "listed_count": 11,
+          "media_count": 2321,
+          "tweet_count": 32045
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-25T18:04:12.000Z",
+        "description": "设计师 产品经理 不懂代码的独立开发",
+        "id": "21895799",
+        "location": "us",
+        "name": "ttmouse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/259819929/toux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 610,
+          "like_count": 1077,
+          "listed_count": 10,
+          "media_count": 41,
+          "tweet_count": 847
+        },
+        "username": "ttmouse",
+        "verified": false
+      }
+    ]
+  }
+}

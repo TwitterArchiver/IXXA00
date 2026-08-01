@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1894661139415322991",
+    "created_at": "2025-03-06T11:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T12:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897608168374444222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776915334001463296",
+          "start": 0,
+          "username": "fdd1234189270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897608168374444222",
+    "in_reply_to_user_id": "1776915334001463296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897598772613685518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fdd1234189270 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1894661139415322991",
+        "created_at": "2025-03-06T11:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T12:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897608168374444222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776915334001463296",
+              "start": 0,
+              "username": "fdd1234189270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897608168374444222",
+        "in_reply_to_user_id": "1776915334001463296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897598772613685518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fdd1234189270 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776915334001463296",
+        "conversation_id": "1894661139415322991",
+        "created_at": "2025-03-06T10:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897598772613685518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897598772613685518",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894661139415322991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 太漂亮了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "吃不了一点苦并且超级会抱怨。/@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "每天收钱收的都很累，太多了，不想要钱了，我想要爱。",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896889420311351296/2OPrka2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3399,
+          "following_count": 2591,
+          "like_count": 17552,
+          "listed_count": 6,
+          "media_count": 1210,
+          "tweet_count": 16651
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T10:10:18.000Z",
+        "description": "",
+        "id": "1776915334001463296",
+        "name": "fdd1234",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "fdd1234189270",
+        "verified": false
+      }
+    ]
+  }
+}

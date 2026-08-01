@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079383317267513344"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2079383331725349184",
+    "created_at": "2026-07-21T01:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079383331725349184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LcbhArc2pG",
+          "end": 44,
+          "expanded_url": "https://x.com/IXXA00/status/2079383331725349184/photo/1",
+          "media_key": "3_2079383317267513344",
+          "start": 21,
+          "url": "https://t.co/LcbhArc2pG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079383331725349184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天翘班去看电影。🎬\n人在level 1 https://t.co/LcbhArc2pG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079383317267513344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt0HCmagAACMaG.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079383317267513344"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2079383331725349184",
+        "created_at": "2026-07-21T01:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079383331725349184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LcbhArc2pG",
+              "end": 44,
+              "expanded_url": "https://x.com/IXXA00/status/2079383331725349184/photo/1",
+              "media_key": "3_2079383317267513344",
+              "start": 21,
+              "url": "https://t.co/LcbhArc2pG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079383331725349184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天翘班去看电影。🎬\n人在level 1 https://t.co/LcbhArc2pG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7518,
+          "following_count": 4540,
+          "like_count": 43394,
+          "listed_count": 18,
+          "media_count": 3174,
+          "tweet_count": 42868
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

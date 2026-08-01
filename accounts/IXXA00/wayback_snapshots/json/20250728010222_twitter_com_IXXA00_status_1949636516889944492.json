@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1949602250902630678",
+    "created_at": "2025-07-28T01:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T02:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949636516889944492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "227804316",
+          "start": 0,
+          "username": "motoboybarretos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949636516889944492",
+    "in_reply_to_user_id": "227804316",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949602499507163394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@motoboybarretos 😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1949602250902630678",
+        "created_at": "2025-07-28T01:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949636516889944492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "227804316",
+              "start": 0,
+              "username": "motoboybarretos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949636516889944492",
+        "in_reply_to_user_id": "227804316",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949602499507163394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@motoboybarretos 😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "227804316",
+        "conversation_id": "1949602250902630678",
+        "created_at": "2025-07-27T22:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T23:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949602499507163394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949602499507163394",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949602250902630678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 还挺高雅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "麦当劳在逃服务员isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3758,
+          "following_count": 3154,
+          "like_count": 26475,
+          "listed_count": 5,
+          "media_count": 1948,
+          "tweet_count": 25987
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-17T21:28:02.000Z",
+        "description": "Trying to make the goddam MONEY!",
+        "id": "227804316",
+        "location": "距你999.9km",
+        "name": "寒柳是也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246818798440550406/TgMHq6ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 436,
+          "like_count": 2716,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 362
+        },
+        "username": "motoboybarretos",
+        "verified": false
+      }
+    ]
+  }
+}

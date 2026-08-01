@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2055552839922205140",
+    "created_at": "2026-05-16T08:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055561355860828328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743584609965940736",
+          "start": 0,
+          "username": "nugget_pixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055561355860828328",
+    "in_reply_to_user_id": "1743584609965940736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055552839922205140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nugget_pixel 你没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2055552839922205140",
+        "created_at": "2026-05-16T08:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055561355860828328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743584609965940736",
+              "start": 0,
+              "username": "nugget_pixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055561355860828328",
+        "in_reply_to_user_id": "1743584609965940736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055552839922205140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nugget_pixel 你没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743584609965940736",
+        "conversation_id": "2055552839922205140",
+        "created_at": "2026-05-16T07:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055552839922205140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055552839922205140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "礼物都买好了跟我讲不过520\n我是真的有点没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2055213088782401614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7001,
+          "following_count": 4500,
+          "like_count": 39873,
+          "listed_count": 19,
+          "media_count": 2899,
+          "tweet_count": 39829
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-06T10:45:49.000Z",
+        "description": "🌈bi🌈 infp/isfp love is love 女巫的碎碎念记录 小女孩請和我互fo 希望大家都能和我玩的開心 不參與任何政治相關",
+        "id": "1743584609965940736",
+        "location": "🚪52純绿聊天0意義但是能让我开心一下( ᐛ ) ",
+        "name": "像素雞塊",
+        "pinned_tweet_id": "1754148359626215693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016002223227150336/KUB71Qr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 245,
+          "like_count": 26232,
+          "listed_count": 4,
+          "media_count": 1038,
+          "tweet_count": 9892
+        },
+        "username": "nugget_pixel",
+        "verified": false
+      }
+    ]
+  }
+}

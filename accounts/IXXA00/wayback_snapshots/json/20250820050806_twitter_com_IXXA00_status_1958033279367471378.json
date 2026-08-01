@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1957824830868185422",
+    "created_at": "2025-08-20T05:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T06:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958033279367471378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827941168803651585",
+          "start": 0,
+          "username": "toshiya_13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958033279367471378",
+    "in_reply_to_user_id": "1827941168803651585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958024945872642102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toshiya_13 不可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1957824830868185422",
+        "created_at": "2025-08-20T05:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T06:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958033279367471378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827941168803651585",
+              "start": 0,
+              "username": "toshiya_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958033279367471378",
+        "in_reply_to_user_id": "1827941168803651585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958024945872642102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toshiya_13 不可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827941168803651585",
+        "conversation_id": "1957824830868185422",
+        "created_at": "2025-08-20T04:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T05:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958024945872642102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958024945872642102",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957824830868185422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可爱鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/性别：随便。/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1956318087436742723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3888,
+          "following_count": 3318,
+          "like_count": 27510,
+          "listed_count": 7,
+          "media_count": 2049,
+          "tweet_count": 27301
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T05:28:35.000Z",
+        "description": "When my skiff had left behind it,Ten thousand ranges of hills.",
+        "id": "1827941168803651585",
+        "name": "黄泉十三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827952312503197696/NCCePD4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 168,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 111
+        },
+        "username": "toshiya_13",
+        "verified": false
+      }
+    ]
+  }
+}

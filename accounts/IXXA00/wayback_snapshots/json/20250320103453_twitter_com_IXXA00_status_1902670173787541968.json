@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1902312663281000756",
+    "created_at": "2025-03-20T10:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T11:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902670173787541968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850849080475574272",
+          "start": 0,
+          "username": "zhongli8787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902670173787541968",
+    "in_reply_to_user_id": "1850849080475574272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902657478623719574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongli8787 我不是女的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1902312663281000756",
+        "created_at": "2025-03-20T10:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T11:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902670173787541968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850849080475574272",
+              "start": 0,
+              "username": "zhongli8787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902670173787541968",
+        "in_reply_to_user_id": "1850849080475574272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902657478623719574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongli8787 我不是女的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850849080475574272",
+        "conversation_id": "1902312663281000756",
+        "created_at": "2025-03-20T09:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T10:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902657478623719574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902657478623719574",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902312663281000756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 他是男的还是女的网友们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷小甜酒(72度)。",
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3490,
+          "following_count": 2744,
+          "like_count": 18694,
+          "listed_count": 6,
+          "media_count": 1264,
+          "tweet_count": 17687
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T10:36:38.000Z",
+        "description": "",
+        "id": "1850849080475574272",
+        "name": "钟栎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850849226366074880/af25V_xP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "zhongli8787",
+        "verified": false
+      }
+    ]
+  }
+}

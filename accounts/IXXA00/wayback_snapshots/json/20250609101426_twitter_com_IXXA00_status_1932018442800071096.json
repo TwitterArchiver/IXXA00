@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931915016854503896",
+    "created_at": "2025-06-09T10:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T11:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932018442800071096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1735565301696307200",
+          "start": 0,
+          "username": "fan_si48747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932018442800071096",
+    "in_reply_to_user_id": "1735565301696307200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932017785049407957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_si48747 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931915016854503896",
+        "created_at": "2025-06-09T10:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932018442800071096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1735565301696307200",
+              "start": 0,
+              "username": "fan_si48747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932018442800071096",
+        "in_reply_to_user_id": "1735565301696307200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932017785049407957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_si48747 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735565301696307200",
+        "conversation_id": "1931915016854503896",
+        "created_at": "2025-06-09T10:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932017785049407957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932017785049407957",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931938177738260752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哈哈哈哈哈，现实与网络的对比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢吃别人对我无法自拔的爱欲。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3714,
+          "following_count": 3075,
+          "like_count": 23200,
+          "listed_count": 7,
+          "media_count": 1699,
+          "tweet_count": 22713
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T07:39:54.000Z",
+        "description": "",
+        "id": "1735565301696307200",
+        "name": "肆月繁星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735571964650266624/mozBIdKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 52,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "fan_si48747",
+        "verified": false
+      }
+    ]
+  }
+}

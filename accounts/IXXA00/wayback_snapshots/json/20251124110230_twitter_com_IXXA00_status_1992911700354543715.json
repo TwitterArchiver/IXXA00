@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1992413423540527154",
+    "created_at": "2025-11-24T11:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T12:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992911700354543715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992911700354543715",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992909728738136272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang 评论区里全是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1992413423540527154",
+        "created_at": "2025-11-24T11:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992911700354543715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992911700354543715",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992909728738136272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang 评论区里全是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622226629136367674",
+        "conversation_id": "1992413423540527154",
+        "created_at": "2025-11-24T10:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992909728738136272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992909728738136272",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992413423540527154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哪里有长得好看的男娘发我看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5582,
+          "following_count": 4555,
+          "like_count": 33808,
+          "listed_count": 11,
+          "media_count": 2403,
+          "tweet_count": 33204
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用 https://t.co/qXcDn5D2HC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 12,
+                "url": "https://t.co/qXcDn5D2HC"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "1950532666186400211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965612372326060032/qYCNJqxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 119,
+          "like_count": 11496,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1372
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      }
+    ]
+  }
+}

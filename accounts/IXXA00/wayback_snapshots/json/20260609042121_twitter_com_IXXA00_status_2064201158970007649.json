@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2064163943594197116",
+    "created_at": "2026-06-09T04:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064201158970007649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795395823490240513",
+          "start": 0,
+          "username": "Riven271378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064201158970007649",
+    "in_reply_to_user_id": "1795395823490240513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064200843520524563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riven271378 可怜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2064163943594197116",
+        "created_at": "2026-06-09T04:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064201158970007649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795395823490240513",
+              "start": 0,
+              "username": "Riven271378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064201158970007649",
+        "in_reply_to_user_id": "1795395823490240513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064200843520524563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riven271378 可怜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795395823490240513",
+        "conversation_id": "2064163943594197116",
+        "created_at": "2026-06-09T04:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064200843520524563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064200843520524563",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064163943594197116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 像是游戏穿模了，一半看到了地图之外的空白，一半被困在了游戏画面。不愿意完全回到游戏中来，又没办法挣脱出去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/主播的麻袋里现在：1个人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7324,
+          "following_count": 4522,
+          "like_count": 41531,
+          "listed_count": 18,
+          "media_count": 3018,
+          "tweet_count": 41121
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T10:05:12.000Z",
+        "description": "INTJ",
+        "id": "1795395823490240513",
+        "location": "宇宙尽头",
+        "name": "宇宙探索指南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031942943444217856/3WNmkBSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 67,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 254
+        },
+        "username": "Riven271378",
+        "verified": false
+      }
+    ]
+  }
+}

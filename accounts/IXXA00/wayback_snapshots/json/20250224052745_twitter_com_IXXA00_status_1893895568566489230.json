@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1893710356943339824",
+    "created_at": "2025-02-24T05:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T06:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893895568566489230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814905686486130688",
+          "start": 0,
+          "username": "zheng_wen24602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893895568566489230",
+    "in_reply_to_user_id": "1814905686486130688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893894947046093032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheng_wen24602 为什么要对称？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1893710356943339824",
+        "created_at": "2025-02-24T05:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T06:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893895568566489230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814905686486130688",
+              "start": 0,
+              "username": "zheng_wen24602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893895568566489230",
+        "in_reply_to_user_id": "1814905686486130688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893894947046093032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheng_wen24602 为什么要对称？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814905686486130688",
+        "conversation_id": "1893710356943339824",
+        "created_at": "2025-02-24T05:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T06:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893894947046093032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893894947046093032",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893710356943339824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哪能對嗎。 對稱嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/欢迎私信",
+        "id": "1739391734491086848",
+        "location": "有🚪",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1893657454941962665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893657761365495808/02YFGOmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3289,
+          "following_count": 2520,
+          "like_count": 16800,
+          "listed_count": 6,
+          "media_count": 1185,
+          "tweet_count": 15984
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T06:11:15.000Z",
+        "description": "",
+        "id": "1814905686486130688",
+        "name": "金正文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893168367080476672/n8tL7Xl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 101
+        },
+        "username": "zheng_wen24602",
+        "verified": false
+      }
+    ]
+  }
+}

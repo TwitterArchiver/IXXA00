@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1902456204007465053",
+    "created_at": "2025-03-19T22:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T23:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902492042548383799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "852812086602121217",
+          "start": 0,
+          "username": "autoblurred"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902492042548383799",
+    "in_reply_to_user_id": "852812086602121217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902490742339121429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@autoblurred 我没有心情和你来玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1902456204007465053",
+        "created_at": "2025-03-19T22:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T23:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902492042548383799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "852812086602121217",
+              "start": 0,
+              "username": "autoblurred"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902492042548383799",
+        "in_reply_to_user_id": "852812086602121217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902490742339121429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@autoblurred 我没有心情和你来玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852812086602121217",
+        "conversation_id": "1902456204007465053",
+        "created_at": "2025-03-19T22:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T23:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902490742339121429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902490742339121429",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902456204007465053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是那里又出问题了吗😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷小甜酒(72度)。",
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3469,
+          "following_count": 2714,
+          "like_count": 18607,
+          "listed_count": 6,
+          "media_count": 1263,
+          "tweet_count": 17604
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-14T09:13:40.000Z",
+        "description": "",
+        "id": "852812086602121217",
+        "location": "United States",
+        "name": "@_@🏴‍☠️",
+        "pinned_tweet_id": "1781813953267433476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617448998486294528/qioCcpaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 644,
+          "like_count": 10616,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 3262
+        },
+        "username": "autoblurred",
+        "verified": false
+      }
+    ]
+  }
+}

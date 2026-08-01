@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929517852396003610",
+    "created_at": "2025-06-02T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929519168304377971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1609907541861076994",
+          "start": 0,
+          "username": "Inwal3310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929519168304377971",
+    "in_reply_to_user_id": "1609907541861076994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929517852396003610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inwal3310 好看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929517852396003610].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929517852396003610",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929517852396003610"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929517852396003610",
+        "created_at": "2025-06-02T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929519168304377971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1609907541861076994",
+              "start": 0,
+              "username": "Inwal3310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929519168304377971",
+        "in_reply_to_user_id": "1609907541861076994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929517852396003610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inwal3310 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 3044,
+          "like_count": 22577,
+          "listed_count": 7,
+          "media_count": 1631,
+          "tweet_count": 22091
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:40:56.000Z",
+        "description": "Floweriable/伐兰在左，企鹅在右/里推@_sarcophagi/永远在一起的🤍🐧@Silent121_5/🌸@zuifeiwu/🍂@fallenleavesw/👧@kagurazakahyoto/小孩@imilkdragon923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_sarcophagi"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "kagurazakahyoto"
+              },
+              {
+                "end": 120,
+                "start": 105,
+                "username": "imilkdragon923"
+              }
+            ]
+          }
+        },
+        "id": "1609907541861076994",
+        "location": "企鹅巢",
+        "name": "🌸立花らん🤍",
+        "pinned_tweet_id": "1913110344727134329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899752473205596160/19hGlrhW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 1241,
+          "like_count": 57267,
+          "listed_count": 16,
+          "media_count": 777,
+          "tweet_count": 29943
+        },
+        "username": "Inwal3310",
+        "verified": false
+      }
+    ]
+  }
+}

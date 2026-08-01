@@ -1,0 +1,593 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934980938708226048"
+      ],
+      "media_source_tweet_id": [
+        "1934980940788543771"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Replays of classic NFL games.",
+          "id": "10000612773",
+          "name": "NFL Football"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10032425201",
+          "name": "NFL Football"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042758256",
+          "name": "NFL"
+        }
+      }
+    ],
+    "conversation_id": "1934981005003444447",
+    "created_at": "2025-06-17T14:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934981005003444447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1780003869314928640",
+          "start": 3,
+          "username": "IZLA00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9yLbScCGG",
+          "end": 58,
+          "expanded_url": "https://x.com/IZLA00/status/1934980940788543771/photo/1",
+          "media_key": "3_1934980938708226048",
+          "start": 35,
+          "url": "https://t.co/t9yLbScCGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934981005003444447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934980940788543771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IZLA00: 别人都结完账退房了你还在nfl里发匿名消息。 https://t.co/t9yLbScCGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1934980938708226048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtpu6WrbEAAz1I_.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934980938708226048"
+          ],
+          "media_source_tweet_id": [
+            "1934980940788543771"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Replays of classic NFL games.",
+              "id": "10000612773",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10032425201",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042758256",
+              "name": "NFL"
+            }
+          }
+        ],
+        "conversation_id": "1934981005003444447",
+        "created_at": "2025-06-17T14:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934981005003444447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780003869314928640",
+              "start": 3,
+              "username": "IZLA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9yLbScCGG",
+              "end": 58,
+              "expanded_url": "https://x.com/IZLA00/status/1934980940788543771/photo/1",
+              "media_key": "3_1934980938708226048",
+              "start": 35,
+              "url": "https://t.co/t9yLbScCGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934981005003444447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934980940788543771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IZLA00: 别人都结完账退房了你还在nfl里发匿名消息。 https://t.co/t9yLbScCGG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934980938708226048"
+          ]
+        },
+        "author_id": "1780003869314928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Replays of classic NFL games.",
+              "id": "10000612773",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10032425201",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042758256",
+              "name": "NFL"
+            }
+          }
+        ],
+        "conversation_id": "1934980940788543771",
+        "created_at": "2025-06-17T14:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934980940788543771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9yLbScCGG",
+              "end": 46,
+              "expanded_url": "https://x.com/IZLA00/status/1934980940788543771/photo/1",
+              "media_key": "3_1934980938708226048",
+              "start": 23,
+              "url": "https://t.co/t9yLbScCGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934980940788543771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别人都结完账退房了你还在nfl里发匿名消息。 https://t.co/t9yLbScCGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "对不起，其实我只有14岁。🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 40,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 17,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla",
+        "pinned_tweet_id": "1934752692834013528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 3104,
+          "like_count": 23886,
+          "listed_count": 7,
+          "media_count": 1757,
+          "tweet_count": 23480
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T22:42:57.000Z",
+        "description": "黄推，文援，线下，私信只回🚪。",
+        "id": "1780003869314928640",
+        "name": "isla(R18)",
+        "pinned_tweet_id": "1913531290240029045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934443831619170304/EBYw9AlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 108,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1257
+        },
+        "username": "IZLA00",
+        "verified": false
+      }
+    ]
+  }
+}

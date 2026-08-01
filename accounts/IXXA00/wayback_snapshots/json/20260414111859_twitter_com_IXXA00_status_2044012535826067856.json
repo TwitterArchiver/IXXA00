@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2044008252447531071",
+    "created_at": "2026-04-14T11:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044012535826067856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1196536340",
+          "start": 0,
+          "username": "nyczmichal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044012535826067856",
+    "in_reply_to_user_id": "1196536340",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044012354074005764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyczmichal 😋✌🏿🐖🐖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2044008252447531071",
+        "created_at": "2026-04-14T11:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044012535826067856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1196536340",
+              "start": 0,
+              "username": "nyczmichal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044012535826067856",
+        "in_reply_to_user_id": "1196536340",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044012354074005764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyczmichal 😋✌🏿🐖🐖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1196536340",
+        "conversation_id": "2044008252447531071",
+        "created_at": "2026-04-14T11:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044012354074005764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044012354074005764",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044008252447531071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 Sure, why not."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 4395,
+          "like_count": 37657,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37888
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T09:49:11.000Z",
+        "description": "",
+        "id": "1196536340",
+        "name": "Michał Nycz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702765332388102145/SwkuSfvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1201,
+          "like_count": 4258,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 11972
+        },
+        "username": "nyczmichal",
+        "verified": false
+      }
+    ]
+  }
+}

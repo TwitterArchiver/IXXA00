@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T07:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043956691314847745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588944683782504450",
+          "start": 0,
+          "username": "liuyj72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043956691314847745",
+    "in_reply_to_user_id": "1588944683782504450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043942517062938819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuyj72 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T07:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043956691314847745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588944683782504450",
+              "start": 0,
+              "username": "liuyj72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043956691314847745",
+        "in_reply_to_user_id": "1588944683782504450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043942517062938819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuyj72 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588944683782504450",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T06:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043942517062938819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043942517062938819",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我将退网30分钟倾力研究这个帖子的内容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 4395,
+          "like_count": 37475,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37821
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T17:21:58.000Z",
+        "description": "",
+        "id": "1588944683782504450",
+        "name": "liuyj72",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638831771524685826/9oUJUE8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 48,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "liuyj72",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1919896874213118044",
+    "created_at": "2025-05-07T00:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T01:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919905894181306843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1641816257124003841",
+          "start": 0,
+          "username": "Rakukan_shugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919905894181306843",
+    "in_reply_to_user_id": "1641816257124003841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919903579499860005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakukan_shugi 那很棒了，加油劳斯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919903579499860005].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919903579499860005",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919903579499860005"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1919896874213118044",
+        "created_at": "2025-05-07T00:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T01:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919905894181306843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641816257124003841",
+              "start": 0,
+              "username": "Rakukan_shugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919905894181306843",
+        "in_reply_to_user_id": "1641816257124003841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919903579499860005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakukan_shugi 那很棒了，加油劳斯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "就是一个比较高冷的妓女而已。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "包好吃isla",
+        "pinned_tweet_id": "1918675574668869802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3654,
+          "following_count": 2962,
+          "like_count": 21277,
+          "listed_count": 7,
+          "media_count": 1515,
+          "tweet_count": 20598
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:54:48.000Z",
+        "description": "盡情做夢吧，夢裡什麼都有",
+        "id": "1641816257124003841",
+        "location": "utopia",
+        "name": "耳機重度依賴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809942375684255744/t1TRsIwW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 653,
+          "like_count": 86160,
+          "listed_count": 6,
+          "media_count": 1070,
+          "tweet_count": 9368
+        },
+        "username": "Rakukan_shugi",
+        "verified": false
+      }
+    ]
+  }
+}

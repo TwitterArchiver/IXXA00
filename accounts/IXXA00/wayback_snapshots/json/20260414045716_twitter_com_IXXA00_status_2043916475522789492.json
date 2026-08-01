@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T04:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043916475522789492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769018584452509696",
+          "start": 0,
+          "username": "YiYou484561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043916475522789492",
+    "in_reply_to_user_id": "1769018584452509696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043912031154372705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiYou484561 可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T04:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043916475522789492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769018584452509696",
+              "start": 0,
+              "username": "YiYou484561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043916475522789492",
+        "in_reply_to_user_id": "1769018584452509696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043912031154372705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiYou484561 可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769018584452509696",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T04:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043912031154372705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043912031154372705",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我可以教教你中文吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6256,
+          "following_count": 4396,
+          "like_count": 37372,
+          "listed_count": 16,
+          "media_count": 2716,
+          "tweet_count": 37757
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T15:11:30.000Z",
+        "description": "",
+        "id": "1769018584452509696",
+        "name": "CAtCOOH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038176321298391040/Q4Te1xsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "YiYou484561",
+        "verified": false
+      }
+    ]
+  }
+}

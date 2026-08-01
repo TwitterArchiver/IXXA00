@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1992206356200468664",
+    "created_at": "2025-11-22T13:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992220189073768727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1919569828656062464",
+          "start": 0,
+          "username": "Neoths1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992220189073768727",
+    "in_reply_to_user_id": "1919569828656062464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992220029790892249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neoths1 这张就别了，你可以夸夸别的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1992206356200468664",
+        "created_at": "2025-11-22T13:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992220189073768727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1919569828656062464",
+              "start": 0,
+              "username": "Neoths1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992220189073768727",
+        "in_reply_to_user_id": "1919569828656062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992220029790892249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neoths1 这张就别了，你可以夸夸别的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919569828656062464",
+        "conversation_id": "1992206356200468664",
+        "created_at": "2025-11-22T13:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992220029790892249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992220029790892249",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992206356200468664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 男人也可以这么美丽吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5505,
+          "following_count": 4549,
+          "like_count": 33632,
+          "listed_count": 11,
+          "media_count": 2392,
+          "tweet_count": 33043
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T01:48:22.000Z",
+        "description": "低质量的社交不如高质量的独处",
+        "id": "1919569828656062464",
+        "location": "Terra",
+        "name": "Neoth",
+        "pinned_tweet_id": "1968564229939527903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958224194501787648/YZQ7R1Me_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 60,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 469,
+          "tweet_count": 865
+        },
+        "username": "Neoths1",
+        "verified": false
+      }
+    ]
+  }
+}

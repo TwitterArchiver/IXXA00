@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T05:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043918507730252015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030890251787644928",
+          "start": 0,
+          "username": "2HZ4JIT9ta52381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043918507730252015",
+    "in_reply_to_user_id": "2030890251787644928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043917848700170277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2HZ4JIT9ta52381 我是木匠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T05:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043918507730252015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030890251787644928",
+              "start": 0,
+              "username": "2HZ4JIT9ta52381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043918507730252015",
+        "in_reply_to_user_id": "2030890251787644928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043917848700170277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2HZ4JIT9ta52381 我是木匠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030890251787644928",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T05:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043917848700170277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043917848700170277",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 门槛🚪什么意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6260,
+          "following_count": 4396,
+          "like_count": 37390,
+          "listed_count": 16,
+          "media_count": 2716,
+          "tweet_count": 37771
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T06:15:57.000Z",
+        "description": "Thank you for your attention.",
+        "id": "2030890251787644928",
+        "location": "🇭🇰 ",
+        "name": "Murphy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032044935231520771/bdziit0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 144,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 245
+        },
+        "username": "2HZ4JIT9ta52381",
+        "verified": false
+      }
+    ]
+  }
+}

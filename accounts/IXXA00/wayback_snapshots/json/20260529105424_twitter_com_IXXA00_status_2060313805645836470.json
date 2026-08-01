@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2060111568617218546",
+    "created_at": "2026-05-29T10:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060313805645836470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260244418499538944",
+          "start": 0,
+          "username": "FREDMAC61004526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060313805645836470",
+    "in_reply_to_user_id": "1260244418499538944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060312115802726675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREDMAC61004526 ？哪了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2060111568617218546",
+        "created_at": "2026-05-29T10:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060313805645836470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260244418499538944",
+              "start": 0,
+              "username": "FREDMAC61004526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060313805645836470",
+        "in_reply_to_user_id": "1260244418499538944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060312115802726675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREDMAC61004526 ？哪了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260244418499538944",
+        "conversation_id": "2060111568617218546",
+        "created_at": "2026-05-29T10:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060312115802726675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060312115802726675",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060111568617218546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 腿毛🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7116,
+          "following_count": 4504,
+          "like_count": 40695,
+          "listed_count": 18,
+          "media_count": 2974,
+          "tweet_count": 40497
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-12T16:24:34.000Z",
+        "description": "ghs/中性客观乐子人",
+        "id": "1260244418499538944",
+        "name": "霜月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910662376107720704/jVS8wrkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 4619,
+          "like_count": 55685,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 6296
+        },
+        "username": "FREDMAC61004526",
+        "verified": false
+      }
+    ]
+  }
+}

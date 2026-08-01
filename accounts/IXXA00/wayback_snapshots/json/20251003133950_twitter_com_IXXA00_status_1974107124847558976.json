@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1973795648693809473",
+    "created_at": "2025-10-03T13:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T14:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974107124847558976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "770327081184100352",
+          "start": 0,
+          "username": "Mr_Bear_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974107124847558976",
+    "in_reply_to_user_id": "770327081184100352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974097692700909731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_Bear_A 😠狡猾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1973795648693809473",
+        "created_at": "2025-10-03T13:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974107124847558976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "770327081184100352",
+              "start": 0,
+              "username": "Mr_Bear_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974107124847558976",
+        "in_reply_to_user_id": "770327081184100352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974097692700909731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_Bear_A 😠狡猾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "770327081184100352",
+        "conversation_id": "1973795648693809473",
+        "created_at": "2025-10-03T13:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974097692700909731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974097692700909731",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973795648693809473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 狡猾女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4148,
+          "following_count": 3631,
+          "like_count": 29407,
+          "listed_count": 8,
+          "media_count": 2199,
+          "tweet_count": 29599
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-29T18:27:42.000Z",
+        "description": "随缘更新，阅后即焚",
+        "id": "770327081184100352",
+        "location": "浙江",
+        "name": "Mr.Bear",
+        "pinned_tweet_id": "1832256431556587785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537989139575885827/3CIyEZzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152317,
+          "following_count": 1883,
+          "like_count": 30731,
+          "listed_count": 806,
+          "media_count": 57,
+          "tweet_count": 12240
+        },
+        "username": "Mr_Bear_A",
+        "verified": false
+      }
+    ]
+  }
+}

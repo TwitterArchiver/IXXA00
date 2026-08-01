@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1995795036907466933",
+    "created_at": "2025-12-02T22:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T23:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995986255277162851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1746382837115506688",
+          "start": 0,
+          "username": "MarikoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995986255277162851",
+    "in_reply_to_user_id": "1746382837115506688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995948385116061865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarikoQWQ 是的驻波就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1995795036907466933",
+        "created_at": "2025-12-02T22:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T23:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995986255277162851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1746382837115506688",
+              "start": 0,
+              "username": "MarikoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995986255277162851",
+        "in_reply_to_user_id": "1746382837115506688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995948385116061865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarikoQWQ 是的驻波就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746382837115506688",
+        "conversation_id": "1995795036907466933",
+        "created_at": "2025-12-02T20:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T21:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995948385116061865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995948385116061865",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995795036907466933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哎呦我你这么可爱啊宝宝你🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 4551,
+          "like_count": 34047,
+          "listed_count": 11,
+          "media_count": 2436,
+          "tweet_count": 33620
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T04:04:57.000Z",
+        "description": "已婚，勿扰",
+        "id": "1746382837115506688",
+        "location": "Tokyo-to, Japan",
+        "name": "Mariko",
+        "pinned_tweet_id": "1978534888677490972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990072724040089601/bkILx1fO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 120,
+          "like_count": 3339,
+          "listed_count": 7,
+          "media_count": 97,
+          "tweet_count": 2678
+        },
+        "username": "MarikoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

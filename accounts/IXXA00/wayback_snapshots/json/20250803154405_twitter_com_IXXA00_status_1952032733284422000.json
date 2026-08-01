@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1952031414645576076",
+    "created_at": "2025-08-03T15:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952032733284422000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839738256533118976",
+          "start": 0,
+          "username": "xiangrikui8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952032733284422000",
+    "in_reply_to_user_id": "1839738256533118976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952031791629676963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangrikui8848 你能不能别玩这个梗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1952031414645576076",
+        "created_at": "2025-08-03T15:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952032733284422000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839738256533118976",
+              "start": 0,
+              "username": "xiangrikui8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952032733284422000",
+        "in_reply_to_user_id": "1839738256533118976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952031791629676963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangrikui8848 你能不能别玩这个梗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839738256533118976",
+        "conversation_id": "1952031414645576076",
+        "created_at": "2025-08-03T15:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952031791629676963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952031791629676963",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952031414645576076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 魔丸被锤爆了 导致雄激素下降才没有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 3178,
+          "like_count": 26719,
+          "listed_count": 5,
+          "media_count": 1978,
+          "tweet_count": 26317
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T18:46:10.000Z",
+        "description": "🌻",
+        "id": "1839738256533118976",
+        "name": "风吹过",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840717437140086784/jXH65Fj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 62,
+          "like_count": 6431,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 123
+        },
+        "username": "xiangrikui8848",
+        "verified": false
+      }
+    ]
+  }
+}

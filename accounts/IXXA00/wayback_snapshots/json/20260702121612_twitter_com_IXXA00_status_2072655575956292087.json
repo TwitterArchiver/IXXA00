@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2072651304007274586",
+    "created_at": "2026-07-02T12:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072655575956292087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763922973139120128",
+          "start": 0,
+          "username": "yabuduzhiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072655575956292087",
+    "in_reply_to_user_id": "1763922973139120128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072651621117686051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yabuduzhiv 不是你的问题🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2072651304007274586",
+        "created_at": "2026-07-02T12:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072655575956292087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763922973139120128",
+              "start": 0,
+              "username": "yabuduzhiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072655575956292087",
+        "in_reply_to_user_id": "1763922973139120128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072651621117686051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yabuduzhiv 不是你的问题🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763922973139120128",
+        "conversation_id": "2072651304007274586",
+        "created_at": "2026-07-02T12:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072651621117686051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072651621117686051",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072651304007274586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7385,
+          "following_count": 4521,
+          "like_count": 42558,
+          "listed_count": 18,
+          "media_count": 3102,
+          "tweet_count": 42050
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-02T13:43:18.000Z",
+        "description": "",
+        "id": "1763922973139120128",
+        "location": "在哪",
+        "name": "灵魂的住房问题",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886779908413853696/FWrq3UGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 490,
+          "like_count": 2749,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1729
+        },
+        "url": "",
+        "username": "yabuduzhiv",
+        "verified": false
+      }
+    ]
+  }
+}

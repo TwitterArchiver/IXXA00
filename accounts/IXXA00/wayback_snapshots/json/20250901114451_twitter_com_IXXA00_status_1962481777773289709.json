@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1962481777773289709",
+    "created_at": "2025-09-01T11:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962481777773289709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dachanmiao/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/dachanmiao/status/1962474395940933761",
+          "start": 3,
+          "url": "https://t.co/dx2HEDXhl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962481777773289709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962474395940933761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是谁 https://t.co/dx2HEDXhl7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1962481777773289709",
+        "created_at": "2025-09-01T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962481777773289709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dachanmiao/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/dachanmiao/status/1962474395940933761",
+              "start": 3,
+              "url": "https://t.co/dx2HEDXhl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962481777773289709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962474395940933761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是谁 https://t.co/dx2HEDXhl7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930192046108917760",
+        "conversation_id": "1962474395940933761",
+        "created_at": "2025-09-01T11:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962474395940933761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962474395940933761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道 去完一趟土澳感觉整个人都焦虑了不少 到底谁偷走了我无忧无虑的白女人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1962182833457475600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 3399,
+          "like_count": 28186,
+          "listed_count": 9,
+          "media_count": 2099,
+          "tweet_count": 28161
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T09:17:37.000Z",
+        "description": "我有病 不要跟我计较了 好吗 好的",
+        "id": "1930192046108917760",
+        "name": "缠猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934612496649965568/ovuv_Qe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 81,
+          "like_count": 270,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 421
+        },
+        "username": "dachanmiao",
+        "verified": false
+      }
+    ]
+  }
+}

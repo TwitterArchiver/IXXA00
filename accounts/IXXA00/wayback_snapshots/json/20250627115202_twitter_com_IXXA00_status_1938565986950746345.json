@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1938251514319155520",
+    "created_at": "2025-06-27T11:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938565986950746345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1754954957240078336",
+          "start": 0,
+          "username": "susu6622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938565986950746345",
+    "in_reply_to_user_id": "1754954957240078336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938251514319155520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susu6622 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938251504823185409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYNeW5aMAEFlGw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1938251514319155520",
+        "created_at": "2025-06-27T11:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938565986950746345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1754954957240078336",
+              "start": 0,
+              "username": "susu6622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938565986950746345",
+        "in_reply_to_user_id": "1754954957240078336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938251514319155520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susu6622 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938251504823185409"
+          ]
+        },
+        "author_id": "1754954957240078336",
+        "conversation_id": "1938251514319155520",
+        "created_at": "2025-06-26T15:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938251514319155520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9oCw6V0Ly",
+              "end": 29,
+              "expanded_url": "https://x.com/susu6622/status/1938251514319155520/photo/1",
+              "media_key": "3_1938251504823185409",
+              "start": 6,
+              "url": "https://t.co/u9oCw6V0Ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938251514319155520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 68511,
+          "like_count": 940,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你行不行呀 https://t.co/u9oCw6V0Ly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 26,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938555655847280640/mMSYCZ3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 3110,
+          "like_count": 24512,
+          "listed_count": 8,
+          "media_count": 1817,
+          "tweet_count": 24226
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T19:47:30.000Z",
+        "description": "39+v 更新日常朋友圈 有好看的！",
+        "id": "1754954957240078336",
+        "name": "小e",
+        "pinned_tweet_id": "1905940425715679458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809102583212167168/0XwMCf5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8619,
+          "following_count": 5,
+          "like_count": 50,
+          "listed_count": 17,
+          "media_count": 28,
+          "tweet_count": 50
+        },
+        "username": "susu6622",
+        "verified": false
+      }
+    ]
+  }
+}

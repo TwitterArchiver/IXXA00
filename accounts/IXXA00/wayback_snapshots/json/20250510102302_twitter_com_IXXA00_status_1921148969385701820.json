@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1921144830396112937",
+    "created_at": "2025-05-10T10:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T11:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921148969385701820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533794664490455040",
+          "start": 0,
+          "username": "gugu123456gugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921148969385701820",
+    "in_reply_to_user_id": "1533794664490455040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921144995437818169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugu123456gugu 那很平衡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1921144830396112937",
+        "created_at": "2025-05-10T10:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T11:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921148969385701820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533794664490455040",
+              "start": 0,
+              "username": "gugu123456gugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921148969385701820",
+        "in_reply_to_user_id": "1533794664490455040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921144995437818169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugu123456gugu 那很平衡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533794664490455040",
+        "conversation_id": "1921144830396112937",
+        "created_at": "2025-05-10T10:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T11:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921144995437818169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921144995437818169",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921144830396112937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 就素就素，70岁谈7个，80岁谈八个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老公死了。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "很好吃isla",
+        "pinned_tweet_id": "1920288105405558851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 2994,
+          "like_count": 21540,
+          "listed_count": 7,
+          "media_count": 1532,
+          "tweet_count": 20820
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T12:55:28.000Z",
+        "description": "既非良妇",
+        "id": "1533794664490455040",
+        "name": "木有小唧唧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535136617588998144/gsLsBfQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 307,
+          "like_count": 2786,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1201
+        },
+        "username": "gugu123456gugu",
+        "verified": false
+      }
+    ]
+  }
+}

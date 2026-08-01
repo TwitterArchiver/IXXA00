@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1960505855062818848",
+    "created_at": "2025-08-27T01:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T02:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960516247671767240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835632340388950016",
+          "start": 0,
+          "username": "Stupid_yao112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960516247671767240",
+    "in_reply_to_user_id": "1835632340388950016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960505855062818848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupid_yao112 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1960505855062818848",
+        "created_at": "2025-08-27T01:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T02:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960516247671767240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835632340388950016",
+              "start": 0,
+              "username": "Stupid_yao112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960516247671767240",
+        "in_reply_to_user_id": "1835632340388950016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960505855062818848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupid_yao112 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835632340388950016",
+        "conversation_id": "1960505855062818848",
+        "created_at": "2025-08-27T00:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960505855062818848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960505855062818848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我已经疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "容貌焦虑，非常痛苦。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "pinned_tweet_id": "1959656864612024676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 3360,
+          "like_count": 27769,
+          "listed_count": 9,
+          "media_count": 2080,
+          "tweet_count": 27646
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T10:50:40.000Z",
+        "description": "和我交流➡️知道了我为什么没朋友",
+        "id": "1835632340388950016",
+        "location": "Tokyo-to, Japan",
+        "name": "Stupid_YAO",
+        "pinned_tweet_id": "1958247399178297623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948551460234690563/M8dzOUrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 326,
+          "like_count": 4729,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1741
+        },
+        "username": "Stupid_yao112",
+        "verified": false
+      }
+    ]
+  }
+}

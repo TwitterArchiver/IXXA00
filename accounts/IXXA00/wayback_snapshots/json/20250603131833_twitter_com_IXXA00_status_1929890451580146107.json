@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929874945309659603",
+    "created_at": "2025-06-03T13:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929890451580146107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884273316900519936",
+          "start": 0,
+          "username": "XieLuo94207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929890451580146107",
+    "in_reply_to_user_id": "1884273316900519936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929889267213385937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XieLuo94207 那很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929874945309659603",
+        "created_at": "2025-06-03T13:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929890451580146107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884273316900519936",
+              "start": 0,
+              "username": "XieLuo94207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929890451580146107",
+        "in_reply_to_user_id": "1884273316900519936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929889267213385937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XieLuo94207 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884273316900519936",
+        "conversation_id": "1929874945309659603",
+        "created_at": "2025-06-03T13:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929889267213385937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1929889267213385937",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929874945309659603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那遇到你真是我的幸运"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1929548538402451699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3046,
+          "like_count": 22649,
+          "listed_count": 7,
+          "media_count": 1638,
+          "tweet_count": 22167
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T16:12:32.000Z",
+        "description": "",
+        "id": "1884273316900519936",
+        "name": "菠萝包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884273513705467904/N0mC1-Vd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 79,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 190
+        },
+        "username": "XieLuo94207",
+        "verified": false
+      }
+    ]
+  }
+}

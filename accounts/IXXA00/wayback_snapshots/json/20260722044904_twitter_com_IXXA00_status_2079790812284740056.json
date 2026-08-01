@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2079480730959352319",
+    "created_at": "2026-07-22T04:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079790812284740056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063081141528391680",
+          "start": 0,
+          "username": "leifoneone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079790812284740056",
+    "in_reply_to_user_id": "2063081141528391680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079786702734868666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leifoneone 退休了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2079480730959352319",
+        "created_at": "2026-07-22T04:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079790812284740056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063081141528391680",
+              "start": 0,
+              "username": "leifoneone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079790812284740056",
+        "in_reply_to_user_id": "2063081141528391680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079786702734868666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leifoneone 退休了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063081141528391680",
+        "conversation_id": "2079480730959352319",
+        "created_at": "2026-07-22T04:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079786702734868666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079786702734868666",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079480730959352319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是不是年纪大了？所有有心无力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7528,
+          "following_count": 4541,
+          "like_count": 43462,
+          "listed_count": 18,
+          "media_count": 3181,
+          "tweet_count": 42923
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T02:12:31.000Z",
+        "description": "胖十斤吧胖十斤吧…………",
+        "id": "2063081141528391680",
+        "location": "小麦哲伦星系NGC  346",
+        "name": "Yes or yes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076985563542859776/3FNSHRfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 6,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "leifoneone",
+        "verified": false
+      }
+    ]
+  }
+}

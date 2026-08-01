@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049629381669363820",
+    "created_at": "2026-04-29T23:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049629381669363820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1216015239931498497",
+          "start": 3,
+          "username": "luna220807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049629381669363820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049558986626932758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luna220807: 什么时候比眼泪先来的是对方的拥抱啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049629381669363820",
+        "created_at": "2026-04-29T23:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049629381669363820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1216015239931498497",
+              "start": 3,
+              "username": "luna220807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049629381669363820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049558986626932758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luna220807: 什么时候比眼泪先来的是对方的拥抱啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1216015239931498497",
+        "conversation_id": "2049558986626932758",
+        "created_at": "2026-04-29T18:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049558986626932758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049558986626932758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候比眼泪先来的是对方的拥抱啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇/BDSM",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7001,
+          "following_count": 4485,
+          "like_count": 38957,
+          "listed_count": 19,
+          "media_count": 2801,
+          "tweet_count": 38983
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-11T15:13:37.000Z",
+        "description": "07年le\n| INFJ-T \n| 狮子座 |\n🐋的快乐日常 |\n                     云朵就应该随风而去，随风而来，不为谁停下",
+        "id": "1216015239931498497",
+        "name": "送你一粒小云朵☁︎",
+        "pinned_tweet_id": "1981292858645913648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870124219776020483/Y5d_4K42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 419,
+          "like_count": 295,
+          "listed_count": 6,
+          "media_count": 329,
+          "tweet_count": 3924
+        },
+        "username": "luna220807",
+        "verified": false
+      }
+    ]
+  }
+}

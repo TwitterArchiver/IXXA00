@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2016343892329972081",
+    "created_at": "2026-01-28T03:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T04:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016356542476648850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912663189923438592",
+          "start": 0,
+          "username": "ZPeng63296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016356542476648850",
+    "in_reply_to_user_id": "1912663189923438592",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016355768216563980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZPeng63296 ？👊🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2016343892329972081",
+        "created_at": "2026-01-28T03:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T04:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016356542476648850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912663189923438592",
+              "start": 0,
+              "username": "ZPeng63296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016356542476648850",
+        "in_reply_to_user_id": "1912663189923438592",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016355768216563980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZPeng63296 ？👊🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912663189923438592",
+        "conversation_id": "2016343892329972081",
+        "created_at": "2026-01-28T03:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T04:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016355768216563980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016355768216563980",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016343892329972081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 让我进入 一起合租"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "长的乱七八糟的反正。\n欢迎来看主包抖子：43707218480",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5666,
+          "following_count": 4482,
+          "like_count": 35735,
+          "listed_count": 12,
+          "media_count": 2592,
+          "tweet_count": 35616
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:24:01.000Z",
+        "description": "",
+        "id": "1912663189923438592",
+        "name": "八级小狂风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912666192936071169/goZqEbJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 408,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 211
+        },
+        "username": "ZPeng63296",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2044369081021952459",
+    "created_at": "2026-04-15T10:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044369081021952459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HatsunMiku2735…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/HatsunMiku27353/status/2044368183554163161",
+          "start": 5,
+          "url": "https://t.co/H9BLCbDooS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044369081021952459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044368183554163161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/H9BLCbDooS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2044368181356285952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8OB4faUAA8mvv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2044369081021952459",
+        "created_at": "2026-04-15T10:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044369081021952459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HatsunMiku2735…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/HatsunMiku27353/status/2044368183554163161",
+              "start": 5,
+              "url": "https://t.co/H9BLCbDooS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044369081021952459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044368183554163161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/H9BLCbDooS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044368181356285952"
+          ]
+        },
+        "author_id": "1924775899595210753",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-15T10:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044368183554163161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkJZLVuVGh",
+              "end": 31,
+              "expanded_url": "https://x.com/HatsunMiku27353/status/2044368183554163161/photo/1",
+              "media_key": "3_2044368181356285952",
+              "start": 8,
+              "url": "https://t.co/HkJZLVuVGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044368183554163161",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 https://t.co/HkJZLVuVGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6446,
+          "following_count": 4398,
+          "like_count": 37902,
+          "listed_count": 16,
+          "media_count": 2721,
+          "tweet_count": 37965
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T10:35:20.000Z",
+        "description": "我去，Hatsune Miku！",
+        "id": "1924775899595210753",
+        "name": "伊织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010980078315061249/3JUr5Da6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 84,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 161
+        },
+        "username": "HatsunMiku27353",
+        "verified": false
+      }
+    ]
+  }
+}

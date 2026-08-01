@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2004355957527375919",
+    "created_at": "2025-12-26T13:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T14:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004547173783109979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1776868872932741120",
+          "start": 0,
+          "username": "CH33S3two"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004547173783109979",
+    "in_reply_to_user_id": "1776868872932741120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004531278188802458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CH33S3two 怎么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2004355957527375919",
+        "created_at": "2025-12-26T13:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004547173783109979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1776868872932741120",
+              "start": 0,
+              "username": "CH33S3two"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004547173783109979",
+        "in_reply_to_user_id": "1776868872932741120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004531278188802458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CH33S3two 怎么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776868872932741120",
+        "conversation_id": "2004355957527375919",
+        "created_at": "2025-12-26T12:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004531278188802458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004531278188802458",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004355957527375919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这是好事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5642,
+          "following_count": 4533,
+          "like_count": 35155,
+          "listed_count": 12,
+          "media_count": 2523,
+          "tweet_count": 34662
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T07:05:44.000Z",
+        "description": "专注于发疯抽象回复，谢谢，爱你",
+        "id": "1776868872932741120",
+        "name": "胡椒烤肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872934175734677510/OLAPoU2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 133
+        },
+        "username": "CH33S3two",
+        "verified": false
+      }
+    ]
+  }
+}

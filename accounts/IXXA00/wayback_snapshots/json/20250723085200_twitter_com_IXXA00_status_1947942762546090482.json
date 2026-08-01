@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947498345045336548",
+    "created_at": "2025-07-23T08:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T09:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947942762546090482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1090219994502197248",
+          "start": 0,
+          "username": "InvasionRabbit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947942762546090482",
+    "in_reply_to_user_id": "1090219994502197248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947939166198886469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InvasionRabbit 😰😰😰😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947498345045336548",
+        "created_at": "2025-07-23T08:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T09:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947942762546090482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1090219994502197248",
+              "start": 0,
+              "username": "InvasionRabbit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947942762546090482",
+        "in_reply_to_user_id": "1090219994502197248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947939166198886469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InvasionRabbit 😰😰😰😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090219994502197248",
+        "conversation_id": "1947498345045336548",
+        "created_at": "2025-07-23T08:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T09:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947939166198886469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947939166198886469",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947498345045336548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你也要简历里写经受领导激烈撞击45分钟？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 3154,
+          "like_count": 26299,
+          "listed_count": 5,
+          "media_count": 1931,
+          "tweet_count": 25812
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T12:07:56.000Z",
+        "description": "",
+        "id": "1090219994502197248",
+        "name": "兔子入侵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090220784918790144/pac4A3xJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 185,
+          "like_count": 3639,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 132
+        },
+        "username": "InvasionRabbit",
+        "verified": false
+      }
+    ]
+  }
+}

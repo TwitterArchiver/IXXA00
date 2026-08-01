@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936612726547021824"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1936252156891513209",
+    "created_at": "2025-06-22T02:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T03:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936612736131375410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697913281816432640",
+          "start": 0,
+          "username": "kiligulyanov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eKjh6UthWw",
+          "end": 37,
+          "expanded_url": "https://x.com/IXXA00/status/1936612736131375410/photo/1",
+          "media_key": "3_1936612726547021824",
+          "start": 14,
+          "url": "https://t.co/eKjh6UthWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936612736131375410",
+    "in_reply_to_user_id": "1697913281816432640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936609316531818855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiligulyanov https://t.co/eKjh6UthWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_1936612726547021824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuA7A6FWAAAuNze.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936612726547021824"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1936252156891513209",
+        "created_at": "2025-06-22T02:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T03:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936612736131375410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKjh6UthWw",
+              "end": 37,
+              "expanded_url": "https://x.com/IXXA00/status/1936612736131375410/photo/1",
+              "media_key": "3_1936612726547021824",
+              "start": 14,
+              "url": "https://t.co/eKjh6UthWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936612736131375410",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936609316531818855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov https://t.co/eKjh6UthWw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697913281816432640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "1936252156891513209",
+        "created_at": "2025-06-22T02:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T03:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936609316531818855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936609316531818855",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936252156891513209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 输beer不如输cola效果好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "面目全非。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 36,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 13,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "鞍山市",
+        "name": "isla🍈",
+        "pinned_tweet_id": "1936113120067670433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936447229180657664/hi_Aavke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3725,
+          "following_count": 3101,
+          "like_count": 24150,
+          "listed_count": 7,
+          "media_count": 1787,
+          "tweet_count": 23771
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "location": "梦境的地方",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 944,
+          "like_count": 22840,
+          "listed_count": 6,
+          "media_count": 1033,
+          "tweet_count": 7844
+        },
+        "username": "kiligulyanov",
+        "verified": false
+      }
+    ]
+  }
+}

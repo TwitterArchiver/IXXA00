@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2044040417931677933",
+    "created_at": "2026-04-14T22:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T23:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044177689507180610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "988056572717776896",
+          "start": 0,
+          "username": "JProff190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044177689507180610",
+    "in_reply_to_user_id": "988056572717776896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044170772294390003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JProff190 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2044040417931677933",
+        "created_at": "2026-04-14T22:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044177689507180610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "988056572717776896",
+              "start": 0,
+              "username": "JProff190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044177689507180610",
+        "in_reply_to_user_id": "988056572717776896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044170772294390003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JProff190 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988056572717776896",
+        "conversation_id": "2044040417931677933",
+        "created_at": "2026-04-14T21:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T22:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044170772294390003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044170772294390003",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044169124235096196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 I think youre stuck in your own head, please understand that what you see yourself as is more critical than how the world sees you. You end up noticing flaws that dont even exist. It's not a simple task, and I know \"be confident\" is generally lukewarm advice, it takes work"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6429,
+          "following_count": 4399,
+          "like_count": 37805,
+          "listed_count": 16,
+          "media_count": 2720,
+          "tweet_count": 37932
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-22T14:06:58.000Z",
+        "description": "",
+        "id": "988056572717776896",
+        "name": "updog🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936375238956113921/viEpnt86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 114,
+          "like_count": 53898,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1099
+        },
+        "username": "JProff190",
+        "verified": false
+      }
+    ]
+  }
+}

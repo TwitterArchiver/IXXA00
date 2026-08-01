@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1901807537307197840",
+    "created_at": "2025-03-18T01:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T02:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901808789575073995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901808789575073995",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901807537307197840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 这就是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1901807537307197840",
+        "created_at": "2025-03-18T01:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T02:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901808789575073995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901808789575073995",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901807537307197840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 这就是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1901807537307197840",
+        "created_at": "2025-03-18T01:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T02:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901807537307197840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mynameistoobad…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mynameistoobad/status/1900973266111476013",
+              "start": 5,
+              "url": "https://t.co/9JbX554cas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901807537307197840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900973266111476013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我 https://t.co/9JbX554cas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "有一颗温暖的心。",
+        "id": "1739391734491086848",
+        "location": "有q和v，🚪费随意",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 2666,
+          "like_count": 18335,
+          "listed_count": 6,
+          "media_count": 1249,
+          "tweet_count": 17348
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "一头痛苦的猪",
+        "id": "1666599054917218305",
+        "location": "52/88/128",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898153553585463296/Rd3rjRfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12868,
+          "following_count": 2688,
+          "like_count": 50742,
+          "listed_count": 19,
+          "media_count": 316,
+          "tweet_count": 14245
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

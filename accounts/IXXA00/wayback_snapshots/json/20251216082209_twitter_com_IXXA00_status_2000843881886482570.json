@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2000833046497685647",
+    "created_at": "2025-12-16T08:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000843881886482570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1148734971911102465",
+          "start": 0,
+          "username": "LongBTC_x125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000843881886482570",
+    "in_reply_to_user_id": "1148734971911102465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000842414878286278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LongBTC_x125 啥？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2000833046497685647",
+        "created_at": "2025-12-16T08:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000843881886482570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1148734971911102465",
+              "start": 0,
+              "username": "LongBTC_x125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000843881886482570",
+        "in_reply_to_user_id": "1148734971911102465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000842414878286278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongBTC_x125 啥？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1148734971911102465",
+        "conversation_id": "2000833046497685647",
+        "created_at": "2025-12-16T08:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000842414878286278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000842414878286278",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000833046497685647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 👿右倾机会主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是黄推。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5607,
+          "following_count": 4532,
+          "like_count": 34599,
+          "listed_count": 11,
+          "media_count": 2484,
+          "tweet_count": 34218
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-09T23:25:34.000Z",
+        "description": "Hey,l am here waiting fou u",
+        "id": "1148734971911102465",
+        "name": "Wayby_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976328836418777088/x-zVYxrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 253,
+          "like_count": 771,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 2039
+        },
+        "username": "LongBTC_x125",
+        "verified": false
+      }
+    ]
+  }
+}

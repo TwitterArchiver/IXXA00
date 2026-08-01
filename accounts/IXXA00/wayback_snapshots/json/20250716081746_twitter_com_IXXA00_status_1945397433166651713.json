@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1945135713508262263",
+    "created_at": "2025-07-16T08:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T09:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945397433166651713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1273952865837633541",
+          "start": 0,
+          "username": "Sheizhemewuliao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945397433166651713",
+    "in_reply_to_user_id": "1273952865837633541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945135713508262263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sheizhemewuliao 就好了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1945135713508262263",
+        "created_at": "2025-07-16T08:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T09:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945397433166651713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1273952865837633541",
+              "start": 0,
+              "username": "Sheizhemewuliao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945397433166651713",
+        "in_reply_to_user_id": "1273952865837633541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945135713508262263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheizhemewuliao 就好了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1273952865837633541",
+        "conversation_id": "1945135713508262263",
+        "created_at": "2025-07-15T14:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T15:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945135713508262263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945135713508262263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是你也像我喜欢你一样喜欢我就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，梦想是在酒吧坐台，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1944048753243304205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 3153,
+          "like_count": 25922,
+          "listed_count": 6,
+          "media_count": 1895,
+          "tweet_count": 25428
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-19T12:16:59.000Z",
+        "description": "不回私信",
+        "id": "1273952865837633541",
+        "name": "兔᳐头᳐੭(爱吃香菜版)",
+        "pinned_tweet_id": "1686867995891728385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794243004750032896/noQfrtOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 375,
+          "like_count": 2293,
+          "listed_count": 8,
+          "media_count": 146,
+          "tweet_count": 1869
+        },
+        "username": "Sheizhemewuliao",
+        "verified": false
+      }
+    ]
+  }
+}

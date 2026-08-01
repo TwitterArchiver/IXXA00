@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1948168312573268416",
+    "created_at": "2025-07-25T06:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T07:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948636376540610598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433588106159067136",
+          "start": 0,
+          "username": "LanEvoVIII8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948636376540610598",
+    "in_reply_to_user_id": "1433588106159067136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948625526442394000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanEvoVIII8 你这个角度……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1948168312573268416",
+        "created_at": "2025-07-25T06:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T07:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948636376540610598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433588106159067136",
+              "start": 0,
+              "username": "LanEvoVIII8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948636376540610598",
+        "in_reply_to_user_id": "1433588106159067136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948625526442394000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanEvoVIII8 你这个角度……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433588106159067136",
+        "conversation_id": "1948168312573268416",
+        "created_at": "2025-07-25T06:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T07:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948625526442394000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948625526442394000",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948168312573268416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 me的头顶绿绿的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "麦当劳在逃服务员isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3758,
+          "following_count": 3153,
+          "like_count": 26401,
+          "listed_count": 5,
+          "media_count": 1941,
+          "tweet_count": 25903
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T00:30:28.000Z",
+        "description": "🇨🇳 | 中文/English                                                                     \n 1:64 modelcar collector/furry/🚫Politics/few NSFW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wengmw…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/wengmw.bsky.social",
+                "start": 0,
+                "url": "https://t.co/GJo7oHnKdl"
+              }
+            ]
+          }
+        },
+        "id": "1433588106159067136",
+        "location": "China",
+        "name": "Weng_🚗💨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769426849246093312/UXE7IUvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 978,
+          "like_count": 86838,
+          "listed_count": 2,
+          "media_count": 754,
+          "tweet_count": 5821
+        },
+        "url": "https://t.co/GJo7oHnKdl",
+        "username": "LanEvoVIII8",
+        "verified": false
+      }
+    ]
+  }
+}

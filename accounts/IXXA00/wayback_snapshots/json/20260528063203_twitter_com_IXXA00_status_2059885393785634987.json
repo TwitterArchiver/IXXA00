@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059862846293545259",
+    "created_at": "2026-05-28T06:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059885393785634987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1993637326464155648",
+          "start": 0,
+          "username": "Gethin38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059885393785634987",
+    "in_reply_to_user_id": "1993637326464155648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059884898308243897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gethin38 菜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059862846293545259",
+        "created_at": "2026-05-28T06:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059885393785634987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1993637326464155648",
+              "start": 0,
+              "username": "Gethin38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059885393785634987",
+        "in_reply_to_user_id": "1993637326464155648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059884898308243897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gethin38 菜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993637326464155648",
+        "conversation_id": "2059862846293545259",
+        "created_at": "2026-05-28T06:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059884898308243897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059884898308243897",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059862846293545259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 窝也是 😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7097,
+          "following_count": 4504,
+          "like_count": 40523,
+          "listed_count": 18,
+          "media_count": 2964,
+          "tweet_count": 40402
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T11:06:02.000Z",
+        "description": "大号@Gethin0308 莫寒浪暂被封禁，想重新复活扣1帮我 依然是那个喜欢运动健身拥有有趣灵魂的人物💪💪💪 Everything will be fine , Never Give Up （会互fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Gethin0308"
+              }
+            ]
+          }
+        },
+        "id": "1993637326464155648",
+        "name": "莫寒浪（二代青春靓丽版）互fo",
+        "pinned_tweet_id": "2006381746628260296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006381485222481920/WWkXVNvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 242,
+          "like_count": 4982,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2665
+        },
+        "username": "Gethin38",
+        "verified": false
+      }
+    ]
+  }
+}

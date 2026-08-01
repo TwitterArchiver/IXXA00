@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2037706217632739416",
+    "created_at": "2026-03-28T10:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T11:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037838412489904199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037838412489904199",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037836916037718055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg 真是太不小心了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_2037836912040579072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfZ3-RbkAAZgZ7.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2037706217632739416",
+        "created_at": "2026-03-28T10:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037838412489904199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037838412489904199",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037836916037718055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg 真是太不小心了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037836912040579072"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "conversation_id": "2037706217632739416",
+        "created_at": "2026-03-28T10:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037836916037718055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVPlO776G7",
+              "end": 42,
+              "expanded_url": "https://x.com/wdlyrg/status/2037836916037718055/photo/1",
+              "media_key": "3_2037836912040579072",
+              "start": 19,
+              "url": "https://t.co/PVPlO776G7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037836916037718055",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037706217632739416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 居然误伤了10个手链 https://t.co/PVPlO776G7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "驻波偶尔会在抖子直播43707218480",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6401,
+          "following_count": 4474,
+          "like_count": 36725,
+          "listed_count": 16,
+          "media_count": 2679,
+          "tweet_count": 37110
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "1949960480191131693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 504,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 12070,
+          "tweet_count": 19290
+        },
+        "username": "wdlyrg",
+        "verified": false
+      }
+    ]
+  }
+}

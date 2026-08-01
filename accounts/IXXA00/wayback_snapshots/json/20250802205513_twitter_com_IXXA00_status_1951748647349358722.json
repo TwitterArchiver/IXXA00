@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1951616910543753538",
+    "created_at": "2025-08-02T20:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T21:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951748647349358722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816146295427645440",
+          "start": 0,
+          "username": "informer131189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951748647349358722",
+    "in_reply_to_user_id": "1816146295427645440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951745886524223683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@informer131189 你不乘哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1951616910543753538",
+        "created_at": "2025-08-02T20:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T21:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951748647349358722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816146295427645440",
+              "start": 0,
+              "username": "informer131189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951748647349358722",
+        "in_reply_to_user_id": "1816146295427645440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951745886524223683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@informer131189 你不乘哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816146295427645440",
+        "conversation_id": "1951616910543753538",
+        "created_at": "2025-08-02T20:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T21:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951745886524223683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951745886524223683",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951616910543753538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 乘乘的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3773,
+          "following_count": 3175,
+          "like_count": 26688,
+          "listed_count": 5,
+          "media_count": 1974,
+          "tweet_count": 26268
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:20:04.000Z",
+        "description": "",
+        "id": "1816146295427645440",
+        "name": "informer",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 49,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "informer131189",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1944361740956733543",
+    "created_at": "2025-07-14T10:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T11:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944701810071249103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "Kiriyama_hitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944701810071249103",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944361740956733543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiriyama_hitori 猪油封心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1944361740956733543",
+        "created_at": "2025-07-14T10:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944701810071249103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "Kiriyama_hitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944701810071249103",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944361740956733543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiriyama_hitori 猪油封心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831961897899585536",
+        "conversation_id": "1944361740956733543",
+        "created_at": "2025-07-13T11:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T12:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944361740956733543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944361740956733543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 473,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "承诺就像猪油 热时滚烫 冷了会腻住心口…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，梦想是在酒吧坐台，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1944048753243304205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 3149,
+          "like_count": 25799,
+          "listed_count": 6,
+          "media_count": 1891,
+          "tweet_count": 25352
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "当过人妖吃过糖，od磕药改花刀",
+        "id": "1831961897899585536",
+        "location": "नमोऽवलोकितेश्वराय",
+        "name": "东北柠姐",
+        "pinned_tweet_id": "1944487337687433655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944400194252271616/iOfozu8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 941,
+          "like_count": 80004,
+          "listed_count": 3,
+          "media_count": 2330,
+          "tweet_count": 17757
+        },
+        "username": "Kiriyama_hitori",
+        "verified": false
+      }
+    ]
+  }
+}

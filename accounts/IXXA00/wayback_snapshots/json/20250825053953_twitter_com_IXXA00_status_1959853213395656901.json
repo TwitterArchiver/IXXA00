@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1959853198866616320"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1959853213395656901",
+    "created_at": "2025-08-25T05:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T06:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959853213395656901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kZzAB15MrU",
+          "end": 26,
+          "expanded_url": "https://x.com/IXXA00/status/1959853213395656901/video/1",
+          "media_key": "7_1959853198866616320",
+          "start": 3,
+          "url": "https://t.co/kZzAB15MrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959853213395656901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽到 https://t.co/kZzAB15MrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1760,
+        "height": 1280,
+        "media_key": "7_1959853198866616320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959853198866616320/pu/img/UPzFLFR5fSadxial.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959853198866616320/pu/vid/avc1/320x708/gh0R-vyMwYZ87k3T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959853198866616320/pu/vid/avc1/480x1062/crhDtyQZam0edxgf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959853198866616320/pu/vid/avc1/578x1280/dxHFfTiKeu79CE_w.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959853198866616320/pu/pl/R6EuPvQQqiWEH01j.m3u8?tag=12"
+          }
+        ],
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959853198866616320"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1959853213395656901",
+        "created_at": "2025-08-25T05:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T06:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959853213395656901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZzAB15MrU",
+              "end": 26,
+              "expanded_url": "https://x.com/IXXA00/status/1959853213395656901/video/1",
+              "media_key": "7_1959853198866616320",
+              "start": 3,
+              "url": "https://t.co/kZzAB15MrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959853213395656901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽到 https://t.co/kZzAB15MrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "容貌焦虑，非常痛苦。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3914,
+          "following_count": 3345,
+          "like_count": 27692,
+          "listed_count": 8,
+          "media_count": 2072,
+          "tweet_count": 27539
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

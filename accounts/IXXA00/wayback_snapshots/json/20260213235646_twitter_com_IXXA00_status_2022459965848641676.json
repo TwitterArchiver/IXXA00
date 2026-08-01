@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2022233315676471344",
+    "created_at": "2026-02-13T23:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T00:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022459965848641676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802376464089923585",
+          "start": 0,
+          "username": "fenglebu12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022459965848641676",
+    "in_reply_to_user_id": "1802376464089923585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022366786977771527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenglebu12 主包是爆炸头魅魔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2022233315676471344",
+        "created_at": "2026-02-13T23:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T00:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022459965848641676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802376464089923585",
+              "start": 0,
+              "username": "fenglebu12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022459965848641676",
+        "in_reply_to_user_id": "1802376464089923585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022366786977771527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenglebu12 主包是爆炸头魅魔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802376464089923585",
+        "conversation_id": "2022233315676471344",
+        "created_at": "2026-02-13T17:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022366786977771527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022366786977771527",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022233315676471344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好魅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "等待一份纯粹的爱意。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5660,
+          "following_count": 4472,
+          "like_count": 35837,
+          "listed_count": 14,
+          "media_count": 2609,
+          "tweet_count": 35860
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T16:23:41.000Z",
+        "description": "没人爱的杂草",
+        "id": "1802376464089923585",
+        "location": "上海",
+        "name": "杂草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871218575639556096/dupLkFd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 305,
+          "like_count": 7055,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1915
+        },
+        "username": "fenglebu12",
+        "verified": false
+      }
+    ]
+  }
+}

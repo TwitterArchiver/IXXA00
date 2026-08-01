@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1984224642245247173",
+    "created_at": "2025-10-31T14:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T15:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984264199351226866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512296448523583491",
+          "start": 0,
+          "username": "Helm_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984264199351226866",
+    "in_reply_to_user_id": "1512296448523583491",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984259327683895448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Helm_Official ？？？？？？？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984259327683895448].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1984259327683895448",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1984259327683895448"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1984224642245247173",
+        "created_at": "2025-10-31T14:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984264199351226866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512296448523583491",
+              "start": 0,
+              "username": "Helm_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984264199351226866",
+        "in_reply_to_user_id": "1512296448523583491",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984259327683895448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Helm_Official ？？？？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 4634,
+          "like_count": 32025,
+          "listed_count": 11,
+          "media_count": 2300,
+          "tweet_count": 31580
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T05:09:17.000Z",
+        "description": "算了，人类毁灭吧\n以帝国之名，地鸣！\n军国狂魔\n我要我的毛绒绒的小……小红酱ᕕ(◠ڼ◠)ᕗ@_ZeroZeroTwo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "_ZeroZeroTwo_"
+              }
+            ]
+          }
+        },
+        "id": "1512296448523583491",
+        "location": "小红酱床上/神圣大东亚帝国",
+        "name": "爪牙の王🇯🇵🇰🇷食物链顶端的掠食者",
+        "pinned_tweet_id": "1980619803086959026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881842112230268928/KFD-qt-Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 1273,
+          "like_count": 31834,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 22173
+        },
+        "username": "Helm_Official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049894643396132882",
+    "created_at": "2026-04-30T16:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049895744400982402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718275785948286976",
+          "start": 0,
+          "username": "Tinkles_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049895744400982402",
+    "in_reply_to_user_id": "1718275785948286976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049895549512695857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinkles_12 我不想说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049894643396132882",
+        "created_at": "2026-04-30T16:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049895744400982402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718275785948286976",
+              "start": 0,
+              "username": "Tinkles_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049895744400982402",
+        "in_reply_to_user_id": "1718275785948286976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049895549512695857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinkles_12 我不想说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718275785948286976",
+        "conversation_id": "2049894643396132882",
+        "created_at": "2026-04-30T16:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049895549512695857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049895549512695857",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049894643396132882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是谁哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "35/重女/病娇/Little sub/swich",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "香脆叔丁基锂涂层法夫纳",
+        "pinned_tweet_id": "2049630666841821221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7002,
+          "following_count": 4489,
+          "like_count": 39030,
+          "listed_count": 19,
+          "media_count": 2809,
+          "tweet_count": 39052
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-28T14:37:47.000Z",
+        "description": "无趣且乏味，但这就是我。\n我喜欢变态，但我不是变态。\n小帮手 @kitsunezk_ri   我蝶→ @IXXA00    \n种族矛盾和立场分歧可以随时代化解，但是正邪永不两立。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "kitsunezk_ri"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "IXXA00"
+              }
+            ]
+          }
+        },
+        "id": "1718275785948286976",
+        "location": "哥谭市阿卡姆学院",
+        "name": "丨鎮魂丨Tinkles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008732031925325824/0NrrOM5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1672,
+          "like_count": 138913,
+          "listed_count": 15,
+          "media_count": 354,
+          "tweet_count": 19754
+        },
+        "username": "Tinkles_12",
+        "verified": false
+      }
+    ]
+  }
+}

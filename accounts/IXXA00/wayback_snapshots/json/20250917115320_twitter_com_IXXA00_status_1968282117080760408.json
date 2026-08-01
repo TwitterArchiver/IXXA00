@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1967617644619776294",
+    "created_at": "2025-09-17T11:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968282117080760408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878681729407356928",
+          "start": 0,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968282117080760408",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968281121541726432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HYuusui1999 ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1968281121541726432].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1968281121541726432",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1968281121541726432"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1967617644619776294",
+        "created_at": "2025-09-17T11:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968282117080760408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968282117080760408",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968281121541726432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/辣妹培训中心",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967215004098408448/EAzPAMnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4045,
+          "following_count": 3519,
+          "like_count": 28825,
+          "listed_count": 8,
+          "media_count": 2152,
+          "tweet_count": 29001
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1658,
+          "like_count": 30376,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 7821
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

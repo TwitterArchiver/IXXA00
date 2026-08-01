@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1945105834314248414",
+    "created_at": "2025-07-16T13:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T14:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945471010742120849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1942521043631104002",
+          "start": 0,
+          "username": "nya_861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945471010742120849",
+    "in_reply_to_user_id": "1942521043631104002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945457284894904828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_861 不要羡慕。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1945105834314248414",
+        "created_at": "2025-07-16T13:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T14:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945471010742120849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1942521043631104002",
+              "start": 0,
+              "username": "nya_861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945471010742120849",
+        "in_reply_to_user_id": "1942521043631104002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945457284894904828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_861 不要羡慕。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942521043631104002",
+        "conversation_id": "1945105834314248414",
+        "created_at": "2025-07-16T12:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945457284894904828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945457284894904828",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945105834314248414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，梦想是在酒吧坐台，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1945438323021160862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 3151,
+          "like_count": 25942,
+          "listed_count": 6,
+          "media_count": 1898,
+          "tweet_count": 25445
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T09:48:12.000Z",
+        "description": "",
+        "id": "1942521043631104002",
+        "name": "nya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942521792574414852/1J1XneFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "nya_861",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1993185314844950713",
+    "created_at": "2025-11-25T12:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993299473410486296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783930046329266176",
+          "start": 0,
+          "username": "padusaviummiler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993299473410486296",
+    "in_reply_to_user_id": "1783930046329266176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993185314844950713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@padusaviummiler 就是，中性风好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1993185314844950713",
+        "created_at": "2025-11-25T12:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993299473410486296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783930046329266176",
+              "start": 0,
+              "username": "padusaviummiler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993299473410486296",
+        "in_reply_to_user_id": "1783930046329266176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993185314844950713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@padusaviummiler 就是，中性风好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783930046329266176",
+        "conversation_id": "1993185314844950713",
+        "created_at": "2025-11-25T05:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993185314844950713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993185314844950713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 512,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别者都走中性风该多好呢，因为强迫身体表现得像另一个性别就是很违和感呀，我都不可能通过打扮变成小萝莉男性身体更不可能呀。我觉得穿搭打扮说话中性风一些，性别模糊那种感觉反而很好味，而且也很受欢迎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪(限时半绿聊天/纯绿线下)。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993039904717389824/opWmNY0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5624,
+          "following_count": 4557,
+          "like_count": 33721,
+          "listed_count": 11,
+          "media_count": 2410,
+          "tweet_count": 33277
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T18:44:15.000Z",
+        "description": "20⬆️/中文/English/日本語/JPOP/Creephyp",
+        "id": "1783930046329266176",
+        "name": "咕咕",
+        "pinned_tweet_id": "1853657790839165353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986164635653795841/GwYqi_qR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 400,
+          "like_count": 2268,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 521
+        },
+        "username": "padusaviummiler",
+        "verified": false
+      }
+    ]
+  }
+}

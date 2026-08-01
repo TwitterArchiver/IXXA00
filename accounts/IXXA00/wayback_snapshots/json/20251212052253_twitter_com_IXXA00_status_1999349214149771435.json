@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1999349214149771435",
+    "created_at": "2025-12-12T05:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999349214149771435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JONY1078425/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/JONY1078425/status/1999216645680894360",
+          "start": 13,
+          "url": "https://t.co/eQfmmwEcyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999349214149771435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999216645680894360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长的有点像一个人，是谁呢 https://t.co/eQfmmwEcyY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999216641851424771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76k8YaagAMiMNv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999216641503297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76k8XHagAAKVFW.jpg",
+        "width": 1127
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999216642530902017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76k8a8agAE6qqv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1999349214149771435",
+        "created_at": "2025-12-12T05:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999349214149771435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JONY1078425/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/JONY1078425/status/1999216645680894360",
+              "start": 13,
+              "url": "https://t.co/eQfmmwEcyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999349214149771435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999216645680894360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长的有点像一个人，是谁呢 https://t.co/eQfmmwEcyY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999216641851424771",
+            "3_1999216641503297536",
+            "3_1999216642530902017"
+          ]
+        },
+        "author_id": "1868471300005797888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1999216645680894360",
+        "created_at": "2025-12-11T20:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T21:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999216645680894360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "男娘"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "伪娘"
+            },
+            {
+              "end": 83,
+              "start": 76,
+              "tag": "femboy"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "cosplay"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "cos"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "千早爱音"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlhumOZHAC",
+              "end": 133,
+              "expanded_url": "https://x.com/JONY1078425/status/1999216645680894360/photo/1",
+              "media_key": "3_1999216641851424771",
+              "start": 110,
+              "url": "https://t.co/HlhumOZHAC"
+            },
+            {
+              "display_url": "pic.x.com/HlhumOZHAC",
+              "end": 133,
+              "expanded_url": "https://x.com/JONY1078425/status/1999216645680894360/photo/1",
+              "media_key": "3_1999216641503297536",
+              "start": 110,
+              "url": "https://t.co/HlhumOZHAC"
+            },
+            {
+              "display_url": "pic.x.com/HlhumOZHAC",
+              "end": 133,
+              "expanded_url": "https://x.com/JONY1078425/status/1999216645680894360/photo/1",
+              "media_key": "3_1999216642530902017",
+              "start": 110,
+              "url": "https://t.co/HlhumOZHAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999216645680894360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3214,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我去？！涨粉速度好快呀！今天看完比赛竟然已经420fo了！感谢各位的喜欢！😘😘\n有一说一今天绿龙的比赛真给我看爽了，希望小洞能拿冠军🥇\n#男娘 #伪娘 #femboy #cosplay #cos #千早爱音 #MyGO https://t.co/HlhumOZHAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "直播从来不穿裤子。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1999135329228661013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5611,
+          "following_count": 4532,
+          "like_count": 34458,
+          "listed_count": 11,
+          "media_count": 2463,
+          "tweet_count": 34034
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T01:40:57.000Z",
+        "description": "平时不经常上推\n不含糖，清水推偶尔发点福利\n网瘾少年/女？\n欢迎找我扩列呀!\n记得多多灌注我喵😍",
+        "id": "1868471300005797888",
+        "location": "你的心里",
+        "name": "小圆ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995583323142586377/07ucxEwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 60,
+          "like_count": 444,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 224
+        },
+        "username": "JONY1078425",
+        "verified": false
+      }
+    ]
+  }
+}

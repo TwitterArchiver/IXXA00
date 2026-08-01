@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926552880632173056",
+    "created_at": "2025-05-25T08:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T09:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926556552808243498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1576507946292416512",
+          "start": 0,
+          "username": "daoyuex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926556552808243498",
+    "in_reply_to_user_id": "1576507946292416512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926554221995774107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daoyuex 老师你认识这个主包吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926552880632173056",
+        "created_at": "2025-05-25T08:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926556552808243498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1576507946292416512",
+              "start": 0,
+              "username": "daoyuex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926556552808243498",
+        "in_reply_to_user_id": "1576507946292416512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926554221995774107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daoyuex 老师你认识这个主包吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576507946292416512",
+        "conversation_id": "1926552880632173056",
+        "created_at": "2025-05-25T08:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926554221995774107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926554221995774107",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926552880632173056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1926304021137985851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 3020,
+          "like_count": 22149,
+          "listed_count": 7,
+          "media_count": 1595,
+          "tweet_count": 21562
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T09:42:48.000Z",
+        "description": "正在染色",
+        "id": "1576507946292416512",
+        "name": "蝴蝶",
+        "pinned_tweet_id": "1898602139162964133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914636762858840067/DFGPEARU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1003,
+          "like_count": 84731,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 7203
+        },
+        "username": "daoyuex",
+        "verified": false
+      }
+    ]
+  }
+}

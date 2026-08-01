@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2073943544075866143",
+    "created_at": "2026-07-06T02:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073960897899536712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073960897899536712",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073957971307175949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg ？偷到0元。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 887,
+        "media_key": "3_2073957967813328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgtyI6awAA2L1_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2073943544075866143",
+        "created_at": "2026-07-06T02:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073960897899536712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073960897899536712",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073957971307175949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg ？偷到0元。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073957967813328896"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "conversation_id": "2073943544075866143",
+        "created_at": "2026-07-06T02:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073957971307175949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9qq3WENxB",
+              "end": 31,
+              "expanded_url": "https://x.com/wdlyrg/status/2073957971307175949/photo/1",
+              "media_key": "3_2073957967813328896",
+              "start": 8,
+              "url": "https://t.co/w9qq3WENxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073957971307175949",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073943544075866143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 https://t.co/w9qq3WENxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "36yo/男/我们到底能以什么身份留在彼此生命里？",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7493,
+          "following_count": 4541,
+          "like_count": 42791,
+          "listed_count": 18,
+          "media_count": 3118,
+          "tweet_count": 42258
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "2048349307766812905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 506,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 13656,
+          "tweet_count": 21114
+        },
+        "url": "",
+        "username": "wdlyrg",
+        "verified": false
+      }
+    ]
+  }
+}

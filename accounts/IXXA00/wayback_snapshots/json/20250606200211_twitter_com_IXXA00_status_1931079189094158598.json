@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1931079157943054337"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931079189094158598",
+    "created_at": "2025-06-06T20:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T21:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931079189094158598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/11BSJVpzo5",
+          "end": 23,
+          "expanded_url": "https://x.com/IXXA00/status/1931079189094158598/video/1",
+          "media_key": "7_1931079157943054337",
+          "start": 0,
+          "url": "https://t.co/11BSJVpzo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931079189094158598",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/11BSJVpzo5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10083,
+        "height": 1280,
+        "media_key": "7_1931079157943054337",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931079157943054337/pu/img/GTgsyUxxWqOSU0Nx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931079157943054337/pu/vid/avc1/320x568/Hrfi5WXImUe1VZ5V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931079157943054337/pu/vid/avc1/480x852/lS8KBUJ6sNcwhKbu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931079157943054337/pu/vid/avc1/720x1280/z0SatLDxqtMmm5Mq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931079157943054337/pu/pl/hfCrEmsvn7yDTMr0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931079157943054337"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931079189094158598",
+        "created_at": "2025-06-06T20:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T21:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931079189094158598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/11BSJVpzo5",
+              "end": 23,
+              "expanded_url": "https://x.com/IXXA00/status/1931079189094158598/video/1",
+              "media_key": "7_1931079157943054337",
+              "start": 0,
+              "url": "https://t.co/11BSJVpzo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931079189094158598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/11BSJVpzo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就这样独自盛开。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 3050,
+          "like_count": 22976,
+          "listed_count": 7,
+          "media_count": 1673,
+          "tweet_count": 22506
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

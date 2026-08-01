@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2040918889136275805",
+    "created_at": "2026-04-06T04:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041005549421207744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1289799090654425090",
+          "start": 0,
+          "username": "Neng679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041005549421207744",
+    "in_reply_to_user_id": "1289799090654425090",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040986306675974480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neng679 ✌🏿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2040918889136275805",
+        "created_at": "2026-04-06T04:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041005549421207744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1289799090654425090",
+              "start": 0,
+              "username": "Neng679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041005549421207744",
+        "in_reply_to_user_id": "1289799090654425090",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040986306675974480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neng679 ✌🏿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289799090654425090",
+        "conversation_id": "2040918889136275805",
+        "created_at": "2026-04-06T02:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040986306675974480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040986306675974480",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040918889136275805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好可爱。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要成为一群太阳，成为你石板上刻画的绚烂群星。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2039534008124781004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6359,
+          "following_count": 4464,
+          "like_count": 37025,
+          "listed_count": 17,
+          "media_count": 2693,
+          "tweet_count": 37410
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T05:44:16.000Z",
+        "description": "祝你在乱流中平安",
+        "id": "1289799090654425090",
+        "name": "螚",
+        "pinned_tweet_id": "1369322611088429073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040001452316540928/AnS6fGG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 826,
+          "like_count": 31822,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 3999
+        },
+        "username": "Neng679",
+        "verified": false
+      }
+    ]
+  }
+}

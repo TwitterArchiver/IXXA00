@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975177557910958494",
+    "created_at": "2025-10-08T07:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T08:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975826952163631203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672041518260162560",
+          "start": 0,
+          "username": "nanlira9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975826952163631203",
+    "in_reply_to_user_id": "1672041518260162560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975825648984936648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanlira9 就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975177557910958494",
+        "created_at": "2025-10-08T07:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975826952163631203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672041518260162560",
+              "start": 0,
+              "username": "nanlira9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975826952163631203",
+        "in_reply_to_user_id": "1672041518260162560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975825648984936648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanlira9 就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672041518260162560",
+        "conversation_id": "1975177557910958494",
+        "created_at": "2025-10-08T07:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975825648984936648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975825648984936648",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975177557910958494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 6，炫压抑他怎么知道了🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 3880,
+          "like_count": 29930,
+          "listed_count": 9,
+          "media_count": 2216,
+          "tweet_count": 29923
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T00:39:10.000Z",
+        "description": "",
+        "id": "1672041518260162560",
+        "location": "NanChang",
+        "name": "楠粒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672041703887499265/vV1QPPpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 218,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 144
+        },
+        "username": "nanlira9",
+        "verified": false
+      }
+    ]
+  }
+}

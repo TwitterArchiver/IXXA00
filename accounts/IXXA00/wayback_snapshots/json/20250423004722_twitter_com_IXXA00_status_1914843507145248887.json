@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1914826133708922988",
+    "created_at": "2025-04-23T00:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T01:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914843507145248887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "buwuwu11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914843507145248887",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914842492975128863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwuwu11 嘎老师你是一个好老师"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1914842492975128863].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1914842492975128863",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1914842492975128863"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1914826133708922988",
+        "created_at": "2025-04-23T00:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T01:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914843507145248887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "buwuwu11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914843507145248887",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914842492975128863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buwuwu11 嘎老师你是一个好老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，加了糖，也下了毒。你好，我操你妈。🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1914364203135328383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914587294960644096/GIbUxxih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 2941,
+          "like_count": 20336,
+          "listed_count": 7,
+          "media_count": 1435,
+          "tweet_count": 19649
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "猎奇嘴臭邪恶生物但是很可爱",
+        "id": "1261344091075260416",
+        "name": "家庭全自动闯祸机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913623989576187904/9v__s1Ee_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 706,
+          "like_count": 24088,
+          "listed_count": 0,
+          "media_count": 1623,
+          "tweet_count": 14980
+        },
+        "username": "buwuwu11",
+        "verified": false
+      }
+    ]
+  }
+}

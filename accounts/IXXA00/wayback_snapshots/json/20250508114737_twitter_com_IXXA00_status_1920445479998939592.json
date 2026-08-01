@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1919939180492165163",
+    "created_at": "2025-05-08T11:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T12:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920445479998939592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587639286202974214",
+          "start": 0,
+          "username": "Hulin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920445479998939592",
+    "in_reply_to_user_id": "1587639286202974214",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920441656710435089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hulin233 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1919939180492165163",
+        "created_at": "2025-05-08T11:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920445479998939592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587639286202974214",
+              "start": 0,
+              "username": "Hulin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920445479998939592",
+        "in_reply_to_user_id": "1587639286202974214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920441656710435089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hulin233 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587639286202974214",
+        "conversation_id": "1919939180492165163",
+        "created_at": "2025-05-08T11:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920441656710435089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920441656710435089",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919939180492165163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不应该是两个口嗨怪面对面脸红吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "别这样我有老公了。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "很好吃isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 2989,
+          "like_count": 21429,
+          "listed_count": 7,
+          "media_count": 1522,
+          "tweet_count": 20699
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T02:54:45.000Z",
+        "description": "i斯普拉遁超级北斋使",
+        "id": "1587639286202974214",
+        "location": "被窝",
+        "name": "护凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863437042136584193/B5ZGmhfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 296,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 351
+        },
+        "username": "Hulin233",
+        "verified": false
+      }
+    ]
+  }
+}

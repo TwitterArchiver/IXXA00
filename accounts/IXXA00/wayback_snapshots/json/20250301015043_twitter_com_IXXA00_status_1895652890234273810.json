@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895652887629352960"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1895652890234273810",
+    "created_at": "2025-03-01T01:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T02:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895652890234273810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ssIQvds7e",
+          "end": 30,
+          "expanded_url": "https://x.com/IXXA00/status/1895652890234273810/photo/1",
+          "media_key": "3_1895652887629352960",
+          "start": 7,
+          "url": "https://t.co/0ssIQvds7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895652890234273810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酸奶酪薯角。 https://t.co/0ssIQvds7e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1895652887629352960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk62QfiXUAA_FS5.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895652887629352960"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1895652890234273810",
+        "created_at": "2025-03-01T01:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T02:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895652890234273810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ssIQvds7e",
+              "end": 30,
+              "expanded_url": "https://x.com/IXXA00/status/1895652890234273810/photo/1",
+              "media_key": "3_1895652887629352960",
+              "start": 7,
+              "url": "https://t.co/0ssIQvds7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895652890234273810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酸奶酪薯角。 https://t.co/0ssIQvds7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我什么也不会，只会爱你。",
+        "id": "1739391734491086848",
+        "location": "还会收款。",
+        "name": "isla(R24)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894112531394048000/SwC8VagU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3342,
+          "following_count": 2545,
+          "like_count": 16993,
+          "listed_count": 6,
+          "media_count": 1197,
+          "tweet_count": 16215
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

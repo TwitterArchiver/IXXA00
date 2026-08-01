@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1989516995033993600",
+    "created_at": "2025-11-15T06:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T07:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989577154951053423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728047202315153408",
+          "start": 0,
+          "username": "Ayame01122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989577154951053423",
+    "in_reply_to_user_id": "1728047202315153408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989575484666253488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayame01122 你也傻球了，我是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1989516995033993600",
+        "created_at": "2025-11-15T06:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989577154951053423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728047202315153408",
+              "start": 0,
+              "username": "Ayame01122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989577154951053423",
+        "in_reply_to_user_id": "1728047202315153408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989575484666253488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayame01122 你也傻球了，我是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728047202315153408",
+        "conversation_id": "1989516995033993600",
+        "created_at": "2025-11-15T06:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989575484666253488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989575484666253488",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989516995033993600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这大姑娘贼俊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 4546,
+          "like_count": 33066,
+          "listed_count": 11,
+          "media_count": 2359,
+          "tweet_count": 32566
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T13:45:40.000Z",
+        "description": "",
+        "id": "1728047202315153408",
+        "name": "爱笑鬼神あやめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914346856827752448/XIQYa69i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 511,
+          "like_count": 48526,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 8459
+        },
+        "username": "Ayame01122",
+        "verified": false
+      }
+    ]
+  }
+}

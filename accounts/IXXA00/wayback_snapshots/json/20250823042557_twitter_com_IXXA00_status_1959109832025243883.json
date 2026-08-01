@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1959004097207836740",
+    "created_at": "2025-08-23T04:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T05:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959109832025243883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959109832025243883",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959004097207836740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 你这是触发关键词了？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1959004097207836740",
+        "created_at": "2025-08-23T04:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T05:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959109832025243883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959109832025243883",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959004097207836740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 你这是触发关键词了？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1959004097207836740",
+        "created_at": "2025-08-22T21:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T22:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959004097207836740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959004097207836740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1306,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "特别喜欢看朋友城市的外卖评价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1958508946555294010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 3337,
+          "like_count": 27622,
+          "listed_count": 7,
+          "media_count": 2062,
+          "tweet_count": 27443
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "好男孩",
+        "id": "1666599054917218305",
+        "name": "Ultimate One.Kira",
+        "pinned_tweet_id": "1956219681850974600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956577316844474368/oUu7PFAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17241,
+          "following_count": 2795,
+          "like_count": 53764,
+          "listed_count": 23,
+          "media_count": 323,
+          "tweet_count": 17382
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

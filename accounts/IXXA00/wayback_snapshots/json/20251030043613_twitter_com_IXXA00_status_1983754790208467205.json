@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983713955722981449",
+    "created_at": "2025-10-30T04:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983754790208467205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809871318403477504",
+          "start": 0,
+          "username": "youlix103483"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983754790208467205",
+    "in_reply_to_user_id": "1809871318403477504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983753733285801998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youlix103483 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983713955722981449",
+        "created_at": "2025-10-30T04:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983754790208467205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809871318403477504",
+              "start": 0,
+              "username": "youlix103483"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983754790208467205",
+        "in_reply_to_user_id": "1809871318403477504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983753733285801998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlix103483 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809871318403477504",
+        "conversation_id": "1983713955722981449",
+        "created_at": "2025-10-30T04:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983753733285801998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983753733285801998",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983713955722981449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 私信不了了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5032,
+          "following_count": 4467,
+          "like_count": 31498,
+          "listed_count": 11,
+          "media_count": 2286,
+          "tweet_count": 31285
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T08:45:33.000Z",
+        "description": "",
+        "id": "1809871318403477504",
+        "name": "隳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979058893587136512/HtCPYgTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 686,
+          "like_count": 3635,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 192
+        },
+        "username": "youlix103483",
+        "verified": false
+      }
+    ]
+  }
+}

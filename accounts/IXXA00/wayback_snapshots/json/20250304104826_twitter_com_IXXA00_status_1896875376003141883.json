@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1896667598231933337",
+    "created_at": "2025-03-04T10:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T11:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896875376003141883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194846719",
+          "start": 0,
+          "username": "newsm2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896875376003141883",
+    "in_reply_to_user_id": "194846719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896869441851539920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newsm2005 变成黑白？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1896667598231933337",
+        "created_at": "2025-03-04T10:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T11:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896875376003141883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194846719",
+              "start": 0,
+              "username": "newsm2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896875376003141883",
+        "in_reply_to_user_id": "194846719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896869441851539920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newsm2005 变成黑白？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "194846719",
+        "conversation_id": "1896667598231933337",
+        "created_at": "2025-03-04T10:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T11:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896869441851539920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896869441851539920",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896667598231933337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 去饱和是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这个人什么也不会，只会爱你。/主号@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "1895683343162958170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894112531394048000/SwC8VagU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 2589,
+          "like_count": 17247,
+          "listed_count": 6,
+          "media_count": 1206,
+          "tweet_count": 16469
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T03:42:29.000Z",
+        "description": "Fight, Fight, Fight！",
+        "id": "194846719",
+        "name": "newsm2005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870331483728281600/m9cO5W1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 2344,
+          "like_count": 14338,
+          "listed_count": 4,
+          "media_count": 4367,
+          "tweet_count": 68209
+        },
+        "username": "newsm2005",
+        "verified": false
+      }
+    ]
+  }
+}

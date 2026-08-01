@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919703899159793664"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1919272342934446348",
+    "created_at": "2025-05-06T10:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T11:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919703901525180517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888171111692804096",
+          "start": 0,
+          "username": "miljch36685"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OywAvr5CjG",
+          "end": 44,
+          "expanded_url": "https://x.com/IXXA00/status/1919703901525180517/photo/1",
+          "media_key": "3_1919703899159793664",
+          "start": 21,
+          "url": "https://t.co/OywAvr5CjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919703901525180517",
+    "in_reply_to_user_id": "1888171111692804096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919272342934446348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miljch36685 这是在干什么？ https://t.co/OywAvr5CjG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919703901525180517].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919703901525180517",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919703901525180517"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1919703899159793664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQohndaEAAnPz9.jpg",
+        "width": 593
+      },
+      {
+        "height": 3120,
+        "media_key": "3_1919272236911140864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKf7kRboAAcxEP.jpg",
+        "width": 3120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919272236911140864"
+          ]
+        },
+        "author_id": "1888171111692804096",
+        "conversation_id": "1919272342934446348",
+        "created_at": "2025-05-05T06:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919272342934446348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmzVBaY1M6",
+              "end": 32,
+              "expanded_url": "https://x.com/miljch36685/status/1919272342934446348/photo/1",
+              "media_key": "3_1919272236911140864",
+              "start": 9,
+              "url": "https://t.co/EmzVBaY1M6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919272342934446348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人来比比👋 https://t.co/EmzVBaY1M6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "包好吃的🚪52/188",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "包好吃isla",
+        "pinned_tweet_id": "1918675574668869802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3650,
+          "following_count": 2958,
+          "like_count": 21249,
+          "listed_count": 7,
+          "media_count": 1512,
+          "tweet_count": 20559
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T10:21:05.000Z",
+        "description": "entp/是男孩子 别问了问就是在猛猛🦌/喜欢看动漫打各种游戏😉可以来找我一起玩☺",
+        "id": "1888171111692804096",
+        "location": "郑州？",
+        "name": "麦乐鸡翅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912749641353031680/VtCYAojo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 361,
+          "like_count": 378,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 305
+        },
+        "username": "miljch36685",
+        "verified": false
+      }
+    ]
+  }
+}

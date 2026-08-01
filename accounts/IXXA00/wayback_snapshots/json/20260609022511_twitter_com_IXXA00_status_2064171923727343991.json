@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2064170781068959810",
+    "created_at": "2026-06-09T02:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064171923727343991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "446842231",
+          "start": 0,
+          "username": "saya_nikaido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064171923727343991",
+    "in_reply_to_user_id": "446842231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064171240659763357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya_nikaido 就在其中。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2064170781068959810",
+        "created_at": "2026-06-09T02:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064171923727343991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "446842231",
+              "start": 0,
+              "username": "saya_nikaido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064171923727343991",
+        "in_reply_to_user_id": "446842231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064171240659763357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya_nikaido 就在其中。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "446842231",
+        "conversation_id": "2064170781068959810",
+        "created_at": "2026-06-09T02:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064171240659763357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064171240659763357",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064170781068959810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 救赎之道，就在其中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/主播的麻袋里现在：1个人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7324,
+          "following_count": 4521,
+          "like_count": 41514,
+          "listed_count": 18,
+          "media_count": 3017,
+          "tweet_count": 41110
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-26T06:31:18.000Z",
+        "description": "迟暮鸟语",
+        "id": "446842231",
+        "location": "Tokyo (hypothetical)",
+        "name": "Nikaido🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422812746207232/1-8iCvQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 1209,
+          "like_count": 11101,
+          "listed_count": 1,
+          "media_count": 510,
+          "tweet_count": 9060
+        },
+        "username": "saya_nikaido",
+        "verified": false
+      }
+    ]
+  }
+}

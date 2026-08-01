@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1917814811435622719",
+    "created_at": "2025-05-03T05:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T06:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918532000522043867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1622465079353692160",
+          "start": 0,
+          "username": "li02700542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918532000522043867",
+    "in_reply_to_user_id": "1622465079353692160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917814811435622719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li02700542 我纹了，能怎么样呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1917814811435622719",
+        "created_at": "2025-05-03T05:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918532000522043867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1622465079353692160",
+              "start": 0,
+              "username": "li02700542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918532000522043867",
+        "in_reply_to_user_id": "1622465079353692160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917814811435622719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li02700542 我纹了，能怎么样呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622465079353692160",
+        "conversation_id": "1917814811435622719",
+        "created_at": "2025-05-01T05:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917814811435622719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yushao_13/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yushao_13/status/1917609407363572100",
+              "start": 17,
+              "url": "https://t.co/q5F8FuylIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917814811435622719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917609407363572100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个故事告诉我们，没事儿别瞎纹身 https://t.co/q5F8FuylIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 2956,
+          "like_count": 21018,
+          "listed_count": 7,
+          "media_count": 1496,
+          "tweet_count": 20361
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T05:20:07.000Z",
+        "description": "性压抑的疯子，有诊断书",
+        "id": "1622465079353692160",
+        "location": "心里",
+        "name": "出门看见人咬狗，捡起狗来打砖头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611953911042048/B2XIw9A__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 102,
+          "like_count": 19090,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 2640
+        },
+        "username": "li02700542",
+        "verified": false
+      }
+    ]
+  }
+}

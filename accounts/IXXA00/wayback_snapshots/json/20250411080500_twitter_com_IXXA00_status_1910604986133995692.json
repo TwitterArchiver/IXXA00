@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1910604032638669249",
+    "created_at": "2025-04-11T08:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T09:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910604986133995692"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910604986133995692",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910604032638669249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天就只吃2顿，每周有2个半天休息时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1910604032638669249",
+        "created_at": "2025-04-11T08:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T09:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910604986133995692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910604986133995692",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910604032638669249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天就只吃2顿，每周有2个半天休息时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1910604032638669249",
+        "created_at": "2025-04-11T08:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T09:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910604032638669249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yvnlcr_cr/stat…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/yvnlcr_cr/status/1910583478040822259",
+              "start": 106,
+              "url": "https://t.co/BqaRRvlOoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910604032638669249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910583478040822259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一般我都会在的12点前后下班，回家应该洗漱1点前后睡了，然后7点半点起床，简单吃一口洗漱化妆8点半到楼下咖啡饮料店上班，白天没什么事情我可以刷刷推卖卖门，直到下午3点半我会下班吃饭，到了5点我就要去夜场陪酒了。 https://t.co/BqaRRvlOoV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你可以在命运的时间长河里慢慢来了解我。清水黄推，群聊897633421/🚪52聊天，主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "1909607244431606077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448305476239360/O3ggHyR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3596,
+          "following_count": 2893,
+          "like_count": 19810,
+          "listed_count": 7,
+          "media_count": 1379,
+          "tweet_count": 19034
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

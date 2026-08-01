@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1902670838345654431",
+    "created_at": "2025-03-21T02:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T03:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902904473481093329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625279082865852416",
+          "start": 0,
+          "username": "cpurplestarrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902904473481093329",
+    "in_reply_to_user_id": "1625279082865852416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902903749326332048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpurplestarrain 都一天过去啦\n下次吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1902670838345654431",
+        "created_at": "2025-03-21T02:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T03:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902904473481093329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625279082865852416",
+              "start": 0,
+              "username": "cpurplestarrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902904473481093329",
+        "in_reply_to_user_id": "1625279082865852416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902903749326332048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpurplestarrain 都一天过去啦\n下次吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625279082865852416",
+        "conversation_id": "1902670838345654431",
+        "created_at": "2025-03-21T02:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T03:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902903749326332048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902903749326332048",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902670838345654431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 没给我留👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷小甜酒(72度)。涉三号@ithra00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "ithra00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3499,
+          "following_count": 2754,
+          "like_count": 18767,
+          "listed_count": 6,
+          "media_count": 1267,
+          "tweet_count": 17756
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T23:41:53.000Z",
+        "description": "Have a nice day!\n\nThe little clever boy who failed in English.\n\n🚪USD$122",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "airain.wuaze.com",
+                "end": 23,
+                "expanded_url": "http://airain.wuaze.com",
+                "start": 0,
+                "url": "https://t.co/pN237LhlWN"
+              }
+            ]
+          }
+        },
+        "id": "1625279082865852416",
+        "location": "Urumqi, Xinjiang, China",
+        "name": "DeepSnake",
+        "pinned_tweet_id": "1895504329106501952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893164551866327040/NM_d1iWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 322,
+          "like_count": 8980,
+          "listed_count": 0,
+          "media_count": 1674,
+          "tweet_count": 12617
+        },
+        "url": "https://t.co/pN237LhlWN",
+        "username": "cpurplestarrain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2058809185119223890",
+    "created_at": "2026-05-25T07:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058817601787269489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058817601787269489",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058809185119223890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl 为啥我的法拉利不能停啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2058809185119223890",
+        "created_at": "2026-05-25T07:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058817601787269489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058817601787269489",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058809185119223890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl 为啥我的法拉利不能停啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026287956",
+              "name": "Chevrolet"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027289312",
+              "name": "Chevrolet - Silverado"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040410810",
+              "name": "Ford - F-150"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Trucks",
+              "id": "847529278178705409",
+              "name": "Trucks"
+            }
+          }
+        ],
+        "conversation_id": "2058809185119223890",
+        "created_at": "2026-05-25T07:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058809185119223890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2058722630757433800",
+              "start": 104,
+              "url": "https://t.co/0K2st19ScP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058809185119223890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058722630757433800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牧马人，大切,大瓦，ram\nbronco,everest ，f150,ranger，expedition, explore\n揽胜，卫士，卡宴，q7,途锐\n陆巡，泰坦，silverado\n\n以上车都可以停\n😈 https://t.co/0K2st19ScP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7047,
+          "following_count": 4501,
+          "like_count": 40292,
+          "listed_count": 18,
+          "media_count": 2950,
+          "tweet_count": 40218
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "主包下海了请大家多多捧场|女装请戳highlight|什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请打电话 | 有tg群,进群🚪/熟人,私信问连接 | qq爆毙别用qq找我 | https://t.co/K0l29xvsbL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lpngpkl",
+                "end": 125,
+                "expanded_url": "http://t.me/lpngpkl",
+                "start": 102,
+                "url": "https://t.co/K0l29xvsbL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbItz"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "鴇鵬機工|Tokiho Engineering 🇺🇸 🏴󠁵momocon 4day 来抓我",
+        "pinned_tweet_id": "2057457366883270793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11459,
+          "following_count": 7092,
+          "like_count": 162411,
+          "listed_count": 24,
+          "media_count": 6806,
+          "tweet_count": 96839
+        },
+        "url": "https://t.co/gP2ETYbItz",
+        "username": "rnpgpsl",
+        "verified": true
+      }
+    ]
+  }
+}

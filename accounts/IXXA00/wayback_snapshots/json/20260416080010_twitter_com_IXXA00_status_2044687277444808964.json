@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2044679813877874971",
+    "created_at": "2026-04-16T08:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044687277444808964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1552725887589634048",
+          "start": 0,
+          "username": "ButterFly_Neino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044687277444808964",
+    "in_reply_to_user_id": "1552725887589634048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044687182313713725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ButterFly_Neino 你只好？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2044679813877874971",
+        "created_at": "2026-04-16T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044687277444808964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1552725887589634048",
+              "start": 0,
+              "username": "ButterFly_Neino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044687277444808964",
+        "in_reply_to_user_id": "1552725887589634048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044687182313713725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ButterFly_Neino 你只好？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552725887589634048",
+        "conversation_id": "2044679813877874971",
+        "created_at": "2026-04-16T07:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044687182313713725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044687182313713725",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044679813877874971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那你打小孩我只好…🥴🥴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6448,
+          "following_count": 4401,
+          "like_count": 37946,
+          "listed_count": 16,
+          "media_count": 2727,
+          "tweet_count": 38003
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T18:41:30.000Z",
+        "description": "别再欺骗我",
+        "id": "1552725887589634048",
+        "location": "精神重塑救濟協會",
+        "name": "晚安，木头",
+        "pinned_tweet_id": "1989598873484972259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977040459735396352/A96meGcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 70,
+          "like_count": 7353,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 4452
+        },
+        "username": "ButterFly_Neino",
+        "verified": false
+      }
+    ]
+  }
+}

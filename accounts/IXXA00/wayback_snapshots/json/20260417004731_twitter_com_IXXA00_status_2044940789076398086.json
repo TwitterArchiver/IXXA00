@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2044680271425847803",
+    "created_at": "2026-04-17T00:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T01:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044940789076398086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2002295029700964352",
+          "start": 0,
+          "username": "NNull1140737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044940789076398086",
+    "in_reply_to_user_id": "2002295029700964352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044680271425847803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NNull1140737 没任何意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2044680271425847803",
+        "created_at": "2026-04-17T00:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044940789076398086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002295029700964352",
+              "start": 0,
+              "username": "NNull1140737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044940789076398086",
+        "in_reply_to_user_id": "2002295029700964352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044680271425847803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNull1140737 没任何意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002295029700964352",
+        "conversation_id": "2044680271425847803",
+        "created_at": "2026-04-16T07:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044680271425847803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044680271425847803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2951,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当一个男人又穷又丑的时候，朋友圈只会发一些游戏战绩和彰显自己品味的歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一个情绪沉重脆弱又细腻的人。我只想安静的当个绿推。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6445,
+          "following_count": 4398,
+          "like_count": 37988,
+          "listed_count": 16,
+          "media_count": 2732,
+          "tweet_count": 38042
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T08:28:42.000Z",
+        "description": "不加v也不约更不聊骚 只是个单纯善良的可爱女孩…",
+        "id": "2002295029700964352",
+        "name": "你别哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042339720571543553/Xk4YstKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 10,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 207
+        },
+        "username": "NNull1140737",
+        "verified": false
+      }
+    ]
+  }
+}

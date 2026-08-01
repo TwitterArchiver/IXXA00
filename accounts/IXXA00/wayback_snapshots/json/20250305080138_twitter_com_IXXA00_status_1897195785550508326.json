@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1897108896327852504",
+    "created_at": "2025-03-05T08:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T09:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897195785550508326"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "bingo",
+          "probability": 0.8011,
+          "start": 9,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1148279820939227137",
+          "start": 0,
+          "username": "bxdyorg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897195785550508326",
+    "in_reply_to_user_id": "1148279820939227137",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897195039845179760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bxdyorg bingo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1897108896327852504",
+        "created_at": "2025-03-05T08:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T09:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897195785550508326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "bingo",
+              "probability": 0.8011,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1148279820939227137",
+              "start": 0,
+              "username": "bxdyorg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897195785550508326",
+        "in_reply_to_user_id": "1148279820939227137",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897195039845179760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bxdyorg bingo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1148279820939227137",
+        "conversation_id": "1897108896327852504",
+        "created_at": "2025-03-05T07:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T08:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897195039845179760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897195039845179760",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897108896327852504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这个人什么也不会，只会爱你。/主号@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896889420311351296/2OPrka2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3394,
+          "following_count": 2591,
+          "like_count": 17427,
+          "listed_count": 6,
+          "media_count": 1208,
+          "tweet_count": 16564
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-08T17:16:58.000Z",
+        "description": "边缘型人格障碍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bxdy.org",
+                "end": 23,
+                "expanded_url": "http://bxdy.org",
+                "start": 0,
+                "url": "https://t.co/sx1SQxQhw0"
+              }
+            ]
+          }
+        },
+        "id": "1148279820939227137",
+        "location": "无人区",
+        "name": "冰雪冬樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757506056090165248/prZS8-kF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 1068,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/sx1SQxQhw0",
+        "username": "bxdyorg",
+        "verified": false
+      }
+    ]
+  }
+}

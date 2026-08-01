@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1909812961977548852",
+    "created_at": "2025-04-09T04:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T05:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909826120243200352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1587853704752861187",
+          "start": 0,
+          "username": "Chy9384"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909826120243200352",
+    "in_reply_to_user_id": "1587853704752861187",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909826018711687579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chy9384 ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1909812961977548852",
+        "created_at": "2025-04-09T04:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909826120243200352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1587853704752861187",
+              "start": 0,
+              "username": "Chy9384"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909826120243200352",
+        "in_reply_to_user_id": "1587853704752861187",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909826018711687579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chy9384 ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587853704752861187",
+        "conversation_id": "1909812961977548852",
+        "created_at": "2025-04-09T04:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909826018711687579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909826018711687579",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909824991232974998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 算了吧，太吓人了，到时候被举报说让未成年人受到极度惊吓就不好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你可以在命运的时间长河里慢慢来了解我。清水黄推，🚪52聊天，主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "1909607244431606077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448305476239360/O3ggHyR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 2894,
+          "like_count": 19740,
+          "listed_count": 7,
+          "media_count": 1370,
+          "tweet_count": 18923
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T17:06:53.000Z",
+        "description": "社畜一枚，希望做个抽象派",
+        "id": "1587853704752861187",
+        "location": "广东",
+        "name": "呆木头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800080626135322624/tKzaDSs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 245,
+          "like_count": 13038,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1971
+        },
+        "username": "Chy9384",
+        "verified": false
+      }
+    ]
+  }
+}

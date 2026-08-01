@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1952557480036487454",
+    "created_at": "2025-08-06T02:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T03:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952921936629211419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644878739686453249",
+          "start": 0,
+          "username": "mmddder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952921936629211419",
+    "in_reply_to_user_id": "1644878739686453249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952918184606273779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmddder 对啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1952557480036487454",
+        "created_at": "2025-08-06T02:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952921936629211419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644878739686453249",
+              "start": 0,
+              "username": "mmddder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952921936629211419",
+        "in_reply_to_user_id": "1644878739686453249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952918184606273779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmddder 对啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644878739686453249",
+        "conversation_id": "1952557480036487454",
+        "created_at": "2025-08-06T02:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952918184606273779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952918184606273779",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952557480036487454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不是直接上個素顏霜就好了嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓(离异带两百个孩子)",
+        "pinned_tweet_id": "1952031414645576076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3791,
+          "following_count": 3203,
+          "like_count": 26843,
+          "listed_count": 5,
+          "media_count": 1987,
+          "tweet_count": 26450
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T01:43:57.000Z",
+        "description": "",
+        "id": "1644878739686453249",
+        "name": "懵懵懂懂的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644878946901823488/Ml4Z-MRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 719,
+          "like_count": 5525,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "mmddder",
+        "verified": false
+      }
+    ]
+  }
+}

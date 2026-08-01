@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1930258367588835328"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1930258398689538546",
+    "created_at": "2025-06-04T13:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930258398689538546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UaYzsHF53A",
+          "end": 34,
+          "expanded_url": "https://x.com/IXXA00/status/1930258398689538546/video/1",
+          "media_key": "7_1930258367588835328",
+          "start": 11,
+          "url": "https://t.co/UaYzsHF53A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930258398689538546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主包一会直播睡觉。😪 https://t.co/UaYzsHF53A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4845,
+        "height": 1280,
+        "media_key": "7_1930258367588835328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930258367588835328/pu/img/Md4XH2008UZcacZA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930258367588835328/pu/vid/avc1/320x568/EPKKZPlMIYhgfo8G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930258367588835328/pu/vid/avc1/480x852/Q4cKUk0eMVitKacG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930258367588835328/pu/vid/avc1/720x1280/RaTxrDRqxMOYdEku.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930258367588835328/pu/pl/ULznIpL8IO4YbtWP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1930258367588835328"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1930258398689538546",
+        "created_at": "2025-06-04T13:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930258398689538546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UaYzsHF53A",
+              "end": 34,
+              "expanded_url": "https://x.com/IXXA00/status/1930258398689538546/video/1",
+              "media_key": "7_1930258367588835328",
+              "start": 11,
+              "url": "https://t.co/UaYzsHF53A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930258398689538546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包一会直播睡觉。😪 https://t.co/UaYzsHF53A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1930121860882280625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 3046,
+          "like_count": 22803,
+          "listed_count": 7,
+          "media_count": 1649,
+          "tweet_count": 22297
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

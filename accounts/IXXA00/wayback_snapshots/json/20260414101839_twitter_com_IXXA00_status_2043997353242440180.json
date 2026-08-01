@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T10:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043997353242440180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594130076874031104",
+          "start": 0,
+          "username": "nonoome3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043997353242440180",
+    "in_reply_to_user_id": "1594130076874031104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043996548502003946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonoome3 0 years 0m 0d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T10:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043997353242440180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594130076874031104",
+              "start": 0,
+              "username": "nonoome3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043997353242440180",
+        "in_reply_to_user_id": "1594130076874031104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043996548502003946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonoome3 0 years 0m 0d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594130076874031104",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T10:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043996548502003946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043996548502003946",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 Morou no Japão por quanto tempo?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6364,
+          "following_count": 4395,
+          "like_count": 37623,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37875
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T00:47:01.000Z",
+        "description": "𝘏𝘦/𝘵𝘩𝘦𝘺",
+        "id": "1594130076874031104",
+        "location": "Brasil",
+        "name": "R ♥︎ M",
+        "pinned_tweet_id": "2040871645447925796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042550329900720128/H9KCPhQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 524,
+          "like_count": 29651,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 8633
+        },
+        "username": "nonoome3",
+        "verified": false
+      }
+    ]
+  }
+}

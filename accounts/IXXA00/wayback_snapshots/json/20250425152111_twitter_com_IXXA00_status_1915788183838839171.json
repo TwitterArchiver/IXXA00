@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1915788132467027968"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1915788183838839171",
+    "created_at": "2025-04-25T15:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T16:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915788183838839171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OnKwGTt0Cv",
+          "end": 23,
+          "expanded_url": "https://x.com/IXXA00/status/1915788183838839171/video/1",
+          "media_key": "7_1915788132467027968",
+          "start": 0,
+          "url": "https://t.co/OnKwGTt0Cv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915788183838839171",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OnKwGTt0Cv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27263,
+        "height": 720,
+        "media_key": "7_1915788132467027968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915788132467027968/pu/img/OTv96cfyCnwInNls.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915788132467027968/pu/vid/avc1/480x270/y8yLdpv-rPd1pHtc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915788132467027968/pu/vid/avc1/640x360/PkimlIMzCI1wjqZT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915788132467027968/pu/vid/avc1/1280x720/ZqcgustyDb5It-WQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915788132467027968/pu/pl/VSJ99TucttFoZsuD.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1915788132467027968"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1915788183838839171",
+        "created_at": "2025-04-25T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915788183838839171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnKwGTt0Cv",
+              "end": 23,
+              "expanded_url": "https://x.com/IXXA00/status/1915788183838839171/video/1",
+              "media_key": "7_1915788132467027968",
+              "start": 0,
+              "url": "https://t.co/OnKwGTt0Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915788183838839171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OnKwGTt0Cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，加了糖，也下了毒。有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1915215627545162231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914587294960644096/GIbUxxih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 2942,
+          "like_count": 20507,
+          "listed_count": 7,
+          "media_count": 1450,
+          "tweet_count": 19859
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1911977998548713734",
+    "created_at": "2025-04-15T03:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T04:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911992831759274113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838756500824821762",
+          "start": 0,
+          "username": "1073498082Jason"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911992831759274113",
+    "in_reply_to_user_id": "1838756500824821762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911992221513179146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1073498082Jason 不认识字吗？鱿鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1911977998548713734",
+        "created_at": "2025-04-15T03:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T04:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911992831759274113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838756500824821762",
+              "start": 0,
+              "username": "1073498082Jason"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911992831759274113",
+        "in_reply_to_user_id": "1838756500824821762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911992221513179146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1073498082Jason 不认识字吗？鱿鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838756500824821762",
+        "conversation_id": "1911977998548713734",
+        "created_at": "2025-04-15T03:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T04:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911992221513179146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911992221513179146",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911977998548713734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 鱿鱼还是鲍鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷甜酒(72度)/群聊897633421/🚪52，只聊天，女朋友：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "1909399051709411589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911601116623654912/TfVBwcq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3620,
+          "following_count": 2931,
+          "like_count": 19912,
+          "listed_count": 7,
+          "media_count": 1397,
+          "tweet_count": 19226
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T01:44:57.000Z",
+        "description": "大硬长",
+        "id": "1838756500824821762",
+        "location": "常州",
+        "name": "Jason",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838756580143370240/IovrvrVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "1073498082Jason",
+        "verified": false
+      }
+    ]
+  }
+}

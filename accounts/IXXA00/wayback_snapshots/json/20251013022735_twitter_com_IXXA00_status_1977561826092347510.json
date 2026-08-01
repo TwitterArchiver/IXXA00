@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1977245362982416642",
+    "created_at": "2025-10-13T02:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T03:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977561826092347510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1687165175118671872",
+          "start": 0,
+          "username": "qqazd168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977561826092347510",
+    "in_reply_to_user_id": "1687165175118671872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977545290220785664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqazd168 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1977245362982416642",
+        "created_at": "2025-10-13T02:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T03:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977561826092347510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687165175118671872",
+              "start": 0,
+              "username": "qqazd168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977561826092347510",
+        "in_reply_to_user_id": "1687165175118671872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977545290220785664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqazd168 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687165175118671872",
+        "conversation_id": "1977245362982416642",
+        "created_at": "2025-10-13T01:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T02:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977545290220785664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977545290220785664",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977245362982416642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不好笑😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。/有🚪谢谢",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 3913,
+          "like_count": 30067,
+          "listed_count": 9,
+          "media_count": 2228,
+          "tweet_count": 30069
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T18:15:07.000Z",
+        "description": "",
+        "id": "1687165175118671872",
+        "name": "donk666 ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953871417747148800/QVWlZle1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 44,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 78
+        },
+        "username": "qqazd168",
+        "verified": false
+      }
+    ]
+  }
+}

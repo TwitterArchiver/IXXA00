@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028666811299086336"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2028666839640027423",
+    "created_at": "2026-03-03T03:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028666839640027423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OgUzZaVt3Y",
+          "end": 30,
+          "expanded_url": "https://x.com/IXXA00/status/2028666839640027423/photo/1",
+          "media_key": "3_2028666811299086336",
+          "start": 7,
+          "url": "https://t.co/OgUzZaVt3Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028666839640027423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "串子(猪肉) https://t.co/OgUzZaVt3Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3312,
+        "media_key": "3_2028666811299086336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdFt28bQAALPBQ.jpg",
+        "width": 2156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028666811299086336"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028666839640027423",
+        "created_at": "2026-03-03T03:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028666839640027423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgUzZaVt3Y",
+              "end": 30,
+              "expanded_url": "https://x.com/IXXA00/status/2028666839640027423/photo/1",
+              "media_key": "3_2028666811299086336",
+              "start": 7,
+              "url": "https://t.co/OgUzZaVt3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028666839640027423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "串子(猪肉) https://t.co/OgUzZaVt3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是麦的。",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 4482,
+          "like_count": 36102,
+          "listed_count": 14,
+          "media_count": 2628,
+          "tweet_count": 36237
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926625246045499469",
+    "created_at": "2025-05-25T13:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T14:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926626111540047978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817340336169181185",
+          "start": 0,
+          "username": "sanzaigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926626111540047978",
+    "in_reply_to_user_id": "1817340336169181185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926625653681484234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanzaigui 怎么了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926625246045499469",
+        "created_at": "2025-05-25T13:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T14:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926626111540047978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817340336169181185",
+              "start": 0,
+              "username": "sanzaigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926626111540047978",
+        "in_reply_to_user_id": "1817340336169181185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926625653681484234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanzaigui 怎么了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817340336169181185",
+        "conversation_id": "1926625246045499469",
+        "created_at": "2025-05-25T13:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T14:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926625653681484234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926625653681484234",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926625246045499469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ？你怎么个事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1926304021137985851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 3025,
+          "like_count": 22173,
+          "listed_count": 7,
+          "media_count": 1597,
+          "tweet_count": 21589
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T23:25:02.000Z",
+        "description": "喜欢看瑟瑟",
+        "id": "1817340336169181185",
+        "location": "廊坊",
+        "name": "白嫖怪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913234672047587328/YGOPhXW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 25,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 187
+        },
+        "username": "sanzaigui",
+        "verified": false
+      }
+    ]
+  }
+}

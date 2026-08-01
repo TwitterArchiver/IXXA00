@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1958423487577829775",
+    "created_at": "2025-08-21T07:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T08:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958426061634703625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958426061634703625",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958425335873343741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 皮给你扒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1958423487577829775",
+        "created_at": "2025-08-21T07:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958426061634703625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958426061634703625",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958425335873343741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 皮给你扒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1958423487577829775",
+        "created_at": "2025-08-21T07:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958425335873343741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958425335873343741",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958423487577829775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这样弄你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3893,
+          "following_count": 3324,
+          "like_count": 27533,
+          "listed_count": 7,
+          "media_count": 2051,
+          "tweet_count": 27339
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "自用丛雨云VPN https://t.co/5irPir20yo",
+        "id": "1666599054917218305",
+        "name": "Ultimate One.Kira",
+        "pinned_tweet_id": "1956219681850974600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956577316844474368/oUu7PFAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17022,
+          "following_count": 2793,
+          "like_count": 53664,
+          "listed_count": 23,
+          "media_count": 376,
+          "tweet_count": 17386
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

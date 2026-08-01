@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2063377829623112189",
+    "created_at": "2026-06-07T19:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063703709264249309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807097305067130880",
+          "start": 0,
+          "username": "tompsinsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063703709264249309",
+    "in_reply_to_user_id": "1807097305067130880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063637232137769445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tompsinsky 心之钢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2063377829623112189",
+        "created_at": "2026-06-07T19:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063703709264249309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807097305067130880",
+              "start": 0,
+              "username": "tompsinsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063703709264249309",
+        "in_reply_to_user_id": "1807097305067130880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063637232137769445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tompsinsky 心之钢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807097305067130880",
+        "conversation_id": "2063377829623112189",
+        "created_at": "2026-06-07T15:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063637232137769445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063637232137769445",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063377829623112189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主包胸怎么练的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 4521,
+          "like_count": 41389,
+          "listed_count": 18,
+          "media_count": 3010,
+          "tweet_count": 41019
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:02:43.000Z",
+        "description": "多伦多 男娘爱好者 缚手 约克大学phd",
+        "id": "1807097305067130880",
+        "location": "卡尔克萨 哈利湖",
+        "name": "tompsinsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918823208658014209/g-cLCvhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 258,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 98
+        },
+        "username": "tompsinsky",
+        "verified": false
+      }
+    ]
+  }
+}

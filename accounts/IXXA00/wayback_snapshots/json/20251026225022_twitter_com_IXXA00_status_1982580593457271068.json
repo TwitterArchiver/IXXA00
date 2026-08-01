@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982293281129308412",
+    "created_at": "2025-10-26T22:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T23:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982580593457271068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1572532372347953154",
+          "start": 0,
+          "username": "preferredwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982580593457271068",
+    "in_reply_to_user_id": "1572532372347953154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982516800496779381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@preferredwm 在动了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-26T22:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T23:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982580593457271068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572532372347953154",
+              "start": 0,
+              "username": "preferredwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982580593457271068",
+        "in_reply_to_user_id": "1572532372347953154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982516800496779381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@preferredwm 在动了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572532372347953154",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-26T18:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982516800496779381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982516800496779381",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982293281129308412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 想要，就去行动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4711,
+          "following_count": 4162,
+          "like_count": 30720,
+          "listed_count": 10,
+          "media_count": 2267,
+          "tweet_count": 30761
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T10:25:18.000Z",
+        "description": "genZ/Founder/AI/ENTP\nWELCOME TO MY WORLD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2wood.cn",
+                "end": 23,
+                "expanded_url": "https://2wood.cn",
+                "start": 0,
+                "url": "https://t.co/Mk63NbFTTW"
+              }
+            ]
+          }
+        },
+        "id": "1572532372347953154",
+        "location": "Antarctica",
+        "name": "preferred",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966815606336090113/rmSO_mZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 954,
+          "like_count": 4027,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/Mk63NbFTTW",
+        "username": "preferredwm",
+        "verified": true
+      }
+    ]
+  }
+}

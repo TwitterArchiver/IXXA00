@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926110344344117468",
+    "created_at": "2025-05-24T11:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T12:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926238515831910669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490351006097371138",
+          "start": 0,
+          "username": "Akrin_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926238515831910669",
+    "in_reply_to_user_id": "1490351006097371138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926235642448495043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akrin_QWQ 怎么啦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926235642448495043].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926235642448495043",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926235642448495043"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926110344344117468",
+        "created_at": "2025-05-24T11:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T12:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926238515831910669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490351006097371138",
+              "start": 0,
+              "username": "Akrin_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926238515831910669",
+        "in_reply_to_user_id": "1490351006097371138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926235642448495043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akrin_QWQ 怎么啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1925842594208023028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3681,
+          "following_count": 3020,
+          "like_count": 22106,
+          "listed_count": 7,
+          "media_count": 1590,
+          "tweet_count": 21523
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T15:46:45.000Z",
+        "description": "一只阿卡林/mtf🏳️‍⚧️/不定期消失/同類互fo学生/❤️@Somonis42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Somonis42"
+              }
+            ]
+          }
+        },
+        "id": "1490351006097371138",
+        "location": "127.0.0.1",
+        "name": "𝗔𝗸𝗮𝗿𝗶𝗻",
+        "pinned_tweet_id": "1840976568761332109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875397750583652352/Roja5db4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1164,
+          "like_count": 98015,
+          "listed_count": 4,
+          "media_count": 253,
+          "tweet_count": 6045
+        },
+        "username": "Akrin_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T07:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043957089442377931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2029786312103055363",
+          "start": 0,
+          "username": "M1KA0215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043957089442377931",
+    "in_reply_to_user_id": "2029786312103055363",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043939703007916210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M1KA0215 合味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T07:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043957089442377931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2029786312103055363",
+              "start": 0,
+              "username": "M1KA0215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043957089442377931",
+        "in_reply_to_user_id": "2029786312103055363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043939703007916210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1KA0215 合味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029786312103055363",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T06:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043939703007916210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043939703007916210",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 hyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 4395,
+          "like_count": 37492,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37831
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T05:09:21.000Z",
+        "description": "",
+        "id": "2029786312103055363",
+        "name": "M1KA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029786390377234432/HtBO1n62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "M1KA0215",
+        "verified": false
+      }
+    ]
+  }
+}

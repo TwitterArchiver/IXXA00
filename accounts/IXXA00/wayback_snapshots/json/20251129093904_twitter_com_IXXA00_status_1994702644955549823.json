@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1994700033086951688",
+    "created_at": "2025-11-29T09:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T10:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994702644955549823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1931057827818450944",
+          "start": 0,
+          "username": "YIYANG1573067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994702644955549823",
+    "in_reply_to_user_id": "1931057827818450944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994701554881106022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YIYANG1573067 有耐心的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1994700033086951688",
+        "created_at": "2025-11-29T09:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994702644955549823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931057827818450944",
+              "start": 0,
+              "username": "YIYANG1573067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994702644955549823",
+        "in_reply_to_user_id": "1931057827818450944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994701554881106022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YIYANG1573067 有耐心的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931057827818450944",
+        "conversation_id": "1994700033086951688",
+        "created_at": "2025-11-29T09:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994701554881106022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994701554881106022",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994700033086951688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 谁这么幸运咯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪(限时半绿聊天/纯绿线下)。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5622,
+          "following_count": 4553,
+          "like_count": 33901,
+          "listed_count": 11,
+          "media_count": 2423,
+          "tweet_count": 33446
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T18:37:28.000Z",
+        "description": "",
+        "id": "1931057827818450944",
+        "name": "YIYANG",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 224,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "YIYANG1573067",
+        "verified": false
+      }
+    ]
+  }
+}

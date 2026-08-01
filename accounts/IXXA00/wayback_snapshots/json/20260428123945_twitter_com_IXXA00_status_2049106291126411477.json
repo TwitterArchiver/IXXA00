@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049104637886935190",
+    "created_at": "2026-04-28T12:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049106291126411477"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049106291126411477",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049104637886935190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好丑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2049103634248671232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_g5hNaoAAqddt.png",
+        "width": 437
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049104637886935190",
+        "created_at": "2026-04-28T12:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049106291126411477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049106291126411477",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049104637886935190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好丑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049103634248671232"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049104637886935190",
+        "created_at": "2026-04-28T12:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049104637886935190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDvUiaYq2s",
+              "end": 42,
+              "expanded_url": "https://x.com/IXXA00/status/2049104637886935190/photo/1",
+              "media_key": "3_2049103634248671232",
+              "start": 19,
+              "url": "https://t.co/WDvUiaYq2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049104637886935190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "营业还得继续。ε=(´ο｀*)))唉 https://t.co/WDvUiaYq2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6997,
+          "following_count": 4482,
+          "like_count": 38883,
+          "listed_count": 19,
+          "media_count": 2796,
+          "tweet_count": 38908
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

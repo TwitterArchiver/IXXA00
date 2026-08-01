@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1943335766035509404",
+    "created_at": "2025-07-10T23:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T00:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943455459035484456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "397807690",
+          "start": 0,
+          "username": "hide1983away"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943455459035484456",
+    "in_reply_to_user_id": "397807690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943450382589661339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hide1983away 不管你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1943335766035509404",
+        "created_at": "2025-07-10T23:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T00:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943455459035484456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397807690",
+              "start": 0,
+              "username": "hide1983away"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943455459035484456",
+        "in_reply_to_user_id": "397807690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943450382589661339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hide1983away 不管你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "397807690",
+        "conversation_id": "1943335766035509404",
+        "created_at": "2025-07-10T23:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T00:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943450382589661339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943450382589661339",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943449263327056328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你也没加限定词啊\n\n我看着这里热闹就排队报名了啊\n\n这个是我的错吗🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "91年/1x岁/170/76kg，梦想是在酒吧坐台。",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1943302738663870950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 3151,
+          "like_count": 25611,
+          "listed_count": 6,
+          "media_count": 1872,
+          "tweet_count": 25122
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-25T05:33:37.000Z",
+        "description": "人肉翻墙成功🤡",
+        "id": "397807690",
+        "location": "Japan",
+        "name": "Da～盘桑🎌 🎌🎌🇯🇵🧊🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347754596697980932/ZapNT50u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 2202,
+          "like_count": 79030,
+          "listed_count": 11,
+          "media_count": 2557,
+          "tweet_count": 71866
+        },
+        "username": "hide1983away",
+        "verified": false
+      }
+    ]
+  }
+}

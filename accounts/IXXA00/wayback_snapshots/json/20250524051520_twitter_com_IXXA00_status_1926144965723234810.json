@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1926144964276137985"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926144965723234810",
+    "created_at": "2025-05-24T05:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T06:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926144965723234810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1926144965723234810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "假发用"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 15,
+        "end_datetime": "2025-05-24T05:30:20.000Z",
+        "id": "1926144964276137985",
+        "options": [
+          {
+            "label": "白金色大波浪",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "黑色短发",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "亚麻色长发",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "蓝粉赛博朋克",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1926144964276137985"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926144965723234810",
+        "created_at": "2025-05-24T05:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T06:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926144965723234810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926144965723234810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假发用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1925842594208023028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 3018,
+          "like_count": 22069,
+          "listed_count": 7,
+          "media_count": 1587,
+          "tweet_count": 21495
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

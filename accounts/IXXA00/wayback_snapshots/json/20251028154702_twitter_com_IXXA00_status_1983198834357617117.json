@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982490086194471035",
+    "created_at": "2025-10-28T15:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T16:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983198834357617117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1760511593241096192",
+          "start": 0,
+          "username": "Aaron19910101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983198834357617117",
+    "in_reply_to_user_id": "1760511593241096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983198764425965847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaron19910101 不该问的不要问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-28T15:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983198834357617117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1760511593241096192",
+              "start": 0,
+              "username": "Aaron19910101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983198834357617117",
+        "in_reply_to_user_id": "1760511593241096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983198764425965847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaron19910101 不该问的不要问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760511593241096192",
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-28T15:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983198764425965847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983198764425965847",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983198529926644127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那是啥米呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4909,
+          "following_count": 4353,
+          "like_count": 31295,
+          "listed_count": 11,
+          "media_count": 2280,
+          "tweet_count": 31117
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T03:47:45.000Z",
+        "description": "",
+        "id": "1760511593241096192",
+        "name": "Aaron",
+        "pinned_tweet_id": "1973585088584753547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820985970335838208/O64YqQq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 713,
+          "like_count": 64615,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 4115
+        },
+        "username": "Aaron19910101",
+        "verified": false
+      }
+    ]
+  }
+}

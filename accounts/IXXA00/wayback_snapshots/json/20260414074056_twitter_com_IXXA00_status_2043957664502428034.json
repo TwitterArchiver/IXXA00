@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T07:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043957664502428034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762436539370639361",
+          "start": 0,
+          "username": "W0119__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043957664502428034",
+    "in_reply_to_user_id": "1762436539370639361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043933761935683710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@W0119__ 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T07:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043957664502428034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762436539370639361",
+              "start": 0,
+              "username": "W0119__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043957664502428034",
+        "in_reply_to_user_id": "1762436539370639361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043933761935683710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@W0119__ 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762436539370639361",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T06:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043933761935683710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043933761935683710",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 现已全职在家钻研这句话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 4395,
+          "like_count": 37506,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37841
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T11:16:36.000Z",
+        "description": "05｜AI重度使用者｜web3新人｜长期主义｜个人IP塑造中\n\n日常分享AI资讯、github项目、成长经验\n欢迎链接我：zhouwei6667777",
+        "id": "1762436539370639361",
+        "location": "深圳",
+        "name": "鱼丸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043622929620258816/9OIItJbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 83,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 239
+        },
+        "username": "W0119__",
+        "verified": true
+      }
+    ]
+  }
+}

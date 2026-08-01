@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1968563597669482762",
+    "created_at": "2025-10-06T14:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975205410169868292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1644164334573027329",
+          "start": 0,
+          "username": "GNMB00"
+        },
+        {
+          "end": 15,
+          "id": "1872601118548860928",
+          "start": 8,
+          "username": "ouduin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975205410169868292",
+    "in_reply_to_user_id": "1644164334573027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975205338350833769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNMB00 @ouduin 找你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1968563597669482762",
+        "created_at": "2025-10-06T14:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975205410169868292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1644164334573027329",
+              "start": 0,
+              "username": "GNMB00"
+            },
+            {
+              "end": 15,
+              "id": "1872601118548860928",
+              "start": 8,
+              "username": "ouduin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975205410169868292",
+        "in_reply_to_user_id": "1644164334573027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975205338350833769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNMB00 @ouduin 找你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644164334573027329",
+        "conversation_id": "1968563597669482762",
+        "created_at": "2025-10-06T14:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975205338350833769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1872601118548860928",
+              "start": 0,
+              "username": "ouduin"
+            },
+            {
+              "end": 15,
+              "id": "1739391734491086848",
+              "start": 8,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975205338350833769",
+        "in_reply_to_user_id": "1872601118548860928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975184835628155055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouduin @ixxa00有人找你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4266,
+          "following_count": 3739,
+          "like_count": 29647,
+          "listed_count": 9,
+          "media_count": 2216,
+          "tweet_count": 29800
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T02:25:26.000Z",
+        "description": "普通路过小猫，Median谱系中间者，其他的表达方式@ixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "ixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1644164334573027329",
+        "name": "小猫本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970784826124054528/RKNEwecL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 116,
+          "like_count": 13541,
+          "listed_count": 1,
+          "media_count": 603,
+          "tweet_count": 11480
+        },
+        "username": "GNMB00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T11:12:06.000Z",
+        "description": "0411，厌蠢，厌欺骗，厌不讲理，厌言而无信。",
+        "id": "1872601118548860928",
+        "location": "-15cm",
+        "name": "放逐者",
+        "pinned_tweet_id": "1890928224579867083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905558824603582465/2CXJiB6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 198,
+          "like_count": 2675,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2007
+        },
+        "username": "ouduin",
+        "verified": false
+      }
+    ]
+  }
+}

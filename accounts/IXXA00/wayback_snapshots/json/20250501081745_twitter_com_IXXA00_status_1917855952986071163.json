@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1917855952986071163",
+    "created_at": "2025-05-01T08:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T09:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917855952986071163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/IXXA00/status/1917726505452593447",
+          "start": 20,
+          "url": "https://t.co/2VDiHl1Hc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917855952986071163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917726505452593447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爽了，谢谢你们，以后优先给你们看扔子。 https://t.co/2VDiHl1Hc5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1917855952986071163",
+        "created_at": "2025-05-01T08:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917855952986071163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/IXXA00/status/1917726505452593447",
+              "start": 20,
+              "url": "https://t.co/2VDiHl1Hc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917855952986071163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917726505452593447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爽了，谢谢你们，以后优先给你们看扔子。 https://t.co/2VDiHl1Hc5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1917726505452593447",
+        "created_at": "2025-04-30T23:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T00:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917726505452593447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917726505452593447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夸我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1916674712316641709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3617,
+          "following_count": 2953,
+          "like_count": 20896,
+          "listed_count": 7,
+          "media_count": 1483,
+          "tweet_count": 20229
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

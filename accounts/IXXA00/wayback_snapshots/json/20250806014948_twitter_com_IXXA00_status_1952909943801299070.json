@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1952557480036487454",
+    "created_at": "2025-08-06T01:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952909943801299070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1648780829458571264",
+          "start": 0,
+          "username": "Delia99881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952909943801299070",
+    "in_reply_to_user_id": "1648780829458571264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952905281798848988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Delia99881 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1952557480036487454",
+        "created_at": "2025-08-06T01:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952909943801299070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1648780829458571264",
+              "start": 0,
+              "username": "Delia99881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952909943801299070",
+        "in_reply_to_user_id": "1648780829458571264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952905281798848988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Delia99881 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648780829458571264",
+        "conversation_id": "1952557480036487454",
+        "created_at": "2025-08-06T01:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952905281798848988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952905281798848988",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952557480036487454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我只用防晒最多加气垫，手残党不会化妆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓(离异带两百个孩子)",
+        "pinned_tweet_id": "1952031414645576076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3791,
+          "following_count": 3203,
+          "like_count": 26840,
+          "listed_count": 5,
+          "media_count": 1987,
+          "tweet_count": 26447
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T20:10:04.000Z",
+        "description": "允许一切发生",
+        "id": "1648780829458571264",
+        "location": "Irvine, CA",
+        "name": "啊离",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951533214977167360/bJo8TSX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 25,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 172
+        },
+        "username": "Delia99881",
+        "verified": false
+      }
+    ]
+  }
+}

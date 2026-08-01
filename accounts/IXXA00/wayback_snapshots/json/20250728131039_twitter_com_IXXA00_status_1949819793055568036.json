@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1949819791973535744"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1949819793055568036",
+    "created_at": "2025-07-28T13:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T14:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949819793055568036"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949819793055568036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头像够还原吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-07-29T13:10:38.000Z",
+        "id": "1949819791973535744",
+        "options": [
+          {
+            "label": "是本人",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "很还原",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "非常像",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "不像的评论说方便我拉黑",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1949819791973535744"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1949819793055568036",
+        "created_at": "2025-07-28T13:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949819793055568036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949819793055568036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头像够还原吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "麦当劳在逃服务员isla",
+        "pinned_tweet_id": "1949816247232979020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949819300392710144/BQK6xIVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3761,
+          "following_count": 3167,
+          "like_count": 26503,
+          "listed_count": 5,
+          "media_count": 1953,
+          "tweet_count": 26025
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

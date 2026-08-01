@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2073632998197772707",
+    "created_at": "2026-07-07T02:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074324238308458888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504273495605198855",
+          "start": 0,
+          "username": "cfgzb123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074324238308458888",
+    "in_reply_to_user_id": "1504273495605198855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074319484396224769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cfgzb123 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2073632998197772707",
+        "created_at": "2026-07-07T02:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074324238308458888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504273495605198855",
+              "start": 0,
+              "username": "cfgzb123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074324238308458888",
+        "in_reply_to_user_id": "1504273495605198855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074319484396224769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cfgzb123 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504273495605198855",
+        "conversation_id": "2073632998197772707",
+        "created_at": "2026-07-07T02:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074319484396224769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074319484396224769",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073632998197772707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 啊啊啊好美！啊啊啊好帅！！！\n人类审美的塔尖大概就是这样的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "谢谢你。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7489,
+          "following_count": 4540,
+          "like_count": 42822,
+          "listed_count": 18,
+          "media_count": 3120,
+          "tweet_count": 42283
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-17T01:48:55.000Z",
+        "description": "",
+        "id": "1504273495605198855",
+        "location": "Jakarta, Indonesia🌏",
+        "name": "拔累拔累",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895123931973197824/u3OgXbat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 66,
+          "like_count": 9352,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "cfgzb123",
+        "verified": false
+      }
+    ]
+  }
+}

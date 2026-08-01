@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T05:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043920232226717827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907813119566704640",
+          "start": 0,
+          "username": "8964shadow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043920232226717827",
+    "in_reply_to_user_id": "1907813119566704640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043918782490366091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964shadow 😰😰😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T05:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043920232226717827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1907813119566704640",
+              "start": 0,
+              "username": "8964shadow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043920232226717827",
+        "in_reply_to_user_id": "1907813119566704640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043918782490366091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964shadow 😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907813119566704640",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T05:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043918782490366091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043918782490366091",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 【菜乌驿站】：……先生您的包裹逾期未取，发出的震动声响已吓跑多名客人，严重影响驿站经营，请尽快取。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 4396,
+          "like_count": 37397,
+          "listed_count": 16,
+          "media_count": 2716,
+          "tweet_count": 37776
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:11:21.000Z",
+        "description": "自由是人应该享受的权利。粉红除外，粉红不是人",
+        "id": "1907813119566704640",
+        "name": "侯国玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908677638509731840/wJ40HkhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 134,
+          "like_count": 32544,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 2248
+        },
+        "username": "8964shadow",
+        "verified": false
+      }
+    ]
+  }
+}

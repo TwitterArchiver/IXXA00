@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2015957201337385171",
+    "created_at": "2026-01-27T03:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015992323444965578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718275785948286976",
+          "start": 0,
+          "username": "Tinkles_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015992323444965578",
+    "in_reply_to_user_id": "1718275785948286976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015991636938129615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinkles_12 没关系，小贱人，过两天就会觉得自己又行了，加油🫶🏻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015991636938129615].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015991636938129615",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015991636938129615"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2015957201337385171",
+        "created_at": "2026-01-27T03:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015992323444965578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718275785948286976",
+              "start": 0,
+              "username": "Tinkles_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015992323444965578",
+        "in_reply_to_user_id": "1718275785948286976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015991636938129615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinkles_12 没关系，小贱人，过两天就会觉得自己又行了，加油🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "失温。欢迎来看主包：抖子43707218480，曼波：https://t.co/UDk836tI8A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 50,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 27,
+                "url": "https://t.co/UDk836tI8A"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5668,
+          "following_count": 4486,
+          "like_count": 35707,
+          "listed_count": 12,
+          "media_count": 2587,
+          "tweet_count": 35548
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T14:37:47.000Z",
+        "description": "无趣且乏味，但这就是我。我喜欢变态，但我不是变态。 可爱的Yoyi @L98808Lju  小帮手 @kiriyama_lemon  我蝶→ @IXXA00   \n种族矛盾和立场分歧可以随时代化解，但是正邪永不两立。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "L98808Lju"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kiriyama_lemon"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "username": "IXXA00"
+              }
+            ]
+          }
+        },
+        "id": "1718275785948286976",
+        "location": "哥谭市阿卡姆学院",
+        "name": "丨鎮魂丨Tinkles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008732031925325824/0NrrOM5j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 1621,
+          "like_count": 134170,
+          "listed_count": 15,
+          "media_count": 342,
+          "tweet_count": 18721
+        },
+        "username": "Tinkles_12",
+        "verified": false
+      }
+    ]
+  }
+}

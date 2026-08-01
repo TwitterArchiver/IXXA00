@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043500210220085554",
+    "created_at": "2026-04-13T01:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043500210220085554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875622919201513472",
+          "start": 3,
+          "username": "Donot_cry0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043500210220085554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043185793372402064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Donot_cry0v0: 很讨厌别人突然喜欢上自己一直喜欢很久的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043500210220085554",
+        "created_at": "2026-04-13T01:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043500210220085554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875622919201513472",
+              "start": 3,
+              "username": "Donot_cry0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043500210220085554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043185793372402064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Donot_cry0v0: 很讨厌别人突然喜欢上自己一直喜欢很久的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875622919201513472",
+        "conversation_id": "2043185793372402064",
+        "created_at": "2026-04-12T04:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043185793372402064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043185793372402064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 52599,
+          "like_count": 1618,
+          "quote_count": 16,
+          "reply_count": 60,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "很讨厌别人突然喜欢上自己一直喜欢很久的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6226,
+          "following_count": 4392,
+          "like_count": 37253,
+          "listed_count": 16,
+          "media_count": 2711,
+          "tweet_count": 37652
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T19:18:54.000Z",
+        "description": "我们只能知道对方一半的事情",
+        "id": "1875622919201513472",
+        "name": "Minato",
+        "pinned_tweet_id": "2037461186262728913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262721979490305/Pcbk_VZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 96,
+          "like_count": 1848,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 729
+        },
+        "username": "Donot_cry0v0",
+        "verified": false
+      }
+    ]
+  }
+}

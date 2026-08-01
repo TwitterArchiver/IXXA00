@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1977245362982416642",
+    "created_at": "2025-10-14T04:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T05:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977959658813030545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1964499094207881216",
+          "start": 0,
+          "username": "LxntDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977959658813030545",
+    "in_reply_to_user_id": "1964499094207881216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977948784639533096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LxntDr 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1977245362982416642",
+        "created_at": "2025-10-14T04:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977959658813030545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1964499094207881216",
+              "start": 0,
+              "username": "LxntDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977959658813030545",
+        "in_reply_to_user_id": "1964499094207881216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977948784639533096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LxntDr 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964499094207881216",
+        "conversation_id": "1977245362982416642",
+        "created_at": "2025-10-14T04:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977948784639533096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977948784639533096",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977245362982416642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 别乳躯体化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你不需要了解我那么多。/有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4460,
+          "following_count": 3920,
+          "like_count": 30120,
+          "listed_count": 9,
+          "media_count": 2230,
+          "tweet_count": 30119
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T01:21:02.000Z",
+        "description": "号主是色鬼",
+        "id": "1964499094207881216",
+        "name": "AnzuNagamatu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976680792370925568/kWAExsSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "LxntDr",
+        "verified": false
+      }
+    ]
+  }
+}

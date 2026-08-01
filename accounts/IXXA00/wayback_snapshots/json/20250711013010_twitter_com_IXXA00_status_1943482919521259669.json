@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943482903058403328",
+        "16_1943482906346766336"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1943482919521259669",
+    "created_at": "2025-07-11T01:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T02:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943482919521259669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jgInkj4WUv",
+          "end": 23,
+          "expanded_url": "https://x.com/IXXA00/status/1943482919521259669/photo/1",
+          "media_key": "3_1943482903058403328",
+          "start": 0,
+          "url": "https://t.co/jgInkj4WUv"
+        },
+        {
+          "display_url": "pic.x.com/jgInkj4WUv",
+          "end": 23,
+          "expanded_url": "https://x.com/IXXA00/status/1943482919521259669/photo/1",
+          "media_key": "16_1943482906346766336",
+          "start": 0,
+          "url": "https://t.co/jgInkj4WUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943482919521259669",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/jgInkj4WUv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943482903058403328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvijZz_XUAALq4x.jpg",
+        "width": 2048
+      },
+      {
+        "height": 454,
+        "media_key": "16_1943482906346766336",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GvijaAPXwAA9kqC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GvijaAPXwAA9kqC.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943482903058403328",
+            "16_1943482906346766336"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1943482919521259669",
+        "created_at": "2025-07-11T01:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943482919521259669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgInkj4WUv",
+              "end": 23,
+              "expanded_url": "https://x.com/IXXA00/status/1943482919521259669/photo/1",
+              "media_key": "3_1943482903058403328",
+              "start": 0,
+              "url": "https://t.co/jgInkj4WUv"
+            },
+            {
+              "display_url": "pic.x.com/jgInkj4WUv",
+              "end": 23,
+              "expanded_url": "https://x.com/IXXA00/status/1943482919521259669/photo/1",
+              "media_key": "16_1943482906346766336",
+              "start": 0,
+              "url": "https://t.co/jgInkj4WUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943482919521259669",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jgInkj4WUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "91年/1x岁/170/76kg，梦想是在酒吧坐台。",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1943302738663870950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 3151,
+          "like_count": 25619,
+          "listed_count": 6,
+          "media_count": 1874,
+          "tweet_count": 25129
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

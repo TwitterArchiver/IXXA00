@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983713955722981449",
+    "created_at": "2025-10-30T11:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983855673038512374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1118160765200920576",
+          "start": 0,
+          "username": "Talloran4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983855673038512374",
+    "in_reply_to_user_id": "1118160765200920576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983855598849683488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Talloran4869 你需要休息两天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983713955722981449",
+        "created_at": "2025-10-30T11:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983855673038512374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1118160765200920576",
+              "start": 0,
+              "username": "Talloran4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983855673038512374",
+        "in_reply_to_user_id": "1118160765200920576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983855598849683488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Talloran4869 你需要休息两天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118160765200920576",
+        "conversation_id": "1983713955722981449",
+        "created_at": "2025-10-30T11:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983855598849683488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983855598849683488",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983713955722981449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5084,
+          "following_count": 4517,
+          "like_count": 31625,
+          "listed_count": 11,
+          "media_count": 2290,
+          "tweet_count": 31390
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-16T14:34:35.000Z",
+        "description": "",
+        "id": "1118160765200920576",
+        "location": "黑洞",
+        "name": "塔罗兰🍥(上班上傻了版)",
+        "pinned_tweet_id": "1967639954777161807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906706706161438720/UhiZRYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1724,
+          "like_count": 304844,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7512
+        },
+        "username": "Talloran4869",
+        "verified": false
+      }
+    ]
+  }
+}

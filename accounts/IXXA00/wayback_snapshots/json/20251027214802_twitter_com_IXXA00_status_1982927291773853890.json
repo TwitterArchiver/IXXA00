@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982490086194471035",
+    "created_at": "2025-10-27T21:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T22:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982927291773853890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940118974764916739",
+          "start": 0,
+          "username": "yan97117843341"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982927291773853890",
+    "in_reply_to_user_id": "1940118974764916739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982925222283182563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan97117843341 孩子这并不好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-27T21:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T22:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982927291773853890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940118974764916739",
+              "start": 0,
+              "username": "yan97117843341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982927291773853890",
+        "in_reply_to_user_id": "1940118974764916739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982925222283182563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan97117843341 孩子这并不好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940118974764916739",
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-27T21:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T22:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982925222283182563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982925222283182563",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982490086194471035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 看来是好吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4863,
+          "following_count": 4282,
+          "like_count": 30998,
+          "listed_count": 11,
+          "media_count": 2274,
+          "tweet_count": 30941
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T18:43:11.000Z",
+        "description": "₍˄꜆𓈒˕𓈒꜀˄₎",
+        "id": "1940118974764916739",
+        "name": "盐水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980668564374757377/lIYSOxx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "yan97117843341",
+        "verified": false
+      }
+    ]
+  }
+}

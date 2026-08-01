@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2069291184200315180",
+    "created_at": "2026-06-23T06:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069311315756355736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012929733621600258",
+          "start": 0,
+          "username": "linyan25355617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069311315756355736",
+    "in_reply_to_user_id": "2012929733621600258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069311221229302083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyan25355617 我抽的不多，一天10根吧，最多的时候。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2069291184200315180",
+        "created_at": "2026-06-23T06:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069311315756355736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012929733621600258",
+              "start": 0,
+              "username": "linyan25355617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069311315756355736",
+        "in_reply_to_user_id": "2012929733621600258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069311221229302083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyan25355617 我抽的不多，一天10根吧，最多的时候。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012929733621600258",
+        "conversation_id": "2069291184200315180",
+        "created_at": "2026-06-23T06:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069311221229302083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069311221229302083",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069291184200315180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 😳那得一天多少根"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "🎺：@islaixxa00/有亲密关系。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2068342882751349213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7363,
+          "following_count": 4522,
+          "like_count": 42180,
+          "listed_count": 18,
+          "media_count": 3061,
+          "tweet_count": 41649
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T16:47:19.000Z",
+        "description": "平庸，平凡",
+        "id": "2012929733621600258",
+        "name": "瓶中船",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "linyan25355617",
+        "verified": false
+      }
+    ]
+  }
+}

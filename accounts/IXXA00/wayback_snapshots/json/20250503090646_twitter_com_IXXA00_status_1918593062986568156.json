@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918312935803551998",
+    "created_at": "2025-05-03T09:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T10:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918593062986568156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1199138410704715776",
+          "start": 0,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918593062986568156",
+    "in_reply_to_user_id": "1199138410704715776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918583452645155064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_R_001 我玩抽象呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918312935803551998",
+        "created_at": "2025-05-03T09:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T10:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918593062986568156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918593062986568156",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918583452645155064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 我玩抽象呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "1918312935803551998",
+        "created_at": "2025-05-03T08:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T09:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918583452645155064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918583452645155064",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918312935803551998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你这个号最开始不就是用来骂人的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3631,
+          "following_count": 2958,
+          "like_count": 21035,
+          "listed_count": 7,
+          "media_count": 1496,
+          "tweet_count": 20375
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "我每天对着空气和人笑",
+        "id": "1199138410704715776",
+        "location": "せかい",
+        "name": "lr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918585873412833281/zkUpdSON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 1039,
+          "like_count": 3118,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2305
+        },
+        "username": "L_R_001",
+        "verified": false
+      }
+    ]
+  }
+}

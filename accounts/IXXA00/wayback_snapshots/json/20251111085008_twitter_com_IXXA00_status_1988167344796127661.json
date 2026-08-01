@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1988132135623102884",
+    "created_at": "2025-11-11T08:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T09:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988167344796127661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1980634834344251392",
+          "start": 0,
+          "username": "T561748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988167344796127661",
+    "in_reply_to_user_id": "1980634834344251392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988163804354806026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T561748 那就是162"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1988132135623102884",
+        "created_at": "2025-11-11T08:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988167344796127661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1980634834344251392",
+              "start": 0,
+              "username": "T561748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988167344796127661",
+        "in_reply_to_user_id": "1980634834344251392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988163804354806026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T561748 那就是162"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980634834344251392",
+        "conversation_id": "1988132135623102884",
+        "created_at": "2025-11-11T08:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988163804354806026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988163804354806026",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988132135623102884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那就是165"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我只想做自己，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 4551,
+          "like_count": 32891,
+          "listed_count": 11,
+          "media_count": 2338,
+          "tweet_count": 32377
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T13:58:49.000Z",
+        "description": "但我不是二次元",
+        "id": "1980634834344251392",
+        "name": "我怎么会是二次元？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980635678116339712/dMbJVhaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 86,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 107
+        },
+        "username": "T561748",
+        "verified": false
+      }
+    ]
+  }
+}

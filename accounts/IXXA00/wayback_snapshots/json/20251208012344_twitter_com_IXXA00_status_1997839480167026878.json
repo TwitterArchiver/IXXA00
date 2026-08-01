@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1997641248069337218",
+    "created_at": "2025-12-08T01:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T02:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997839480167026878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878319737912147968",
+          "start": 0,
+          "username": "zendofree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997839480167026878",
+    "in_reply_to_user_id": "1878319737912147968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997835271057125545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zendofree 怎么能不ins字呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1997641248069337218",
+        "created_at": "2025-12-08T01:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T02:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997839480167026878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878319737912147968",
+              "start": 0,
+              "username": "zendofree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997839480167026878",
+        "in_reply_to_user_id": "1878319737912147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997835271057125545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zendofree 怎么能不ins字呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878319737912147968",
+        "conversation_id": "1997641248069337218",
+        "created_at": "2025-12-08T01:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T02:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997835271057125545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997835271057125545",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997641248069337218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 它不印思字啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "直播从来不穿裤子。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5618,
+          "following_count": 4547,
+          "like_count": 34368,
+          "listed_count": 11,
+          "media_count": 2453,
+          "tweet_count": 33883
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T05:55:15.000Z",
+        "description": "那一天，我也将沉静着走下山去，扶着我的拐杖。",
+        "id": "1878319737912147968",
+        "name": "北城gai溜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980841017013112832/v_NA8LH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 106,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 178
+        },
+        "username": "zendofree",
+        "verified": false
+      }
+    ]
+  }
+}

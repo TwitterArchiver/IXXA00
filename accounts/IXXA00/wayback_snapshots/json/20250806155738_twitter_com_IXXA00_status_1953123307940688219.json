@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1952557480036487454",
+    "created_at": "2025-08-06T15:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T16:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953123307940688219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1665229973958033414",
+          "start": 0,
+          "username": "judyisjuicy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953123307940688219",
+    "in_reply_to_user_id": "1665229973958033414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953122585840877876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@judyisjuicy 对，挑个三步五步的做就完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1952557480036487454",
+        "created_at": "2025-08-06T15:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953123307940688219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1665229973958033414",
+              "start": 0,
+              "username": "judyisjuicy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953123307940688219",
+        "in_reply_to_user_id": "1665229973958033414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953122585840877876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@judyisjuicy 对，挑个三步五步的做就完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665229973958033414",
+        "conversation_id": "1952557480036487454",
+        "created_at": "2025-08-06T15:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953122585840877876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953122585840877876",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952557480036487454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 还真是，画好底妆是第一个阶段也是日常最实用的阶段，然后第二个阶段是眼妆，第三个阶段是细节精修。社畜日常95%的场合是做到1.5，15-30分钟内能搞定的底妆+简单眼妆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓(离异带两百个孩子)",
+        "pinned_tweet_id": "1952031414645576076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3806,
+          "following_count": 3221,
+          "like_count": 26920,
+          "listed_count": 5,
+          "media_count": 1990,
+          "tweet_count": 26535
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T05:32:35.000Z",
+        "description": "厂妹，#nyc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "nyc"
+              }
+            ]
+          }
+        },
+        "id": "1665229973958033414",
+        "location": "Manhattan, NY",
+        "name": "🍵Ayako🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906131304594415616/KzrpZ8Tz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 129,
+          "like_count": 1043,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 1043
+        },
+        "username": "judyisjuicy",
+        "verified": false
+      }
+    ]
+  }
+}

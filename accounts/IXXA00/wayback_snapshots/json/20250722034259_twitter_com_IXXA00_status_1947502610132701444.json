@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947490738540843413",
+    "created_at": "2025-07-22T03:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947502610132701444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632210543112261634",
+          "start": 0,
+          "username": "frip2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947502610132701444",
+    "in_reply_to_user_id": "1632210543112261634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947501999366586570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frip2021 对哦我现在可以玩ins了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947490738540843413",
+        "created_at": "2025-07-22T03:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947502610132701444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632210543112261634",
+              "start": 0,
+              "username": "frip2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947502610132701444",
+        "in_reply_to_user_id": "1632210543112261634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947501999366586570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frip2021 对哦我现在可以玩ins了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632210543112261634",
+        "conversation_id": "1947490738540843413",
+        "created_at": "2025-07-22T03:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947501999366586570"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Instagram",
+              "probability": 0.9784,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947501999366586570",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947490738540843413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 Instagram"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 3155,
+          "like_count": 26213,
+          "listed_count": 5,
+          "media_count": 1925,
+          "tweet_count": 25722
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T02:45:32.000Z",
+        "description": "This s yasushi CH,En/09/China-TO-Poland：i m learning the biology, gonna be a biological role in this world 🌎.I love fripSide@ban_mao98052 @misakamiko74399",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 138,
+                "username": "misakamiko74399"
+              }
+            ]
+          }
+        },
+        "id": "1632210543112261634",
+        "location": "Poland, OH",
+        "name": "Yasushi Lee",
+        "pinned_tweet_id": "1697112832234668292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947343338795110402/TRl7bGgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 1468,
+          "like_count": 8840,
+          "listed_count": 6,
+          "media_count": 610,
+          "tweet_count": 3034
+        },
+        "username": "frip2021",
+        "verified": false
+      }
+    ]
+  }
+}

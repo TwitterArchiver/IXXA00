@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905045400136175616"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1904718941726937397",
+    "created_at": "2025-03-26T23:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T00:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905045405618041003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1767914444674490368",
+          "start": 0,
+          "username": "hanana7767"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z8VUBQZexY",
+          "end": 42,
+          "expanded_url": "https://x.com/IXXA00/status/1905045405618041003/photo/1",
+          "media_key": "3_1905045400136175616",
+          "start": 19,
+          "url": "https://t.co/Z8VUBQZexY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905045405618041003",
+    "in_reply_to_user_id": "1767914444674490368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905031383975866871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanana7767 ？找我有事？ https://t.co/Z8VUBQZexY"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1905031383975866871].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1905031383975866871",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1905031383975866871"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_1905045400136175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnAUsrQb0AAAgVs.jpg",
+        "width": 627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905045400136175616"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1904718941726937397",
+        "created_at": "2025-03-26T23:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T00:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905045405618041003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767914444674490368",
+              "start": 0,
+              "username": "hanana7767"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8VUBQZexY",
+              "end": 42,
+              "expanded_url": "https://x.com/IXXA00/status/1905045405618041003/photo/1",
+              "media_key": "3_1905045400136175616",
+              "start": 19,
+              "url": "https://t.co/Z8VUBQZexY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905045405618041003",
+        "in_reply_to_user_id": "1767914444674490368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905031383975866871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanana7767 ？找我有事？ https://t.co/Z8VUBQZexY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1904509813540745281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 2788,
+          "like_count": 19105,
+          "listed_count": 6,
+          "media_count": 1286,
+          "tweet_count": 18128
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T14:03:56.000Z",
+        "description": "啊哈！\n你抓到了錯誤的寶可夢！",
+        "id": "1767914444674490368",
+        "location": "台湾",
+        "name": "kaijsiaji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767932942427557888/3-nBNBQn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 534,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "username": "hanana7767",
+        "verified": false
+      }
+    ]
+  }
+}

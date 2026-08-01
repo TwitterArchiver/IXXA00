@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1952672066378805633",
+    "created_at": "2025-08-05T10:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T11:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952685234694345118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683387353778524160",
+          "start": 0,
+          "username": "rui_ni40880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952685234694345118",
+    "in_reply_to_user_id": "1683387353778524160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952682236253462829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rui_ni40880 是笋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1952672066378805633",
+        "created_at": "2025-08-05T10:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952685234694345118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683387353778524160",
+              "start": 0,
+              "username": "rui_ni40880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952685234694345118",
+        "in_reply_to_user_id": "1683387353778524160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952682236253462829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rui_ni40880 是笋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683387353778524160",
+        "conversation_id": "1952672066378805633",
+        "created_at": "2025-08-05T10:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952682236253462829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952682236253462829",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952672066378805633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 并非笋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓(离异带两百个孩子)",
+        "pinned_tweet_id": "1952031414645576076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 3190,
+          "like_count": 26789,
+          "listed_count": 5,
+          "media_count": 1986,
+          "tweet_count": 26412
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T08:03:46.000Z",
+        "description": "",
+        "id": "1683387353778524160",
+        "location": ".&5",
+        "name": "零海夏末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907527953514426368/a93nUWqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 844,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 1091,
+          "tweet_count": 3027
+        },
+        "username": "rui_ni40880",
+        "verified": false
+      }
+    ]
+  }
+}

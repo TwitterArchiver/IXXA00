@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043677232749850689",
+    "created_at": "2026-04-14T02:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043883511472632084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733863907306110976",
+          "start": 0,
+          "username": "NamePlayer36988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043883511472632084",
+    "in_reply_to_user_id": "1733863907306110976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043880964061884586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NamePlayer36988 烧杯😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043677232749850689",
+        "created_at": "2026-04-14T02:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043883511472632084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733863907306110976",
+              "start": 0,
+              "username": "NamePlayer36988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043883511472632084",
+        "in_reply_to_user_id": "1733863907306110976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043880964061884586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NamePlayer36988 烧杯😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733863907306110976",
+        "conversation_id": "2043677232749850689",
+        "created_at": "2026-04-14T02:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043880964061884586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043880964061884586",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043677232749850689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那可太好了，我一男的居然都被骂过，有够好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6228,
+          "following_count": 4393,
+          "like_count": 37319,
+          "listed_count": 16,
+          "media_count": 2715,
+          "tweet_count": 37715
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:59:18.000Z",
+        "description": "",
+        "id": "1733863907306110976",
+        "name": "小烧杯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780928293845516288/-TIMhSPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 130,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "username": "NamePlayer36988",
+        "verified": false
+      }
+    ]
+  }
+}

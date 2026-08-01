@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2041372523636633918",
+    "created_at": "2026-04-07T04:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041372523636633918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041372523636633918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041095940900348038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: “今天很喜欢这段话” \n\n标准是留给不爱的人的，\n当原则遇上心动，就会不停的破例。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2041372523636633918",
+        "created_at": "2026-04-07T04:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041372523636633918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041372523636633918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041095940900348038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: “今天很喜欢这段话” \n\n标准是留给不爱的人的，\n当原则遇上心动，就会不停的破例。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2041095940900348038",
+        "created_at": "2026-04-06T10:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041095940900348038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041095940900348038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3054,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "“今天很喜欢这段话” \n\n标准是留给不爱的人的，\n当原则遇上心动，就会不停的破例。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla妈妈版",
+        "pinned_tweet_id": "2041341539889410451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6352,
+          "following_count": 4461,
+          "like_count": 37069,
+          "listed_count": 17,
+          "media_count": 2699,
+          "tweet_count": 37468
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2038257642926453245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037,
+          "following_count": 1134,
+          "like_count": 5232,
+          "listed_count": 5,
+          "media_count": 443,
+          "tweet_count": 6090
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

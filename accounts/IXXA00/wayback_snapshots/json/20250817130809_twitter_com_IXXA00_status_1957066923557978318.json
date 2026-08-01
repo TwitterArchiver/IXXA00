@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1957066905812127744"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1957066923557978318",
+    "created_at": "2025-08-17T13:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T14:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957066923557978318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1WXiqL03B",
+          "end": 37,
+          "expanded_url": "https://x.com/IXXA00/status/1957066923557978318/video/1",
+          "media_key": "7_1957066905812127744",
+          "start": 14,
+          "url": "https://t.co/U1WXiqL03B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957066923557978318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 18,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给大家分享一个拉屎小技巧： https://t.co/U1WXiqL03B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957066923557978318].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957066923557978318",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957066923557978318"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14138,
+        "height": 1024,
+        "media_key": "7_1957066905812127744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957066905812127744/pu/img/Mk8q9qeg2MR66pRt.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957066905812127744/pu/vid/avc1/320x568/EwKkloHp1Gf8gc9U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957066905812127744/pu/vid/avc1/480x852/bVvKRHuAAkplOzIT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957066905812127744/pu/vid/avc1/576x1024/SD1rARK0LtPkeb2t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957066905812127744/pu/pl/h6VIuIXbH5inLvzW.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不是男娘。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1956318087436742723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3851,
+          "following_count": 3283,
+          "like_count": 27368,
+          "listed_count": 5,
+          "media_count": 2042,
+          "tweet_count": 27136
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

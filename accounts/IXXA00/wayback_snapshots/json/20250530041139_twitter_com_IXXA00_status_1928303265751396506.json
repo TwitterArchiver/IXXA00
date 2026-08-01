@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1927084840895099148",
+    "created_at": "2025-05-30T04:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T05:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928303265751396506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1311442673706831873",
+          "start": 0,
+          "username": "Tatamkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928303265751396506",
+    "in_reply_to_user_id": "1311442673706831873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927084840895099148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tatamkj 天哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1927084840895099148",
+        "created_at": "2025-05-30T04:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T05:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928303265751396506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1311442673706831873",
+              "start": 0,
+              "username": "Tatamkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928303265751396506",
+        "in_reply_to_user_id": "1311442673706831873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927084840895099148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tatamkj 天哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311442673706831873",
+        "conversation_id": "1927084840895099148",
+        "created_at": "2025-05-26T19:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T20:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927084840895099148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927084840895099148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是1年前吧，也是真事儿，我在家躺着，突然感觉到肚子很饿，然后我就起床，一打开冰箱，拿了俩包方便面，做了个煮方便面，吃饱了 就不饿了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "出售一点微薄的爱。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3681,
+          "following_count": 3024,
+          "like_count": 22386,
+          "listed_count": 7,
+          "media_count": 1614,
+          "tweet_count": 21830
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-30T23:08:28.000Z",
+        "description": "",
+        "id": "1311442673706831873",
+        "location": "天堂",
+        "name": "hug me",
+        "pinned_tweet_id": "1856242709755019452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715056144161615872/F83O9sZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1776,
+          "like_count": 41117,
+          "listed_count": 11,
+          "media_count": 1071,
+          "tweet_count": 3320
+        },
+        "username": "Tatamkj",
+        "verified": false
+      }
+    ]
+  }
+}

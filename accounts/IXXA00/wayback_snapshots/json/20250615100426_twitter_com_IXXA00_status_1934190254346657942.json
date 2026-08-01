@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934190251700039680"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1934190254346657942",
+    "created_at": "2025-06-15T10:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T11:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934190254346657942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUXGGazVQP",
+          "end": 37,
+          "expanded_url": "https://x.com/IXXA00/status/1934190254346657942/photo/1",
+          "media_key": "3_1934190251700039680",
+          "start": 14,
+          "url": "https://t.co/WUXGGazVQP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934190254346657942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个芝麻饼吃两顿还剩一半。 https://t.co/WUXGGazVQP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934190251700039680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtefyUCasAAcVQ1.jpg",
+        "width": 1111
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934190251700039680"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934190254346657942",
+        "created_at": "2025-06-15T10:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T11:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934190254346657942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUXGGazVQP",
+              "end": 37,
+              "expanded_url": "https://x.com/IXXA00/status/1934190254346657942/photo/1",
+              "media_key": "3_1934190251700039680",
+              "start": 14,
+              "url": "https://t.co/WUXGGazVQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934190254346657942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个芝麻饼吃两顿还剩一半。 https://t.co/WUXGGazVQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢的食物是对我不能自拔的爱欲。🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 21,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 3102,
+          "like_count": 23682,
+          "listed_count": 7,
+          "media_count": 1738,
+          "tweet_count": 23202
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2054866011690873002",
+    "created_at": "2026-05-15T03:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055129720912810310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1655563133094621195",
+          "start": 0,
+          "username": "chnsqng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055129720912810310",
+    "in_reply_to_user_id": "1655563133094621195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055127104682164735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnsqng 我们这3.9\n猪肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2054866011690873002",
+        "created_at": "2026-05-15T03:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055129720912810310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1655563133094621195",
+              "start": 0,
+              "username": "chnsqng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055129720912810310",
+        "in_reply_to_user_id": "1655563133094621195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055127104682164735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnsqng 我们这3.9\n猪肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655563133094621195",
+        "conversation_id": "2054866011690873002",
+        "created_at": "2026-05-15T03:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055127104682164735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055127104682164735",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055058284261040458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 猪肉才七块钱一斤啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2054519703507464205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7004,
+          "following_count": 4499,
+          "like_count": 39809,
+          "listed_count": 19,
+          "media_count": 2894,
+          "tweet_count": 39769
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-08T13:20:03.000Z",
+        "description": "。",
+        "id": "1655563133094621195",
+        "name": "陈四清",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655563418059808769/mK_Lq102_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 585
+        },
+        "username": "chnsqng",
+        "verified": false
+      }
+    ]
+  }
+}

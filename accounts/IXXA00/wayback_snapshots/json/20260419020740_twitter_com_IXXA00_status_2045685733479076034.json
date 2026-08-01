@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2045418659380941007",
+    "created_at": "2026-04-19T02:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045685733479076034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912663189923438592",
+          "start": 0,
+          "username": "ZPeng63296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045685733479076034",
+    "in_reply_to_user_id": "1912663189923438592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045683913096577456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZPeng63296 吃了，豆角刺身，瘦了20斤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2045418659380941007",
+        "created_at": "2026-04-19T02:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045685733479076034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912663189923438592",
+              "start": 0,
+              "username": "ZPeng63296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045685733479076034",
+        "in_reply_to_user_id": "1912663189923438592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045683913096577456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZPeng63296 吃了，豆角刺身，瘦了20斤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912663189923438592",
+        "conversation_id": "2045418659380941007",
+        "created_at": "2026-04-19T02:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045683913096577456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045683913096577456",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045418659380941007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 有人说豆角不用太熟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6454,
+          "following_count": 4405,
+          "like_count": 38115,
+          "listed_count": 16,
+          "media_count": 2743,
+          "tweet_count": 38170
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:24:01.000Z",
+        "description": "",
+        "id": "1912663189923438592",
+        "name": "八级小狂风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912666192936071169/goZqEbJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 451,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 279
+        },
+        "username": "ZPeng63296",
+        "verified": false
+      }
+    ]
+  }
+}

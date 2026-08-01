@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2039536060204761088"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2039536061584715780",
+    "created_at": "2026-04-02T02:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039536061584715780"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039536061584715780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "驻波想发点和🚪哥的日常。"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 60,
+        "end_datetime": "2026-04-02T03:51:04.000Z",
+        "id": "2039536060204761088",
+        "options": [
+          {
+            "label": "吃瓜",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "补药",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2039536060204761088"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2039536061584715780",
+        "created_at": "2026-04-02T02:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039536061584715780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039536061584715780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驻波想发点和🚪哥的日常。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要成为一群太阳，成为你石板上刻画的绚烂群星。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2039534008124781004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6391,
+          "following_count": 4473,
+          "like_count": 36863,
+          "listed_count": 16,
+          "media_count": 2686,
+          "tweet_count": 37251
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

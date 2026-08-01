@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1968130565229670849",
+    "created_at": "2025-09-17T09:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968249675280191905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911836493045460992",
+          "start": 0,
+          "username": "jjie1960919022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968249675280191905",
+    "in_reply_to_user_id": "1911836493045460992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968248102617498032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjie1960919022 我好酸啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-17T09:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968249675280191905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911836493045460992",
+              "start": 0,
+              "username": "jjie1960919022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968249675280191905",
+        "in_reply_to_user_id": "1911836493045460992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968248102617498032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjie1960919022 我好酸啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911836493045460992",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-17T09:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968248102617498032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968248102617498032",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968130713909440600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 怎么，你酸了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/辣妹培训中心",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967215004098408448/EAzPAMnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4044,
+          "following_count": 3516,
+          "like_count": 28795,
+          "listed_count": 8,
+          "media_count": 2151,
+          "tweet_count": 28978
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:38:56.000Z",
+        "description": "",
+        "id": "1911836493045460992",
+        "location": "Seven Trees, CA",
+        "name": "Immortal Cultivation",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962184680276742146/zpGhtn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 115,
+          "like_count": 0,
+          "listed_count": 5,
+          "media_count": 390,
+          "tweet_count": 1731
+        },
+        "username": "jjie1960919022",
+        "verified": false
+      }
+    ]
+  }
+}

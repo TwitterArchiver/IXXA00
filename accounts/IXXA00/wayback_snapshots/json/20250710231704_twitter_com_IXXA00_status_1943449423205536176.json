@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1943367255112454372",
+    "created_at": "2025-07-10T23:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T00:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943449423205536176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1815644568722804736",
+          "start": 0,
+          "username": "shiratori_sawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943449423205536176",
+    "in_reply_to_user_id": "1815644568722804736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943367255112454372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiratori_sawa 丢丢丢丢丢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1943367255112454372",
+        "created_at": "2025-07-10T23:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T00:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943449423205536176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1815644568722804736",
+              "start": 0,
+              "username": "shiratori_sawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943449423205536176",
+        "in_reply_to_user_id": "1815644568722804736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943367255112454372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiratori_sawa 丢丢丢丢丢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815644568722804736",
+        "conversation_id": "1943367255112454372",
+        "created_at": "2025-07-10T17:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943367255112454372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ixxa00/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ixxa00/status/1941809832262340904",
+              "start": 8,
+              "url": "https://t.co/iQRpZnmgZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943367255112454372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941809832262340904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我玩战场😋 https://t.co/iQRpZnmgZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "91年/1x岁/170/76kg，梦想是在酒吧坐台。",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1943302738663870950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 3151,
+          "like_count": 25606,
+          "listed_count": 6,
+          "media_count": 1872,
+          "tweet_count": 25119
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:06:37.000Z",
+        "description": "中国大陆居民\n政治中立",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yFCvdJpxFbLwgAMj",
+                "start": 0,
+                "url": "https://t.co/fUbfysFjNn"
+              }
+            ]
+          }
+        },
+        "id": "1815644568722804736",
+        "location": "你心里",
+        "name": "sawaaaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940821108967563264/k-3Kl3zy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 168,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/fUbfysFjNn",
+        "username": "shiratori_sawa",
+        "verified": false
+      }
+    ]
+  }
+}

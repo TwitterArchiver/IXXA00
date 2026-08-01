@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1946597815007994355",
+    "created_at": "2025-07-19T16:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T17:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946605346585547088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533794664490455040",
+          "start": 0,
+          "username": "gugu123456gugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946605346585547088",
+    "in_reply_to_user_id": "1533794664490455040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946598928440598896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugu123456gugu 老师你真的很会夸人😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1946597815007994355",
+        "created_at": "2025-07-19T16:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946605346585547088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533794664490455040",
+              "start": 0,
+              "username": "gugu123456gugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946605346585547088",
+        "in_reply_to_user_id": "1533794664490455040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946598928440598896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugu123456gugu 老师你真的很会夸人😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533794664490455040",
+        "conversation_id": "1946597815007994355",
+        "created_at": "2025-07-19T15:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946598928440598896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946598928440598896",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946597815007994355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 因为你就是美好的存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 3147,
+          "like_count": 26093,
+          "listed_count": 6,
+          "media_count": 1910,
+          "tweet_count": 25583
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T12:55:28.000Z",
+        "description": "爱我就给我点赞\n既非良妇",
+        "id": "1533794664490455040",
+        "name": "急急着火了",
+        "pinned_tweet_id": "1926894452561342916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939970386759761920/RVEeKPjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 331,
+          "like_count": 4078,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1809
+        },
+        "username": "gugu123456gugu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987741678783037620",
+    "created_at": "2025-11-10T21:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T22:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988001423502749718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1760511593241096192",
+          "start": 0,
+          "username": "Aaron19910101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988001423502749718",
+    "in_reply_to_user_id": "1760511593241096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987930277386072410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaron19910101 怎么可能😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987741678783037620",
+        "created_at": "2025-11-10T21:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T22:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988001423502749718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1760511593241096192",
+              "start": 0,
+              "username": "Aaron19910101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988001423502749718",
+        "in_reply_to_user_id": "1760511593241096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987930277386072410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaron19910101 怎么可能😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760511593241096192",
+        "conversation_id": "1987741678783037620",
+        "created_at": "2025-11-10T17:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987930277386072410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987930277386072410",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987741678783037620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 假的 正常的小猫早就跑路了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我只想做自己，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5467,
+          "following_count": 4549,
+          "like_count": 32858,
+          "listed_count": 11,
+          "media_count": 2338,
+          "tweet_count": 32348
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T03:47:45.000Z",
+        "description": "",
+        "id": "1760511593241096192",
+        "name": "Aaron",
+        "pinned_tweet_id": "1973585088584753547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820985970335838208/O64YqQq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 718,
+          "like_count": 67695,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 4608
+        },
+        "username": "Aaron19910101",
+        "verified": false
+      }
+    ]
+  }
+}

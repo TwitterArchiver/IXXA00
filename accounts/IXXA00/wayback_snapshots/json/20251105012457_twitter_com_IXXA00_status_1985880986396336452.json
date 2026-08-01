@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1985676518237094001",
+    "created_at": "2025-11-05T01:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T02:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985880986396336452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "Statius_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985880986396336452",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985676518237094001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Statius_ 好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1985676508359471104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46KQ4easAAIqso.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985676508376289280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46KQ4ibUAA-j_p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1985676518237094001",
+        "created_at": "2025-11-05T01:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T02:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985880986396336452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "Statius_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985880986396336452",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985676518237094001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Statius_ 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985676508359471104",
+            "3_1985676508376289280"
+          ]
+        },
+        "author_id": "1667779272478687232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1985676518237094001",
+        "created_at": "2025-11-04T11:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985676518237094001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x59AJXj4bq",
+              "end": 31,
+              "expanded_url": "https://x.com/Statius_/status/1985676518237094001/photo/1",
+              "media_key": "3_1985676508359471104",
+              "start": 8,
+              "url": "https://t.co/x59AJXj4bq"
+            },
+            {
+              "display_url": "pic.x.com/x59AJXj4bq",
+              "end": 31,
+              "expanded_url": "https://x.com/Statius_/status/1985676518237094001/photo/1",
+              "media_key": "3_1985676508376289280",
+              "start": 8,
+              "url": "https://t.co/x59AJXj4bq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985676518237094001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20568,
+          "like_count": 537,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "很爽的一人食🤗 https://t.co/x59AJXj4bq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5391,
+          "following_count": 4517,
+          "like_count": 32421,
+          "listed_count": 11,
+          "media_count": 2313,
+          "tweet_count": 31901
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "🦦 我只是一个脆弱敏感好吃懒做的小女孩",
+        "id": "1667779272478687232",
+        "location": "銀河系超級偵探駐地球辦事處",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1955854558749712858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 98,
+          "like_count": 10273,
+          "listed_count": 5,
+          "media_count": 926,
+          "tweet_count": 2104
+        },
+        "username": "Statius_",
+        "verified": false
+      }
+    ]
+  }
+}

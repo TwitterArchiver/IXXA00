@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1958863777048535457",
+    "created_at": "2025-08-23T10:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T11:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959201493250421160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505242521512787969",
+          "start": 0,
+          "username": "lvsefajiaZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959201493250421160",
+    "in_reply_to_user_id": "1505242521512787969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959196786024939714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvsefajiaZz 您老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1958863777048535457",
+        "created_at": "2025-08-23T10:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959201493250421160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505242521512787969",
+              "start": 0,
+              "username": "lvsefajiaZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959201493250421160",
+        "in_reply_to_user_id": "1505242521512787969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959196786024939714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvsefajiaZz 您老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242521512787969",
+        "conversation_id": "1958863777048535457",
+        "created_at": "2025-08-23T10:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959196786024939714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959196786024939714",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958863777048535457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 老师级别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1959068591963480489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3910,
+          "following_count": 3338,
+          "like_count": 27628,
+          "listed_count": 7,
+          "media_count": 2065,
+          "tweet_count": 27456
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:59:28.000Z",
+        "description": "励志当魅魔小男女孩/私の人生詰んでいる",
+        "id": "1505242521512787969",
+        "name": "绿色发夹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936943443391004672/cNTfm3FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 451,
+          "like_count": 4205,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 1773
+        },
+        "username": "lvsefajiaZz",
+        "verified": false
+      }
+    ]
+  }
+}

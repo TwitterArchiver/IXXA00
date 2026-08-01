@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049282930351153624",
+    "created_at": "2026-04-29T08:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049405885722562810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1899427695152525312",
+          "start": 0,
+          "username": "liswut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049405885722562810",
+    "in_reply_to_user_id": "1899427695152525312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049403280749396391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liswut 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049282930351153624",
+        "created_at": "2026-04-29T08:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049405885722562810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1899427695152525312",
+              "start": 0,
+              "username": "liswut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049405885722562810",
+        "in_reply_to_user_id": "1899427695152525312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049403280749396391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liswut 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899427695152525312",
+        "conversation_id": "2049282930351153624",
+        "created_at": "2026-04-29T08:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049403280749396391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049403280749396391",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049397683610407062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 Ну тогда второй вариант, стресс, можно выпить ромашковый чай, и посмотреть хорошие добрые фильмы😌 На планете 7 млрд, это очень высокий шанс встретить прекрасного человека)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇/BDSM",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 4484,
+          "like_count": 38918,
+          "listed_count": 19,
+          "media_count": 2797,
+          "tweet_count": 38944
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-11T11:51:04.000Z",
+        "description": "Вдохновленный читатель и скромный писатель. Практикующий исследователь. Импульсивен и влюблен в познание🥰",
+        "id": "1899427695152525312",
+        "name": "Андрей Лис",
+        "pinned_tweet_id": "2043651722694819993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048654561628610560/t30kakE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 66,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 474
+        },
+        "username": "liswut",
+        "verified": false
+      }
+    ]
+  }
+}

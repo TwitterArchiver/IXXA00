@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1980671775789969762",
+    "created_at": "2025-10-22T11:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980954604973261274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954088016773099521",
+          "start": 0,
+          "username": "dodd640492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980954604973261274",
+    "in_reply_to_user_id": "1954088016773099521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980671775789969762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dodd640492 😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1980671775789969762",
+        "created_at": "2025-10-22T11:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980954604973261274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954088016773099521",
+              "start": 0,
+              "username": "dodd640492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980954604973261274",
+        "in_reply_to_user_id": "1954088016773099521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980671775789969762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dodd640492 😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954088016773099521",
+        "conversation_id": "1980671775789969762",
+        "created_at": "2025-10-21T16:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980671775789969762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980671775789969762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重要通知:\n今晚起山东将会有超强的冷空气降临，气温将会暴跌，怕冷的男孩子可以私聊我，我他妈给你一拳，没用的东西。怕冷的女孩子也可以私聊我，我也他妈给你一拳，你也是没用的东西。怕冷的男娘同样可以私聊我，我顶死你小男娘我顶死你小男娘我顶死你小男娘我顶死你小男娘我顶死你小男娘我顶死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "通常你不需要了解我那么多。/有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613,
+          "following_count": 4075,
+          "like_count": 30425,
+          "listed_count": 10,
+          "media_count": 2251,
+          "tweet_count": 30476
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T07:51:36.000Z",
+        "description": "热爱南梁 上帝之眼",
+        "id": "1954088016773099521",
+        "location": "Taiwan",
+        "name": "滴滴滴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957134055679598592/Fjy9KTFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 2030,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 78
+        },
+        "username": "dodd640492",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1896456586530541887",
+    "created_at": "2025-03-03T07:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T08:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896462831777984829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1090062186506940416",
+          "start": 0,
+          "username": "marshallsyh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896462831777984829",
+    "in_reply_to_user_id": "1090062186506940416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896462735371849953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marshallsyh2 ok，我的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1896456586530541887",
+        "created_at": "2025-03-03T07:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T08:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896462831777984829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1090062186506940416",
+              "start": 0,
+              "username": "marshallsyh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896462831777984829",
+        "in_reply_to_user_id": "1090062186506940416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896462735371849953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marshallsyh2 ok，我的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090062186506940416",
+        "conversation_id": "1896456586530541887",
+        "created_at": "2025-03-03T07:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T08:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896462735371849953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896462735371849953",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896456586530541887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 方大同：我不吃牛奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这个人什么也不会，只会爱你。/主号@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "别看了我是男",
+        "name": "isla",
+        "pinned_tweet_id": "1895683343162958170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894112531394048000/SwC8VagU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 2593,
+          "like_count": 17124,
+          "listed_count": 6,
+          "media_count": 1202,
+          "tweet_count": 16368
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T01:40:52.000Z",
+        "description": "她说她不想再有下辈子了",
+        "id": "1090062186506940416",
+        "location": "拉克兰德",
+        "name": "MarshallS۩",
+        "pinned_tweet_id": "1782115172490125468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759668556571287552/143Tl1Ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 265,
+          "like_count": 6402,
+          "listed_count": 17,
+          "media_count": 216,
+          "tweet_count": 2989
+        },
+        "username": "marshallsyh2",
+        "verified": false
+      }
+    ]
+  }
+}

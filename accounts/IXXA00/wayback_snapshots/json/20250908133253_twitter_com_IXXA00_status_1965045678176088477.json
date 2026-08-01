@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1965023685695467797",
+    "created_at": "2025-09-08T13:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T14:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965045678176088477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "974005861",
+          "start": 0,
+          "username": "victory1124"
+        },
+        {
+          "end": 26,
+          "id": "397807690",
+          "start": 13,
+          "username": "hide1983away"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965045678176088477",
+    "in_reply_to_user_id": "974005861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965042552354308324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@victory1124 @hide1983away 就是她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1965023685695467797",
+        "created_at": "2025-09-08T13:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T14:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965045678176088477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "974005861",
+              "start": 0,
+              "username": "victory1124"
+            },
+            {
+              "end": 26,
+              "id": "397807690",
+              "start": 13,
+              "username": "hide1983away"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965045678176088477",
+        "in_reply_to_user_id": "974005861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965042552354308324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@victory1124 @hide1983away 就是她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "974005861",
+        "conversation_id": "1965023685695467797",
+        "created_at": "2025-09-08T13:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T14:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965042552354308324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397807690",
+              "start": 0,
+              "username": "hide1983away"
+            },
+            {
+              "end": 21,
+              "id": "1739391734491086848",
+              "start": 14,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965042552354308324",
+        "in_reply_to_user_id": "397807690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965024973455822898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hide1983away @IXXA00 刚想说中年油腻不就是你么……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1965031563193958524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 3434,
+          "like_count": 28418,
+          "listed_count": 8,
+          "media_count": 2119,
+          "tweet_count": 28505
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-27T14:29:03.000Z",
+        "description": "#日本語間違えてたら教えて",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ]
+          }
+        },
+        "id": "974005861",
+        "name": "alex",
+        "pinned_tweet_id": "1856570792852762992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881236113865781248/tNktk4yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 294,
+          "like_count": 920,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 12421
+        },
+        "username": "victory1124",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-25T05:33:37.000Z",
+        "description": "不卷了 退休躺平🤡",
+        "id": "397807690",
+        "location": "Japan",
+        "name": "Da～盘桑（退休了）🧊🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347754596697980932/ZapNT50u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 2214,
+          "like_count": 80567,
+          "listed_count": 12,
+          "media_count": 2669,
+          "tweet_count": 74317
+        },
+        "username": "hide1983away",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2050970855057031611",
+    "created_at": "2026-05-03T16:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050980653567758509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043972450577428480",
+          "start": 0,
+          "username": "ChunChundakeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050980653567758509",
+    "in_reply_to_user_id": "2043972450577428480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050978309903937931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunChundakeai 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2050970855057031611",
+        "created_at": "2026-05-03T16:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050980653567758509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043972450577428480",
+              "start": 0,
+              "username": "ChunChundakeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050980653567758509",
+        "in_reply_to_user_id": "2043972450577428480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050978309903937931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunChundakeai 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043972450577428480",
+        "conversation_id": "2050970855057031611",
+        "created_at": "2026-05-03T16:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050978309903937931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050978309903937931",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050970855057031611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "无论如何，我都静静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 4493,
+          "like_count": 39270,
+          "listed_count": 19,
+          "media_count": 2831,
+          "tweet_count": 39267
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T08:42:53.000Z",
+        "description": "30+退役伪娘（暂时没有复出风险）｜日常发泄｜性幻想｜负能量注意",
+        "id": "2043972450577428480",
+        "location": "阴暗星球",
+        "name": "Chun.chun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050780909952229376/fcQBNdzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 124,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "ChunChundakeai",
+        "verified": false
+      }
+    ]
+  }
+}

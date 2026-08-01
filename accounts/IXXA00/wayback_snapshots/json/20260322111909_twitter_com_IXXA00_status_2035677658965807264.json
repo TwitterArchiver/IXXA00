@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2035667732738539783",
+    "created_at": "2026-03-22T11:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035677658965807264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1011943556750065664",
+          "start": 0,
+          "username": "cowboy_orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035677658965807264",
+    "in_reply_to_user_id": "1011943556750065664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035676817378652260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cowboy_orange 一直都是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2035667732738539783",
+        "created_at": "2026-03-22T11:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035677658965807264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1011943556750065664",
+              "start": 0,
+              "username": "cowboy_orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035677658965807264",
+        "in_reply_to_user_id": "1011943556750065664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035676817378652260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cowboy_orange 一直都是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1011943556750065664",
+        "conversation_id": "2035667732738539783",
+        "created_at": "2026-03-22T11:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035676817378652260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035676817378652260",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035667732738539783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 臭脚丫子已经变成大众爱好了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "抽象主包。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6300,
+          "following_count": 4468,
+          "like_count": 36442,
+          "listed_count": 16,
+          "media_count": 2659,
+          "tweet_count": 36806
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T12:05:19.000Z",
+        "description": "",
+        "id": "1011943556750065664",
+        "name": "DeleteAccount",
+        "pinned_tweet_id": "1890979949508510097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892618890535993344/22jwaoK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 56,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "cowboy_orange",
+        "verified": false
+      }
+    ]
+  }
+}

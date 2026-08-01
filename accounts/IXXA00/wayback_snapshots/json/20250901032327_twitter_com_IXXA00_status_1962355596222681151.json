@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1962352929509404884",
+    "created_at": "2025-09-01T03:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T04:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962355596222681151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 17,
+          "id": "1199138410704715776",
+          "start": 9,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962355596222681151",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962355397769224650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @L_R_001 😵那怎么办，最近拍出来都一股少妇味我不行了😵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1962355397769224650].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1962355397769224650",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1962355397769224650"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1962352929509404884",
+        "created_at": "2025-09-01T03:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T04:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962355596222681151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 17,
+              "id": "1199138410704715776",
+              "start": 9,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962355596222681151",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962355397769224650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @L_R_001 😵那怎么办，最近拍出来都一股少妇味我不行了😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1961771229775601717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3955,
+          "following_count": 3396,
+          "like_count": 28147,
+          "listed_count": 9,
+          "media_count": 2097,
+          "tweet_count": 28118
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1932518713498222834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925247331391479808/c3pLQLxw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 3359,
+          "like_count": 66044,
+          "listed_count": 6,
+          "media_count": 893,
+          "tweet_count": 28168
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/实验室研究员/摄影 日语 读书 写作 健身/\n/computer scientist/",
+        "id": "1199138410704715776",
+        "location": "せかい",
+        "name": "漂亮鼠",
+        "pinned_tweet_id": "1951488496746766541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934945989103616/iXjq20eI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 918,
+          "like_count": 4231,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 3072
+        },
+        "username": "L_R_001",
+        "verified": true
+      }
+    ]
+  }
+}

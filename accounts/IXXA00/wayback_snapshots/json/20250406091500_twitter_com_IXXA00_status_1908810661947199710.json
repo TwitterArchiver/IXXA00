@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1908735577383727107",
+    "created_at": "2025-04-06T09:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T10:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908810661947199710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897894039397318658",
+          "start": 0,
+          "username": "31K4t3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908810661947199710",
+    "in_reply_to_user_id": "1897894039397318658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908808470163321030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@31K4t3k 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1908735577383727107",
+        "created_at": "2025-04-06T09:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908810661947199710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897894039397318658",
+              "start": 0,
+              "username": "31K4t3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908810661947199710",
+        "in_reply_to_user_id": "1897894039397318658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908808470163321030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@31K4t3k 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897894039397318658",
+        "conversation_id": "1908735577383727107",
+        "created_at": "2025-04-06T09:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908808470163321030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908808470163321030",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908735577383727107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好吃好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "内含99.5%纽甜，有🚪谢谢。主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "宇宙甜妹isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448305476239360/O3ggHyR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 2876,
+          "like_count": 19569,
+          "listed_count": 6,
+          "media_count": 1358,
+          "tweet_count": 18762
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:17:00.000Z",
+        "description": "",
+        "id": "1897894039397318658",
+        "name": "justAnormalguy",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 347,
+          "like_count": 7080,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 379
+        },
+        "username": "31K4t3k",
+        "verified": false
+      }
+    ]
+  }
+}

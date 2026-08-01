@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1963376641067159847",
+    "created_at": "2025-09-04T05:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T06:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963469812530606373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594675518842241026",
+          "start": 0,
+          "username": "dd05311788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963469812530606373",
+    "in_reply_to_user_id": "1594675518842241026",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963468920947630336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd05311788 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1963376641067159847",
+        "created_at": "2025-09-04T05:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963469812530606373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594675518842241026",
+              "start": 0,
+              "username": "dd05311788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963469812530606373",
+        "in_reply_to_user_id": "1594675518842241026",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963468920947630336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd05311788 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594675518842241026",
+        "conversation_id": "1963376641067159847",
+        "created_at": "2025-09-04T05:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963468920947630336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963468920947630336",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963376641067159847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 咱直接在评论里放[图片]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东/🚪52/188",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3970,
+          "following_count": 3416,
+          "like_count": 28374,
+          "listed_count": 8,
+          "media_count": 2109,
+          "tweet_count": 28324
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T12:54:26.000Z",
+        "description": "",
+        "id": "1594675518842241026",
+        "name": "saki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897474906473795584/xg0SUAqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 2860,
+          "like_count": 8391,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 256
+        },
+        "username": "dd05311788",
+        "verified": false
+      }
+    ]
+  }
+}

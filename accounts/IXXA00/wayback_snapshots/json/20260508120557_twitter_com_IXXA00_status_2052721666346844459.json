@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2052680700466471179",
+    "created_at": "2026-05-08T12:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052721666346844459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021709171482370048",
+          "start": 0,
+          "username": "icekuribo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052721666346844459",
+    "in_reply_to_user_id": "2021709171482370048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052707267154468932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icekuribo ✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2052680700466471179",
+        "created_at": "2026-05-08T12:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052721666346844459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021709171482370048",
+              "start": 0,
+              "username": "icekuribo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052721666346844459",
+        "in_reply_to_user_id": "2021709171482370048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052707267154468932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icekuribo ✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021709171482370048",
+        "conversation_id": "2052680700466471179",
+        "created_at": "2026-05-08T11:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052707267154468932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052707267154468932",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052680700466471179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/18/塔罗牌简单咨询：25r/张/线下",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6999,
+          "following_count": 4490,
+          "like_count": 39526,
+          "listed_count": 20,
+          "media_count": 2857,
+          "tweet_count": 39487
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T22:14:29.000Z",
+        "description": "可愛くなる途中||🐈‍⬛||INFP🦋",
+        "id": "2021709171482370048",
+        "location": "蒼白き多摩川",
+        "name": "栗子球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051277191078608896/4AzGGfgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 87,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "username": "icekuribo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2004355957527375919",
+    "created_at": "2025-12-26T05:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T06:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004430950302949496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1920737749604392960",
+          "start": 0,
+          "username": "Suxhlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004430950302949496",
+    "in_reply_to_user_id": "1920737749604392960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004417949260828955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suxhlee 😫👊🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2004355957527375919",
+        "created_at": "2025-12-26T05:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004430950302949496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1920737749604392960",
+              "start": 0,
+              "username": "Suxhlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004430950302949496",
+        "in_reply_to_user_id": "1920737749604392960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004417949260828955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suxhlee 😫👊🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920737749604392960",
+        "conversation_id": "2004355957527375919",
+        "created_at": "2025-12-26T05:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004417949260828955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004417949260828955",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004355957527375919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 兄弟看看你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5645,
+          "following_count": 4536,
+          "like_count": 35130,
+          "listed_count": 12,
+          "media_count": 2523,
+          "tweet_count": 34653
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T07:09:08.000Z",
+        "description": "没脑子的色情狂",
+        "id": "1920737749604392960",
+        "name": "Suxh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954773496128512000/gj7gByiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 37,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 316
+        },
+        "username": "Suxhlee",
+        "verified": false
+      }
+    ]
+  }
+}

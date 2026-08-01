@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918675574668869802",
+    "created_at": "2025-05-04T01:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T02:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918839270166446494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477226348741640195",
+          "start": 0,
+          "username": "dalu45533647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918839270166446494",
+    "in_reply_to_user_id": "1477226348741640195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918836575829369255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dalu45533647 我是乡巴佬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_1918836569152335872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqETsXZasAAchaz.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918675574668869802",
+        "created_at": "2025-05-04T01:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T02:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918839270166446494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477226348741640195",
+              "start": 0,
+              "username": "dalu45533647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918839270166446494",
+        "in_reply_to_user_id": "1477226348741640195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918836575829369255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dalu45533647 我是乡巴佬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918836569152335872"
+          ]
+        },
+        "author_id": "1477226348741640195",
+        "conversation_id": "1918675574668869802",
+        "created_at": "2025-05-04T01:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T02:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918836575829369255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lrcz0kS8mg",
+              "end": 31,
+              "expanded_url": "https://x.com/dalu45533647/status/1918836575829369255/photo/1",
+              "media_key": "3_1918836569152335872",
+              "start": 8,
+              "url": "https://t.co/Lrcz0kS8mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918836575829369255",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918675574668869802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 https://t.co/Lrcz0kS8mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "别多想，我有门槛只是单纯的出来卖。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1918520888594710775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3640,
+          "following_count": 2959,
+          "like_count": 21106,
+          "listed_count": 7,
+          "media_count": 1498,
+          "tweet_count": 20425
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T10:33:14.000Z",
+        "description": "我的墓碑上寫着“我骨灰種的菜好吃嗎” 我是小孩，喜歡喝巧克力，長大以後就喝摩卡。",
+        "id": "1477226348741640195",
+        "name": "嚴重好色，嚴重暴燥，好轉毛囊炎，需要陽光，曹氏宗親會會員",
+        "pinned_tweet_id": "1911462351142011356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901936108533116928/LvrKqto8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1474,
+          "like_count": 24947,
+          "listed_count": 4,
+          "media_count": 419,
+          "tweet_count": 7077
+        },
+        "username": "dalu45533647",
+        "verified": false
+      }
+    ]
+  }
+}

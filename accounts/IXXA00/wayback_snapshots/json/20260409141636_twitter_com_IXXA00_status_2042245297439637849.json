@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2042238373566583284",
+    "created_at": "2026-04-09T14:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042245297439637849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042245297439637849",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042238373566583284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 谁家真人和头像长的一模一样啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_2042238363491823617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd8-Kqa8AEi4Fv.jpg",
+        "width": 1117
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2042238363500257281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd8-KsboAEyeTD.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2042238373566583284",
+        "created_at": "2026-04-09T14:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042245297439637849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042245297439637849",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042238373566583284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 谁家真人和头像长的一模一样啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042238363491823617",
+            "3_2042238363500257281"
+          ]
+        },
+        "author_id": "1362960365055668225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042238373566583284",
+        "created_at": "2026-04-09T13:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042238373566583284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQUzLa5ZtC",
+              "end": 33,
+              "expanded_url": "https://x.com/POI74103174/status/2042238373566583284/photo/1",
+              "media_key": "3_2042238363491823617",
+              "start": 10,
+              "url": "https://t.co/sQUzLa5ZtC"
+            },
+            {
+              "display_url": "pic.x.com/sQUzLa5ZtC",
+              "end": 33,
+              "expanded_url": "https://x.com/POI74103174/status/2042238373566583284/photo/1",
+              "media_key": "3_2042238363500257281",
+              "start": 10,
+              "url": "https://t.co/sQUzLa5ZtC"
+            },
+            {
+              "display_url": "x.com/poi74103174/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/poi74103174/status/2042202917135094261",
+              "start": 34,
+              "url": "https://t.co/VXPsetJk78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042238373566583284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042202917135094261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对绿猫的拙劣模仿（ https://t.co/sQUzLa5ZtC https://t.co/VXPsetJk78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2041341539889410451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6297,
+          "following_count": 4435,
+          "like_count": 37177,
+          "listed_count": 17,
+          "media_count": 2704,
+          "tweet_count": 37566
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@kinpeimoment615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kinpeimoment615"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "唯@Poi🍠",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000797534844018688/zJpBTZfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3428,
+          "following_count": 332,
+          "like_count": 66119,
+          "listed_count": 11,
+          "media_count": 2871,
+          "tweet_count": 24279
+        },
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

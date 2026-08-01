@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1914567623578419478",
+    "created_at": "2025-04-22T07:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T08:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914577837568532985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1239764449445072896",
+          "start": 0,
+          "username": "Z2pVKJ1goz7t2vy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914577837568532985",
+    "in_reply_to_user_id": "1239764449445072896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914567623578419478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z2pVKJ1goz7t2vy 不要超过20分钟，不然蛋黄就绿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1914567623578419478",
+        "created_at": "2025-04-22T07:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T08:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914577837568532985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1239764449445072896",
+              "start": 0,
+              "username": "Z2pVKJ1goz7t2vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914577837568532985",
+        "in_reply_to_user_id": "1239764449445072896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914567623578419478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z2pVKJ1goz7t2vy 不要超过20分钟，不然蛋黄就绿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239764449445072896",
+        "conversation_id": "1914567623578419478",
+        "created_at": "2025-04-22T06:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914567623578419478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914567623578419478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寿命太长\n老得太快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，写了你们也不看。🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "🚪52",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1914364203135328383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913970624315428864/3mQ1-xkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3624,
+          "following_count": 2933,
+          "like_count": 20300,
+          "listed_count": 7,
+          "media_count": 1435,
+          "tweet_count": 19620
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T04:04:36.000Z",
+        "description": "一颗堂吉诃德风温泉蛋",
+        "id": "1239764449445072896",
+        "location": " 某个温泉旅店的后厨",
+        "name": "Alonso Quijano",
+        "pinned_tweet_id": "1745121519863480500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793488237954252801/bJhjNL9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 2286,
+          "like_count": 65479,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3567
+        },
+        "username": "Z2pVKJ1goz7t2vy",
+        "verified": false
+      }
+    ]
+  }
+}

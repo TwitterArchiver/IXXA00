@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1927672853031473375",
+    "created_at": "2025-05-29T09:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T10:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928027481484693961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807252451097202688",
+          "start": 0,
+          "username": "gldif28315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928027481484693961",
+    "in_reply_to_user_id": "1807252451097202688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928009858097537479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gldif28315 maybe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1927672853031473375",
+        "created_at": "2025-05-29T09:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T10:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928027481484693961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807252451097202688",
+              "start": 0,
+              "username": "gldif28315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928027481484693961",
+        "in_reply_to_user_id": "1807252451097202688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928009858097537479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gldif28315 maybe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807252451097202688",
+        "conversation_id": "1927672853031473375",
+        "created_at": "2025-05-29T08:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928009858097537479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928009858097537479",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927672853031473375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可能不是寶屏座"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "让我们来玩一个游戏吧？/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927700239408156672/P164puGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3682,
+          "following_count": 3023,
+          "like_count": 22342,
+          "listed_count": 7,
+          "media_count": 1614,
+          "tweet_count": 21787
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T03:19:12.000Z",
+        "description": "",
+        "id": "1807252451097202688",
+        "location": "WEIRD SILENT",
+        "name": "賽博女巫不說話，海中女妖睡大覺",
+        "pinned_tweet_id": "1928005743468237167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928005127706923008/wUw0ZVu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 74,
+          "like_count": 4142,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 4942
+        },
+        "username": "gldif28315",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982293281129308412",
+    "created_at": "2025-10-28T00:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T01:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982972139516162376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1804567862834864128",
+          "start": 0,
+          "username": "tans86774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982972139516162376",
+    "in_reply_to_user_id": "1804567862834864128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982969232859209915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tans86774 我玩抽象啊我是抽象主包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-28T00:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T01:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982972139516162376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1804567862834864128",
+              "start": 0,
+              "username": "tans86774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982972139516162376",
+        "in_reply_to_user_id": "1804567862834864128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982969232859209915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tans86774 我玩抽象啊我是抽象主包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804567862834864128",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-28T00:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T01:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982969232859209915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982969232859209915",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982293281129308412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你不是小男娘吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 4320,
+          "like_count": 31102,
+          "listed_count": 12,
+          "media_count": 2274,
+          "tweet_count": 30980
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T17:31:39.000Z",
+        "description": "oops",
+        "id": "1804567862834864128",
+        "name": "luck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979541578944262144/smT3zeVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 90
+        },
+        "username": "tans86774",
+        "verified": false
+      }
+    ]
+  }
+}

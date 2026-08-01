@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1990253555916415138",
+    "created_at": "2025-11-18T02:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990612515018117389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "788014297238515712",
+          "start": 0,
+          "username": "jwchenzju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990612515018117389",
+    "in_reply_to_user_id": "788014297238515712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990592740573524149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwchenzju 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-18T02:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990612515018117389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "788014297238515712",
+              "start": 0,
+              "username": "jwchenzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990612515018117389",
+        "in_reply_to_user_id": "788014297238515712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990592740573524149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwchenzju 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "788014297238515712",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-18T01:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990592740573524149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990592740573524149",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990253555916415138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 2013左右很多80后家长在鸡娃学钢琴，现在高中了不觉得有啥用。\n能创作的毕竟是凤毛麟角，能练习弹奏的又不如ai弹得好，普通人学那玩意真没意思，白花钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5486,
+          "following_count": 4553,
+          "like_count": 33240,
+          "listed_count": 11,
+          "media_count": 2369,
+          "tweet_count": 32731
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-17T13:50:23.000Z",
+        "description": "old man to have the young heart.",
+        "id": "788014297238515712",
+        "location": "Shanghai",
+        "name": "Delphi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193663613673725953/qfPocOvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 345,
+          "like_count": 17388,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 3695
+        },
+        "username": "jwchenzju",
+        "verified": false
+      }
+    ]
+  }
+}

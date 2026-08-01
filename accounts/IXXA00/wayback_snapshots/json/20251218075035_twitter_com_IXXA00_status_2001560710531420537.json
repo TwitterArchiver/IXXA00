@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2001498813090140573",
+    "created_at": "2025-12-18T07:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T08:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001560710531420537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557591586242183168",
+          "start": 0,
+          "username": "Sabrina02190108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001560710531420537",
+    "in_reply_to_user_id": "1557591586242183168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001559217317310779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina02190108 ✌🏿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2001498813090140573",
+        "created_at": "2025-12-18T07:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001560710531420537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557591586242183168",
+              "start": 0,
+              "username": "Sabrina02190108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001560710531420537",
+        "in_reply_to_user_id": "1557591586242183168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001559217317310779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina02190108 ✌🏿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557591586242183168",
+        "conversation_id": "2001498813090140573",
+        "created_at": "2025-12-18T07:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001559217317310779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001559217317310779",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001498813090140573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 愛煮包！🥢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是isla。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5612,
+          "following_count": 4536,
+          "like_count": 34732,
+          "listed_count": 11,
+          "media_count": 2490,
+          "tweet_count": 34329
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T04:56:02.000Z",
+        "description": "要當正向的熊",
+        "id": "1557591586242183168",
+        "name": "熊",
+        "pinned_tweet_id": "2000980059541397688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001559324997697537/Vd34g1rq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 65,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 141
+        },
+        "username": "Sabrina02190108",
+        "verified": false
+      }
+    ]
+  }
+}

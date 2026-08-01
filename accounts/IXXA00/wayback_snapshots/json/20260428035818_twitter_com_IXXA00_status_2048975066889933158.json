@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2048304380571746345",
+    "created_at": "2026-04-28T03:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048975066889933158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1998557533061939201",
+          "start": 0,
+          "username": "Stretyiuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048975066889933158",
+    "in_reply_to_user_id": "1998557533061939201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048973880350658991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stretyiuy 请便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2048304380571746345",
+        "created_at": "2026-04-28T03:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048975066889933158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1998557533061939201",
+              "start": 0,
+              "username": "Stretyiuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048975066889933158",
+        "in_reply_to_user_id": "1998557533061939201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048973880350658991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stretyiuy 请便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998557533061939201",
+        "conversation_id": "2048304380571746345",
+        "created_at": "2026-04-28T03:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048973880350658991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048973880350658991",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048304380571746345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好了 照片归我了🫢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 0,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2048714682039402877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6990,
+          "following_count": 4483,
+          "like_count": 38859,
+          "listed_count": 19,
+          "media_count": 2794,
+          "tweet_count": 38882
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T00:57:42.000Z",
+        "description": "",
+        "id": "1998557533061939201",
+        "location": "宇宙外星人光之国未成年女战士",
+        "name": "Stretyiuy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998557850541461504/5PEHtAKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 207
+        },
+        "username": "Stretyiuy",
+        "verified": false
+      }
+    ]
+  }
+}

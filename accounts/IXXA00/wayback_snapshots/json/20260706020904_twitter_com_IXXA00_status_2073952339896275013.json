@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2073758209748459786",
+    "created_at": "2026-07-06T02:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073952339896275013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1338048339930071040",
+          "start": 0,
+          "username": "konoGuanine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073952339896275013",
+    "in_reply_to_user_id": "1338048339930071040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073950900872474954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konoGuanine 唉😮‍💨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2073758209748459786",
+        "created_at": "2026-07-06T02:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073952339896275013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1338048339930071040",
+              "start": 0,
+              "username": "konoGuanine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073952339896275013",
+        "in_reply_to_user_id": "1338048339930071040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073950900872474954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoGuanine 唉😮‍💨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1338048339930071040",
+        "conversation_id": "2073758209748459786",
+        "created_at": "2026-07-06T02:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073950900872474954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073950900872474954",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073950485053338025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 拐走油腻男（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "36yo/男/我们到底能以什么身份留在彼此生命里？",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7493,
+          "following_count": 4541,
+          "like_count": 42789,
+          "listed_count": 18,
+          "media_count": 3118,
+          "tweet_count": 42255
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-13T09:09:29.000Z",
+        "description": "Ich dien|\na failed pharmacist ｜EN,CN,Cantonese",
+        "id": "1338048339930071040",
+        "location": "Macao",
+        "name": "roseae",
+        "pinned_tweet_id": "2072452525740241358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020468281300377600/ePPIIhOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 1501,
+          "like_count": 51246,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 8769
+        },
+        "url": "",
+        "username": "konoGuanine",
+        "verified": false
+      }
+    ]
+  }
+}

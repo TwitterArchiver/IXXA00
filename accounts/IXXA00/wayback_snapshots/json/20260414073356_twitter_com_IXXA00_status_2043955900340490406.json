@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T07:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043955900340490406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "988056572717776896",
+          "start": 0,
+          "username": "JProff190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043955900340490406",
+    "in_reply_to_user_id": "988056572717776896",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043947343062421572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JProff190 hi🐈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T07:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043955900340490406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "988056572717776896",
+              "start": 0,
+              "username": "JProff190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043955900340490406",
+        "in_reply_to_user_id": "988056572717776896",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043947343062421572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JProff190 hi🐈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988056572717776896",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T06:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043947343062421572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043947343062421572",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 Hello from the US 👋🦅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6314,
+          "following_count": 4395,
+          "like_count": 37462,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37811
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-22T14:06:58.000Z",
+        "description": "",
+        "id": "988056572717776896",
+        "name": "updog🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936375238956113921/viEpnt86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 113,
+          "like_count": 53640,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1073
+        },
+        "username": "JProff190",
+        "verified": false
+      }
+    ]
+  }
+}

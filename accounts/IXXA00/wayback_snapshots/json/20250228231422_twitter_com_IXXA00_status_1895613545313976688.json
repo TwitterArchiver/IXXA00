@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1895465801630752772",
+    "created_at": "2025-02-28T23:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T00:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895613545313976688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1522837739313508352",
+          "start": 0,
+          "username": "liyia18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895613545313976688",
+    "in_reply_to_user_id": "1522837739313508352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895512647430545840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyia18 我会对你好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1895465801630752772",
+        "created_at": "2025-02-28T23:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T00:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895613545313976688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1522837739313508352",
+              "start": 0,
+              "username": "liyia18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895613545313976688",
+        "in_reply_to_user_id": "1522837739313508352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895512647430545840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyia18 我会对你好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522837739313508352",
+        "conversation_id": "1895465801630752772",
+        "created_at": "2025-02-28T16:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T17:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895512647430545840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895512647430545840",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895465801630752772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好感度有啥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我什么也不会，只会爱你。",
+        "id": "1739391734491086848",
+        "location": "还会收款。",
+        "name": "isla(R24)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894112531394048000/SwC8VagU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3342,
+          "following_count": 2546,
+          "like_count": 16992,
+          "listed_count": 6,
+          "media_count": 1196,
+          "tweet_count": 16210
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T07:16:43.000Z",
+        "description": "偶尔发病，大部分时间是个人",
+        "id": "1522837739313508352",
+        "location": "梦里",
+        "name": "mapafng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822238785213526017/vKxMs1U1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 43,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 346
+        },
+        "username": "liyia18",
+        "verified": false
+      }
+    ]
+  }
+}

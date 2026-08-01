@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1990988519443988614",
+    "created_at": "2025-11-19T03:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990988735845118354"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990988735845118354",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990988519443988614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点ooc了哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990988519443988614",
+        "created_at": "2025-11-19T03:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990988735845118354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990988735845118354",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990988519443988614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点ooc了哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990988519443988614",
+        "created_at": "2025-11-19T03:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990988519443988614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kafei684134/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/kafei684134/status/1990983155302494250",
+              "start": 25,
+              "url": "https://t.co/XbnlwtrkdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990988519443988614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990983155302494250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过看人很准，主包02年的时候就开始接触vb了。 https://t.co/XbnlwtrkdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5492,
+          "following_count": 4550,
+          "like_count": 33397,
+          "listed_count": 11,
+          "media_count": 2374,
+          "tweet_count": 32789
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

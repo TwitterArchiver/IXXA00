@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1904194769380905017",
+    "created_at": "2025-03-25T14:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T15:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904540916498448816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1396330780079509510",
+          "start": 0,
+          "username": "xf00251456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904540916498448816",
+    "in_reply_to_user_id": "1396330780079509510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904194769380905017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xf00251456 只要我发的抽象段子够多就一定会有人爱上我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1904194769380905017",
+        "created_at": "2025-03-25T14:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T15:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904540916498448816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396330780079509510",
+              "start": 0,
+              "username": "xf00251456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904540916498448816",
+        "in_reply_to_user_id": "1396330780079509510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904194769380905017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xf00251456 只要我发的抽象段子够多就一定会有人爱上我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396330780079509510",
+        "conversation_id": "1904194769380905017",
+        "created_at": "2025-03-24T15:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T16:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904194769380905017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904194769380905017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9847,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 83,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们说会不会有一天我在弱智吧发抽象段子，突然有一个165JK少女跟我互关然后和我私聊说虽然这是我们第一次聊天，但是我已经爱了你很久很久了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。更多的我：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1904509813540745281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3506,
+          "following_count": 2771,
+          "like_count": 19015,
+          "listed_count": 6,
+          "media_count": 1279,
+          "tweet_count": 18031
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T05:03:00.000Z",
+        "description": "抽象的美男子，文案喜欢的话请随意自取。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xf00251456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xf00251456",
+                "start": 0,
+                "url": "https://t.co/p6hKbSWqEC"
+              }
+            ]
+          }
+        },
+        "id": "1396330780079509510",
+        "location": "距您2.5km",
+        "name": "X",
+        "pinned_tweet_id": "1902888040969932925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875762913254035456/XXgfwjVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 1017,
+          "like_count": 63008,
+          "listed_count": 7,
+          "media_count": 163,
+          "tweet_count": 3496
+        },
+        "url": "https://t.co/p6hKbSWqEC",
+        "username": "xf00251456",
+        "verified": false
+      }
+    ]
+  }
+}

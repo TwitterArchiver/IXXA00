@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1945682749475770695",
+    "created_at": "2025-07-17T05:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T06:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945724230286598641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594675518842241026",
+          "start": 0,
+          "username": "dd05311788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945724230286598641",
+    "in_reply_to_user_id": "1594675518842241026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945720298634178808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd05311788 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1945682749475770695",
+        "created_at": "2025-07-17T05:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T06:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945724230286598641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594675518842241026",
+              "start": 0,
+              "username": "dd05311788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945724230286598641",
+        "in_reply_to_user_id": "1594675518842241026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945720298634178808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd05311788 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594675518842241026",
+        "conversation_id": "1945682749475770695",
+        "created_at": "2025-07-17T05:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T06:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945720298634178808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945720298634178808",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945682749475770695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 咱中毒出幻觉了  幻觉里全是老师😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，梦想是在酒吧坐台，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1945682749475770695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 3156,
+          "like_count": 25978,
+          "listed_count": 6,
+          "media_count": 1903,
+          "tweet_count": 25481
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T12:54:26.000Z",
+        "description": "",
+        "id": "1594675518842241026",
+        "name": "saki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897474906473795584/xg0SUAqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2802,
+          "like_count": 7723,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 251
+        },
+        "username": "dd05311788",
+        "verified": false
+      }
+    ]
+  }
+}

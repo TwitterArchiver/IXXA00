@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049016064026271754",
+    "created_at": "2026-04-28T11:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049085203529032070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843840400441913350",
+          "start": 0,
+          "username": "faxie112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049085203529032070",
+    "in_reply_to_user_id": "1843840400441913350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049084802066968799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@faxie112 你在哭什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049016064026271754",
+        "created_at": "2026-04-28T11:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049085203529032070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843840400441913350",
+              "start": 0,
+              "username": "faxie112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049085203529032070",
+        "in_reply_to_user_id": "1843840400441913350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049084802066968799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@faxie112 你在哭什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843840400441913350",
+        "conversation_id": "2049016064026271754",
+        "created_at": "2026-04-28T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049084802066968799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049084802066968799",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049016064026271754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 4482,
+          "like_count": 38871,
+          "listed_count": 19,
+          "media_count": 2795,
+          "tweet_count": 38900
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T02:26:32.000Z",
+        "description": "",
+        "id": "1843840400441913350",
+        "name": "柯倩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124932202135552/Dn0i53O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 670
+        },
+        "username": "faxie112",
+        "verified": false
+      }
+    ]
+  }
+}

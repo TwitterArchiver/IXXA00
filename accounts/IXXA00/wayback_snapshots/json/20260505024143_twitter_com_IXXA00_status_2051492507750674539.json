@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2051477015715520514",
+    "created_at": "2026-05-05T02:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051492507750674539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "869576263463129090",
+          "start": 0,
+          "username": "willy860829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051492507750674539",
+    "in_reply_to_user_id": "869576263463129090",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051486517559013832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willy860829 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2051477015715520514",
+        "created_at": "2026-05-05T02:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051492507750674539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "869576263463129090",
+              "start": 0,
+              "username": "willy860829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051492507750674539",
+        "in_reply_to_user_id": "869576263463129090",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051486517559013832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willy860829 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "869576263463129090",
+        "conversation_id": "2051477015715520514",
+        "created_at": "2026-05-05T02:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051486517559013832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051486517559013832",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051477015715520514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 恐ろしいぜ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2051269951366017407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6995,
+          "following_count": 4495,
+          "like_count": 39336,
+          "listed_count": 19,
+          "media_count": 2841,
+          "tweet_count": 39326
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-30T15:28:31.000Z",
+        "description": "やらなければならないのに、やりたくない時に、やることが大変でも、やれるだけ、やろう。やってください。",
+        "id": "869576263463129090",
+        "location": "Taiwan",
+        "name": "お米は大事と存じます",
+        "pinned_tweet_id": "1635811939690647552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230450904983171072/3RP4wcij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 3787,
+          "like_count": 46015,
+          "listed_count": 9,
+          "media_count": 1599,
+          "tweet_count": 39525
+        },
+        "username": "willy860829",
+        "verified": false
+      }
+    ]
+  }
+}

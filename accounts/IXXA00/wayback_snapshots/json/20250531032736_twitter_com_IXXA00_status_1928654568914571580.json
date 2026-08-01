@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928654568914571580",
+    "created_at": "2025-05-31T03:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928654568914571580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "404786016",
+          "start": 3,
+          "username": "Sakata_Kuroi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928654568914571580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928653742129442915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakata_Kuroi: 你家club大白天开业啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928654568914571580",
+        "created_at": "2025-05-31T03:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928654568914571580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "404786016",
+              "start": 3,
+              "username": "Sakata_Kuroi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928654568914571580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928653742129442915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakata_Kuroi: 你家club大白天开业啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "404786016",
+        "conversation_id": "1928653742129442915",
+        "created_at": "2025-05-31T03:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928653742129442915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/IXXA00/status/1928649937023115605",
+              "start": 13,
+              "url": "https://t.co/j3bt7KJvmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928653742129442915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928649937023115605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你家club大白天开业啊 https://t.co/j3bt7KJvmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 3028,
+          "like_count": 22447,
+          "listed_count": 7,
+          "media_count": 1621,
+          "tweet_count": 21922
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-04T12:13:51.000Z",
+        "description": "男的｜Sub @IzayaWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "IzayaWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kurokuko",
+                "end": 23,
+                "expanded_url": "https://t.me/Kurokuko",
+                "start": 0,
+                "url": "https://t.co/sSdwWAWwdy"
+              }
+            ]
+          }
+        },
+        "id": "404786016",
+        "name": "96子",
+        "pinned_tweet_id": "1767497723039899939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516848783258124288/YWsIsl-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 479,
+          "like_count": 456,
+          "listed_count": 10,
+          "media_count": 1166,
+          "tweet_count": 8774
+        },
+        "url": "https://t.co/sSdwWAWwdy",
+        "username": "Sakata_Kuroi",
+        "verified": false
+      }
+    ]
+  }
+}

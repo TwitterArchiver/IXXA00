@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2078244279525486960",
+    "created_at": "2026-07-18T23:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078622662553940068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980721597914005504",
+          "start": 0,
+          "username": "LMmdll66270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078622662553940068",
+    "in_reply_to_user_id": "1980721597914005504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078616938285252953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMmdll66270 男娘失格😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2078244279525486960",
+        "created_at": "2026-07-18T23:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078622662553940068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980721597914005504",
+              "start": 0,
+              "username": "LMmdll66270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078622662553940068",
+        "in_reply_to_user_id": "1980721597914005504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078616938285252953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMmdll66270 男娘失格😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980721597914005504",
+        "conversation_id": "2078244279525486960",
+        "created_at": "2026-07-18T23:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078616938285252953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078616938285252953",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078244279525486960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 啧，不合格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7513,
+          "following_count": 4542,
+          "like_count": 43308,
+          "listed_count": 18,
+          "media_count": 3165,
+          "tweet_count": 42777
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T19:43:49.000Z",
+        "description": "",
+        "id": "1980721597914005504",
+        "location": "Toronto, Ontario",
+        "name": "みな かんか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036761541471793152/5eqJIj9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "LMmdll66270",
+        "verified": false
+      }
+    ]
+  }
+}

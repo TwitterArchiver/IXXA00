@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1984231779742650448",
+    "created_at": "2025-11-01T06:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984505359718138349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1833444951084175362",
+          "start": 0,
+          "username": "zhaomohan_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984505359718138349",
+    "in_reply_to_user_id": "1833444951084175362",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984490103713251564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaomohan_01 made"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1984231779742650448",
+        "created_at": "2025-11-01T06:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984505359718138349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1833444951084175362",
+              "start": 0,
+              "username": "zhaomohan_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984505359718138349",
+        "in_reply_to_user_id": "1833444951084175362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984490103713251564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomohan_01 made"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833444951084175362",
+        "conversation_id": "1984231779742650448",
+        "created_at": "2025-11-01T05:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984490103713251564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984490103713251564",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984231779742650448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 吗的好帅！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5248,
+          "following_count": 4674,
+          "like_count": 32118,
+          "listed_count": 11,
+          "media_count": 2300,
+          "tweet_count": 31621
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T09:58:41.000Z",
+        "description": "『破破烂烂活着 悄无声息死去』",
+        "id": "1833444951084175362",
+        "name": "赵墨寒_zhaomohan壹号（Ureru版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928743105651683330/qLFShztg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 334,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 903
+        },
+        "username": "zhaomohan_01",
+        "verified": false
+      }
+    ]
+  }
+}

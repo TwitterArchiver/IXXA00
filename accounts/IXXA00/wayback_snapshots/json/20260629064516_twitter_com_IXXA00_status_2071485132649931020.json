@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2071479136003191175",
+    "created_at": "2026-06-29T06:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071485132649931020"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071485132649931020",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071479136003191175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈的，衣服9块钱，退货运费8块3。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2071479136003191175",
+        "created_at": "2026-06-29T06:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071485132649931020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071485132649931020",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071479136003191175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的，衣服9块钱，退货运费8块3。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2071479136003191175",
+        "created_at": "2026-06-29T06:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071479136003191175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/IXXA00/status/2071430876463026458",
+              "start": 79,
+              "url": "https://t.co/kE9uVPS6RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071479136003191175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071430876463026458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的，我真的瞎了，我这个衣服买大了，大了至少一个号。然后我就想换货，发现他妈买的是大码款的，120斤M是最小号了，最大号你妈三百斤，我操。\n在想要不要退。 https://t.co/kE9uVPS6RM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期四重。/🎺：@islaixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省 鞍山市",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7366,
+          "following_count": 4517,
+          "like_count": 42415,
+          "listed_count": 18,
+          "media_count": 3091,
+          "tweet_count": 41905
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

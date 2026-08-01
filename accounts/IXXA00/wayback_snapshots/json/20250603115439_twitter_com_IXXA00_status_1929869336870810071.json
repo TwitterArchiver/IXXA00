@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929834121301307566",
+    "created_at": "2025-06-03T11:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T12:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929869336870810071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918701435492950018",
+          "start": 0,
+          "username": "lqin215278"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929869336870810071",
+    "in_reply_to_user_id": "1918701435492950018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929834121301307566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lqin215278 我有阅读障碍😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929834121301307566",
+        "created_at": "2025-06-03T11:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T12:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929869336870810071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918701435492950018",
+              "start": 0,
+              "username": "lqin215278"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929869336870810071",
+        "in_reply_to_user_id": "1918701435492950018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929834121301307566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lqin215278 我有阅读障碍😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918701435492950018",
+        "conversation_id": "1929834121301307566",
+        "created_at": "2025-06-03T09:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T10:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929834121301307566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929834121301307566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晕字了，这破书怎么这么多重点，这么喜欢下定义呢怎么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1929548538402451699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3045,
+          "like_count": 22639,
+          "listed_count": 7,
+          "media_count": 1637,
+          "tweet_count": 22155
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T16:17:46.000Z",
+        "description": "再说我嘎巴一下死在这。\n记事本+吐槽+个人观点输出",
+        "id": "1918701435492950018",
+        "name": "lqin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925566157588725761/z3iC08uW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 338
+        },
+        "username": "lqin215278",
+        "verified": false
+      }
+    ]
+  }
+}

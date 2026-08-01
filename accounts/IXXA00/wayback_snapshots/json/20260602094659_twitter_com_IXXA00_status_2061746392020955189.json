@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2061441582415647224",
+    "created_at": "2026-06-02T09:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061746392020955189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1820850836047884288",
+          "start": 0,
+          "username": "qiuqiu061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061746392020955189",
+    "in_reply_to_user_id": "1820850836047884288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061720974274539940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuqiu061 看广告复活你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2061441582415647224",
+        "created_at": "2026-06-02T09:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061746392020955189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820850836047884288",
+              "start": 0,
+              "username": "qiuqiu061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061746392020955189",
+        "in_reply_to_user_id": "1820850836047884288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061720974274539940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuqiu061 看广告复活你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820850836047884288",
+        "conversation_id": "2061441582415647224",
+        "created_at": "2026-06-02T08:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061720974274539940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061720974274539940",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061441582415647224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 看得我有点死了orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2061314012080648510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7195,
+          "following_count": 4513,
+          "like_count": 41019,
+          "listed_count": 18,
+          "media_count": 2987,
+          "tweet_count": 40723
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-06T15:54:50.000Z",
+        "description": "呃呃呃",
+        "id": "1820850836047884288",
+        "name": "球球呐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917565995360845824/slaMc1m8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11969,
+          "following_count": 115,
+          "like_count": 4903,
+          "listed_count": 34,
+          "media_count": 135,
+          "tweet_count": 3418
+        },
+        "username": "qiuqiu061",
+        "verified": false
+      }
+    ]
+  }
+}

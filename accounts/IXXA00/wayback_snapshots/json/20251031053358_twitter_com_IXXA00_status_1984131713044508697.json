@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1984094177488167072",
+    "created_at": "2025-10-31T05:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984131713044508697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506640651403681799",
+          "start": 0,
+          "username": "you59162927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984131713044508697",
+    "in_reply_to_user_id": "1506640651403681799",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984123812842250702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@you59162927 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1984094177488167072",
+        "created_at": "2025-10-31T05:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984131713044508697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506640651403681799",
+              "start": 0,
+              "username": "you59162927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984131713044508697",
+        "in_reply_to_user_id": "1506640651403681799",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984123812842250702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@you59162927 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506640651403681799",
+        "conversation_id": "1984094177488167072",
+        "created_at": "2025-10-31T05:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984123812842250702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984123812842250702",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984094853714841826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我超，我的5080😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5184,
+          "following_count": 4604,
+          "like_count": 31857,
+          "listed_count": 11,
+          "media_count": 2294,
+          "tweet_count": 31507
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T14:35:10.000Z",
+        "description": "漂泊者终归守岸人。",
+        "id": "1506640651403681799",
+        "location": "Elysia~hina",
+        "name": "爱莉和我生学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982474706511941632/50YuB1Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 2587,
+          "like_count": 19699,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 977
+        },
+        "username": "you59162927",
+        "verified": false
+      }
+    ]
+  }
+}

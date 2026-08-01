@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1989543027539648684",
+    "created_at": "2025-11-15T05:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T06:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989565349390684493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1980634834344251392",
+          "start": 0,
+          "username": "T561748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989565349390684493",
+    "in_reply_to_user_id": "1980634834344251392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989562304170447040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T561748 你在扣什么？鼻孔吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1989543027539648684",
+        "created_at": "2025-11-15T05:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989565349390684493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1980634834344251392",
+              "start": 0,
+              "username": "T561748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989565349390684493",
+        "in_reply_to_user_id": "1980634834344251392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989562304170447040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T561748 你在扣什么？鼻孔吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980634834344251392",
+        "conversation_id": "1989543027539648684",
+        "created_at": "2025-11-15T05:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989562304170447040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989562304170447040",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989543027539648684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 集霸好帅，开扣😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5477,
+          "following_count": 4546,
+          "like_count": 33064,
+          "listed_count": 11,
+          "media_count": 2359,
+          "tweet_count": 32564
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T13:58:49.000Z",
+        "description": "但我不是二次元",
+        "id": "1980634834344251392",
+        "name": "我怎么会是二次元？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980635678116339712/dMbJVhaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 91,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "username": "T561748",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2039587882348994675",
+    "created_at": "2026-04-02T07:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039612304011239427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476054864027594754",
+          "start": 0,
+          "username": "Shanghai_Repub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039612304011239427",
+    "in_reply_to_user_id": "1476054864027594754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039607390891335812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanghai_Repub 我是蒸蚌猫猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2039587882348994675",
+        "created_at": "2026-04-02T07:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039612304011239427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476054864027594754",
+              "start": 0,
+              "username": "Shanghai_Repub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039612304011239427",
+        "in_reply_to_user_id": "1476054864027594754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039607390891335812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanghai_Repub 我是蒸蚌猫猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476054864027594754",
+        "conversation_id": "2039587882348994675",
+        "created_at": "2026-04-02T07:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039607390891335812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039607390891335812",
+        "in_reply_to_user_id": "1476054864027594754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039607286738395472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不是，这556题你能做完你是这个👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要成为一群太阳，成为你石板上刻画的绚烂群星。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2039534008124781004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6390,
+          "following_count": 4472,
+          "like_count": 36884,
+          "listed_count": 16,
+          "media_count": 2686,
+          "tweet_count": 37278
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T05:00:03.000Z",
+        "description": "孩子们我投共了请多多支持。",
+        "id": "1476054864027594754",
+        "name": "聯軍來了我帶路，國軍來了我參加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039123250991476737/cwA5Fq8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 796,
+          "like_count": 11722,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1299
+        },
+        "username": "Shanghai_Repub",
+        "verified": true
+      }
+    ]
+  }
+}

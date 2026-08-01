@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975117404700381584",
+    "created_at": "2025-10-07T16:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975592442687856978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675435251697614851",
+          "start": 0,
+          "username": "shanai815790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975592442687856978",
+    "in_reply_to_user_id": "1675435251697614851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975579941283717156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanai815790 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975117404700381584",
+        "created_at": "2025-10-07T16:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975592442687856978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675435251697614851",
+              "start": 0,
+              "username": "shanai815790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975592442687856978",
+        "in_reply_to_user_id": "1675435251697614851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975579941283717156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanai815790 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675435251697614851",
+        "conversation_id": "1975117404700381584",
+        "created_at": "2025-10-07T15:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975579941283717156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975579941283717156",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975117404700381584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好像商家写的也挺浪漫的。🤗🤗🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4385,
+          "following_count": 3841,
+          "like_count": 29870,
+          "listed_count": 9,
+          "media_count": 2216,
+          "tweet_count": 29908
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T09:24:54.000Z",
+        "description": "嘻嘻",
+        "id": "1675435251697614851",
+        "location": "不知道",
+        "name": "珊蔼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720113813146763264/fFCHNrE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 406,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 108
+        },
+        "username": "shanai815790",
+        "verified": false
+      }
+    ]
+  }
+}

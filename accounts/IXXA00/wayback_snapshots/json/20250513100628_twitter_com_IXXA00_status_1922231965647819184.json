@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1922226465342419010",
+    "created_at": "2025-05-13T10:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T11:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922231965647819184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547097745797685249",
+          "start": 0,
+          "username": "sth_like_human"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922231965647819184",
+    "in_reply_to_user_id": "1547097745797685249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922231770533019901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sth_like_human 恶心大叔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1922226465342419010",
+        "created_at": "2025-05-13T10:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T11:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922231965647819184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547097745797685249",
+              "start": 0,
+              "username": "sth_like_human"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922231965647819184",
+        "in_reply_to_user_id": "1547097745797685249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922231770533019901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sth_like_human 恶心大叔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547097745797685249",
+        "conversation_id": "1922226465342419010",
+        "created_at": "2025-05-13T10:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T11:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922231770533019901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922231770533019901",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922226465342419010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我心理年龄30，不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不好吃🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "绒布球isla",
+        "pinned_tweet_id": "1921938487474802924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921254080334491650/T6AK4pIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 3024,
+          "like_count": 21743,
+          "listed_count": 7,
+          "media_count": 1551,
+          "tweet_count": 21042
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547097904061419520/qYUwbyMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 4112,
+          "like_count": 169776,
+          "listed_count": 7,
+          "media_count": 1626,
+          "tweet_count": 35270
+        },
+        "username": "sth_like_human",
+        "verified": true
+      }
+    ]
+  }
+}

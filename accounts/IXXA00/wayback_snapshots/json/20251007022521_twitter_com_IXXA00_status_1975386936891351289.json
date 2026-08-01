@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975177557910958494",
+    "created_at": "2025-10-07T02:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T03:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975386936891351289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1043712493808304128",
+          "start": 0,
+          "username": "Saraba1st1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975386936891351289",
+    "in_reply_to_user_id": "1043712493808304128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975368028159426576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saraba1st1 破大防"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975177557910958494",
+        "created_at": "2025-10-07T02:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T03:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975386936891351289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1043712493808304128",
+              "start": 0,
+              "username": "Saraba1st1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975386936891351289",
+        "in_reply_to_user_id": "1043712493808304128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975368028159426576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saraba1st1 破大防"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1043712493808304128",
+        "conversation_id": "1975177557910958494",
+        "created_at": "2025-10-07T01:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T02:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975368028159426576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975368028159426576",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975177557910958494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哟，性压抑破防啦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4297,
+          "following_count": 3772,
+          "like_count": 29731,
+          "listed_count": 9,
+          "media_count": 2217,
+          "tweet_count": 29850
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-23T04:03:44.000Z",
+        "description": "",
+        "id": "1043712493808304128",
+        "name": "Saraba1st",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 664,
+          "like_count": 3727,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 350
+        },
+        "username": "Saraba1st1",
+        "verified": false
+      }
+    ]
+  }
+}

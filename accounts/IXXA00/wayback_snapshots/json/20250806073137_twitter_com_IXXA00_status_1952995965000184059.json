@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1952971397514576023",
+    "created_at": "2025-08-06T07:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T08:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952995965000184059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "566884600",
+          "start": 0,
+          "username": "aseer014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952995965000184059",
+    "in_reply_to_user_id": "566884600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952995694555587035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aseer014 好的老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1952971397514576023",
+        "created_at": "2025-08-06T07:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952995965000184059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "566884600",
+              "start": 0,
+              "username": "aseer014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952995965000184059",
+        "in_reply_to_user_id": "566884600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952995694555587035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aseer014 好的老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "566884600",
+        "conversation_id": "1952971397514576023",
+        "created_at": "2025-08-06T07:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952995694555587035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952995694555587035",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952995570169381144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 实在不行买点左氧氟沙星"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓(离异带两百个孩子)",
+        "pinned_tweet_id": "1952031414645576076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3794,
+          "following_count": 3210,
+          "like_count": 26860,
+          "listed_count": 5,
+          "media_count": 1989,
+          "tweet_count": 26475
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-30T03:40:13.000Z",
+        "description": "intp路过",
+        "id": "566884600",
+        "name": "123456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952989397437308928/bXaALqT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 484,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 104
+        },
+        "username": "aseer014",
+        "verified": false
+      }
+    ]
+  }
+}

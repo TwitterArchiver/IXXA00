@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1927393441626915054",
+    "created_at": "2025-05-27T23:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T00:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927510379246071992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1925181621919174657",
+          "start": 0,
+          "username": "nls15872888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927510379246071992",
+    "in_reply_to_user_id": "1925181621919174657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927394121125163028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nls15872888 老师我想变成魔鬼筋肉人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1927393441626915054",
+        "created_at": "2025-05-27T23:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T00:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927510379246071992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1925181621919174657",
+              "start": 0,
+              "username": "nls15872888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927510379246071992",
+        "in_reply_to_user_id": "1925181621919174657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927394121125163028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nls15872888 老师我想变成魔鬼筋肉人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925181621919174657",
+        "conversation_id": "1927393441626915054",
+        "created_at": "2025-05-27T15:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927394121125163028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927394121125163028",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927393441626915054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 有点意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 3023,
+          "like_count": 22264,
+          "listed_count": 7,
+          "media_count": 1607,
+          "tweet_count": 21701
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T13:27:38.000Z",
+        "description": "我既不姓牛也不属牛。",
+        "id": "1925181621919174657",
+        "location": "대한민국 부산광역시",
+        "name": "牛老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926241446295674880/Xu3KlTEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 242,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 200
+        },
+        "username": "nls15872888",
+        "verified": true
+      }
+    ]
+  }
+}

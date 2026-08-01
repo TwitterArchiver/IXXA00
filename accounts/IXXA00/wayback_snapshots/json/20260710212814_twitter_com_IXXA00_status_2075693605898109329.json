@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075693602953703424"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075693605898109329",
+    "created_at": "2026-07-10T21:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T22:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075693605898109329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RhlDsSzI07",
+          "end": 23,
+          "expanded_url": "https://x.com/IXXA00/status/2075693605898109329/photo/1",
+          "media_key": "3_2075693602953703424",
+          "start": 0,
+          "url": "https://t.co/RhlDsSzI07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075693605898109329",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RhlDsSzI07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_2075693602953703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5YVZqbMAApiNa.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075693602953703424"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075693605898109329",
+        "created_at": "2026-07-10T21:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075693605898109329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhlDsSzI07",
+              "end": 23,
+              "expanded_url": "https://x.com/IXXA00/status/2075693605898109329/photo/1",
+              "media_key": "3_2075693602953703424",
+              "start": 0,
+              "url": "https://t.co/RhlDsSzI07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075693605898109329",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RhlDsSzI07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7495,
+          "following_count": 4543,
+          "like_count": 42969,
+          "listed_count": 18,
+          "media_count": 3135,
+          "tweet_count": 42464
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

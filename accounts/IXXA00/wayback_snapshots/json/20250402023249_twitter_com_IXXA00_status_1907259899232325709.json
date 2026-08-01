@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1907255761060892877",
+    "created_at": "2025-04-02T02:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T03:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907259899232325709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773891787104612352",
+          "start": 0,
+          "username": "DermaBasics"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907259899232325709",
+    "in_reply_to_user_id": "1773891787104612352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907255761060892877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DermaBasics 护肤劳斯好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_1907255752584302592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnfvAHybkAAckb8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1907255761060892877",
+        "created_at": "2025-04-02T02:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907259899232325709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773891787104612352",
+              "start": 0,
+              "username": "DermaBasics"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907259899232325709",
+        "in_reply_to_user_id": "1773891787104612352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907255761060892877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DermaBasics 护肤劳斯好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907255752584302592"
+          ]
+        },
+        "author_id": "1773891787104612352",
+        "conversation_id": "1907255761060892877",
+        "created_at": "2025-04-02T02:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907255761060892877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOx5bjtQXQ",
+              "end": 42,
+              "expanded_url": "https://x.com/DermaBasics/status/1907255761060892877/photo/1",
+              "media_key": "3_1907255752584302592",
+              "start": 19,
+              "url": "https://t.co/KOx5bjtQXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907255761060892877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌当下；\n\n负债、没方向、无念头。 https://t.co/KOx5bjtQXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一滴薄荷甜酒(72度)。主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 2817,
+          "like_count": 19409,
+          "listed_count": 6,
+          "media_count": 1332,
+          "tweet_count": 18573
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T01:55:43.000Z",
+        "description": "人生啊，真美好，做点儿有意义的事儿。",
+        "id": "1773891787104612352",
+        "location": "East China, MI",
+        "name": "不资深的资深护肤专家",
+        "pinned_tweet_id": "1905509171388449112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905272160102563841/KBaecytq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 1,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "DermaBasics",
+        "verified": false
+      }
+    ]
+  }
+}

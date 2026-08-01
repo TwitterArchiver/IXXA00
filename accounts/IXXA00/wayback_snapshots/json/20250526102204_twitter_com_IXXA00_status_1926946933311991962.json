@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926946933311991962",
+    "created_at": "2025-05-26T10:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T11:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926946933311991962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiannadu/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/xiannadu/status/1926937858406842413",
+          "start": 26,
+          "url": "https://t.co/JoQau6DBkf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926946933311991962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926937858406842413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我老公为数不多的好处就是我怎么闹他都不生气也不删我 https://t.co/JoQau6DBkf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926946933311991962",
+        "created_at": "2025-05-26T10:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T11:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926946933311991962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiannadu/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xiannadu/status/1926937858406842413",
+              "start": 26,
+              "url": "https://t.co/JoQau6DBkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926946933311991962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926937858406842413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老公为数不多的好处就是我怎么闹他都不生气也不删我 https://t.co/JoQau6DBkf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563386955437871104",
+        "conversation_id": "1926658653920063541",
+        "created_at": "2025-05-26T09:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T10:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926937858406842413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926937858406842413",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926658653920063541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 照着你这发了，被删了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1926304021137985851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 3023,
+          "like_count": 22227,
+          "listed_count": 7,
+          "media_count": 1600,
+          "tweet_count": 21638
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T04:44:40.000Z",
+        "description": "多喝热水。",
+        "id": "1563386955437871104",
+        "name": "仙那渡",
+        "pinned_tweet_id": "1920404102900601019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887867198351495169/f47l7UIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 59,
+          "like_count": 25033,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1118
+        },
+        "username": "xiannadu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1914340941802209403",
+    "created_at": "2025-04-22T01:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T02:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914496336503955546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582064709452595200",
+          "start": 0,
+          "username": "ArtoriaLydx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914496336503955546",
+    "in_reply_to_user_id": "1582064709452595200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914340941802209403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtoriaLydx 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1914340941802209403",
+        "created_at": "2025-04-22T01:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T02:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914496336503955546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582064709452595200",
+              "start": 0,
+              "username": "ArtoriaLydx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914496336503955546",
+        "in_reply_to_user_id": "1582064709452595200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914340941802209403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtoriaLydx 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582064709452595200",
+        "conversation_id": "1914340941802209403",
+        "created_at": "2025-04-21T15:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914340941802209403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914340941802209403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么永远都没有人能理解我的情感。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，写了你们也不看。🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "🚪52",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1914364203135328383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913970624315428864/3mQ1-xkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 2933,
+          "like_count": 20285,
+          "listed_count": 7,
+          "media_count": 1432,
+          "tweet_count": 19592
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T17:43:27.000Z",
+        "description": "墙内人 / 青兰 / 友跨 / 很无趣的人 / 想要互fo / 一个心理不健全的小孩子而已/摸摸bot/学习ing～",
+        "id": "1582064709452595200",
+        "location": "距离你100m",
+        "name": "Cyan",
+        "pinned_tweet_id": "1775517441587863696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710327922027122689/bwZ52ujy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 1548,
+          "like_count": 20469,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 3758
+        },
+        "username": "ArtoriaLydx",
+        "verified": false
+      }
+    ]
+  }
+}

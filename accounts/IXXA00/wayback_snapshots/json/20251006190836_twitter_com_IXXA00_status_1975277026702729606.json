@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975030696948441493",
+    "created_at": "2025-10-06T19:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T20:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975277026702729606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952639372257296384",
+          "start": 0,
+          "username": "wei78dddd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975277026702729606",
+    "in_reply_to_user_id": "1952639372257296384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975251151764492329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei78dddd 网图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975030696948441493",
+        "created_at": "2025-10-06T19:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T20:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975277026702729606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952639372257296384",
+              "start": 0,
+              "username": "wei78dddd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975277026702729606",
+        "in_reply_to_user_id": "1952639372257296384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975251151764492329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei78dddd 网图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952639372257296384",
+        "conversation_id": "1975030696948441493",
+        "created_at": "2025-10-06T17:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975251151764492329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975251151764492329",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975030696948441493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ？这个怎么搞的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4278,
+          "following_count": 3744,
+          "like_count": 29672,
+          "listed_count": 9,
+          "media_count": 2216,
+          "tweet_count": 29818
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T07:54:53.000Z",
+        "description": "咬牙切齿の活着៸៸◺𓈊◿៸៸",
+        "id": "1952639372257296384",
+        "location": "Saint-Mandé, France",
+        "name": "我想你们都会幸福",
+        "pinned_tweet_id": "1954523955588415597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952726933030027265/fpsinGJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 522,
+          "like_count": 6304,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1321
+        },
+        "username": "wei78dddd",
+        "verified": false
+      }
+    ]
+  }
+}

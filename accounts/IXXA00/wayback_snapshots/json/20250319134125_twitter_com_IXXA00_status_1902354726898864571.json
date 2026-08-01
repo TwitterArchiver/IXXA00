@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1902314205534974310",
+    "created_at": "2025-03-19T13:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T14:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902354726898864571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1768447580961398784",
+          "start": 0,
+          "username": "aloner_second"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902354726898864571",
+    "in_reply_to_user_id": "1768447580961398784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902354529280258369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aloner_second 这是酒精度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1902314205534974310",
+        "created_at": "2025-03-19T13:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902354726898864571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768447580961398784",
+              "start": 0,
+              "username": "aloner_second"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902354726898864571",
+        "in_reply_to_user_id": "1768447580961398784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902354529280258369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aloner_second 这是酒精度。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768447580961398784",
+        "conversation_id": "1902314205534974310",
+        "created_at": "2025-03-19T13:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902354529280258369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902354529280258369",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902314205534974310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 能不能冷却一下。冷却到二十度再喝。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷小甜酒(72度)。",
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3456,
+          "following_count": 2713,
+          "like_count": 18571,
+          "listed_count": 6,
+          "media_count": 1262,
+          "tweet_count": 17565
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T01:22:21.000Z",
+        "description": "匿名提问箱https://t.co/5hBrDwUXBp\n高强度互动是因为缺朋友 想和你们一起玩罢了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloner_second/",
+                "end": 28,
+                "expanded_url": "https://ngl.link/aloner_second/",
+                "start": 5,
+                "url": "https://t.co/5hBrDwUXBp"
+              }
+            ]
+          }
+        },
+        "id": "1768447580961398784",
+        "location": "莲花古城",
+        "name": "贰号唱片",
+        "pinned_tweet_id": "1876171592054759724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866564276049285121/M4IT4Oy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 285,
+          "like_count": 5579,
+          "listed_count": 1,
+          "media_count": 712,
+          "tweet_count": 2606
+        },
+        "username": "aloner_second",
+        "verified": false
+      }
+    ]
+  }
+}

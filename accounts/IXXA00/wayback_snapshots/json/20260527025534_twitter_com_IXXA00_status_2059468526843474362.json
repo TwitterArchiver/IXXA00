@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059406531930751083",
+    "created_at": "2026-05-27T02:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059468526843474362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795395823490240513",
+          "start": 0,
+          "username": "Riven271378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059468526843474362",
+    "in_reply_to_user_id": "1795395823490240513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059440502207140003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riven271378 主播马上就要随风而去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-27T02:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059468526843474362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795395823490240513",
+              "start": 0,
+              "username": "Riven271378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059468526843474362",
+        "in_reply_to_user_id": "1795395823490240513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059440502207140003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riven271378 主播马上就要随风而去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795395823490240513",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-27T01:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059440502207140003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059440502207140003",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059406531930751083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 看上去像是下一秒就要变成灰尘被风吹散在阳光里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7050,
+          "following_count": 4502,
+          "like_count": 40383,
+          "listed_count": 18,
+          "media_count": 2961,
+          "tweet_count": 40298
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T10:05:12.000Z",
+        "description": "INTJ",
+        "id": "1795395823490240513",
+        "location": "宇宙尽头",
+        "name": "宇宙探索指南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031942943444217856/3WNmkBSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 61,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 218
+        },
+        "username": "Riven271378",
+        "verified": false
+      }
+    ]
+  }
+}

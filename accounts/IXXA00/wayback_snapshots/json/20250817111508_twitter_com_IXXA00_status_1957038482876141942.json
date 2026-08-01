@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1956692415445926362",
+    "created_at": "2025-08-17T11:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T12:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957038482876141942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879161209578254336",
+          "start": 0,
+          "username": "wanan642194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957038482876141942",
+    "in_reply_to_user_id": "1879161209578254336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957036330753339689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanan642194 04年不是小孩吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1956692415445926362",
+        "created_at": "2025-08-17T11:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957038482876141942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879161209578254336",
+              "start": 0,
+              "username": "wanan642194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957038482876141942",
+        "in_reply_to_user_id": "1879161209578254336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957036330753339689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanan642194 04年不是小孩吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879161209578254336",
+        "conversation_id": "1956692415445926362",
+        "created_at": "2025-08-17T11:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957036330753339689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957036330753339689",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956692415445926362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 04终于也能被说成小孩了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不是男娘。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1956318087436742723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 3280,
+          "like_count": 27354,
+          "listed_count": 5,
+          "media_count": 2041,
+          "tweet_count": 27118
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T13:38:52.000Z",
+        "description": "",
+        "id": "1879161209578254336",
+        "name": "wanan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915041675522736129/3x9zLySZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 73,
+          "like_count": 2876,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "wanan642194",
+        "verified": false
+      }
+    ]
+  }
+}

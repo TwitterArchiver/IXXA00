@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1934423860918788424",
+    "created_at": "2025-06-16T01:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T02:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934423860918788424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niceball_wuwaa…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/niceball_wuwaa/status/1934310446284132684",
+          "start": 82,
+          "url": "https://t.co/nfTX4LEK2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934423860918788424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934310446284132684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一觉醒来王萌豚穿越回了50年前：上辈子，我被奸人所害，亲人的背叛，命运的捉弄，让我失去所有。这一世，我要拿回本该属于我的一切，v我50(CAD)，看我的逆袭之路。 https://t.co/nfTX4LEK2K"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1934310446284132684].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934310446284132684",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934310446284132684"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1934423860918788424",
+        "created_at": "2025-06-16T01:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T02:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934423860918788424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niceball_wuwaa…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/niceball_wuwaa/status/1934310446284132684",
+              "start": 82,
+              "url": "https://t.co/nfTX4LEK2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934423860918788424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934310446284132684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一觉醒来王萌豚穿越回了50年前：上辈子，我被奸人所害，亲人的背叛，命运的捉弄，让我失去所有。这一世，我要拿回本该属于我的一切，v我50(CAD)，看我的逆袭之路。 https://t.co/nfTX4LEK2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男装大佬。🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 9,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 3103,
+          "like_count": 23747,
+          "listed_count": 7,
+          "media_count": 1742,
+          "tweet_count": 23293
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

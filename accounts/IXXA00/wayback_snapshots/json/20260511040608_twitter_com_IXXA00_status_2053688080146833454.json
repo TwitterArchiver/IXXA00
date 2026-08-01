@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2053664299047075961",
+    "created_at": "2026-05-11T04:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053688080146833454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808883154083852288",
+          "start": 0,
+          "username": "lipuxizi7071638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053688080146833454",
+    "in_reply_to_user_id": "1808883154083852288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053664299047075961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipuxizi7071638 Is there one near Wanda Plaza?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2053664299047075961",
+        "created_at": "2026-05-11T04:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053688080146833454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808883154083852288",
+              "start": 0,
+              "username": "lipuxizi7071638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053688080146833454",
+        "in_reply_to_user_id": "1808883154083852288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053664299047075961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipuxizi7071638 Is there one near Wanda Plaza?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808883154083852288",
+        "conversation_id": "2053664299047075961",
+        "created_at": "2026-05-11T02:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053664299047075961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053664299047075961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说为什么没有人机评论我呢。\n原来是我没有流量啊，哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7005,
+          "following_count": 4496,
+          "like_count": 39692,
+          "listed_count": 19,
+          "media_count": 2877,
+          "tweet_count": 39608
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-04T15:18:59.000Z",
+        "description": "关山难越，谁悲失路之人。",
+        "id": "1808883154083852288",
+        "location": "无人在意的小角落",
+        "name": "小鱼块",
+        "pinned_tweet_id": "2048748852610781291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025581018888220672/9xIb5uA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7070,
+          "following_count": 560,
+          "like_count": 10950,
+          "listed_count": 32,
+          "media_count": 12,
+          "tweet_count": 3083
+        },
+        "username": "lipuxizi7071638",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1984098723404902790",
+    "created_at": "2025-10-31T11:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T12:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984223973127999627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830958225422008320",
+          "start": 0,
+          "username": "castlegbqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984223973127999627",
+    "in_reply_to_user_id": "1830958225422008320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984220090104168455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@castlegbqr 😭被看穿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1984098723404902790",
+        "created_at": "2025-10-31T11:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984223973127999627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830958225422008320",
+              "start": 0,
+              "username": "castlegbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984223973127999627",
+        "in_reply_to_user_id": "1830958225422008320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984220090104168455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@castlegbqr 😭被看穿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830958225422008320",
+        "conversation_id": "1984098723404902790",
+        "created_at": "2025-10-31T11:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984220090104168455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984220090104168455",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984219461553971705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 其实我们都知道你是故意的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5201,
+          "following_count": 4631,
+          "like_count": 31981,
+          "listed_count": 11,
+          "media_count": 2297,
+          "tweet_count": 31562
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T13:17:46.000Z",
+        "description": "大家好，我的名字是高堡奇人，支持土地私有，探究如何减少人口密度，住上大house，欢迎与我洽谈😄",
+        "id": "1830958225422008320",
+        "location": "太平洋合众国",
+        "name": "高堡奇人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983404040831766528/kYC0IEa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 361,
+          "like_count": 9688,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 1478
+        },
+        "username": "castlegbqr",
+        "verified": true
+      }
+    ]
+  }
+}

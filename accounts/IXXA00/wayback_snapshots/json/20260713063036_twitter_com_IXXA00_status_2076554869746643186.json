@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2076500997757907384",
+    "created_at": "2026-07-13T06:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076554869746643186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1509884881761087494",
+          "start": 0,
+          "username": "jie98236945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076554869746643186",
+    "in_reply_to_user_id": "1509884881761087494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076547512215965929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jie98236945 这个我也有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2076500997757907384",
+        "created_at": "2026-07-13T06:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076554869746643186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1509884881761087494",
+              "start": 0,
+              "username": "jie98236945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076554869746643186",
+        "in_reply_to_user_id": "1509884881761087494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076547512215965929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jie98236945 这个我也有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509884881761087494",
+        "conversation_id": "2076500997757907384",
+        "created_at": "2026-07-13T06:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076547512215965929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076547512215965929",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076546584251392452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 🐖合集https（删掉）://（删掉）pighub（删掉）.top"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7495,
+          "following_count": 4542,
+          "like_count": 43054,
+          "listed_count": 18,
+          "media_count": 3141,
+          "tweet_count": 42570
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T13:26:30.000Z",
+        "description": "在娃娃中迷失自我",
+        "id": "1509884881761087494",
+        "location": "这东西小范围享受就行了",
+        "name": "聆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783361858084478976/ZvHxzoqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 605,
+          "like_count": 2375,
+          "listed_count": 0,
+          "media_count": 599,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "jie98236945",
+        "verified": false
+      }
+    ]
+  }
+}

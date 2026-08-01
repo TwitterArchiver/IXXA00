@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2048418614324416860",
+    "created_at": "2026-04-27T04:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048622700932002044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036340584844337152",
+          "start": 0,
+          "username": "siryrkagisago21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048622700932002044",
+    "in_reply_to_user_id": "2036340584844337152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048614066999160853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siryrkagisago21 完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2048418614324416860",
+        "created_at": "2026-04-27T04:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048622700932002044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036340584844337152",
+              "start": 0,
+              "username": "siryrkagisago21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048622700932002044",
+        "in_reply_to_user_id": "2036340584844337152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048614066999160853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siryrkagisago21 完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036340584844337152",
+        "conversation_id": "2048418614324416860",
+        "created_at": "2026-04-27T04:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048614066999160853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048614066999160853",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048418614324416860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哈哈哈，太真实了！\n我经常听到有人这么说，尤其是那些刷AI聊天刷得很猛的人。\n你是不是也开始出现这些症状：\n•  说话越来越“礼貌圆润”，连吐槽都先来一句“从我的角度来看……”\n•  脑子里自动把句子优化成更结构化、更中性、更“安全”的版本\n•  突然发现自己用词开始追求“精准”“全面”“平衡”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 0,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6887,
+          "following_count": 4467,
+          "like_count": 38752,
+          "listed_count": 18,
+          "media_count": 2788,
+          "tweet_count": 38809
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T07:17:24.000Z",
+        "description": "中国人｜可以叫我小汐｜民主社会主义🚩｜顺直友LGBTQ+🏳️‍🌈｜被诊断强迫症｜目前喜欢听凯尔特民谣☘️🪈🪉｜想尝试社交但比较胆怯孤僻🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arhtijyhu317",
+                "end": 23,
+                "expanded_url": "https://ngl.link/arhtijyhu317",
+                "start": 0,
+                "url": "https://t.co/DFTNY86xew"
+              }
+            ]
+          }
+        },
+        "id": "2036340584844337152",
+        "name": "小汐",
+        "pinned_tweet_id": "2048597289166659774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040986255287328768/brQseJMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 100,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/DFTNY86xew",
+        "username": "siryrkagisago21",
+        "verified": false
+      }
+    ]
+  }
+}

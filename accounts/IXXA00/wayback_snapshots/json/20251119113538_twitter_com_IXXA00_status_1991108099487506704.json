@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1991108005400907776"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1991108099487506704",
+    "created_at": "2025-11-19T11:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991108099487506704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6wntGms69q",
+          "end": 36,
+          "expanded_url": "https://x.com/IXXA00/status/1991108099487506704/video/1",
+          "media_key": "7_1991108005400907776",
+          "start": 13,
+          "url": "https://t.co/6wntGms69q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991108099487506704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这人说话为啥老翻白眼…… https://t.co/6wntGms69q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51333,
+        "height": 1280,
+        "media_key": "7_1991108005400907776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1991108005400907776/pu/img/L0INPyzWIPwwEZkC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991108005400907776/pu/vid/avc1/320x710/kJ6hOgbg1Q1So1vh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991108005400907776/pu/vid/avc1/480x1066/q_xqjjtCrMTWUX6T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991108005400907776/pu/vid/avc1/576x1280/J4gDqvrUbC3GBD14.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1991108005400907776/pu/pl/iyAU-FAw76zrGsXY.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1991108005400907776"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1991108099487506704",
+        "created_at": "2025-11-19T11:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991108099487506704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wntGms69q",
+              "end": 36,
+              "expanded_url": "https://x.com/IXXA00/status/1991108099487506704/video/1",
+              "media_key": "7_1991108005400907776",
+              "start": 13,
+              "url": "https://t.co/6wntGms69q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991108099487506704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人说话为啥老翻白眼…… https://t.co/6wntGms69q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "冷萌",
+        "pinned_tweet_id": "1991057365240881313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991011487989837830/4ufZsIXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5497,
+          "following_count": 4550,
+          "like_count": 33420,
+          "listed_count": 11,
+          "media_count": 2378,
+          "tweet_count": 32826
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

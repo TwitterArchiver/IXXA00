@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059891279996354721",
+    "created_at": "2026-05-28T07:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059903547354038278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012929733621600258",
+          "start": 0,
+          "username": "linyan25355617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059903547354038278",
+    "in_reply_to_user_id": "2012929733621600258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059903199000313963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyan25355617 猪降临"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059891279996354721",
+        "created_at": "2026-05-28T07:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059903547354038278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012929733621600258",
+              "start": 0,
+              "username": "linyan25355617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059903547354038278",
+        "in_reply_to_user_id": "2012929733621600258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059903199000313963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyan25355617 猪降临"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012929733621600258",
+        "conversation_id": "2059891279996354721",
+        "created_at": "2026-05-28T07:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059903199000313963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059903199000313963",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059891279996354721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 猪包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7096,
+          "following_count": 4503,
+          "like_count": 40544,
+          "listed_count": 18,
+          "media_count": 2966,
+          "tweet_count": 40419
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T16:47:19.000Z",
+        "description": "平庸，平凡",
+        "id": "2012929733621600258",
+        "name": "瓶中船",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 127
+        },
+        "username": "linyan25355617",
+        "verified": false
+      }
+    ]
+  }
+}

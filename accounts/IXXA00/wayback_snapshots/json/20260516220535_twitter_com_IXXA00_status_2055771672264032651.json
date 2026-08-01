@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2055771672264032651",
+    "created_at": "2026-05-16T22:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T23:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055771672264032651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tompsinsky/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/tompsinsky/status/2055698704607101416",
+          "start": 9,
+          "url": "https://t.co/PcIVcKPPdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055771672264032651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055698704607101416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还不够反差吗？ https://t.co/PcIVcKPPdt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2055771672264032651",
+        "created_at": "2026-05-16T22:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055771672264032651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tompsinsky/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/tompsinsky/status/2055698704607101416",
+              "start": 9,
+              "url": "https://t.co/PcIVcKPPdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055771672264032651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055698704607101416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还不够反差吗？ https://t.co/PcIVcKPPdt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807097305067130880",
+        "conversation_id": "2055557728920363048",
+        "created_at": "2026-05-16T17:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055698704607101416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055698704607101416",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055557728920363048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 当反差主播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2055213088782401614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7004,
+          "following_count": 4503,
+          "like_count": 39912,
+          "listed_count": 19,
+          "media_count": 2901,
+          "tweet_count": 39855
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:02:43.000Z",
+        "description": "多伦多 男娘爱好者 缚手 约克大学phd",
+        "id": "1807097305067130880",
+        "location": "卡尔克萨 哈利湖",
+        "name": "tompsinsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918823208658014209/g-cLCvhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 244,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 86
+        },
+        "username": "tompsinsky",
+        "verified": false
+      }
+    ]
+  }
+}

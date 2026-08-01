@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1957041331848790440",
+    "created_at": "2025-08-17T14:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T15:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957088155930116353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930192046108917760",
+          "start": 0,
+          "username": "dachanmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957088155930116353",
+    "in_reply_to_user_id": "1930192046108917760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957041331848790440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachanmiao 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1957041331848790440",
+        "created_at": "2025-08-17T14:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T15:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957088155930116353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930192046108917760",
+              "start": 0,
+              "username": "dachanmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957088155930116353",
+        "in_reply_to_user_id": "1930192046108917760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957041331848790440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachanmiao 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930192046108917760",
+        "conversation_id": "1957041331848790440",
+        "created_at": "2025-08-17T11:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957041331848790440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957041331848790440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躺在一张床上了\n他跟我说只想做朋友……\n哈哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小男娘🫶🏻。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1956318087436742723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3849,
+          "following_count": 3281,
+          "like_count": 27380,
+          "listed_count": 5,
+          "media_count": 2044,
+          "tweet_count": 27159
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T09:17:37.000Z",
+        "description": "我有病 不要跟我计较了 好吗 好的",
+        "id": "1930192046108917760",
+        "name": "缠猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934612496649965568/ovuv_Qe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 79,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 404
+        },
+        "username": "dachanmiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1888159824615215448",
+    "created_at": "2025-02-08T10:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T11:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888176598471368725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1600094196341563392",
+          "start": 0,
+          "username": "dkklas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888176598471368725",
+    "in_reply_to_user_id": "1600094196341563392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888172896784425193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dkklas 我是煤食主包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1888159824615215448",
+        "created_at": "2025-02-08T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888176598471368725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1600094196341563392",
+              "start": 0,
+              "username": "dkklas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888176598471368725",
+        "in_reply_to_user_id": "1600094196341563392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888172896784425193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dkklas 我是煤食主包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600094196341563392",
+        "conversation_id": "1888159824615215448",
+        "created_at": "2025-02-08T10:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T11:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888172896784425193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888172896784425193",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888159824615215448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你要不去当美食博主得了，卖相都挺好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 2507,
+          "like_count": 15830,
+          "listed_count": 6,
+          "media_count": 1108,
+          "tweet_count": 15085
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T11:46:08.000Z",
+        "description": "能好好说话你就说，不行就果断b了",
+        "id": "1600094196341563392",
+        "name": "抑扬顿挫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884272887487684609/GdeMPNi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 1559,
+          "like_count": 18082,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 1609
+        },
+        "username": "dkklas",
+        "verified": false
+      }
+    ]
+  }
+}

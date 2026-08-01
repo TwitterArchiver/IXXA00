@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1911301478926500101",
+    "created_at": "2025-04-30T01:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T02:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917383766282232181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1430776330744864771",
+          "start": 0,
+          "username": "tomoto233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917383766282232181",
+    "in_reply_to_user_id": "1430776330744864771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911301478926500101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomoto233 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1911301478926500101",
+        "created_at": "2025-04-30T01:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T02:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917383766282232181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1430776330744864771",
+              "start": 0,
+              "username": "tomoto233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917383766282232181",
+        "in_reply_to_user_id": "1430776330744864771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911301478926500101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomoto233 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430776330744864771",
+        "conversation_id": "1911301478926500101",
+        "created_at": "2025-04-13T06:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T07:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911301478926500101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911301478926500101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4347,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整个世界就是一大团垃圾。\n垃圾很好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1916674712316641709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917074204043972610/H9EW5pZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3613,
+          "following_count": 2946,
+          "like_count": 20759,
+          "listed_count": 7,
+          "media_count": 1474,
+          "tweet_count": 20112
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T06:18:05.000Z",
+        "description": "这里只是我的垃圾桶/选择性回fo/只跟有意思的推友玩/看黄男退散",
+        "id": "1430776330744864771",
+        "name": "月光超载",
+        "pinned_tweet_id": "1911301478926500101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907701858426322944/8y3YrrOW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 175,
+          "like_count": 3954,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2210
+        },
+        "username": "tomoto233",
+        "verified": false
+      }
+    ]
+  }
+}

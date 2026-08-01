@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T05:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043918366700908626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1600982388925833216",
+          "start": 0,
+          "username": "Ap_xia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043918366700908626",
+    "in_reply_to_user_id": "1600982388925833216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043917434097414464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ap_xia ？😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T05:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043918366700908626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1600982388925833216",
+              "start": 0,
+              "username": "Ap_xia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043918366700908626",
+        "in_reply_to_user_id": "1600982388925833216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043917434097414464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ap_xia ？😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600982388925833216",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T05:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043917434097414464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043917434097414464",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我中文不太好，你能不要教我中文吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 4396,
+          "like_count": 37388,
+          "listed_count": 16,
+          "media_count": 2716,
+          "tweet_count": 37769
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T22:35:33.000Z",
+        "description": "",
+        "id": "1600982388925833216",
+        "location": "Biei-cho, Hokkaidō",
+        "name": "をカオ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043675045420249088/wI6FgZ-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1021
+        },
+        "username": "Ap_xia",
+        "verified": false
+      }
+    ]
+  }
+}

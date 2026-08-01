@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2058518596058566979",
+    "created_at": "2026-05-24T12:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058520331426611568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058520331426611568",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058518596058566979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 儿童"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4726,
+        "height": 1270,
+        "media_key": "7_2058518554480435200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058518554480435200/pu/img/LwLitzEM1y5XgjNe.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058518554480435200/pu/vid/avc1/320x564/VkhFevMiGXnyphyM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058518554480435200/pu/vid/avc1/480x846/9_g_fxhhD1q8IWcR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058518554480435200/pu/vid/avc1/720x1270/e5a8_SUITpiGpPMk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058518554480435200/pu/pl/qmmmzN082V1ijw9W.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2058518596058566979",
+        "created_at": "2026-05-24T12:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058520331426611568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058520331426611568",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058518596058566979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 儿童"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058518554480435200"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2058518596058566979",
+        "created_at": "2026-05-24T12:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058518596058566979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHVGyIunQb",
+              "end": 34,
+              "expanded_url": "https://x.com/Aloevce/status/2058518596058566979/video/1",
+              "media_key": "7_2058518554480435200",
+              "start": 11,
+              "url": "https://t.co/bHVGyIunQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058518596058566979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象哥：不要穿儿童装 https://t.co/bHVGyIunQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7046,
+          "following_count": 4502,
+          "like_count": 40270,
+          "listed_count": 18,
+          "media_count": 2947,
+          "tweet_count": 40188
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18202,
+          "following_count": 1971,
+          "like_count": 56140,
+          "listed_count": 24,
+          "media_count": 6730,
+          "tweet_count": 23706
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

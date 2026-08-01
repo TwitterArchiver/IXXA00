@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2024390350375424062",
+    "created_at": "2026-02-19T11:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024453700488684014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1986760353573990400",
+          "start": 0,
+          "username": "pooj_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024453700488684014",
+    "in_reply_to_user_id": "1986760353573990400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024445423092715836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pooj_2 ……给你丢到水里去😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2024390350375424062",
+        "created_at": "2026-02-19T11:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024453700488684014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1986760353573990400",
+              "start": 0,
+              "username": "pooj_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024453700488684014",
+        "in_reply_to_user_id": "1986760353573990400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024445423092715836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pooj_2 ……给你丢到水里去😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760353573990400",
+        "conversation_id": "2024390350375424062",
+        "created_at": "2026-02-19T11:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024445423092715836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024445423092715836",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024390350375424062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 牛爷爷不吃心灵控制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "等待一份纯粹的爱意。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5724,
+          "following_count": 4472,
+          "like_count": 35903,
+          "listed_count": 14,
+          "media_count": 2614,
+          "tweet_count": 35943
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:39:33.000Z",
+        "description": "",
+        "id": "1986760353573990400",
+        "name": "pooj pooj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988289281018990592/TM58q7UK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 84,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 918
+        },
+        "username": "pooj_2",
+        "verified": false
+      }
+    ]
+  }
+}

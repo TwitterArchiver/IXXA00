@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947881709329867111",
+    "created_at": "2025-07-23T05:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T06:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947884997110862296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814580620258955264",
+          "start": 0,
+          "username": "easylearninggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947884997110862296",
+    "in_reply_to_user_id": "1814580620258955264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947881709329867111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@easylearninggg 抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947881709329867111",
+        "created_at": "2025-07-23T05:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T06:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947884997110862296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814580620258955264",
+              "start": 0,
+              "username": "easylearninggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947884997110862296",
+        "in_reply_to_user_id": "1814580620258955264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947881709329867111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@easylearninggg 抽象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814580620258955264",
+        "conversation_id": "1947881709329867111",
+        "created_at": "2025-07-23T04:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T05:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947881709329867111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947881709329867111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底有多抽象呢？\n\n我爸问我吃什么\n\n我说辣椒炒肉\n\n某一天我妈准备做排骨汤\n\n找了很久没有找到排骨\n\n后来我知道了\n\n那天冰箱里没有肉\n\n我爸把排骨上的肉切下来了\n\n肉炒了辣椒，骨头丢了\n\n我的天啊！！！！！😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 3154,
+          "like_count": 26296,
+          "listed_count": 5,
+          "media_count": 1931,
+          "tweet_count": 25807
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T08:38:48.000Z",
+        "description": "ゆっくりでいい。止まらなければ。",
+        "id": "1814580620258955264",
+        "name": "Lihua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814581699612708864/4dC_aIZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 88,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 173
+        },
+        "username": "easylearninggg",
+        "verified": false
+      }
+    ]
+  }
+}

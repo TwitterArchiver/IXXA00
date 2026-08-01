@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2071762015811678353",
+    "created_at": "2026-06-30T18:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072030559040332053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807097305067130880",
+          "start": 0,
+          "username": "tompsinsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072030559040332053",
+    "in_reply_to_user_id": "1807097305067130880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072025213454127563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tompsinsky 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2071762015811678353",
+        "created_at": "2026-06-30T18:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072030559040332053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807097305067130880",
+              "start": 0,
+              "username": "tompsinsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072030559040332053",
+        "in_reply_to_user_id": "1807097305067130880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072025213454127563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tompsinsky 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807097305067130880",
+        "conversation_id": "2071762015811678353",
+        "created_at": "2026-06-30T18:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072025213454127563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072025213454127563",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071762015811678353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 拉黑之后回味起来更好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "在渡心劫。/映镜明本，坐悟洞心。",
+        "id": "1739391734491086848",
+        "location": "辽宁省 鞍山市",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7376,
+          "following_count": 4517,
+          "like_count": 42483,
+          "listed_count": 18,
+          "media_count": 3096,
+          "tweet_count": 41969
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:02:43.000Z",
+        "description": "多伦多 男娘爱好者 缚手 约克大学phd",
+        "id": "1807097305067130880",
+        "location": "卡尔克萨 哈利湖",
+        "name": "tompsinsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918823208658014209/g-cLCvhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 270,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "tompsinsky",
+        "verified": false
+      }
+    ]
+  }
+}

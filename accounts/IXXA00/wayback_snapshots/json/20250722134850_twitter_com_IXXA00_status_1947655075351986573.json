@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947643061699547363",
+    "created_at": "2025-07-22T13:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T14:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947655075351986573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743843246680543232",
+          "start": 0,
+          "username": "TuAugust68893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947655075351986573",
+    "in_reply_to_user_id": "1743843246680543232",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947643061699547363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuAugust68893 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947643061699547363",
+        "created_at": "2025-07-22T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947655075351986573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743843246680543232",
+              "start": 0,
+              "username": "TuAugust68893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947655075351986573",
+        "in_reply_to_user_id": "1743843246680543232",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947643061699547363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuAugust68893 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743843246680543232",
+        "conversation_id": "1947643061699547363",
+        "created_at": "2025-07-22T13:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947643061699547363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947643061699547363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于开张了....\n线下社交让我又活过来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 3154,
+          "like_count": 26250,
+          "listed_count": 5,
+          "media_count": 1926,
+          "tweet_count": 25762
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T03:53:40.000Z",
+        "description": "男，作家，独立思考者",
+        "id": "1743843246680543232",
+        "location": "Lubuk Baja, Indonesia",
+        "name": "九阳正道通玄真人",
+        "pinned_tweet_id": "1803769526393455002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886782004005650432/Yn5ej0D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 294,
+          "like_count": 6455,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2450
+        },
+        "username": "TuAugust68893",
+        "verified": false
+      }
+    ]
+  }
+}

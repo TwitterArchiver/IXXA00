@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2055192010039198205",
+    "created_at": "2026-05-15T07:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055192010039198205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PeraLee12/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/PeraLee12/status/2055080786764935312",
+          "start": 4,
+          "url": "https://t.co/Gqa5ihjw2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055192010039198205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055080786764935312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样 https://t.co/Gqa5ihjw2u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2055192010039198205",
+        "created_at": "2026-05-15T07:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055192010039198205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PeraLee12/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/PeraLee12/status/2055080786764935312",
+              "start": 4,
+              "url": "https://t.co/Gqa5ihjw2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055192010039198205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055080786764935312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样 https://t.co/Gqa5ihjw2u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291749359948673025",
+        "conversation_id": "2055080786764935312",
+        "created_at": "2026-05-15T00:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055080786764935312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055080786764935312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22673,
+          "like_count": 166,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "凯迪拉克因为用料扎实，所以车比较重\n车重就得大力踩油门，踩油门就会脚酸\n脚酸所以就得去洗脚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2054519703507464205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7003,
+          "following_count": 4500,
+          "like_count": 39818,
+          "listed_count": 19,
+          "media_count": 2896,
+          "tweet_count": 39783
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-07T14:53:53.000Z",
+        "description": "cold fish/有精神病/负能量",
+        "id": "1291749359948673025",
+        "location": "江河湖海",
+        "name": "PeraLee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431554153721958400/5jje9CSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16035,
+          "following_count": 397,
+          "like_count": 2675,
+          "listed_count": 52,
+          "media_count": 1882,
+          "tweet_count": 5914
+        },
+        "username": "PeraLee12",
+        "verified": false
+      }
+    ]
+  }
+}

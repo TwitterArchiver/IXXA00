@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2020996348741550331",
+    "created_at": "2026-02-10T14:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T15:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021222822442303826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1143791433909805056",
+          "start": 0,
+          "username": "cdnianxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021222822442303826",
+    "in_reply_to_user_id": "1143791433909805056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021208204026196396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cdnianxi 😰😰😰😰😰真大啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2020996348741550331",
+        "created_at": "2026-02-10T14:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021222822442303826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1143791433909805056",
+              "start": 0,
+              "username": "cdnianxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021222822442303826",
+        "in_reply_to_user_id": "1143791433909805056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021208204026196396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdnianxi 😰😰😰😰😰真大啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1143791433909805056",
+        "conversation_id": "2020996348741550331",
+        "created_at": "2026-02-10T13:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021208204026196396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021208204026196396",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020996348741550331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 真和猪一样大的时候你又不乐意了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一个可爱的小女孩。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isola",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5658,
+          "following_count": 4472,
+          "like_count": 35791,
+          "listed_count": 14,
+          "media_count": 2606,
+          "tweet_count": 35796
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-26T08:01:43.000Z",
+        "description": "switch，成分复杂，xp复杂",
+        "id": "1143791433909805056",
+        "location": "杭州",
+        "name": "念曦",
+        "pinned_tweet_id": "1648017759568285696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410427266111217668/EsDjiXlY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35064,
+          "following_count": 357,
+          "like_count": 1764,
+          "listed_count": 152,
+          "media_count": 171,
+          "tweet_count": 1902
+        },
+        "username": "cdnianxi",
+        "verified": false
+      }
+    ]
+  }
+}

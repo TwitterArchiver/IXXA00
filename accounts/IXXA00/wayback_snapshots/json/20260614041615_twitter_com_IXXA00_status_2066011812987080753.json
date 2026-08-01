@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2065957819384533048",
+    "created_at": "2026-06-14T04:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066011812987080753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1338048339930071040",
+          "start": 0,
+          "username": "konoGuanine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066011812987080753",
+    "in_reply_to_user_id": "1338048339930071040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066007259004776745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konoGuanine 可以吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2065957819384533048",
+        "created_at": "2026-06-14T04:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066011812987080753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1338048339930071040",
+              "start": 0,
+              "username": "konoGuanine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066011812987080753",
+        "in_reply_to_user_id": "1338048339930071040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066007259004776745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoGuanine 可以吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1338048339930071040",
+        "conversation_id": "2065957819384533048",
+        "created_at": "2026-06-14T03:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066007259004776745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066007259004776745",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066003957408038984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不可以吃猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/鲜嫩多汁的情绪自留地：@islaixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7354,
+          "following_count": 4524,
+          "like_count": 41875,
+          "listed_count": 18,
+          "media_count": 3032,
+          "tweet_count": 41366
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-13T09:09:29.000Z",
+        "description": "Ich dien|\na failed pharmacist ｜EN,CN,Cantonese",
+        "id": "1338048339930071040",
+        "location": "Macao",
+        "name": "roseae",
+        "pinned_tweet_id": "1497453314107064322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020468281300377600/ePPIIhOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1445,
+          "like_count": 49611,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 8421
+        },
+        "username": "konoGuanine",
+        "verified": false
+      }
+    ]
+  }
+}

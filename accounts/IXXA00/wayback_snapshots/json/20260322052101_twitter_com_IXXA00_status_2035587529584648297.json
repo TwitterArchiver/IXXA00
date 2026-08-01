@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2035587512970977280"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2035587529584648297",
+    "created_at": "2026-03-22T05:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035587529584648297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IL0gGzIhr0",
+          "end": 35,
+          "expanded_url": "https://x.com/IXXA00/status/2035587529584648297/video/1",
+          "media_key": "7_2035587512970977280",
+          "start": 12,
+          "url": "https://t.co/IL0gGzIhr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035587529584648297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主包技术是不是特别好？ https://t.co/IL0gGzIhr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3715,
+        "height": 1278,
+        "media_key": "7_2035587512970977280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035587512970977280/pu/img/fNWYvzeMuBp8RNiS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035587512970977280/pu/vid/avc1/320x620/k8pAe67f2rk0qmN2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035587512970977280/pu/vid/avc1/480x932/KWTRuHx3zKX89NGK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035587512970977280/pu/vid/avc1/658x1278/750Jcy1MZ0w7OFYK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035587512970977280/pu/pl/5HuVaEjC32uvPXQe.m3u8?tag=12"
+          }
+        ],
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035587512970977280"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2035587529584648297",
+        "created_at": "2026-03-22T05:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035587529584648297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL0gGzIhr0",
+              "end": 35,
+              "expanded_url": "https://x.com/IXXA00/status/2035587529584648297/video/1",
+              "media_key": "7_2035587512970977280",
+              "start": 12,
+              "url": "https://t.co/IL0gGzIhr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035587529584648297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包技术是不是特别好？ https://t.co/IL0gGzIhr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "抽象主包。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6287,
+          "following_count": 4472,
+          "like_count": 36429,
+          "listed_count": 15,
+          "media_count": 2659,
+          "tweet_count": 36797
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

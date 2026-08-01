@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pudding",
+          "id": "864561121675563008",
+          "name": "Pudding"
+        }
+      }
+    ],
+    "conversation_id": "1998532986472677668",
+    "created_at": "2025-12-09T23:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T00:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998532986472677668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minatotakeo/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/minatotakeo/status/1998300442682642550",
+          "start": 8,
+          "url": "https://t.co/2K1qt0VWE2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998532986472677668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998300442682642550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逆天巴洛克薯片 https://t.co/2K1qt0VWE2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1998300438064742400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tjqTVbQAAOBdV.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1700,
+        "media_key": "3_1998300438064779264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tjqTVb0AACd-Q.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pudding",
+              "id": "864561121675563008",
+              "name": "Pudding"
+            }
+          }
+        ],
+        "conversation_id": "1998532986472677668",
+        "created_at": "2025-12-09T23:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T00:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998532986472677668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minatotakeo/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/minatotakeo/status/1998300442682642550",
+              "start": 8,
+              "url": "https://t.co/2K1qt0VWE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998532986472677668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998300442682642550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆天巴洛克薯片 https://t.co/2K1qt0VWE2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998300438064742400",
+            "3_1998300438064779264"
+          ]
+        },
+        "author_id": "868435249558020097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pudding",
+              "id": "864561121675563008",
+              "name": "Pudding"
+            }
+          }
+        ],
+        "conversation_id": "1998300442682642550",
+        "created_at": "2025-12-09T07:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T08:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998300442682642550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zM7jhn0YZ2",
+              "end": 45,
+              "expanded_url": "https://x.com/minatotakeo/status/1998300442682642550/photo/1",
+              "media_key": "3_1998300438064742400",
+              "start": 22,
+              "url": "https://t.co/zM7jhn0YZ2"
+            },
+            {
+              "display_url": "pic.x.com/zM7jhn0YZ2",
+              "end": 45,
+              "expanded_url": "https://x.com/minatotakeo/status/1998300442682642550/photo/1",
+              "media_key": "3_1998300438064779264",
+              "start": 22,
+              "url": "https://t.co/zM7jhn0YZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998300442682642550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7263,
+          "impression_count": 4447665,
+          "like_count": 81251,
+          "quote_count": 1107,
+          "reply_count": 296,
+          "retweet_count": 7783
+        },
+        "reply_settings": "everyone",
+        "text": "プリングルス、パール味、ヤバすぎるな。😂。 https://t.co/zM7jhn0YZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "直播从来不穿裤子。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5630,
+          "following_count": 4545,
+          "like_count": 34408,
+          "listed_count": 11,
+          "media_count": 2455,
+          "tweet_count": 33944
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-27T11:54:33.000Z",
+        "description": "ニジミナト. niji_minato. 虹と極彩色と空間と光と楽器と音と現代美術。 空間→ https://t.co/hJBNmALmX9 。光→https://t.co/7H3Ipewg3Y 。楽器→タブラ, マントラ, アナログシンセ, セミモジュラー, norns。音→エレクトロニカ,ドローン, アンビエント, vaporwave。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/nErfW",
+                "end": 69,
+                "expanded_url": "http://x.gd/nErfW",
+                "start": 46,
+                "url": "https://t.co/hJBNmALmX9"
+              },
+              {
+                "display_url": "x.gd/h3qKi",
+                "end": 96,
+                "expanded_url": "http://x.gd/h3qKi",
+                "start": 73,
+                "url": "https://t.co/7H3Ipewg3Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nijiminatoartworks.etsy.com",
+                "end": 23,
+                "expanded_url": "https://nijiminatoartworks.etsy.com",
+                "start": 0,
+                "url": "https://t.co/5jQ4VbUbFd"
+              }
+            ]
+          }
+        },
+        "id": "868435249558020097",
+        "location": "New York, USA",
+        "name": "ニ＝/''彡七＋ =͟͟͞💿🌈⃤ 📊⭒๋࣭⭑🎛️🎼🚀🪐",
+        "pinned_tweet_id": "1728280992342036630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870148113949962240/hPUxjhYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9434,
+          "following_count": 2057,
+          "like_count": 73418,
+          "listed_count": 99,
+          "media_count": 7347,
+          "tweet_count": 18226
+        },
+        "url": "https://t.co/5jQ4VbUbFd",
+        "username": "minatotakeo",
+        "verified": false
+      }
+    ]
+  }
+}

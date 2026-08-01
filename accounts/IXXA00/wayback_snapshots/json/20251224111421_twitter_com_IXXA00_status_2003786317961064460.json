@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2003677460622459385",
+    "created_at": "2025-12-24T11:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T12:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003786317961064460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997637074749624320",
+          "start": 0,
+          "username": "lianlizhi_yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003786317961064460",
+    "in_reply_to_user_id": "1997637074749624320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003730547831689452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianlizhi_yu 唉习惯用应用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2003677460622459385",
+        "created_at": "2025-12-24T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003786317961064460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997637074749624320",
+              "start": 0,
+              "username": "lianlizhi_yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003786317961064460",
+        "in_reply_to_user_id": "1997637074749624320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003730547831689452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianlizhi_yu 唉习惯用应用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997637074749624320",
+        "conversation_id": "2003677460622459385",
+        "created_at": "2025-12-24T07:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003730547831689452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003730547831689452",
+        "in_reply_to_user_id": "1997637074749624320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003730437517246933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我都用了好久网页了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "pinned_tweet_id": "2003145796611654028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 4537,
+          "like_count": 35031,
+          "listed_count": 12,
+          "media_count": 2513,
+          "tweet_count": 34556
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T11:59:37.000Z",
+        "description": "学习！打工！拼命学习！爱自己小雨！",
+        "id": "1997637074749624320",
+        "name": "不能说的秘密🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002344621016559617/4EB1mMTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 23,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 100
+        },
+        "username": "lianlizhi_yu",
+        "verified": false
+      }
+    ]
+  }
+}

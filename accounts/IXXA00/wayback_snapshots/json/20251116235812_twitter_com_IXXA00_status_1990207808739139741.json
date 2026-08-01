@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1989927690523353316",
+    "created_at": "2025-11-16T23:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T00:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990207808739139741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912493775181791232",
+          "start": 0,
+          "username": "syuseikilove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990207808739139741",
+    "in_reply_to_user_id": "1912493775181791232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990205675478405237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syuseikilove 微信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1989927690523353316",
+        "created_at": "2025-11-16T23:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990207808739139741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912493775181791232",
+              "start": 0,
+              "username": "syuseikilove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990207808739139741",
+        "in_reply_to_user_id": "1912493775181791232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990205675478405237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syuseikilove 微信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912493775181791232",
+        "conversation_id": "1989927690523353316",
+        "created_at": "2025-11-16T23:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990205675478405237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990205675478405237",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989927690523353316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哪抄的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 4546,
+          "like_count": 33115,
+          "listed_count": 11,
+          "media_count": 2360,
+          "tweet_count": 32617
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T13:10:35.000Z",
+        "description": "中国人 / 保守主義、トランスジェンダーに友好的ではない / 命を大切に、ODしないで",
+        "id": "1912493775181791232",
+        "location": "Kawaguchi-shi, Saitama",
+        "name": "シュ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981572128165044224/V6AHezmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 428
+        },
+        "username": "syuseikilove",
+        "verified": false
+      }
+    ]
+  }
+}

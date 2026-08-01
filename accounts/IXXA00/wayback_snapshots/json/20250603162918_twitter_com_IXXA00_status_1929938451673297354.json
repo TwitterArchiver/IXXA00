@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929932045578625286",
+    "created_at": "2025-06-03T16:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T17:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929938451673297354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1644164334573027329",
+          "start": 0,
+          "username": "GNMB00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929938451673297354",
+    "in_reply_to_user_id": "1644164334573027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929938242402693504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@GNMB00 敢超过79就废了你。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929938242402693504].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929938242402693504",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929938242402693504"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929932045578625286",
+        "created_at": "2025-06-03T16:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T17:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929938451673297354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1644164334573027329",
+              "start": 0,
+              "username": "GNMB00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929938451673297354",
+        "in_reply_to_user_id": "1644164334573027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929938242402693504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@GNMB00 敢超过79就废了你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 3048,
+          "like_count": 22664,
+          "listed_count": 7,
+          "media_count": 1638,
+          "tweet_count": 22204
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T02:25:26.000Z",
+        "description": "可能会死在半夜。",
+        "id": "1644164334573027329",
+        "name": "蜗牛包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929931595429097472/xYWOYpJ2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 11253
+        },
+        "username": "GNMB00",
+        "verified": false
+      }
+    ]
+  }
+}

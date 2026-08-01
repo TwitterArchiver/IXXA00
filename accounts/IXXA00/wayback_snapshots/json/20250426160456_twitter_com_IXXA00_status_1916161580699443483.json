@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1916097249555452130",
+    "created_at": "2025-04-26T16:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T17:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916161580699443483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1240619358172282883",
+          "start": 0,
+          "username": "DGiaken"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916161580699443483",
+    "in_reply_to_user_id": "1240619358172282883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916138388840681710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DGiaken 啊，我是在说我的心理年龄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1916097249555452130",
+        "created_at": "2025-04-26T16:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916161580699443483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1240619358172282883",
+              "start": 0,
+              "username": "DGiaken"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916161580699443483",
+        "in_reply_to_user_id": "1240619358172282883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916138388840681710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DGiaken 啊，我是在说我的心理年龄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240619358172282883",
+        "conversation_id": "1916097249555452130",
+        "created_at": "2025-04-26T14:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916138388840681710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916138388840681710",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916097249555452130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好像刑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，加了糖，也下了毒。有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1915215627545162231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914587294960644096/GIbUxxih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3620,
+          "following_count": 2943,
+          "like_count": 20560,
+          "listed_count": 7,
+          "media_count": 1452,
+          "tweet_count": 19905
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T12:41:30.000Z",
+        "description": "Chinese.\n/\n安静得像个火药桶。",
+        "id": "1240619358172282883",
+        "location": "Guangdong",
+        "name": "DonGiaken",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755866252927700993/R-a8ulQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 494,
+          "like_count": 90148,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 15992
+        },
+        "username": "DGiaken",
+        "verified": false
+      }
+    ]
+  }
+}

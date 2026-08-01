@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1906164915670229000",
+    "created_at": "2025-03-30T02:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T03:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906172918322581564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1765607699688120320",
+          "start": 0,
+          "username": "nanqiufox"
+        },
+        {
+          "end": 26,
+          "id": "1547097745797685249",
+          "start": 11,
+          "username": "sth_like_human"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906172918322581564",
+    "in_reply_to_user_id": "1765607699688120320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906169579426218369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanqiufox @sth_like_human 好哦，给你2个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1906164915670229000",
+        "created_at": "2025-03-30T02:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T03:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906172918322581564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1765607699688120320",
+              "start": 0,
+              "username": "nanqiufox"
+            },
+            {
+              "end": 26,
+              "id": "1547097745797685249",
+              "start": 11,
+              "username": "sth_like_human"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906172918322581564",
+        "in_reply_to_user_id": "1765607699688120320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906169579426218369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanqiufox @sth_like_human 好哦，给你2个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765607699688120320",
+        "conversation_id": "1906164915670229000",
+        "created_at": "2025-03-30T02:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T03:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906169579426218369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            },
+            {
+              "end": 23,
+              "id": "1547097745797685249",
+              "start": 8,
+              "username": "sth_like_human"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906169579426218369",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906168832583926052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 @sth_like_human isla我没钱吃午饭了可以蹭你一个西蓝花吃吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。真实DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1905990906085617861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3513,
+          "following_count": 2802,
+          "like_count": 19315,
+          "listed_count": 6,
+          "media_count": 1316,
+          "tweet_count": 18398
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T05:17:40.000Z",
+        "description": "这里是狐狸先生2.0 我回来了！！！！ 礼貌狐狸/05/4i/furry控/繁中简中/mtf友好/是顺男虽然是四爱但是是纯顺男/自伤友好/来互fo！ 禁止鉴证禁止鉴证禁止鉴证别让狐狸死（ 可以当你的树洞，提供点情绪价值。 狐狸希望可以和所有人都做朋友！！！狐狸三观绝对正请放心交往！\n請不要打聽我的個人信息！！",
+        "id": "1765607699688120320",
+        "name": "狐狸先生2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772892626200748032/q95rbb3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 438,
+          "like_count": 9125,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 565
+        },
+        "username": "nanqiufox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547097904061419520/qYUwbyMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 4090,
+          "like_count": 162910,
+          "listed_count": 7,
+          "media_count": 1563,
+          "tweet_count": 34057
+        },
+        "username": "sth_like_human",
+        "verified": true
+      }
+    ]
+  }
+}

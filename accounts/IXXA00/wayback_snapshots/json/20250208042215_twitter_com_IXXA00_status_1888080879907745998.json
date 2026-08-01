@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888080865554743300"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1888073081723441225",
+    "created_at": "2025-02-08T04:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T05:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888080879907745998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477226348741640195",
+          "start": 0,
+          "username": "dalu45533647"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lil8qT33Pq",
+          "end": 46,
+          "expanded_url": "https://x.com/IXXA00/status/1888080879907745998/photo/1",
+          "media_key": "3_1888080865554743300",
+          "start": 23,
+          "url": "https://t.co/lil8qT33Pq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888080879907745998",
+    "in_reply_to_user_id": "1477226348741640195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888080624185221483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dalu45533647 不要和我说这些啊 https://t.co/lil8qT33Pq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1888080865554743300",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPPizKaQAQcBFG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888080865554743300"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1888073081723441225",
+        "created_at": "2025-02-08T04:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T05:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888080879907745998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477226348741640195",
+              "start": 0,
+              "username": "dalu45533647"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lil8qT33Pq",
+              "end": 46,
+              "expanded_url": "https://x.com/IXXA00/status/1888080879907745998/photo/1",
+              "media_key": "3_1888080865554743300",
+              "start": 23,
+              "url": "https://t.co/lil8qT33Pq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888080879907745998",
+        "in_reply_to_user_id": "1477226348741640195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888080624185221483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dalu45533647 不要和我说这些啊 https://t.co/lil8qT33Pq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477226348741640195",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1888073081723441225",
+        "created_at": "2025-02-08T04:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T05:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888080624185221483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888080624185221483",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888078561669693489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 有套漫画叫海虎，里面有個一群gay叫基頭四，他們想盡辦法去逼主角屈服，最後想到把他的雞兒壓爛再塞回嘴了，這就叫終極侮辱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3289,
+          "following_count": 2478,
+          "like_count": 15815,
+          "listed_count": 6,
+          "media_count": 1106,
+          "tweet_count": 15067
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T10:33:14.000Z",
+        "description": "我的墓碑上寫着“我骨灰種的菜好吃嗎”",
+        "id": "1477226348741640195",
+        "name": "嚴重好色，嚴重暴燥，嚴重毛囊炎，需要陽光，曹氏宗親會會員",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691773495536164865/YeDxalIK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1434,
+          "like_count": 20941,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 5865
+        },
+        "username": "dalu45533647",
+        "verified": false
+      }
+    ]
+  }
+}

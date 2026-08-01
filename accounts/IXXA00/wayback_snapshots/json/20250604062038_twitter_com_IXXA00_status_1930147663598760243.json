@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1930133802350936482",
+    "created_at": "2025-06-04T06:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T07:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930147663598760243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1544496439770103808",
+          "start": 0,
+          "username": "LynoRoot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930147663598760243",
+    "in_reply_to_user_id": "1544496439770103808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930144320813682734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LynoRoot 茶叶老师好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1930133802350936482",
+        "created_at": "2025-06-04T06:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T07:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930147663598760243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1544496439770103808",
+              "start": 0,
+              "username": "LynoRoot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930147663598760243",
+        "in_reply_to_user_id": "1544496439770103808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930144320813682734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LynoRoot 茶叶老师好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544496439770103808",
+        "conversation_id": "1930133802350936482",
+        "created_at": "2025-06-04T06:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T07:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930144320813682734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930144320813682734",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930133802350936482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我喜欢你💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 3047,
+          "like_count": 22743,
+          "listed_count": 7,
+          "media_count": 1643,
+          "tweet_count": 22244
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T01:40:39.000Z",
+        "description": "努力着变得温柔\n普通通过音游玩家\n爱你们",
+        "id": "1544496439770103808",
+        "location": "看看你后面呢",
+        "name": "自然是我茶叶啦！🍃（a.k.a. Teaa）",
+        "pinned_tweet_id": "1917329606568468769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925985276817498112/_NxrVYG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 640,
+          "like_count": 14386,
+          "listed_count": 0,
+          "media_count": 519,
+          "tweet_count": 3623
+        },
+        "username": "LynoRoot",
+        "verified": false
+      }
+    ]
+  }
+}

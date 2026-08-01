@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2005465172992016815",
+    "created_at": "2025-12-29T08:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T09:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005557217609809991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974788365238353920",
+          "start": 0,
+          "username": "Rjz1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005557217609809991",
+    "in_reply_to_user_id": "1974788365238353920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005554439952965970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rjz1991 已经出院了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2005465172992016815",
+        "created_at": "2025-12-29T08:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005557217609809991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974788365238353920",
+              "start": 0,
+              "username": "Rjz1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005557217609809991",
+        "in_reply_to_user_id": "1974788365238353920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005554439952965970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rjz1991 已经出院了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974788365238353920",
+        "conversation_id": "2005465172992016815",
+        "created_at": "2025-12-29T08:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005554439952965970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005554439952965970",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005465172992016815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你好，这星期四是疯狂星期四👋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5657,
+          "following_count": 4530,
+          "like_count": 35272,
+          "listed_count": 14,
+          "media_count": 2531,
+          "tweet_count": 34789
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T10:47:10.000Z",
+        "description": "",
+        "id": "1974788365238353920",
+        "name": "鲨鱼辣酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974790350184263681/uTrcID8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "Rjz1991",
+        "verified": false
+      }
+    ]
+  }
+}

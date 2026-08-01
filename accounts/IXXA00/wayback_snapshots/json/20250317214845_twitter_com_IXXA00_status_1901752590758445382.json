@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1901634036684005528",
+    "created_at": "2025-03-17T21:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T22:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901752590758445382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1492511040206082048",
+          "start": 0,
+          "username": "G315EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901752590758445382",
+    "in_reply_to_user_id": "1492511040206082048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901690608298893468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G315EX 食物突击兵isla"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1901634036684005528",
+        "created_at": "2025-03-17T21:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T22:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901752590758445382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1492511040206082048",
+              "start": 0,
+              "username": "G315EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901752590758445382",
+        "in_reply_to_user_id": "1492511040206082048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901690608298893468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G315EX 食物突击兵isla"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492511040206082048",
+        "conversation_id": "1901634036684005528",
+        "created_at": "2025-03-17T17:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T18:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901690608298893468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901690608298893468",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901634036684005528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ？您好，哪位来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "The ISLA is made up of volcanic ash.",
+        "id": "1739391734491086848",
+        "location": "有q和v，🚪费随意",
+        "name": "火山积灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901583599918292992/R2qWOoMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3408,
+          "following_count": 2664,
+          "like_count": 18299,
+          "listed_count": 6,
+          "media_count": 1248,
+          "tweet_count": 17322
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T14:49:11.000Z",
+        "description": "",
+        "id": "1492511040206082048",
+        "location": "Guangdong",
+        "name": "屎忽魔灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617190738470776833/lfzQOWGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 641,
+          "like_count": 2107,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 227
+        },
+        "username": "G315EX",
+        "verified": false
+      }
+    ]
+  }
+}

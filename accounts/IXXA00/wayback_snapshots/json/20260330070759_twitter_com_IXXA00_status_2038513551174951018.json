@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2038513551174951018",
+    "created_at": "2026-03-30T07:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038513551174951018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/IXXA00/status/2038464134065627351",
+          "start": 11,
+          "url": "https://t.co/Ow9qRkukrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038513551174951018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038464134065627351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玛雅大街，我是玛雅人 https://t.co/Ow9qRkukrV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2038513551174951018",
+        "created_at": "2026-03-30T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038513551174951018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/IXXA00/status/2038464134065627351",
+              "start": 11,
+              "url": "https://t.co/Ow9qRkukrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038513551174951018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038464134065627351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玛雅大街，我是玛雅人 https://t.co/Ow9qRkukrV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2038464134065627351",
+        "created_at": "2026-03-30T03:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038464134065627351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FeiyanXie/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/FeiyanXie/status/2038395240286200067",
+              "start": 6,
+              "url": "https://t.co/8xnlik0qKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038464134065627351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038395240286200067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀大姐😰 https://t.co/8xnlik0qKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "驻波偶尔会在抖子直播43707218480/",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6391,
+          "following_count": 4468,
+          "like_count": 36780,
+          "listed_count": 16,
+          "media_count": 2681,
+          "tweet_count": 37168
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2027346149808775403",
+    "created_at": "2026-02-27T11:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027346421180141926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027346421180141926",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027346149808775403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，我只是穿的干净一点而已啊大哥们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2027345986830659584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKUbwXa8AAJQDa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2027346149808775403",
+        "created_at": "2026-02-27T11:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027346421180141926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027346421180141926",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027346149808775403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，我只是穿的干净一点而已啊大哥们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027345986830659584"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2027346149808775403",
+        "created_at": "2026-02-27T11:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027346149808775403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYTqCBl0Xf",
+              "end": 54,
+              "expanded_url": "https://x.com/IXXA00/status/2027346149808775403/photo/1",
+              "media_key": "3_2027345986830659584",
+              "start": 31,
+              "url": "https://t.co/DYTqCBl0Xf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027346149808775403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，主包这么穿真的很跨吗？\n我穿这个傻呵呵上班好几天了…… https://t.co/DYTqCBl0Xf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5765,
+          "following_count": 4482,
+          "like_count": 36070,
+          "listed_count": 14,
+          "media_count": 2623,
+          "tweet_count": 36167
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

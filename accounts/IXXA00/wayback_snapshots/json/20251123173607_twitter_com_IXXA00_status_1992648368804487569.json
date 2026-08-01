@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1992413423540527154",
+    "created_at": "2025-11-23T17:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992648368804487569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801777341368041472",
+          "start": 0,
+          "username": "fen_mo61725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992648368804487569",
+    "in_reply_to_user_id": "1801777341368041472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992646640948384240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fen_mo61725 我适合什么风格？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1992413423540527154",
+        "created_at": "2025-11-23T17:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992648368804487569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801777341368041472",
+              "start": 0,
+              "username": "fen_mo61725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992648368804487569",
+        "in_reply_to_user_id": "1801777341368041472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992646640948384240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fen_mo61725 我适合什么风格？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801777341368041472",
+        "conversation_id": "1992413423540527154",
+        "created_at": "2025-11-23T17:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992646640948384240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992646640948384240",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992413423540527154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你不是不好看你是没找到合适的风格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5545,
+          "following_count": 4551,
+          "like_count": 33731,
+          "listed_count": 11,
+          "media_count": 2396,
+          "tweet_count": 33155
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T00:43:00.000Z",
+        "description": "达芬梵莫高奈奇，虚假的弗洛伊德教众",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org/wiki/Julius_Ca…",
+                "end": 23,
+                "expanded_url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+                "start": 0,
+                "url": "https://t.co/AhR3vHKilY"
+              }
+            ]
+          }
+        },
+        "id": "1801777341368041472",
+        "location": "猫猫星球猫猫国猫猫街猫猫宫殿",
+        "name": "一具人",
+        "pinned_tweet_id": "1888930858616205449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991318696854274049/u24s0RED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 1623,
+          "like_count": 37039,
+          "listed_count": 2,
+          "media_count": 626,
+          "tweet_count": 8904
+        },
+        "url": "https://t.co/AhR3vHKilY",
+        "username": "fen_mo61725",
+        "verified": false
+      }
+    ]
+  }
+}

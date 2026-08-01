@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2073319914706968887",
+    "created_at": "2026-07-05T13:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073768815016747114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1643149234517209088",
+          "start": 0,
+          "username": "J1angyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073768815016747114",
+    "in_reply_to_user_id": "1643149234517209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073764175906742415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1angyl 我相信你车祸刚好，宝宝原来你长这样之类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2073319914706968887",
+        "created_at": "2026-07-05T13:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073768815016747114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1643149234517209088",
+              "start": 0,
+              "username": "J1angyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073768815016747114",
+        "in_reply_to_user_id": "1643149234517209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073764175906742415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1angyl 我相信你车祸刚好，宝宝原来你长这样之类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643149234517209088",
+        "conversation_id": "2073319914706968887",
+        "created_at": "2026-07-05T13:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073764175906742415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073764175906742415",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073671469868151096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 呃，其实我是个很迟钝的人，你信吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "过尽千帆皆不是，斜晖脉脉水悠悠。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7491,
+          "following_count": 4539,
+          "like_count": 42765,
+          "listed_count": 18,
+          "media_count": 3117,
+          "tweet_count": 42233
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-04T07:11:32.000Z",
+        "description": "努力写作",
+        "id": "1643149234517209088",
+        "name": "yi",
+        "pinned_tweet_id": "1863304162055696555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907833959255588864/MPnyEYC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "J1angyl",
+        "verified": false
+      }
+    ]
+  }
+}

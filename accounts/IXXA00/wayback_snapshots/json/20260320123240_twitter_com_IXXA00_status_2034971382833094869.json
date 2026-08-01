@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2034971224007413805",
+    "created_at": "2026-03-20T12:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T13:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034971382833094869"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034971382833094869",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034971224007413805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太好吃了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034971221289574404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2ri0UboAQPXSj.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2034971224007413805",
+        "created_at": "2026-03-20T12:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034971382833094869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034971382833094869",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034971224007413805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好吃了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034971221289574404"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034971224007413805",
+        "created_at": "2026-03-20T12:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034971224007413805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWrynIrrr5",
+              "end": 124,
+              "expanded_url": "https://x.com/IXXA00/status/2034971224007413805/photo/1",
+              "media_key": "3_2034971221289574404",
+              "start": 101,
+              "url": "https://t.co/pWrynIrrr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034971224007413805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条定时推文。\n你们好我是isla，本人于2026年3月20日晚服用亚硝酸钠制品，如果我要死了，麻烦帮我向我的体重秤转达一声“我不应该吃这么多，对不起。”\n\n如果我没发推，就是撑死了。\n我爱你们。 https://t.co/pWrynIrrr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "抽象主包。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6280,
+          "following_count": 4474,
+          "like_count": 36378,
+          "listed_count": 15,
+          "media_count": 2657,
+          "tweet_count": 36764
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1960179142311461254",
+    "created_at": "2025-08-26T03:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T04:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960179142311461254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/IXXA00/status/1960149983069626449",
+          "start": 3,
+          "url": "https://t.co/YpeCu5ruyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960179142311461254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960149983069626449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "翘班 https://t.co/YpeCu5ruyr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1960179142311461254",
+        "created_at": "2025-08-26T03:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960179142311461254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/IXXA00/status/1960149983069626449",
+              "start": 3,
+              "url": "https://t.co/YpeCu5ruyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960179142311461254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960149983069626449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翘班 https://t.co/YpeCu5ruyr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1960149981991731200"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1960149983069626449",
+        "created_at": "2025-08-26T01:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T02:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960149983069626449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960149983069626449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好。\n今天又是摸鱼的一天。\n那么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "容貌焦虑，非常痛苦。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "pinned_tweet_id": "1959656864612024676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3922,
+          "following_count": 3356,
+          "like_count": 27734,
+          "listed_count": 8,
+          "media_count": 2075,
+          "tweet_count": 27594
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

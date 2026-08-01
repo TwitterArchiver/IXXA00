@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941809832262340904",
+    "created_at": "2025-07-06T23:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T00:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942003640144949371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "868665576574431234",
+          "start": 0,
+          "username": "Stellaris117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942003640144949371",
+    "in_reply_to_user_id": "868665576574431234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941996637741875461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stellaris117 对啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-07-06T23:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T00:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942003640144949371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "868665576574431234",
+              "start": 0,
+              "username": "Stellaris117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942003640144949371",
+        "in_reply_to_user_id": "868665576574431234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941996637741875461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stellaris117 对啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "868665576574431234",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-07-06T23:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T00:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941996637741875461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941996637741875461",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941809832262340904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 都这么推广的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3739,
+          "following_count": 3138,
+          "like_count": 25301,
+          "listed_count": 7,
+          "media_count": 1851,
+          "tweet_count": 24810
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T03:09:47.000Z",
+        "description": "深夜情感和心理问题咨询请于北京时间晚上10:00到11:00帖子@",
+        "id": "868665576574431234",
+        "location": "pyongyang",
+        "name": "Null（🇮🇱🏳️‍🌈🏳️‍⚧️⚛️💥🍃）",
+        "pinned_tweet_id": "1940635086703280432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939220630517231616/V6j94Mht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 915,
+          "like_count": 16053,
+          "listed_count": 2,
+          "media_count": 644,
+          "tweet_count": 7547
+        },
+        "username": "Stellaris117",
+        "verified": false
+      }
+    ]
+  }
+}

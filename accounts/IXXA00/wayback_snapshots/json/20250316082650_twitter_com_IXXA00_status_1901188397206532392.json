@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1900967275756163492",
+    "created_at": "2025-03-16T08:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T09:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901188397206532392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829978764367011840",
+          "start": 0,
+          "username": "roland14514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901188397206532392",
+    "in_reply_to_user_id": "1829978764367011840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901185637040246964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roland14514 😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1901185637040246964].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1901185637040246964",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1901185637040246964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1900967275756163492",
+        "created_at": "2025-03-16T08:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T09:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901188397206532392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829978764367011840",
+              "start": 0,
+              "username": "roland14514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901188397206532392",
+        "in_reply_to_user_id": "1829978764367011840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901185637040246964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roland14514 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你可以把我理解成一坨小猫。",
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900871115867901952/wtOdnGc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 2656,
+          "like_count": 18158,
+          "listed_count": 6,
+          "media_count": 1239,
+          "tweet_count": 17196
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T20:25:26.000Z",
+        "description": "下雨天",
+        "id": "1829978764367011840",
+        "name": "雨癖",
+        "pinned_tweet_id": "1864358414899401060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859478631904575488/TuHLvWxU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 168,
+          "like_count": 6217,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 587
+        },
+        "username": "roland14514",
+        "verified": false
+      }
+    ]
+  }
+}

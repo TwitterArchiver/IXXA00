@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2045300871458660542",
+    "created_at": "2026-04-18T01:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045311727907283180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277014572335947776",
+          "start": 0,
+          "username": "silence76993105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045311727907283180",
+    "in_reply_to_user_id": "1277014572335947776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045300871458660542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silence76993105 那更好吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2045300871458660542",
+        "created_at": "2026-04-18T01:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045311727907283180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277014572335947776",
+              "start": 0,
+              "username": "silence76993105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045311727907283180",
+        "in_reply_to_user_id": "1277014572335947776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045300871458660542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silence76993105 那更好吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277014572335947776",
+        "conversation_id": "2045300871458660542",
+        "created_at": "2026-04-18T00:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045300871458660542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045300871458660542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们之间到底是不是可以吃醋的关系，如果不可以，那来点酱油呢？芥末呢？蛋黄酱呢？番茄酱呢？沙拉酱呢？白砂糖呢？黄豆粉呢？芝麻粉呢？抹茶粉呢？可可粉呢? 烧烤酱呢？蓝莓酱呢？蛋挞液呢？鸡蛋液呢？面包糠呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6444,
+          "following_count": 4398,
+          "like_count": 38069,
+          "listed_count": 16,
+          "media_count": 2740,
+          "tweet_count": 38122
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T23:03:04.000Z",
+        "description": "社恐白日做梦家 : ) 这里是电子日记本\n记录一些日常碎碎念",
+        "id": "1277014572335947776",
+        "location": "地球",
+        "name": "Silence",
+        "pinned_tweet_id": "1838043274990260265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623969936061378561/ha9R8_TE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 545,
+          "like_count": 30008,
+          "listed_count": 3,
+          "media_count": 1012,
+          "tweet_count": 7632
+        },
+        "username": "silence76993105",
+        "verified": false
+      }
+    ]
+  }
+}

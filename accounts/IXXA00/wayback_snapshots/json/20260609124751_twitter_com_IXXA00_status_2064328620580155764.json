@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2064170601930162306",
+    "created_at": "2026-06-09T12:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064328620580155764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "726653612248584192",
+          "start": 0,
+          "username": "Allen_Ren_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064328620580155764",
+    "in_reply_to_user_id": "726653612248584192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064327202410475761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen_Ren_ 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2064170601930162306",
+        "created_at": "2026-06-09T12:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064328620580155764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "726653612248584192",
+              "start": 0,
+              "username": "Allen_Ren_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064328620580155764",
+        "in_reply_to_user_id": "726653612248584192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064327202410475761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen_Ren_ 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "726653612248584192",
+        "conversation_id": "2064170601930162306",
+        "created_at": "2026-06-09T12:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064327202410475761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064327202410475761",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064170601930162306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 人体，很奇妙吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/主播的麻袋里现在：1个人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7338,
+          "following_count": 4522,
+          "like_count": 41590,
+          "listed_count": 18,
+          "media_count": 3018,
+          "tweet_count": 41165
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-01T06:04:56.000Z",
+        "description": "",
+        "id": "726653612248584192",
+        "name": "Allen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/726654382700285956/b3d1Fo_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 373,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 674
+        },
+        "username": "Allen_Ren_",
+        "verified": false
+      }
+    ]
+  }
+}

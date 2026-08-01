@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1938550159618818348",
+    "created_at": "2025-06-27T10:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T11:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938550385624653905"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938550385624653905",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938550159618818348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要闹了😫😫😫😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1938550159618818348",
+        "created_at": "2025-06-27T10:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938550385624653905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938550385624653905",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938550159618818348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要闹了😫😫😫😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1938550159618818348",
+        "created_at": "2025-06-27T10:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938550159618818348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sovietpunk2077…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/sovietpunk2077/status/1938545334541771082",
+              "start": 13,
+              "url": "https://t.co/pT88V2QWHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938550159618818348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938545334541771082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不管我就是长这个样子。 https://t.co/pT88V2QWHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 26,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938513032524795904/Yis6Lsw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3722,
+          "following_count": 3112,
+          "like_count": 24512,
+          "listed_count": 8,
+          "media_count": 1817,
+          "tweet_count": 24223
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

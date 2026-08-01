@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2026133999916384258",
+    "created_at": "2026-02-26T02:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T03:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026846201526780348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1733512451076104192",
+          "start": 0,
+          "username": "qq736401081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026846201526780348",
+    "in_reply_to_user_id": "1733512451076104192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026834554674360656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq736401081 戏柜卷跳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2026133999916384258",
+        "created_at": "2026-02-26T02:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026846201526780348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1733512451076104192",
+              "start": 0,
+              "username": "qq736401081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026846201526780348",
+        "in_reply_to_user_id": "1733512451076104192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026834554674360656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq736401081 戏柜卷跳了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733512451076104192",
+        "conversation_id": "2026133999916384258",
+        "created_at": "2026-02-26T01:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026834554674360656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026834554674360656",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026133999916384258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 卷柜跳戏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5768,
+          "following_count": 4482,
+          "like_count": 36049,
+          "listed_count": 14,
+          "media_count": 2621,
+          "tweet_count": 36136
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T15:42:41.000Z",
+        "description": "",
+        "id": "1733512451076104192",
+        "name": "兜兜转转",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912360769502498818/kNWISWFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1283,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "qq736401081",
+        "verified": false
+      }
+    ]
+  }
+}

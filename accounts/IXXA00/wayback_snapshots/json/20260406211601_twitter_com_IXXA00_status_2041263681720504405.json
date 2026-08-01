@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2041161803137421800",
+    "created_at": "2026-04-06T21:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T22:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041263681720504405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906062184735588353",
+          "start": 0,
+          "username": "catonepirate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041263681720504405",
+    "in_reply_to_user_id": "906062184735588353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041168415025701067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catonepirate 拍拍肥宅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2041161803137421800",
+        "created_at": "2026-04-06T21:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041263681720504405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906062184735588353",
+              "start": 0,
+              "username": "catonepirate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041263681720504405",
+        "in_reply_to_user_id": "906062184735588353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041168415025701067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catonepirate 拍拍肥宅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906062184735588353",
+        "conversation_id": "2041161803137421800",
+        "created_at": "2026-04-06T14:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041168415025701067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041168415025701067",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041161803137421800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你好，爱我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2039534008124781004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6360,
+          "following_count": 4463,
+          "like_count": 37052,
+          "listed_count": 17,
+          "media_count": 2696,
+          "tweet_count": 37449
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-08T07:50:33.000Z",
+        "description": "动画鉴赏家 偷偷点赞怪 DD进修 臭打游戏的200斤肥宅",
+        "id": "906062184735588353",
+        "name": "怯窃惬",
+        "pinned_tweet_id": "1873809166567133401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851851823826755584/hE_qQ9OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 4448,
+          "like_count": 25261,
+          "listed_count": 11,
+          "media_count": 157,
+          "tweet_count": 8846
+        },
+        "username": "catonepirate",
+        "verified": false
+      }
+    ]
+  }
+}

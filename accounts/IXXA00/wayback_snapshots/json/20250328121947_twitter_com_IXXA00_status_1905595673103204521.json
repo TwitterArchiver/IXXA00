@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1905568539307549160",
+    "created_at": "2025-03-28T12:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T13:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905595673103204521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1739813604646588416",
+          "start": 0,
+          "username": "xinghecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905595673103204521",
+    "in_reply_to_user_id": "1739813604646588416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905578640378888573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinghecat 哼哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1905568539307549160",
+        "created_at": "2025-03-28T12:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905595673103204521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1739813604646588416",
+              "start": 0,
+              "username": "xinghecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905595673103204521",
+        "in_reply_to_user_id": "1739813604646588416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905578640378888573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinghecat 哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739813604646588416",
+        "conversation_id": "1905568539307549160",
+        "created_at": "2025-03-28T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905578640378888573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905578640378888573",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905568738251784536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 🧢米塔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。真实DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 2789,
+          "like_count": 19232,
+          "listed_count": 6,
+          "media_count": 1298,
+          "tweet_count": 18271
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T01:01:16.000Z",
+        "description": "生理男，主观性别认同为战列舰。\n希望认识更多的人做朋友（听上去像是什么时候的小学生自我介绍（笑）",
+        "id": "1739813604646588416",
+        "location": "Sheffield, England",
+        "name": "也许并没有一定被需要",
+        "pinned_tweet_id": "1784985436609503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239275444510722/pckFcfGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 199,
+          "like_count": 11247,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1061
+        },
+        "username": "xinghecat",
+        "verified": false
+      }
+    ]
+  }
+}

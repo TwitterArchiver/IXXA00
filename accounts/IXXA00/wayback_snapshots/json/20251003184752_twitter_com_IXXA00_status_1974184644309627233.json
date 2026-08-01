@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1973795648693809473",
+    "created_at": "2025-10-03T18:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T19:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974184644309627233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1723994980384145408",
+          "start": 0,
+          "username": "qihaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974184644309627233",
+    "in_reply_to_user_id": "1723994980384145408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974182580183556553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qihaiii 那伪百合4爱呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1973795648693809473",
+        "created_at": "2025-10-03T18:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974184644309627233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1723994980384145408",
+              "start": 0,
+              "username": "qihaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974184644309627233",
+        "in_reply_to_user_id": "1723994980384145408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974182580183556553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qihaiii 那伪百合4爱呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723994980384145408",
+        "conversation_id": "1973795648693809473",
+        "created_at": "2025-10-03T18:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974182580183556553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974182580183556553",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973795648693809473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 啊?我居然觉得正常，因为女朋友以前说我穿女装她会狠狠操我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4185,
+          "following_count": 3653,
+          "like_count": 29432,
+          "listed_count": 8,
+          "media_count": 2200,
+          "tweet_count": 29622
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T09:23:36.000Z",
+        "description": "",
+        "id": "1723994980384145408",
+        "name": "seven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741830169315454976/YUMXypnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 47,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "qihaiii",
+        "verified": false
+      }
+    ]
+  }
+}

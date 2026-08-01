@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078429410311680000"
+      ],
+      "media_source_tweet_id": [
+        "2078429449230713180"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078650843373662493",
+    "created_at": "2026-07-19T01:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078650843373662493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1453792596816498689",
+          "start": 3,
+          "username": "stoyanovStoya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/StxHKK9LMD",
+          "end": 78,
+          "expanded_url": "https://x.com/stoyanovStoya/status/2078429449230713180/video/1",
+          "media_key": "13_2078429410311680000",
+          "start": 55,
+          "url": "https://t.co/StxHKK9LMD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078650843373662493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078429449230713180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stoyanovStoya: 我就是反問型人格，真不是我矯情 😡現實生活中那種一直説廢話的人太氣人了 https://t.co/StxHKK9LMD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56517,
+        "height": 720,
+        "media_key": "13_2078429410311680000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078429410311680000/img/V4JBMqJ6M24yrr6g.jpg",
+        "public_metrics": {
+          "view_count": 4556
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078429410311680000/vid/avc1/480x270/SgN34c2uCOpPnJ8d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078429410311680000/vid/avc1/640x360/ATv7paiQJSoecPJO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078429410311680000/vid/avc1/1280x720/6q_oC8zN3QNiI7kr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078429410311680000/pl/GuSyGybH9PW5cRQC.m3u8?tag=14&v=0a5"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078429410311680000"
+          ]
+        },
+        "author_id": "1453792596816498689",
+        "conversation_id": "2078429449230713180",
+        "created_at": "2026-07-18T10:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078429449230713180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StxHKK9LMD",
+              "end": 59,
+              "expanded_url": "https://x.com/stoyanovStoya/status/2078429449230713180/video/1",
+              "media_key": "13_2078429410311680000",
+              "start": 36,
+              "url": "https://t.co/StxHKK9LMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078429449230713180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 8481,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我就是反問型人格，真不是我矯情 😡現實生活中那種一直説廢話的人太氣人了 https://t.co/StxHKK9LMD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078429410311680000"
+          ],
+          "media_source_tweet_id": [
+            "2078429449230713180"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078650843373662493",
+        "created_at": "2026-07-19T01:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078650843373662493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1453792596816498689",
+              "start": 3,
+              "username": "stoyanovStoya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StxHKK9LMD",
+              "end": 78,
+              "expanded_url": "https://x.com/stoyanovStoya/status/2078429449230713180/video/1",
+              "media_key": "13_2078429410311680000",
+              "start": 55,
+              "url": "https://t.co/StxHKK9LMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078650843373662493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078429449230713180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stoyanovStoya: 我就是反問型人格，真不是我矯情 😡現實生活中那種一直説廢話的人太氣人了 https://t.co/StxHKK9LMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7513,
+          "following_count": 4542,
+          "like_count": 43319,
+          "listed_count": 18,
+          "media_count": 3167,
+          "tweet_count": 42788
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-28T18:35:54.000Z",
+        "description": "信猫皇得冻干、得罐罐、得猫条、得水牛/\n分享一切美好、有趣的事物／\n早猫晚猫/猫睡时看人类/严格遵守陛下作息时间/大内总管李公公谨遵陛下圣旨发布推特/需要回関請在最新推文下留言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqJ90…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqJ90PqCdy8Zskoq4JJErCA?si=soAVv5WR9ftQE1zr",
+                "start": 0,
+                "url": "https://t.co/5WCsrn91yz"
+              }
+            ]
+          }
+        },
+        "id": "1453792596816498689",
+        "location": "香港 尖沙咀",
+        "name": "貓皇陛下🙇‍♀️",
+        "pinned_tweet_id": "2077959095823614198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056969474465751040/F_by3BB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25783,
+          "following_count": 742,
+          "like_count": 98700,
+          "listed_count": 60,
+          "media_count": 9153,
+          "tweet_count": 20075
+        },
+        "url": "https://t.co/5WCsrn91yz",
+        "username": "stoyanovStoya",
+        "verified": false
+      }
+    ]
+  }
+}

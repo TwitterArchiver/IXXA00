@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T07:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043956379791307008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2291706816",
+          "start": 0,
+          "username": "gr1b0edova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043956379791307008",
+    "in_reply_to_user_id": "2291706816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043946598913216914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gr1b0edova 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T07:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043956379791307008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2291706816",
+              "start": 0,
+              "username": "gr1b0edova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043956379791307008",
+        "in_reply_to_user_id": "2291706816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043946598913216914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gr1b0edova 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2291706816",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T06:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043946598913216914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "026baa0ab89441d2"
+        },
+        "id": "2043946598913216914",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 Обожаю Китай!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6315,
+          "following_count": 4395,
+          "like_count": 37466,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37815
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-14T21:17:17.000Z",
+        "description": "баба без сала зло",
+        "id": "2291706816",
+        "location": "Владивосток, Россия",
+        "name": "69 динозавров🦖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/423205337236140032/4hyFzKCB_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 801,
+          "like_count": 3624,
+          "listed_count": 17,
+          "media_count": 9904,
+          "tweet_count": 179909
+        },
+        "username": "gr1b0edova",
+        "verified": false
+      }
+    ]
+  }
+}

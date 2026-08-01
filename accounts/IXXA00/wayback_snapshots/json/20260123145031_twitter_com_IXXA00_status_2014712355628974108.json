@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2014673275662786574",
+    "created_at": "2026-01-23T14:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T15:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014712355628974108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559103901554692096",
+          "start": 0,
+          "username": "Antizen6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014712355628974108",
+    "in_reply_to_user_id": "1559103901554692096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014703636119495116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antizen6 抖音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2014673275662786574",
+        "created_at": "2026-01-23T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014712355628974108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559103901554692096",
+              "start": 0,
+              "username": "Antizen6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014712355628974108",
+        "in_reply_to_user_id": "1559103901554692096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014703636119495116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antizen6 抖音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559103901554692096",
+        "conversation_id": "2014673275662786574",
+        "created_at": "2026-01-23T14:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014703636119495116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014703636119495116",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014673275662786574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 手机吗？还是相机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "失温。欢迎来看主包：抖子43707218480，曼波：https://t.co/UDk836tI8A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 50,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 27,
+                "url": "https://t.co/UDk836tI8A"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 4487,
+          "like_count": 35698,
+          "listed_count": 12,
+          "media_count": 2582,
+          "tweet_count": 35500
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T09:05:24.000Z",
+        "description": "正在减肥的肥猫，兴趣使然的厨子",
+        "id": "1559103901554692096",
+        "location": "Stockholm, Sweden",
+        "name": "斯堪的纳维亚的橘猫",
+        "pinned_tweet_id": "2011215392208032151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014366397363589120/kaeRVehD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 50,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1830
+        },
+        "username": "Antizen6",
+        "verified": false
+      }
+    ]
+  }
+}

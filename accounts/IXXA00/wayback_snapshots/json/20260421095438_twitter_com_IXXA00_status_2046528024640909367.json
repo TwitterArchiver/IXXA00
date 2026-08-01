@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2046500035999969342",
+    "created_at": "2026-04-21T09:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046528024640909367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728047202315153408",
+          "start": 0,
+          "username": "Ayame01122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046528024640909367",
+    "in_reply_to_user_id": "1728047202315153408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046527802481201168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayame01122 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2046500035999969342",
+        "created_at": "2026-04-21T09:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046528024640909367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728047202315153408",
+              "start": 0,
+              "username": "Ayame01122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046528024640909367",
+        "in_reply_to_user_id": "1728047202315153408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046527802481201168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayame01122 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728047202315153408",
+        "conversation_id": "2046500035999969342",
+        "created_at": "2026-04-21T09:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046527802481201168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046527802481201168",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046500035999969342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 地球看到引发海啸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045888471471104000/wSky5Sf4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6472,
+          "following_count": 4417,
+          "like_count": 38262,
+          "listed_count": 17,
+          "media_count": 2751,
+          "tweet_count": 38278
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T13:45:40.000Z",
+        "description": "",
+        "id": "1728047202315153408",
+        "name": "爱笑鬼神あやめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914346856827752448/XIQYa69i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 507,
+          "like_count": 59908,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 9745
+        },
+        "username": "Ayame01122",
+        "verified": false
+      }
+    ]
+  }
+}

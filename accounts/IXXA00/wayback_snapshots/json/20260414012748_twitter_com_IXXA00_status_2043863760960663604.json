@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043854217379754106",
+    "created_at": "2026-04-14T01:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T02:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043863760960663604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987674357934764032",
+          "start": 0,
+          "username": "benxiye164098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043863760960663604",
+    "in_reply_to_user_id": "1987674357934764032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043861968361234822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@benxiye164098 一般吧，我接受自己了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043854217379754106",
+        "created_at": "2026-04-14T01:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043863760960663604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987674357934764032",
+              "start": 0,
+              "username": "benxiye164098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043863760960663604",
+        "in_reply_to_user_id": "1987674357934764032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043861968361234822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benxiye164098 一般吧，我接受自己了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987674357934764032",
+        "conversation_id": "2043854217379754106",
+        "created_at": "2026-04-14T01:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043861968361234822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043861968361234822",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043854217379754106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 喵喵喵，漂亮捏主播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6225,
+          "following_count": 4393,
+          "like_count": 37306,
+          "listed_count": 16,
+          "media_count": 2715,
+          "tweet_count": 37709
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T00:11:23.000Z",
+        "description": "无聊发癫",
+        "id": "1987674357934764032",
+        "location": "中国山东烟台",
+        "name": "本",
+        "pinned_tweet_id": "1989505731083866303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033585928720289792/I84bngyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 443,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 163
+        },
+        "username": "benxiye164098",
+        "verified": false
+      }
+    ]
+  }
+}

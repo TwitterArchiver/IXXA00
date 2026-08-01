@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T10:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043994030024032671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "769756677285502976",
+          "start": 0,
+          "username": "Kar0lck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043994030024032671",
+    "in_reply_to_user_id": "769756677285502976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043993631795884371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kar0lck 太厉害啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T10:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043994030024032671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "769756677285502976",
+              "start": 0,
+              "username": "Kar0lck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043994030024032671",
+        "in_reply_to_user_id": "769756677285502976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043993631795884371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kar0lck 太厉害啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "769756677285502976",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T10:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043993631795884371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043993631795884371",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 如果说我绷住了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6363,
+          "following_count": 4395,
+          "like_count": 37620,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37872
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-28T04:41:08.000Z",
+        "description": "TAT",
+        "id": "769756677285502976",
+        "name": "KarolIl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1164112016019210240/BKBg-7eV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 53,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "username": "Kar0lck",
+        "verified": false
+      }
+    ]
+  }
+}

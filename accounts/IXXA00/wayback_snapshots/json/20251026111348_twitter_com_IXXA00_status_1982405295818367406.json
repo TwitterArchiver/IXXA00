@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982288236132339866",
+    "created_at": "2025-10-26T11:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982405295818367406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533794664490455040",
+          "start": 0,
+          "username": "gugu123456gugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982405295818367406",
+    "in_reply_to_user_id": "1533794664490455040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982376669026635907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugu123456gugu 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982288236132339866",
+        "created_at": "2025-10-26T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982405295818367406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533794664490455040",
+              "start": 0,
+              "username": "gugu123456gugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982405295818367406",
+        "in_reply_to_user_id": "1533794664490455040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982376669026635907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugu123456gugu 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533794664490455040",
+        "conversation_id": "1982288236132339866",
+        "created_at": "2025-10-26T09:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982376669026635907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982376669026635907",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982288236132339866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不胖啊我一天工资"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 4092,
+          "like_count": 30580,
+          "listed_count": 10,
+          "media_count": 2264,
+          "tweet_count": 30654
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T12:55:28.000Z",
+        "description": "(●'◡'●)",
+        "id": "1533794664490455040",
+        "name": "急急着火了",
+        "pinned_tweet_id": "1926894452561342916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969250370364014592/hI6HOJvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 382,
+          "like_count": 5876,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 2616
+        },
+        "username": "gugu123456gugu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1988260646077518092",
+    "created_at": "2025-11-12T13:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988605850823593998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644769334592503810",
+          "start": 0,
+          "username": "linxi070212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988605850823593998",
+    "in_reply_to_user_id": "1644769334592503810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988605000902418837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linxi070212 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1988260646077518092",
+        "created_at": "2025-11-12T13:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988605850823593998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644769334592503810",
+              "start": 0,
+              "username": "linxi070212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988605850823593998",
+        "in_reply_to_user_id": "1644769334592503810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988605000902418837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linxi070212 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644769334592503810",
+        "conversation_id": "1988260646077518092",
+        "created_at": "2025-11-12T13:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988605000902418837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988605000902418837",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988260646077518092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5475,
+          "following_count": 4549,
+          "like_count": 32952,
+          "listed_count": 11,
+          "media_count": 2348,
+          "tweet_count": 32469
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T18:29:18.000Z",
+        "description": "",
+        "id": "1644769334592503810",
+        "name": "林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976325319553622016/Q0Purhft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 111
+        },
+        "username": "linxi070212",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2003992294727590000",
+    "created_at": "2025-12-26T01:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T02:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004356592402403594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754023103339094016",
+          "start": 0,
+          "username": "zhangcw04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004356592402403594",
+    "in_reply_to_user_id": "1754023103339094016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003992294727590000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangcw04 蒸腊肠，我买了3斤还剩一斤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2003992259587723267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-cV61b0AMOty7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2003992294727590000",
+        "created_at": "2025-12-26T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004356592402403594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754023103339094016",
+              "start": 0,
+              "username": "zhangcw04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004356592402403594",
+        "in_reply_to_user_id": "1754023103339094016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003992294727590000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangcw04 蒸腊肠，我买了3斤还剩一斤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003992259587723267"
+          ]
+        },
+        "author_id": "1754023103339094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003992294727590000",
+        "created_at": "2025-12-25T00:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T01:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003992294727590000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaBbdeYLC4",
+              "end": 38,
+              "expanded_url": "https://x.com/zhangcw04/status/2003992294727590000/photo/1",
+              "media_key": "3_2003992259587723267",
+              "start": 15,
+              "url": "https://t.co/xaBbdeYLC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003992294727590000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 53232,
+          "like_count": 325,
+          "quote_count": 9,
+          "reply_count": 297,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "饭蒸好了。缺个菜，配个啥菜？ https://t.co/xaBbdeYLC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5644,
+          "following_count": 4536,
+          "like_count": 35090,
+          "listed_count": 12,
+          "media_count": 2520,
+          "tweet_count": 34616
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T06:04:44.000Z",
+        "description": "美食",
+        "id": "1754023103339094016",
+        "name": "白雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754321141446115328/C3N53vHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12506,
+          "following_count": 10991,
+          "like_count": 8705,
+          "listed_count": 31,
+          "media_count": 2403,
+          "tweet_count": 9700
+        },
+        "username": "zhangcw04",
+        "verified": false
+      }
+    ]
+  }
+}

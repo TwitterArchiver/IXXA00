@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1945936956837249221",
+    "created_at": "2025-07-17T23:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T00:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945984406218518883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669404467375276036",
+          "start": 0,
+          "username": "RADON_CLOUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945984406218518883",
+    "in_reply_to_user_id": "1669404467375276036",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945936956837249221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RADON_CLOUD 🫳🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1945936956837249221",
+        "created_at": "2025-07-17T23:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T00:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945984406218518883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669404467375276036",
+              "start": 0,
+              "username": "RADON_CLOUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945984406218518883",
+        "in_reply_to_user_id": "1669404467375276036",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945936956837249221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RADON_CLOUD 🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669404467375276036",
+        "conversation_id": "1945936956837249221",
+        "created_at": "2025-07-17T20:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T21:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945936956837249221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945936956837249221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好不开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，梦想是在酒吧坐台，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1945682749475770695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3745,
+          "following_count": 3154,
+          "like_count": 25994,
+          "listed_count": 6,
+          "media_count": 1903,
+          "tweet_count": 25492
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T18:00:27.000Z",
+        "description": "女的 有张嘴以外再没啥了 不约炮\n会发点跟男朋友的照片 也会发点小画",
+        "id": "1669404467375276036",
+        "location": "墓地",
+        "name": "雲也昭昭",
+        "pinned_tweet_id": "1897424613560476100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940035785136238592/pGcZrT4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 250,
+          "like_count": 597,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 245
+        },
+        "username": "RADON_CLOUD",
+        "verified": false
+      }
+    ]
+  }
+}

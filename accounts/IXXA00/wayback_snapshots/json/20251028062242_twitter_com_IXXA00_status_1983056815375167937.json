@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983014290287378909",
+    "created_at": "2025-10-28T06:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983056815375167937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1211838948302966785",
+          "start": 0,
+          "username": "PPPPLUCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983056815375167937",
+    "in_reply_to_user_id": "1211838948302966785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983030147315040767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PPPPLUCK 😭不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983014290287378909",
+        "created_at": "2025-10-28T06:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983056815375167937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1211838948302966785",
+              "start": 0,
+              "username": "PPPPLUCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983056815375167937",
+        "in_reply_to_user_id": "1211838948302966785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983030147315040767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PPPPLUCK 😭不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211838948302966785",
+        "conversation_id": "1983014290287378909",
+        "created_at": "2025-10-28T04:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983030147315040767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983030147315040767",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983014290287378909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我的工作日很宽裕......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 4338,
+          "like_count": 31141,
+          "listed_count": 11,
+          "media_count": 2275,
+          "tweet_count": 31016
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T02:38:29.000Z",
+        "description": "Orthopedic resident from CN\nStruggling to fix code and debug bones",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tt.tzga.gov.cn/news/zishou.as…",
+                "end": 23,
+                "expanded_url": "http://tt.tzga.gov.cn/news/zishou.aspx",
+                "start": 0,
+                "url": "https://t.co/jgTlABkJnY"
+              }
+            ]
+          }
+        },
+        "id": "1211838948302966785",
+        "name": "咕咕咕",
+        "pinned_tweet_id": "1839274067356209489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780106120918630400/5gZXJ-or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3052,
+          "following_count": 1033,
+          "like_count": 51820,
+          "listed_count": 25,
+          "media_count": 3998,
+          "tweet_count": 23822
+        },
+        "url": "https://t.co/jgTlABkJnY",
+        "username": "PPPPLUCK",
+        "verified": false
+      }
+    ]
+  }
+}

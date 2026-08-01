@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1993191986975916032"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1993192016092840172",
+    "created_at": "2025-11-25T05:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993192016092840172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X7sdrWQUaV",
+          "end": 37,
+          "expanded_url": "https://x.com/IXXA00/status/1993192016092840172/video/1",
+          "media_key": "7_1993191986975916032",
+          "start": 14,
+          "url": "https://t.co/X7sdrWQUaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993192016092840172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "驻波又在发毫无意义的视频。 https://t.co/X7sdrWQUaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10911,
+        "height": 1280,
+        "media_key": "7_1993191986975916032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993191986975916032/pu/img/1kZbGGtZgsuILsu1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993191986975916032/pu/vid/avc1/320x568/OPq1mkmlAvK4_0Yz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993191986975916032/pu/vid/avc1/480x852/zsw72YyjtFI_wX3C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993191986975916032/pu/vid/avc1/720x1280/KE0rcqj_Ff74TiIK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993191986975916032/pu/pl/dIF1HFFENi2XP1EB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1993191986975916032"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1993192016092840172",
+        "created_at": "2025-11-25T05:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993192016092840172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7sdrWQUaV",
+              "end": 37,
+              "expanded_url": "https://x.com/IXXA00/status/1993192016092840172/video/1",
+              "media_key": "7_1993191986975916032",
+              "start": 14,
+              "url": "https://t.co/X7sdrWQUaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993192016092840172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驻波又在发毫无意义的视频。 https://t.co/X7sdrWQUaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪(限时半绿聊天/纯绿线下)。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993039904717389824/opWmNY0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5614,
+          "following_count": 4554,
+          "like_count": 33856,
+          "listed_count": 11,
+          "media_count": 2406,
+          "tweet_count": 33251
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

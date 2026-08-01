@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1900523178197196929",
+    "created_at": "2025-03-14T13:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T14:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900534549227929891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1542841471836901376",
+          "start": 0,
+          "username": "hezijing10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900534549227929891",
+    "in_reply_to_user_id": "1542841471836901376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900534495683772486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hezijing10 😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1900523178197196929",
+        "created_at": "2025-03-14T13:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T14:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900534549227929891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1542841471836901376",
+              "start": 0,
+              "username": "hezijing10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900534549227929891",
+        "in_reply_to_user_id": "1542841471836901376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900534495683772486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hezijing10 😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542841471836901376",
+        "conversation_id": "1900523178197196929",
+        "created_at": "2025-03-14T13:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T14:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900534495683772486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900534495683772486",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900523178197196929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 邦~~~~（余音绕梁）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你可以把我理解成一坨小猫。",
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899646835691515904/zV86yMHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 2640,
+          "like_count": 18064,
+          "listed_count": 6,
+          "media_count": 1232,
+          "tweet_count": 17108
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T12:04:14.000Z",
+        "description": "喜欢交朋友（大概？），爱ghs（也大概）上推基本为了逼逼赖赖，不喜勿喷罢（喷人给你一拳）",
+        "id": "1542841471836901376",
+        "name": "某人（减肥中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542841558495506433/nd34bz6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1325,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 681
+        },
+        "username": "hezijing10",
+        "verified": false
+      }
+    ]
+  }
+}

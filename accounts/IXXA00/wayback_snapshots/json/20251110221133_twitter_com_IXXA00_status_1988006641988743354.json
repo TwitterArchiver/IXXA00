@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987707820687704449",
+    "created_at": "2025-11-10T22:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T23:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988006641988743354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743584609965940736",
+          "start": 0,
+          "username": "nugget_pixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988006641988743354",
+    "in_reply_to_user_id": "1743584609965940736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987707820687704449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nugget_pixel 5点起床😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987707820687704449",
+        "created_at": "2025-11-10T22:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988006641988743354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743584609965940736",
+              "start": 0,
+              "username": "nugget_pixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988006641988743354",
+        "in_reply_to_user_id": "1743584609965940736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987707820687704449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nugget_pixel 5点起床😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743584609965940736",
+        "conversation_id": "1987707820687704449",
+        "created_at": "2025-11-10T02:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T03:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987707820687704449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987707820687704449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡的好差\n一直醒一直醒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我只想做自己，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5467,
+          "following_count": 4549,
+          "like_count": 32857,
+          "listed_count": 11,
+          "media_count": 2338,
+          "tweet_count": 32347
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T10:45:49.000Z",
+        "description": "🌈bi🌈 infp/isfp love is love 女巫的碎碎念记录 小女孩請和我互fo 希望大家都能和我玩的開心 不參與任何政治相關",
+        "id": "1743584609965940736",
+        "location": "🚪52純绿聊天0意義但是能让我开心一下( ᐛ ) ",
+        "name": "像素雞塊",
+        "pinned_tweet_id": "1754148359626215693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822650275506913280/4vMypd1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 239,
+          "like_count": 23332,
+          "listed_count": 3,
+          "media_count": 800,
+          "tweet_count": 8256
+        },
+        "username": "nugget_pixel",
+        "verified": false
+      }
+    ]
+  }
+}

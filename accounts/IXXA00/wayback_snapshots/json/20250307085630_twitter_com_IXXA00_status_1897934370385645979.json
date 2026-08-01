@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1897934370385645979",
+    "created_at": "2025-03-07T08:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T09:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897934370385645979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1897934370385645979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算了还是不搞这么抽象的东西了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1897934370385645979",
+        "created_at": "2025-03-07T08:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T09:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897934370385645979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897934370385645979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了还是不搞这么抽象的东西了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "吃不了一点苦并且超级会抱怨。/@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896889420311351296/2OPrka2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 2588,
+          "like_count": 17613,
+          "listed_count": 6,
+          "media_count": 1212,
+          "tweet_count": 16706
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

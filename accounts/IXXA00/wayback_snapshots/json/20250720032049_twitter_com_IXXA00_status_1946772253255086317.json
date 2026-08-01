@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1946725333509779791",
+    "created_at": "2025-07-20T03:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T04:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946772253255086317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "397807690",
+          "start": 0,
+          "username": "hide1983away"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946772253255086317",
+    "in_reply_to_user_id": "397807690",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946754133756973522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hide1983away 😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1946725333509779791",
+        "created_at": "2025-07-20T03:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T04:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946772253255086317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397807690",
+              "start": 0,
+              "username": "hide1983away"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946772253255086317",
+        "in_reply_to_user_id": "397807690",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946754133756973522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hide1983away 😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "397807690",
+        "conversation_id": "1946725333509779791",
+        "created_at": "2025-07-20T02:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946754133756973522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946754133756973522",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946752388356006104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 给你送纸啊 \n\n你想到哪里去了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3741,
+          "following_count": 3145,
+          "like_count": 26127,
+          "listed_count": 6,
+          "media_count": 1915,
+          "tweet_count": 25613
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-25T05:33:37.000Z",
+        "description": "人肉翻墙成功🤡",
+        "id": "397807690",
+        "location": "Japan",
+        "name": "Da～盘桑🎌 🎌🎌🇯🇵🧊🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347754596697980932/ZapNT50u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2817,
+          "following_count": 2216,
+          "like_count": 79525,
+          "listed_count": 11,
+          "media_count": 2571,
+          "tweet_count": 72589
+        },
+        "username": "hide1983away",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987746193682891255",
+    "created_at": "2025-11-10T06:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T07:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987773348945023091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1291592623090626562",
+          "start": 0,
+          "username": "FANXI89061009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987773348945023091",
+    "in_reply_to_user_id": "1291592623090626562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987771434924745122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FANXI89061009 你的螺旋多拿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987746193682891255",
+        "created_at": "2025-11-10T06:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987773348945023091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1291592623090626562",
+              "start": 0,
+              "username": "FANXI89061009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987773348945023091",
+        "in_reply_to_user_id": "1291592623090626562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987771434924745122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FANXI89061009 你的螺旋多拿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291592623090626562",
+        "conversation_id": "1987746193682891255",
+        "created_at": "2025-11-10T06:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987771434924745122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987771434924745122",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987746193682891255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 给大哥扭两个😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "东北大哥，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5471,
+          "following_count": 4544,
+          "like_count": 32794,
+          "listed_count": 11,
+          "media_count": 2335,
+          "tweet_count": 32278
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T04:31:13.000Z",
+        "description": "Write something strange.",
+        "id": "1291592623090626562",
+        "name": "FANXI",
+        "pinned_tweet_id": "1879897439311974758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775924586976337920/YaJjfZDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 90,
+          "like_count": 4807,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 6210
+        },
+        "username": "FANXI89061009",
+        "verified": false
+      }
+    ]
+  }
+}

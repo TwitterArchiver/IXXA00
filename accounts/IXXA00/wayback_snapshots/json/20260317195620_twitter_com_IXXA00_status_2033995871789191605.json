@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2033849543939526915",
+    "created_at": "2026-03-17T19:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T20:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033995871789191605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1633033603314757633",
+          "start": 0,
+          "username": "starconvoyprime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033995871789191605",
+    "in_reply_to_user_id": "1633033603314757633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033952503176495271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starconvoyprime 主包也有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2033849543939526915",
+        "created_at": "2026-03-17T19:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T20:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033995871789191605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1633033603314757633",
+              "start": 0,
+              "username": "starconvoyprime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033995871789191605",
+        "in_reply_to_user_id": "1633033603314757633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033952503176495271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starconvoyprime 主包也有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633033603314757633",
+        "conversation_id": "2033849543939526915",
+        "created_at": "2026-03-17T17:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033952503176495271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033952503176495271",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033863201763586447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 想起来之前看古立特里新条茜穿的灰丝也不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不是男娘。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6224,
+          "following_count": 4473,
+          "like_count": 36247,
+          "listed_count": 14,
+          "media_count": 2653,
+          "tweet_count": 36640
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T09:15:48.000Z",
+        "description": "传奇月球守门人",
+        "id": "1633033603314757633",
+        "name": "荼",
+        "pinned_tweet_id": "1807092666485928238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973308333475110913/_cflX0l__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 420,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2675
+        },
+        "username": "starconvoyprime",
+        "verified": false
+      }
+    ]
+  }
+}

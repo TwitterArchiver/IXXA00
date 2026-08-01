@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1904153834311848078",
+    "created_at": "2025-03-25T14:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T15:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904538049544962517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751613061587468288",
+          "start": 0,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904538049544962517",
+    "in_reply_to_user_id": "1751613061587468288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904153834311848078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hosh1no_shizuku 好看呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1904153821947064320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmzpz_rbcAAN_ZU.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1904153834311848078",
+        "created_at": "2025-03-25T14:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T15:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904538049544962517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751613061587468288",
+              "start": 0,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904538049544962517",
+        "in_reply_to_user_id": "1751613061587468288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904153834311848078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hosh1no_shizuku 好看呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904153821947064320"
+          ]
+        },
+        "author_id": "1751613061587468288",
+        "conversation_id": "1904153834311848078",
+        "created_at": "2025-03-24T12:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T13:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904153834311848078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQmewrretd",
+              "end": 38,
+              "expanded_url": "https://x.com/hosh1no_shizuku/status/1904153834311848078/photo/1",
+              "media_key": "3_1904153821947064320",
+              "start": 15,
+              "url": "https://t.co/FQmewrretd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904153834311848078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8992,
+          "like_count": 234,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "上商科课写微积分作业摸鱼画画 https://t.co/FQmewrretd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。更多的我：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1904509813540745281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3505,
+          "following_count": 2771,
+          "like_count": 18997,
+          "listed_count": 6,
+          "media_count": 1279,
+          "tweet_count": 18026
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T14:28:03.000Z",
+        "description": "🇨🇳19岁无🍬小男娘 可以叫我小雫 女装纯兴趣// 喜欢编曲🎵画画🎨和穿女装// 清水系 不擦边 🈚️🔞 无业务 不开🚪 同好可扩列 已有对象 // 全网同名 随缘更新// 可在QQ音乐/网易云/Pixiv @LanziiLove找到我的音乐和绘画作品// B站偶尔直播",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1751613061587468288",
+        "location": "亚海悬城A包点",
+        "name": "星野雫丶Shizuku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894250059786588160/_ASAO7bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20480,
+          "following_count": 97,
+          "like_count": 91,
+          "listed_count": 52,
+          "media_count": 52,
+          "tweet_count": 968
+        },
+        "username": "hosh1no_shizuku",
+        "verified": false
+      }
+    ]
+  }
+}

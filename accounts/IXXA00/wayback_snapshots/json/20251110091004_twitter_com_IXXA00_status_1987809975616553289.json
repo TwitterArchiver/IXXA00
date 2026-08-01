@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987190958539313229",
+    "created_at": "2025-11-10T09:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T10:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987809975616553289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1491832400661209088",
+          "start": 0,
+          "username": "Nomia755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987809975616553289",
+    "in_reply_to_user_id": "1491832400661209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987190958539313229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nomia755 芥末凉拌，谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1987190956551196672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PrpXoaUAA_Y9i.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987190958539313229",
+        "created_at": "2025-11-10T09:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987809975616553289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1491832400661209088",
+              "start": 0,
+              "username": "Nomia755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987809975616553289",
+        "in_reply_to_user_id": "1491832400661209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987190958539313229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nomia755 芥末凉拌，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987190956551196672"
+          ]
+        },
+        "author_id": "1491832400661209088",
+        "conversation_id": "1987190958539313229",
+        "created_at": "2025-11-08T16:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987190958539313229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjowMApGkj",
+              "end": 26,
+              "expanded_url": "https://x.com/Nomia755/status/1987190958539313229/photo/1",
+              "media_key": "3_1987190956551196672",
+              "start": 3,
+              "url": "https://t.co/zjowMApGkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987190958539313229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3939,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸭掌 https://t.co/zjowMApGkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "东北大哥，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 4553,
+          "like_count": 32809,
+          "listed_count": 11,
+          "media_count": 2335,
+          "tweet_count": 32293
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:52:26.000Z",
+        "description": "糯米鸭冰皮月饼（扩充互关中）\n宝 @xxmlmt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "xxmlmt"
+              }
+            ]
+          }
+        },
+        "id": "1491832400661209088",
+        "name": "糯米鸭🐣",
+        "pinned_tweet_id": "1974190803057848529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1491842802631598080/EwZFslGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 1579,
+          "like_count": 35157,
+          "listed_count": 10,
+          "media_count": 46,
+          "tweet_count": 5598
+        },
+        "username": "Nomia755",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918444562181435699",
+    "created_at": "2025-05-03T16:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T17:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918700832209461589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892843576544919552",
+          "start": 0,
+          "username": "zhu9416666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918700832209461589",
+    "in_reply_to_user_id": "1892843576544919552",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918700259292647592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu9416666 ？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T16:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918700832209461589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892843576544919552",
+              "start": 0,
+              "username": "zhu9416666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918700832209461589",
+        "in_reply_to_user_id": "1892843576544919552",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918700259292647592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu9416666 ？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892843576544919552",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T16:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T17:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918700259292647592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918700259292647592",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918444562181435699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "别多想，我有门槛只是单纯的出来卖。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1918520888594710775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3639,
+          "following_count": 2961,
+          "like_count": 21093,
+          "listed_count": 7,
+          "media_count": 1498,
+          "tweet_count": 20414
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T07:47:50.000Z",
+        "description": "牛批",
+        "id": "1892843576544919552",
+        "name": "朱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909383817149759488/OlfqVj20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 53,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "zhu9416666",
+        "verified": false
+      }
+    ]
+  }
+}

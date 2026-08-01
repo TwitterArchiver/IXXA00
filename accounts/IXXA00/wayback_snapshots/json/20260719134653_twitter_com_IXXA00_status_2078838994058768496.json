@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2078817901868716118",
+    "created_at": "2026-07-19T13:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078838994058768496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992627685798137856",
+          "start": 0,
+          "username": "Yuiko114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078838994058768496",
+    "in_reply_to_user_id": "1992627685798137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078817901868716118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiko114514 家人们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078817844519964672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlx0MdbEAAAjXf.jpg",
+        "width": 3071
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2078817857098706944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlx07UbcAAKOG1.jpg",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2078817870033903616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlx1rga4AAfUR2.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2078817890254667776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlx221bQAANExO.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2078817901868716118",
+        "created_at": "2026-07-19T13:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078838994058768496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992627685798137856",
+              "start": 0,
+              "username": "Yuiko114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078838994058768496",
+        "in_reply_to_user_id": "1992627685798137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078817901868716118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiko114514 家人们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078817844519964672",
+            "3_2078817857098706944",
+            "3_2078817870033903616",
+            "3_2078817890254667776"
+          ]
+        },
+        "author_id": "1992627685798137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2078817901868716118",
+        "created_at": "2026-07-19T12:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078817901868716118"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "一直Go一直Go一辈子"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "エガクミライ"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "要楽奈"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "要乐奈"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "野良猫"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "MyGO"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i60TD6ccN6",
+              "end": 117,
+              "expanded_url": "https://x.com/Yuiko114514/status/2078817901868716118/photo/1",
+              "media_key": "3_2078817844519964672",
+              "start": 94,
+              "url": "https://t.co/i60TD6ccN6"
+            },
+            {
+              "display_url": "pic.x.com/i60TD6ccN6",
+              "end": 117,
+              "expanded_url": "https://x.com/Yuiko114514/status/2078817901868716118/photo/1",
+              "media_key": "3_2078817857098706944",
+              "start": 94,
+              "url": "https://t.co/i60TD6ccN6"
+            },
+            {
+              "display_url": "pic.x.com/i60TD6ccN6",
+              "end": 117,
+              "expanded_url": "https://x.com/Yuiko114514/status/2078817901868716118/photo/1",
+              "media_key": "3_2078817870033903616",
+              "start": 94,
+              "url": "https://t.co/i60TD6ccN6"
+            },
+            {
+              "display_url": "pic.x.com/i60TD6ccN6",
+              "end": 117,
+              "expanded_url": "https://x.com/Yuiko114514/status/2078817901868716118/photo/1",
+              "media_key": "3_2078817890254667776",
+              "start": 94,
+              "url": "https://t.co/i60TD6ccN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078817901868716118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "港未来下起了蓝色的雨，Day2也圆满了👊🏻👊🏻👊🏻\n#一直Go一直Go一辈子\n\n#エガクミライ\n#要楽奈 #要乐奈 #野良猫\n#MyGO\n#バンドリ #BanGDream  \n#コスプレ https://t.co/i60TD6ccN6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7517,
+          "following_count": 4543,
+          "like_count": 43347,
+          "listed_count": 18,
+          "media_count": 3170,
+          "tweet_count": 42812
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "🧭#一瞬一瞬で一生 🌸🍊🐧🐱🐼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "一瞬一瞬で一生"
+              }
+            ]
+          }
+        },
+        "id": "1992627685798137856",
+        "location": "月ノ森女子学園",
+        "name": "家人",
+        "pinned_tweet_id": "2069700513747378382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042086484711489536/je29RfuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 820,
+          "like_count": 11363,
+          "listed_count": 9,
+          "media_count": 2467,
+          "tweet_count": 7155
+        },
+        "url": "",
+        "username": "Yuiko114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1969603670439575672",
+    "created_at": "2025-09-21T15:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969786039989571867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780498367669514240",
+          "start": 0,
+          "username": "lzlld38244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969786039989571867",
+    "in_reply_to_user_id": "1780498367669514240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969781821270642862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzlld38244 🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1969603670439575672",
+        "created_at": "2025-09-21T15:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969786039989571867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780498367669514240",
+              "start": 0,
+              "username": "lzlld38244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969786039989571867",
+        "in_reply_to_user_id": "1780498367669514240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969781821270642862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzlld38244 🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780498367669514240",
+        "conversation_id": "1969603670439575672",
+        "created_at": "2025-09-21T15:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969781821270642862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969781821270642862",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969603670439575672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 算草猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/我看起来终于是14岁了😋/有🚪谢谢",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla✌🏿",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 3565,
+          "like_count": 28967,
+          "listed_count": 8,
+          "media_count": 2161,
+          "tweet_count": 29141
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T07:27:52.000Z",
+        "description": "",
+        "id": "1780498367669514240",
+        "name": "lzlld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780498501610393600/HOhEDmHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 3313,
+          "like_count": 64,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 1602
+        },
+        "username": "lzlld38244",
+        "verified": false
+      }
+    ]
+  }
+}

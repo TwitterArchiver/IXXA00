@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1958140854415327485",
+    "created_at": "2025-08-22T05:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T06:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958767146785538534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829978764367011840",
+          "start": 0,
+          "username": "roland14514"
+        },
+        {
+          "end": 23,
+          "id": "1893610201124872192",
+          "start": 13,
+          "username": "luyaoyaoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958767146785538534",
+    "in_reply_to_user_id": "1829978764367011840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958763774594490421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roland14514 @luyaoyaoy 她长的好爽"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958763774594490421].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958763774594490421",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958763774594490421"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1958140854415327485",
+        "created_at": "2025-08-22T05:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958767146785538534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829978764367011840",
+              "start": 0,
+              "username": "roland14514"
+            },
+            {
+              "end": 23,
+              "id": "1893610201124872192",
+              "start": 13,
+              "username": "luyaoyaoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958767146785538534",
+        "in_reply_to_user_id": "1829978764367011840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958763774594490421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roland14514 @luyaoyaoy 她长的好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1958508946555294010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 3331,
+          "like_count": 27583,
+          "listed_count": 7,
+          "media_count": 2052,
+          "tweet_count": 27373
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T20:25:26.000Z",
+        "description": "下雨天",
+        "id": "1829978764367011840",
+        "name": "雨癖",
+        "pinned_tweet_id": "1864358414899401060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859478631904575488/TuHLvWxU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 185,
+          "like_count": 5075,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 613
+        },
+        "username": "roland14514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T10:34:12.000Z",
+        "description": "！随便发！不聊天交友等等，不加lx🥲🩷   礼貌的私信会礼貌性回复🐈💕",
+        "id": "1893610201124872192",
+        "location": "China",
+        "name": "lu yao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910953485593427968/TQwg-kJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 32,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 272
+        },
+        "username": "luyaoyaoy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2077715095338066402",
+    "created_at": "2026-07-16T12:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077733881281704357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1441984967437807622",
+          "start": 0,
+          "username": "JakkuSakura"
+        },
+        {
+          "end": 29,
+          "id": "1892152061653028866",
+          "start": 13,
+          "username": "SuperShrimp9000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077733881281704357",
+    "in_reply_to_user_id": "1441984967437807622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077733050075807812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JakkuSakura @SuperShrimp9000 网上都是p的和ai跑的。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077733050075807812].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077733050075807812",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077733050075807812"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2077715095338066402",
+        "created_at": "2026-07-16T12:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077733881281704357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1441984967437807622",
+              "start": 0,
+              "username": "JakkuSakura"
+            },
+            {
+              "end": 29,
+              "id": "1892152061653028866",
+              "start": 13,
+              "username": "SuperShrimp9000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077733881281704357",
+        "in_reply_to_user_id": "1441984967437807622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077733050075807812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JakkuSakura @SuperShrimp9000 网上都是p的和ai跑的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7494,
+          "following_count": 4538,
+          "like_count": 43220,
+          "listed_count": 18,
+          "media_count": 3156,
+          "tweet_count": 42708
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-26T04:36:35.000Z",
+        "description": "彼岸樱/Higan Sakura\n在未名之岸短暂显现的花焰术士，游离于现实与彼岸之间，不解释来处，也不归属于任何一方",
+        "id": "1441984967437807622",
+        "location": "Hong Kong",
+        "name": "Jakku | 彼岸樱 🇭🇰🏳️‍⚧️",
+        "pinned_tweet_id": "2050814597259739310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068896173923160064/bSL6FsYB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 1408,
+          "like_count": 73421,
+          "listed_count": 8,
+          "media_count": 1311,
+          "tweet_count": 13361
+        },
+        "url": "",
+        "username": "JakkuSakura",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T10:00:03.000Z",
+        "description": "進化した最強エビ、君の老燕京美食、グラ姫のお菓子\nMega Ebi bigger then big, Your traditional Yuyan meal, Gura's snack\n前菜/Appetiser: @BigFreshShrimp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "BigFreshShrimp"
+              }
+            ]
+          }
+        },
+        "id": "1892152061653028866",
+        "name": "SuperShrimp9000+",
+        "pinned_tweet_id": "1892161554013093935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912398191841988608/UcPyhO0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 945,
+          "like_count": 116525,
+          "listed_count": 4,
+          "media_count": 7204,
+          "tweet_count": 17480
+        },
+        "url": "",
+        "username": "SuperShrimp9000",
+        "verified": false
+      }
+    ]
+  }
+}

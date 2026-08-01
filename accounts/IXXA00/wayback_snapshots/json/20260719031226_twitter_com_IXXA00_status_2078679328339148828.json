@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2078658723581661301",
+    "created_at": "2026-07-19T03:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078679328339148828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417020458801799170",
+          "start": 0,
+          "username": "UmiNeko11101010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078679328339148828",
+    "in_reply_to_user_id": "1417020458801799170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078658723581661301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UmiNeko11101010 小女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2078658723581661301",
+        "created_at": "2026-07-19T03:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078679328339148828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417020458801799170",
+              "start": 0,
+              "username": "UmiNeko11101010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078679328339148828",
+        "in_reply_to_user_id": "1417020458801799170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078658723581661301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UmiNeko11101010 小女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417020458801799170",
+        "conversation_id": "2078658723581661301",
+        "created_at": "2026-07-19T01:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078658723581661301"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "74fad2166ae8b8e6"
+        },
+        "id": "2078658723581661301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人见到我真人后说我长得很像女的或者长得很像小孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7514,
+          "following_count": 4543,
+          "like_count": 43328,
+          "listed_count": 18,
+          "media_count": 3168,
+          "tweet_count": 42794
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T07:16:28.000Z",
+        "description": "平平无奇的开卡店的。\n同时也是小说作者，个人投资者，旅行者。\n卡店在 https://t.co/G738UDU6DM\n随机回关。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/wBuqVyeLPG4y3C…",
+                "end": 58,
+                "expanded_url": "https://maps.app.goo.gl/wBuqVyeLPG4y3C9ZA",
+                "start": 35,
+                "url": "https://t.co/G738UDU6DM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellacards.base.shop",
+                "end": 23,
+                "expanded_url": "https://stellacards.base.shop/",
+                "start": 0,
+                "url": "https://t.co/f8oz3UFVI4"
+              }
+            ]
+          }
+        },
+        "id": "1417020458801799170",
+        "location": "大阪市北区天神桥三丁目5-9 スタートレカ",
+        "name": "浮世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813055870504476674/e3JN8Yi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6765,
+          "following_count": 962,
+          "like_count": 247028,
+          "listed_count": 38,
+          "media_count": 5263,
+          "tweet_count": 28206
+        },
+        "url": "https://t.co/f8oz3UFVI4",
+        "username": "UmiNeko11101010",
+        "verified": true
+      }
+    ]
+  }
+}

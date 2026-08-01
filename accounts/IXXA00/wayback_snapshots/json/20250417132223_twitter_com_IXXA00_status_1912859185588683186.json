@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1912856604955066677",
+    "created_at": "2025-04-17T13:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T14:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912859185588683186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1315035096240414720",
+          "start": 0,
+          "username": "HaNaB1yo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912859185588683186",
+    "in_reply_to_user_id": "1315035096240414720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912857834364314022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaNaB1yo 你不觉得很漂亮吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1912856604955066677",
+        "created_at": "2025-04-17T13:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T14:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912859185588683186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1315035096240414720",
+              "start": 0,
+              "username": "HaNaB1yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912859185588683186",
+        "in_reply_to_user_id": "1315035096240414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912857834364314022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaNaB1yo 你不觉得很漂亮吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315035096240414720",
+        "conversation_id": "1912856604955066677",
+        "created_at": "2025-04-17T13:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T14:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912857834364314022"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "照亮",
+              "probability": 0.5141,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912857834364314022",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912856604955066677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 努力照亮每一朵花"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "写了你们也不看。🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "🚪52",
+        "name": "isla",
+        "pinned_tweet_id": "1912795515689091380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912844626798755840/FZYqVBWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3618,
+          "following_count": 2926,
+          "like_count": 20056,
+          "listed_count": 7,
+          "media_count": 1407,
+          "tweet_count": 19372
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-10T21:03:03.000Z",
+        "description": "19歲少年の高血壓初體驗\n想和所有小可爱交朋友",
+        "id": "1315035096240414720",
+        "name": "HaNa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486195485656248320/KFAM5Aa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 54,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 159
+        },
+        "username": "HaNaB1yo",
+        "verified": false
+      }
+    ]
+  }
+}

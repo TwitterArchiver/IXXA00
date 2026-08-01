@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011714896321527808"
+      ],
+      "media_source_tweet_id": [
+        "2011714899098157514"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2052669859419537783",
+    "created_at": "2026-05-08T08:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052669859419537783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1122243045959720960",
+          "start": 3,
+          "username": "imomonono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9YUUPoell",
+          "end": 38,
+          "expanded_url": "https://x.com/imomonono/status/2011714899098157514/photo/1",
+          "media_key": "3_2011714896321527808",
+          "start": 15,
+          "url": "https://t.co/k9YUUPoell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052669859419537783",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3739
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011714899098157514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imomonono: https://t.co/k9YUUPoell"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052669859419537783].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052669859419537783",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052669859419537783"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011714896321527808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sMCiibQAA2NZV.jpg",
+        "width": 1427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011714896321527808"
+          ]
+        },
+        "author_id": "1122243045959720960",
+        "conversation_id": "2011714899098157514",
+        "created_at": "2026-01-15T08:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T09:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011714899098157514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9YUUPoell",
+              "end": 23,
+              "expanded_url": "https://x.com/imomonono/status/2011714899098157514/photo/1",
+              "media_key": "3_2011714896321527808",
+              "start": 0,
+              "url": "https://t.co/k9YUUPoell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011714899098157514",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10703,
+          "impression_count": 1153245,
+          "like_count": 52368,
+          "quote_count": 54,
+          "reply_count": 50,
+          "retweet_count": 3739
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/k9YUUPoell"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/18/塔罗牌简单咨询：25r/张/线下",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2051269951366017407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6995,
+          "following_count": 4489,
+          "like_count": 39514,
+          "listed_count": 20,
+          "media_count": 2856,
+          "tweet_count": 39480
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-27T20:56:07.000Z",
+        "description": "快楽天のエロ漫画家　hirune　FANZA→https://t.co/35ilwwAp0M\nDLsite→https://t.co/BVgP42M2Bu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/1rJV3",
+                "end": 46,
+                "expanded_url": "https://x.gd/1rJV3",
+                "start": 23,
+                "url": "https://t.co/35ilwwAp0M"
+              },
+              {
+                "display_url": "x.gd/0Hq2g",
+                "end": 77,
+                "expanded_url": "https://x.gd/0Hq2g",
+                "start": 54,
+                "url": "https://t.co/BVgP42M2Bu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/imomonono",
+                "end": 23,
+                "expanded_url": "https://lit.link/imomonono",
+                "start": 0,
+                "url": "https://t.co/Y5fq3jeZM4"
+              }
+            ]
+          }
+        },
+        "id": "1122243045959720960",
+        "location": "日本 大阪",
+        "name": "昼寝🔞原画展5/2〜6/7",
+        "pinned_tweet_id": "2050138294592356409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1241467510995607552/5VMbho5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376973,
+          "following_count": 637,
+          "like_count": 9828,
+          "listed_count": 2349,
+          "media_count": 108,
+          "tweet_count": 3010
+        },
+        "url": "https://t.co/Y5fq3jeZM4",
+        "username": "imomonono",
+        "verified": false
+      }
+    ]
+  }
+}

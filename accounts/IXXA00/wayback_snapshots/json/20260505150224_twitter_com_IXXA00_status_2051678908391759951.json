@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2051678908391759951",
+    "created_at": "2026-05-05T15:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051678908391759951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/IXXA00/status/1836950946615611564",
+          "start": 9,
+          "url": "https://t.co/EVElbaDLlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051678908391759951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836950946615611564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天又被🚪哥删了 https://t.co/EVElbaDLlD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2051678908391759951",
+        "created_at": "2026-05-05T15:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051678908391759951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/IXXA00/status/1836950946615611564",
+              "start": 9,
+              "url": "https://t.co/EVElbaDLlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051678908391759951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836950946615611564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天又被🚪哥删了 https://t.co/EVElbaDLlD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1836950946615611564",
+        "created_at": "2024-09-20T02:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T03:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836950946615611564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836950946615611564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 29896,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被🚪哥删好友是我最难过的时候。\n会有一种无形的失望感直接扑到你的脸上然后让你无法呼吸……对不起……是我做的不够好。😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2051269951366017407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 4495,
+          "like_count": 39376,
+          "listed_count": 20,
+          "media_count": 2846,
+          "tweet_count": 39367
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

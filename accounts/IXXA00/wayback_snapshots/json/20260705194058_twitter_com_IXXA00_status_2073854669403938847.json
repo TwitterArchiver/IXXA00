@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2073758209748459786",
+    "created_at": "2026-07-05T19:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073854669403938847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1649809533299232769",
+          "start": 0,
+          "username": "anjingyidiano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073854669403938847",
+    "in_reply_to_user_id": "1649809533299232769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073854069110964392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anjingyidiano 正在整容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2073758209748459786",
+        "created_at": "2026-07-05T19:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073854669403938847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1649809533299232769",
+              "start": 0,
+              "username": "anjingyidiano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073854669403938847",
+        "in_reply_to_user_id": "1649809533299232769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073854069110964392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anjingyidiano 正在整容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649809533299232769",
+        "conversation_id": "2073758209748459786",
+        "created_at": "2026-07-05T19:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073854069110964392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073854069110964392",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073758209748459786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主播经常改名字导致只能靠照片认人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "过尽千帆皆不是，斜晖脉脉水悠悠。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7493,
+          "following_count": 4542,
+          "like_count": 42781,
+          "listed_count": 18,
+          "media_count": 3117,
+          "tweet_count": 42242
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-22T16:17:10.000Z",
+        "description": "已复活，不要视奸我",
+        "id": "1649809533299232769",
+        "name": "我有鱼鱼症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713272519338467328/3r6wxZo4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 185,
+          "like_count": 4221,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "anjingyidiano",
+        "verified": false
+      }
+    ]
+  }
+}

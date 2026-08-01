@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2030996860731785682",
+    "created_at": "2026-03-09T15:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T16:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031027075046572218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912663189923438592",
+          "start": 0,
+          "username": "ZPeng63296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031027075046572218",
+    "in_reply_to_user_id": "1912663189923438592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031009426879205398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZPeng63296 吃醋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2030996860731785682",
+        "created_at": "2026-03-09T15:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031027075046572218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912663189923438592",
+              "start": 0,
+              "username": "ZPeng63296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031027075046572218",
+        "in_reply_to_user_id": "1912663189923438592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031009426879205398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZPeng63296 吃醋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912663189923438592",
+        "conversation_id": "2030996860731785682",
+        "created_at": "2026-03-09T14:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031009426879205398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031009426879205398",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030996860731785682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我好崩溃 内裤一直摸主包的牛牛_(:з」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，你只管向前跑罢！",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服小i",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5754,
+          "following_count": 4473,
+          "like_count": 36212,
+          "listed_count": 14,
+          "media_count": 2634,
+          "tweet_count": 36372
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:24:01.000Z",
+        "description": "",
+        "id": "1912663189923438592",
+        "name": "八级小狂风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912666192936071169/goZqEbJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 436,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 249
+        },
+        "username": "ZPeng63296",
+        "verified": false
+      }
+    ]
+  }
+}

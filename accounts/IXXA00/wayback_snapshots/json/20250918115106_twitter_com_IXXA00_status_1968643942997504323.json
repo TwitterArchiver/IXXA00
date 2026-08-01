@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1968130565229670849",
+    "created_at": "2025-09-18T11:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T12:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968643942997504323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1508776316891328517",
+          "start": 0,
+          "username": "Frankli9321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968643942997504323",
+    "in_reply_to_user_id": "1508776316891328517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968629233325838761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frankli9321 也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-18T11:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T12:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968643942997504323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1508776316891328517",
+              "start": 0,
+              "username": "Frankli9321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968643942997504323",
+        "in_reply_to_user_id": "1508776316891328517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968629233325838761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frankli9321 也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508776316891328517",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-18T10:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968629233325838761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968629233325838761",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968130565229670849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 红爷都有大把客户"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/辣妹培训中心",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967215004098408448/EAzPAMnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4080,
+          "following_count": 3550,
+          "like_count": 28878,
+          "listed_count": 8,
+          "media_count": 2153,
+          "tweet_count": 29046
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T12:01:40.000Z",
+        "description": "make\nyourself great",
+        "id": "1508776316891328517",
+        "name": "Franklin County",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766998452737851392/wlF6ajCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 3669,
+          "like_count": 15486,
+          "listed_count": 6,
+          "media_count": 2,
+          "tweet_count": 431
+        },
+        "username": "Frankli9321",
+        "verified": false
+      }
+    ]
+  }
+}

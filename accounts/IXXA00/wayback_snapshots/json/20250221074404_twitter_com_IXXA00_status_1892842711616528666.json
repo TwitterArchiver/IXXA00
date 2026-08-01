@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1892788400782021023",
+    "created_at": "2025-02-21T07:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T08:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892842711616528666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675867625656840192",
+          "start": 0,
+          "username": "rinkawa_sakurai"
+        },
+        {
+          "end": 25,
+          "id": "1881360016785227776",
+          "start": 17,
+          "username": "hnairuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892842711616528666",
+    "in_reply_to_user_id": "1675867625656840192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892841251604746547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinkawa_sakurai @hnairuo 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1892788400782021023",
+        "created_at": "2025-02-21T07:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T08:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892842711616528666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675867625656840192",
+              "start": 0,
+              "username": "rinkawa_sakurai"
+            },
+            {
+              "end": 25,
+              "id": "1881360016785227776",
+              "start": 17,
+              "username": "hnairuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892842711616528666",
+        "in_reply_to_user_id": "1675867625656840192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892841251604746547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinkawa_sakurai @hnairuo 天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675867625656840192",
+        "conversation_id": "1892788400782021023",
+        "created_at": "2025-02-21T07:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T08:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892841251604746547"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "香蕉越",
+              "probability": 0.9125,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1881360016785227776",
+              "start": 0,
+              "username": "hnairuo"
+            },
+            {
+              "end": 16,
+              "id": "1739391734491086848",
+              "start": 9,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892841251604746547",
+        "in_reply_to_user_id": "1881360016785227776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892829630329213353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnairuo @IXXA00 香蕉越大香蕉皮越大 香蕉皮越大香蕉越少 所以香蕉越大香蕉越少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/欢迎私信",
+        "id": "1739391734491086848",
+        "location": "有🚪",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1892751462612005225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891814168983986176/LYb5LBRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 2522,
+          "like_count": 16625,
+          "listed_count": 6,
+          "media_count": 1166,
+          "tweet_count": 15832
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T14:02:33.000Z",
+        "description": "06/上海/赛博百合mtx/INFP/吸血鬼/死宅萌豚lolicon/ADHD/CS广东在读/中文.日本語",
+        "id": "1675867625656840192",
+        "name": "櫻井凛川 Ver.4.8964",
+        "pinned_tweet_id": "1886053362770317428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830320325214211/2T95kFE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 600,
+          "like_count": 10121,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 3363
+        },
+        "username": "rinkawa_sakurai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:16:08.000Z",
+        "description": "看到这句话的人！（你一定会幸福的！比心）",
+        "id": "1881360016785227776",
+        "name": "1+1=-1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890824288422572032/iNsQ93HP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 47,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 262
+        },
+        "username": "hnairuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918224552985018436",
+    "created_at": "2025-05-02T08:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T09:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918225583663923412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1561480184733532160",
+          "start": 0,
+          "username": "DZSLCSXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918225583663923412",
+    "in_reply_to_user_id": "1561480184733532160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918225273839050781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DZSLCSXF 和他们拼多多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918224552985018436",
+        "created_at": "2025-05-02T08:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918225583663923412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1561480184733532160",
+              "start": 0,
+              "username": "DZSLCSXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918225583663923412",
+        "in_reply_to_user_id": "1561480184733532160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918225273839050781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DZSLCSXF 和他们拼多多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561480184733532160",
+        "conversation_id": "1918224552985018436",
+        "created_at": "2025-05-02T08:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918225273839050781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918225273839050781",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918224552985018436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可能是缘分未到吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3624,
+          "following_count": 2954,
+          "like_count": 20928,
+          "listed_count": 7,
+          "media_count": 1490,
+          "tweet_count": 20275
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T22:27:54.000Z",
+        "description": "一个普普通通的人，发推来讲述一下我的故事。",
+        "id": "1561480184733532160",
+        "location": "乌托邦",
+        "name": "昔往",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873032433815216128/3loT3xe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 40,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 103
+        },
+        "username": "DZSLCSXF",
+        "verified": false
+      }
+    ]
+  }
+}

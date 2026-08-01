@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929471972154736678",
+    "created_at": "2025-06-02T12:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T13:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929522251767931103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455856083440963590",
+          "start": 0,
+          "username": "CalotTriangle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929522251767931103",
+    "in_reply_to_user_id": "1455856083440963590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929522010427719965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CalotTriangle rs6可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929471972154736678",
+        "created_at": "2025-06-02T12:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T13:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929522251767931103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455856083440963590",
+              "start": 0,
+              "username": "CalotTriangle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929522251767931103",
+        "in_reply_to_user_id": "1455856083440963590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929522010427719965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CalotTriangle rs6可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455856083440963590",
+        "conversation_id": "1929471972154736678",
+        "created_at": "2025-06-02T12:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T13:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929522010427719965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929522010427719965",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929471972154736678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不是55的我不跪👋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 3044,
+          "like_count": 22579,
+          "listed_count": 7,
+          "media_count": 1631,
+          "tweet_count": 22096
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T11:16:30.000Z",
+        "description": "ㄅ ㄆ ㄇ ㄈ ㄉ ㄊ ㄋ ㄌ。",
+        "id": "1455856083440963590",
+        "location": "伊斯坦布尔",
+        "name": "C T",
+        "pinned_tweet_id": "1929297037541179508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929271643169497088/c1aEkxGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 1619,
+          "like_count": 58030,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 4597
+        },
+        "username": "CalotTriangle",
+        "verified": false
+      }
+    ]
+  }
+}

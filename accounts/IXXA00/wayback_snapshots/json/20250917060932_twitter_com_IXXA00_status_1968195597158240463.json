@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1968095909872537971",
+    "created_at": "2025-09-17T06:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968195597158240463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873598710237773824",
+          "start": 0,
+          "username": "LEVISHOWMORE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968195597158240463",
+    "in_reply_to_user_id": "1873598710237773824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968195257021112766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LEVISHOWMORE 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1968095909872537971",
+        "created_at": "2025-09-17T06:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968195597158240463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873598710237773824",
+              "start": 0,
+              "username": "LEVISHOWMORE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968195597158240463",
+        "in_reply_to_user_id": "1873598710237773824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968195257021112766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LEVISHOWMORE 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873598710237773824",
+        "conversation_id": "1968095909872537971",
+        "created_at": "2025-09-17T06:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968195257021112766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968195257021112766",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968095909872537971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那不正好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/辣妹培训中心",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967215004098408448/EAzPAMnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 3504,
+          "like_count": 28756,
+          "listed_count": 8,
+          "media_count": 2150,
+          "tweet_count": 28955
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T05:15:33.000Z",
+        "description": "This world is a huge makeshift team. It's crazy！🏳️‍🌈🏳️‍🌈",
+        "id": "1873598710237773824",
+        "location": "10km",
+        "name": "Levi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915629780474748928/uBGImHw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 33,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 455
+        },
+        "username": "LEVISHOWMORE",
+        "verified": false
+      }
+    ]
+  }
+}

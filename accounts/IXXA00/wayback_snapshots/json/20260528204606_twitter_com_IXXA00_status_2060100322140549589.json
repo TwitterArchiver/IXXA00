@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059406531930751083",
+    "created_at": "2026-05-28T20:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060100322140549589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826783612626485248",
+          "start": 0,
+          "username": "DarRain0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060100322140549589",
+    "in_reply_to_user_id": "1826783612626485248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060038023258226849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarRain0 美颜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-28T20:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060100322140549589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826783612626485248",
+              "start": 0,
+              "username": "DarRain0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060100322140549589",
+        "in_reply_to_user_id": "1826783612626485248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060038023258226849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarRain0 美颜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826783612626485248",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-28T16:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060038023258226849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060038023258226849",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059406531930751083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这是36岁？你说你十八九我都信，咋看都不像30岁以上的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7113,
+          "following_count": 4505,
+          "like_count": 40594,
+          "listed_count": 18,
+          "media_count": 2971,
+          "tweet_count": 40444
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T00:49:03.000Z",
+        "description": "传统后端，正在努力转型Agent，无业躺平中",
+        "id": "1826783612626485248",
+        "name": "Paris green",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826783678544166912/SQJN4V_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "DarRain0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1900873391764025398",
+    "created_at": "2025-03-15T12:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T13:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900883024306196834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750170859309023232",
+          "start": 0,
+          "username": "20070612lch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900883024306196834",
+    "in_reply_to_user_id": "1750170859309023232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900881614198239681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20070612lch 啊啊啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1900873391764025398",
+        "created_at": "2025-03-15T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900883024306196834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750170859309023232",
+              "start": 0,
+              "username": "20070612lch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900883024306196834",
+        "in_reply_to_user_id": "1750170859309023232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900881614198239681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20070612lch 啊啊啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750170859309023232",
+        "conversation_id": "1900873391764025398",
+        "created_at": "2025-03-15T12:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T13:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900881614198239681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900881614198239681",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900873391764025398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 看看你的眼睛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你可以把我理解成一坨小猫。",
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900871115867901952/wtOdnGc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 2659,
+          "like_count": 18104,
+          "listed_count": 6,
+          "media_count": 1235,
+          "tweet_count": 17156
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T14:57:15.000Z",
+        "description": "苍翼何时能有续作😭",
+        "id": "1750170859309023232",
+        "name": "寄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888166585711693824/0ytW0Ti2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 260,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "20070612lch",
+        "verified": false
+      }
+    ]
+  }
+}

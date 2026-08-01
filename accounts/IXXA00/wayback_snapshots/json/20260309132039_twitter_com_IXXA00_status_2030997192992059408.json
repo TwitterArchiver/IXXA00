@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2030996188737233314",
+    "created_at": "2026-03-09T13:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030997192992059408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "397807690",
+          "start": 0,
+          "username": "hide1983away"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030997192992059408",
+    "in_reply_to_user_id": "397807690",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030997143859986444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hide1983away ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2030996188737233314",
+        "created_at": "2026-03-09T13:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030997192992059408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397807690",
+              "start": 0,
+              "username": "hide1983away"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030997192992059408",
+        "in_reply_to_user_id": "397807690",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030997143859986444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hide1983away ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "397807690",
+        "conversation_id": "2030996188737233314",
+        "created_at": "2026-03-09T13:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030997143859986444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030997143859986444",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030996188737233314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 啊。我来盗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是麦的。",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服小i",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5753,
+          "following_count": 4473,
+          "like_count": 36207,
+          "listed_count": 14,
+          "media_count": 2634,
+          "tweet_count": 36368
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-25T05:33:37.000Z",
+        "description": "不卷了 退休躺平🤡",
+        "id": "397807690",
+        "location": "Japan",
+        "name": "Da～盘桑（准备捡破烂）🧊🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347754596697980932/ZapNT50u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 2314,
+          "like_count": 85970,
+          "listed_count": 10,
+          "media_count": 2940,
+          "tweet_count": 78392
+        },
+        "username": "hide1983away",
+        "verified": false
+      }
+    ]
+  }
+}

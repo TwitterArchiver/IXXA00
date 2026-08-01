@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2053728804003357112",
+    "created_at": "2026-05-11T09:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053769278219006226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942289325338886144",
+          "start": 0,
+          "username": "kanoandbetty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053769278219006226",
+    "in_reply_to_user_id": "1942289325338886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053766839382266031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanoandbetty 那谁家的正经长发男扎双马尾呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2053728804003357112",
+        "created_at": "2026-05-11T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053769278219006226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942289325338886144",
+              "start": 0,
+              "username": "kanoandbetty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053769278219006226",
+        "in_reply_to_user_id": "1942289325338886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053766839382266031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanoandbetty 那谁家的正经长发男扎双马尾呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942289325338886144",
+        "conversation_id": "2053728804003357112",
+        "created_at": "2026-05-11T09:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053766839382266031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053766839382266031",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053765864080711864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7004,
+          "following_count": 4496,
+          "like_count": 39710,
+          "listed_count": 19,
+          "media_count": 2877,
+          "tweet_count": 39625
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T18:27:44.000Z",
+        "description": "我就是负能量很多 不喜欢可以拉黑我",
+        "id": "1942289325338886144",
+        "name": "kano",
+        "pinned_tweet_id": "2025298784474075504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046291292796469248/Fz3RpmQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7165,
+          "following_count": 41,
+          "like_count": 1262,
+          "listed_count": 20,
+          "media_count": 55,
+          "tweet_count": 690
+        },
+        "username": "kanoandbetty",
+        "verified": false
+      }
+    ]
+  }
+}

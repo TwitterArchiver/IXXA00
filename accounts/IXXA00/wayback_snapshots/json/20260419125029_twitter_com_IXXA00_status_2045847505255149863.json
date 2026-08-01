@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2045813830991892506",
+    "created_at": "2026-04-19T12:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045847505255149863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031972100970594305",
+          "start": 0,
+          "username": "king_rag8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045847505255149863",
+    "in_reply_to_user_id": "2031972100970594305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045817255460773910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@king_rag8964 并不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2045813830991892506",
+        "created_at": "2026-04-19T12:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045847505255149863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031972100970594305",
+              "start": 0,
+              "username": "king_rag8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045847505255149863",
+        "in_reply_to_user_id": "2031972100970594305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045817255460773910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@king_rag8964 并不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031972100970594305",
+        "conversation_id": "2045813830991892506",
+        "created_at": "2026-04-19T10:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045817255460773910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045817255460773910",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045813830991892506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哇 富婆的高级汽车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6466,
+          "following_count": 4410,
+          "like_count": 38152,
+          "listed_count": 16,
+          "media_count": 2746,
+          "tweet_count": 38183
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T05:54:48.000Z",
+        "description": "老号被封。",
+        "id": "2031972100970594305",
+        "name": "Rag king🧊🥤被斩杀的盘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031972175243329537/MxqTKFrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 422,
+          "like_count": 3648,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1722
+        },
+        "username": "king_rag8964",
+        "verified": false
+      }
+    ]
+  }
+}

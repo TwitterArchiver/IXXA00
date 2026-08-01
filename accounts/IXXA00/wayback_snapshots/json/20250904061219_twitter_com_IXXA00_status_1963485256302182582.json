@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1963376641067159847",
+    "created_at": "2025-09-04T06:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T07:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963485256302182582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800731151629168640",
+          "start": 0,
+          "username": "wdnmd67892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963485256302182582",
+    "in_reply_to_user_id": "1800731151629168640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963485195707011583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdnmd67892 那最好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1963376641067159847",
+        "created_at": "2025-09-04T06:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963485256302182582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800731151629168640",
+              "start": 0,
+              "username": "wdnmd67892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963485256302182582",
+        "in_reply_to_user_id": "1800731151629168640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963485195707011583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdnmd67892 那最好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800731151629168640",
+        "conversation_id": "1963376641067159847",
+        "created_at": "2025-09-04T06:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963485195707011583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963485195707011583",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963376641067159847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 错误的，j也不给你看(￣^￣)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东/🚪52/188",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3971,
+          "following_count": 3417,
+          "like_count": 28375,
+          "listed_count": 8,
+          "media_count": 2109,
+          "tweet_count": 28328
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T03:25:52.000Z",
+        "description": "糖分超标",
+        "id": "1800731151629168640",
+        "location": "kiss five",
+        "name": "K1555.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825398841710903297/MsrmsuJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 95,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 246
+        },
+        "username": "wdnmd67892",
+        "verified": false
+      }
+    ]
+  }
+}

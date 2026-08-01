@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1906677111277879695",
+    "created_at": "2025-03-31T12:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T13:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906681890066628653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521173997261848576",
+          "start": 0,
+          "username": "n_CharSiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906681890066628653",
+    "in_reply_to_user_id": "1521173997261848576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906680034397478981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_CharSiu 妆。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906680034397478981].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906680034397478981",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906680034397478981"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1906677111277879695",
+        "created_at": "2025-03-31T12:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906681890066628653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521173997261848576",
+              "start": 0,
+              "username": "n_CharSiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906681890066628653",
+        "in_reply_to_user_id": "1521173997261848576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906680034397478981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_CharSiu 妆。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一辈子只能租房子住的女孩，就算把房子刷成粉色也不行。更现实的DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3521,
+          "following_count": 2812,
+          "like_count": 19387,
+          "listed_count": 6,
+          "media_count": 1327,
+          "tweet_count": 18493
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T17:05:25.000Z",
+        "description": "不男不女的",
+        "id": "1521173997261848576",
+        "name": "叉烧",
+        "pinned_tweet_id": "1840737473011351907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812829001318305792/WZMOJEXg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 207,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 128
+        },
+        "username": "n_CharSiu",
+        "verified": false
+      }
+    ]
+  }
+}

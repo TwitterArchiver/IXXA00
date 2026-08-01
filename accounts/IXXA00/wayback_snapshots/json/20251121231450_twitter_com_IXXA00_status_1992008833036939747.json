@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1991614799474749652",
+    "created_at": "2025-11-21T23:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T00:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992008833036939747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850957992776347648",
+          "start": 0,
+          "username": "xiaoduubb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992008833036939747",
+    "in_reply_to_user_id": "1850957992776347648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991614799474749652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduubb_ 我要死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1991614799474749652",
+        "created_at": "2025-11-21T23:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T00:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992008833036939747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850957992776347648",
+              "start": 0,
+              "username": "xiaoduubb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992008833036939747",
+        "in_reply_to_user_id": "1850957992776347648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991614799474749652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduubb_ 我要死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850957992776347648",
+        "conversation_id": "1991614799474749652",
+        "created_at": "2025-11-20T21:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T22:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991614799474749652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991614799474749652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 223922,
+          "like_count": 1201,
+          "quote_count": 15,
+          "reply_count": 74,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "翻白眼吐舌头是动物死了才会做的表情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5508,
+          "following_count": 4549,
+          "like_count": 33614,
+          "listed_count": 11,
+          "media_count": 2391,
+          "tweet_count": 33020
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T17:49:26.000Z",
+        "description": "",
+        "id": "1850957992776347648",
+        "name": "緣",
+        "pinned_tweet_id": "1949835650238222523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952159712272859136/Y5C28I8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 115,
+          "like_count": 12413,
+          "listed_count": 7,
+          "media_count": 231,
+          "tweet_count": 2626
+        },
+        "username": "xiaoduubb_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1968130565229670849",
+    "created_at": "2025-09-18T03:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T04:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968520853513236803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1885408941724852224",
+          "start": 0,
+          "username": "lyp850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968520853513236803",
+    "in_reply_to_user_id": "1885408941724852224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968507045780611391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyp850 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-18T03:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T04:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968520853513236803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1885408941724852224",
+              "start": 0,
+              "username": "lyp850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968520853513236803",
+        "in_reply_to_user_id": "1885408941724852224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968507045780611391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyp850 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885408941724852224",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-18T02:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T03:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968507045780611391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968507045780611391",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968506316173017117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 受苦了赶紧忘了，多想一秒都是折磨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/辣妹培训中心",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967215004098408448/EAzPAMnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4075,
+          "following_count": 3544,
+          "like_count": 28884,
+          "listed_count": 8,
+          "media_count": 2153,
+          "tweet_count": 29037
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T19:25:26.000Z",
+        "description": "喜欢互撩/对女喘毫无抵抗力",
+        "id": "1885408941724852224",
+        "location": "北京",
+        "name": "Tom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885415330304131072/1h-N4uQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 36
+        },
+        "username": "lyp850",
+        "verified": false
+      }
+    ]
+  }
+}

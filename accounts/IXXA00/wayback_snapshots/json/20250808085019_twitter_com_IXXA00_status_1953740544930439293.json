@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1953732546686222541",
+    "created_at": "2025-08-08T08:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953740544930439293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MyMikuRomance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953740544930439293",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953734292900860008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyMikuRomance 🦶🏿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953734292900860008].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953734292900860008",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953734292900860008"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1953732546686222541",
+        "created_at": "2025-08-08T08:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953740544930439293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MyMikuRomance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953740544930439293",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953734292900860008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyMikuRomance 🦶🏿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓(离异带两百个孩子)",
+        "pinned_tweet_id": "1952031414645576076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 3234,
+          "like_count": 26967,
+          "listed_count": 5,
+          "media_count": 1995,
+          "tweet_count": 26592
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "Hatsune Miku is an infectious spirit.                    Yヾ(≧▽≦＠)\n……\nAny other details are salad dressing.                    Yヾ(＠°▽°＠)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com/",
+                "start": 0,
+                "url": "https://t.co/OQUkpqto2C"
+              }
+            ]
+          }
+        },
+        "id": "1905180625981890560",
+        "location": "?",
+        "name": "໊",
+        "pinned_tweet_id": "1951610776114069811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944374485836075008/OWV0sAu7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 1337,
+          "like_count": 37283,
+          "listed_count": 3,
+          "media_count": 744,
+          "tweet_count": 7235
+        },
+        "url": "https://t.co/OQUkpqto2C",
+        "username": "MyMikuRomance",
+        "verified": false
+      }
+    ]
+  }
+}

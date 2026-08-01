@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2079552139156693003",
+    "created_at": "2026-07-21T14:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079572829977117165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1371787869946146823",
+          "start": 0,
+          "username": "rwbycth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079572829977117165",
+    "in_reply_to_user_id": "1371787869946146823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079564965988741153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwbycth 只有巧克力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2079552139156693003",
+        "created_at": "2026-07-21T14:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079572829977117165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1371787869946146823",
+              "start": 0,
+              "username": "rwbycth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079572829977117165",
+        "in_reply_to_user_id": "1371787869946146823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079564965988741153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwbycth 只有巧克力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371787869946146823",
+        "conversation_id": "2079552139156693003",
+        "created_at": "2026-07-21T13:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079564965988741153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079564965988741153",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079552139156693003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 买一个绿色的放在服务器上（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7525,
+          "following_count": 4542,
+          "like_count": 43440,
+          "listed_count": 18,
+          "media_count": 3181,
+          "tweet_count": 42902
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-16T11:38:29.000Z",
+        "description": "冒险快要结束了，无悲喜，无惊叹",
+        "id": "1371787869946146823",
+        "location": "北京",
+        "name": "咕噜咕噜咕噜不起来了",
+        "pinned_tweet_id": "1994063153202643307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994200638151163904/r9Iqzkxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 2168,
+          "like_count": 36705,
+          "listed_count": 3,
+          "media_count": 849,
+          "tweet_count": 11820
+        },
+        "url": "",
+        "username": "rwbycth",
+        "verified": false
+      }
+    ]
+  }
+}

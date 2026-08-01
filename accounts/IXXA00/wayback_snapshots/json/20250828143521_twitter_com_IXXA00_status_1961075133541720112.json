@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1961015232329069047",
+    "created_at": "2025-08-28T14:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T15:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961075133541720112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "848887445550649354",
+          "start": 0,
+          "username": "123Balzac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961075133541720112",
+    "in_reply_to_user_id": "848887445550649354",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961072836233314361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123Balzac 😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1961015232329069047",
+        "created_at": "2025-08-28T14:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961075133541720112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "848887445550649354",
+              "start": 0,
+              "username": "123Balzac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961075133541720112",
+        "in_reply_to_user_id": "848887445550649354",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961072836233314361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123Balzac 😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848887445550649354",
+        "conversation_id": "1961015232329069047",
+        "created_at": "2025-08-28T14:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961072836233314361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961072836233314361",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961015232329069047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 已谈上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "好想线下……好想谈恋爱……",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1961050778086637718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 3366,
+          "like_count": 27833,
+          "listed_count": 9,
+          "media_count": 2085,
+          "tweet_count": 27763
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-03T13:18:33.000Z",
+        "description": "从忧虑症到社恐人的无缝切换……咳咳，是爷们",
+        "id": "848887445550649354",
+        "location": "英仙座.天船三. Ω智能统合中枢",
+        "name": "芝麻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913582408353587200/hOJxkRk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1829,
+          "like_count": 6079,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 5410
+        },
+        "username": "123Balzac",
+        "verified": false
+      }
+    ]
+  }
+}

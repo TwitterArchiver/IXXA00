@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1981618955686138336",
+    "created_at": "2025-10-24T08:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T09:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981633684878103037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599477783369240576",
+          "start": 0,
+          "username": "River_and_Wood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981633684878103037",
+    "in_reply_to_user_id": "1599477783369240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981633501041733791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@River_and_Wood 没有头猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1981618955686138336",
+        "created_at": "2025-10-24T08:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T09:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981633684878103037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599477783369240576",
+              "start": 0,
+              "username": "River_and_Wood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981633684878103037",
+        "in_reply_to_user_id": "1599477783369240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981633501041733791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@River_and_Wood 没有头猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599477783369240576",
+        "conversation_id": "1981618955686138336",
+        "created_at": "2025-10-24T08:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T09:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981633501041733791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981633501041733791",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981623877387358675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 没有头绪，什么都会想一下，但是不能专注。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 4089,
+          "like_count": 30503,
+          "listed_count": 10,
+          "media_count": 2258,
+          "tweet_count": 30581
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T18:56:49.000Z",
+        "description": "人在广州，时不时很闲",
+        "id": "1599477783369240576",
+        "location": "羊城",
+        "name": "瑞文+伍德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620827487331831808/g5MqDFJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 2653,
+          "like_count": 10701,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 8779
+        },
+        "username": "River_and_Wood",
+        "verified": false
+      }
+    ]
+  }
+}

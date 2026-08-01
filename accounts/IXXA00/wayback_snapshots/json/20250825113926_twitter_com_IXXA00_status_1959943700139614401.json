@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1959900453355032970",
+    "created_at": "2025-08-25T11:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T12:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959943700139614401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1569944149746655239",
+          "start": 0,
+          "username": "llzmxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959943700139614401",
+    "in_reply_to_user_id": "1569944149746655239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959912069827879195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llzmxx_ 不客气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1959900453355032970",
+        "created_at": "2025-08-25T11:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959943700139614401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1569944149746655239",
+              "start": 0,
+              "username": "llzmxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959943700139614401",
+        "in_reply_to_user_id": "1569944149746655239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959912069827879195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llzmxx_ 不客气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569944149746655239",
+        "conversation_id": "1959900453355032970",
+        "created_at": "2025-08-25T09:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T10:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959912069827879195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959912069827879195",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959900453355032970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 谢谢你，板烧侠（差点忘记今天打折）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "容貌焦虑，非常痛苦。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "pinned_tweet_id": "1959656864612024676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3916,
+          "following_count": 3352,
+          "like_count": 27704,
+          "listed_count": 8,
+          "media_count": 2074,
+          "tweet_count": 27561
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T07:00:50.000Z",
+        "description": "",
+        "id": "1569944149746655239",
+        "name": "琉璃织梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569944830553518081/Lh9CrcUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 136,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 119
+        },
+        "username": "llzmxx_",
+        "verified": false
+      }
+    ]
+  }
+}

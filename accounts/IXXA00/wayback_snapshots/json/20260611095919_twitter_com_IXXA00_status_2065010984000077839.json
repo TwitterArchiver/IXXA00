@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2065010984000077839",
+    "created_at": "2026-06-11T09:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065010984000077839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794776043443884032",
+          "start": 3,
+          "username": "6_kwho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065010984000077839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064321386915766587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6_kwho: 好きってたくさん言いすぎると\n好きの価値がなくなるとか言うけど\nそんなことないのでたくさん好きって\n言ってほしいです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2065010984000077839",
+        "created_at": "2026-06-11T09:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065010984000077839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794776043443884032",
+              "start": 3,
+              "username": "6_kwho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065010984000077839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064321386915766587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6_kwho: 好きってたくさん言いすぎると\n好きの価値がなくなるとか言うけど\nそんなことないのでたくさん好きって\n言ってほしいです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794776043443884032",
+        "conversation_id": "2064321386915766587",
+        "created_at": "2026-06-09T12:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064321386915766587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064321386915766587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 47517,
+          "like_count": 2055,
+          "quote_count": 29,
+          "reply_count": 4,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "好きってたくさん言いすぎると\n好きの価値がなくなるとか言うけど\nそんなことないのでたくさん好きって\n言ってほしいです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/主播的麻袋里现在：1个人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7357,
+          "following_count": 4521,
+          "like_count": 41770,
+          "listed_count": 18,
+          "media_count": 3026,
+          "tweet_count": 41281
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T17:02:22.000Z",
+        "description": "きっと幸せな結末に",
+        "id": "1794776043443884032",
+        "name": "紡",
+        "pinned_tweet_id": "1941822871891837094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794776264244662273/fomKaVh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 850,
+          "like_count": 181244,
+          "listed_count": 21,
+          "media_count": 0,
+          "tweet_count": 474
+        },
+        "username": "6_kwho",
+        "verified": false
+      }
+    ]
+  }
+}

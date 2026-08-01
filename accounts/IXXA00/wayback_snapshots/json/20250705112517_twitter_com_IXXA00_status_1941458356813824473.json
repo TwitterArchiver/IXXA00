@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941400963706970504",
+    "created_at": "2025-07-05T11:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T12:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941458356813824473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2159226163",
+          "start": 0,
+          "username": "juliya_lubis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941458356813824473",
+    "in_reply_to_user_id": "2159226163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941400963706970504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juliya_lubis 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941400963706970504",
+        "created_at": "2025-07-05T11:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941458356813824473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2159226163",
+              "start": 0,
+              "username": "juliya_lubis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941458356813824473",
+        "in_reply_to_user_id": "2159226163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941400963706970504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juliya_lubis 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2159226163",
+        "conversation_id": "1941400963706970504",
+        "created_at": "2025-07-05T07:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T08:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941400963706970504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941400963706970504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上网还得看你脸色？？那我上你得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。/我完全收不到🚪了。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 29,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 3139,
+          "like_count": 25163,
+          "listed_count": 7,
+          "media_count": 1853,
+          "tweet_count": 24742
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-27T16:40:23.000Z",
+        "description": "不要轻易撩我，你招架不住。可以风情万种，也可以平淡如水，且在一笑之间。【对我有兴趣麻烦先点关注】🚪98",
+        "id": "2159226163",
+        "name": "魅舞酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887477562961764353/7p9fSyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 20,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 262
+        },
+        "username": "juliya_lubis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1962061613076516982",
+    "created_at": "2025-08-31T07:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962062555091988751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760939515013910528",
+          "start": 0,
+          "username": "tuzinorun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962062555091988751",
+    "in_reply_to_user_id": "1760939515013910528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962062081177620607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuzinorun 😨啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1962061613076516982",
+        "created_at": "2025-08-31T07:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962062555091988751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760939515013910528",
+              "start": 0,
+              "username": "tuzinorun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962062555091988751",
+        "in_reply_to_user_id": "1760939515013910528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962062081177620607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzinorun 😨啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760939515013910528",
+        "conversation_id": "1962061613076516982",
+        "created_at": "2025-08-31T07:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962062081177620607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962062081177620607",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962061613076516982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 在那说 太多了 太多了 我要噎死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1961771229775601717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 3387,
+          "like_count": 28064,
+          "listed_count": 9,
+          "media_count": 2094,
+          "tweet_count": 28018
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T08:08:08.000Z",
+        "description": "",
+        "id": "1760939515013910528",
+        "location": "新加坡",
+        "name": "失忆的兔子",
+        "pinned_tweet_id": "1761090396862722064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761094439588769796/6k6BPs8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 117,
+          "like_count": 5104,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1508
+        },
+        "username": "tuzinorun",
+        "verified": false
+      }
+    ]
+  }
+}

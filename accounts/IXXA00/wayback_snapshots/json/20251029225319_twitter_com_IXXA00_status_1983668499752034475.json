@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983353203669512510",
+    "created_at": "2025-10-29T22:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T23:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983668499752034475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934496156777947136",
+          "start": 0,
+          "username": "CPutlin69329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983668499752034475",
+    "in_reply_to_user_id": "1934496156777947136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983582453551034380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPutlin69329 😲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983353203669512510",
+        "created_at": "2025-10-29T22:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T23:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983668499752034475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934496156777947136",
+              "start": 0,
+              "username": "CPutlin69329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983668499752034475",
+        "in_reply_to_user_id": "1934496156777947136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983582453551034380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPutlin69329 😲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934496156777947136",
+        "conversation_id": "1983353203669512510",
+        "created_at": "2025-10-29T17:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983582453551034380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983582453551034380",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983353203669512510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我改天开个火锅店叫空悲切。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5020,
+          "following_count": 4458,
+          "like_count": 31448,
+          "listed_count": 11,
+          "media_count": 2283,
+          "tweet_count": 31236
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T06:20:13.000Z",
+        "description": "",
+        "id": "1934496156777947136",
+        "name": "木质吉他",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978658125575294976/Q5Dmc20x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 315,
+          "like_count": 3039,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 450
+        },
+        "username": "CPutlin69329",
+        "verified": false
+      }
+    ]
+  }
+}

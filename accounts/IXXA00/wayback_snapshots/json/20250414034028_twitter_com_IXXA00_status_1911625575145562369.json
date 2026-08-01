@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1911625575145562369",
+    "created_at": "2025-04-14T03:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T04:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911625575145562369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/IXXA00/status/1911623992714158531",
+          "start": 18,
+          "url": "https://t.co/k9Kii4mFLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911625575145562369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911623992714158531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的手指好养谁来帮帮我我受不了啦🤯 https://t.co/k9Kii4mFLX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1911625575145562369",
+        "created_at": "2025-04-14T03:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T04:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911625575145562369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/IXXA00/status/1911623992714158531",
+              "start": 18,
+              "url": "https://t.co/k9Kii4mFLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911625575145562369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911623992714158531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的手指好养谁来帮帮我我受不了啦🤯 https://t.co/k9Kii4mFLX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1911623992714158531",
+        "created_at": "2025-04-14T03:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911623992714158531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911623992714158531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一杯室友给我下的春药，我喝了，因为我是一个女同，然后我是铁t，现在我的手指痒痒的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷甜酒(72度)/群聊897633421/🚪52，只聊天，主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "1911464962763243911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911601116623654912/TfVBwcq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 2926,
+          "like_count": 19898,
+          "listed_count": 7,
+          "media_count": 1392,
+          "tweet_count": 19165
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1955831448470217143",
+    "created_at": "2025-08-14T07:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955899197410210142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "493938647",
+          "start": 0,
+          "username": "KTachibana_M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955899197410210142",
+    "in_reply_to_user_id": "493938647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955831448470217143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KTachibana_M 怎么不听我播kkt老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1955831448470217143",
+        "created_at": "2025-08-14T07:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955899197410210142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "493938647",
+              "start": 0,
+              "username": "KTachibana_M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955899197410210142",
+        "in_reply_to_user_id": "493938647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955831448470217143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KTachibana_M 怎么不听我播kkt老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "493938647",
+        "conversation_id": "1955831448470217143",
+        "created_at": "2025-08-14T03:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955831448470217143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955831448470217143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几个月内尝试听了些简中播客\n结果要不就是进口激进女权 要不就是阴谋论说书\n结果今天发现被我删得又只剩英文播客了\n还是乖乖回去听英文技术和英文聊天播客算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1955832918028509253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3840,
+          "following_count": 3264,
+          "like_count": 27177,
+          "listed_count": 5,
+          "media_count": 2022,
+          "tweet_count": 26861
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-16T10:43:04.000Z",
+        "description": "鸟厨 (・8・)",
+        "id": "493938647",
+        "location": "Earth",
+        "name": "KTT ✨",
+        "pinned_tweet_id": "1751722533458764261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604214243800150016/v_K1I9FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 972,
+          "like_count": 24449,
+          "listed_count": 17,
+          "media_count": 483,
+          "tweet_count": 10825
+        },
+        "username": "KTachibana_M",
+        "verified": true
+      }
+    ]
+  }
+}

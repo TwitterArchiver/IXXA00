@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043492503018512452",
+    "created_at": "2026-04-13T01:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043500466425020485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277014572335947776",
+          "start": 0,
+          "username": "silence76993105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043500466425020485",
+    "in_reply_to_user_id": "1277014572335947776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043492503018512452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silence76993105 36岁的驻波已经不喜欢了吗😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043492503018512452",
+        "created_at": "2026-04-13T01:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043500466425020485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277014572335947776",
+              "start": 0,
+              "username": "silence76993105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043500466425020485",
+        "in_reply_to_user_id": "1277014572335947776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043492503018512452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silence76993105 36岁的驻波已经不喜欢了吗😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277014572335947776",
+        "conversation_id": "2043492503018512452",
+        "created_at": "2026-04-13T00:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043492503018512452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043492503018512452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢的主播才19岁😯不过真的很可爱，而且他穿女装但是嗓音没变的反差感很吸引我😍每天打扮的也很漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6226,
+          "following_count": 4392,
+          "like_count": 37254,
+          "listed_count": 16,
+          "media_count": 2711,
+          "tweet_count": 37653
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T23:03:04.000Z",
+        "description": "社恐白日做梦家 : ) 这里是电子日记本\n记录一些日常碎碎念",
+        "id": "1277014572335947776",
+        "location": "地球",
+        "name": "Silence",
+        "pinned_tweet_id": "1838043274990260265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623969936061378561/ha9R8_TE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 536,
+          "like_count": 29249,
+          "listed_count": 3,
+          "media_count": 1004,
+          "tweet_count": 7548
+        },
+        "username": "silence76993105",
+        "verified": false
+      }
+    ]
+  }
+}

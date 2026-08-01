@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942808252342849536"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1942808264632312196",
+    "created_at": "2025-07-09T04:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T05:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942808264632312196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4PFyWkDJKn",
+          "end": 36,
+          "expanded_url": "https://x.com/IXXA00/status/1942808264632312196/photo/1",
+          "media_key": "3_1942808252342849536",
+          "start": 13,
+          "url": "https://t.co/4PFyWkDJKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942808264632312196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没发色图了，发一点。 https://t.co/4PFyWkDJKn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942808264632312196].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942808264632312196",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942808264632312196"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942808252342849536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvY9z-OX0AAHKHw.jpg",
+        "width": 1401
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是婊子但是没有人让我犯贱。",
+        "id": "1739391734491086848",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1942790581186617769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 3147,
+          "like_count": 25498,
+          "listed_count": 6,
+          "media_count": 1869,
+          "tweet_count": 24978
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

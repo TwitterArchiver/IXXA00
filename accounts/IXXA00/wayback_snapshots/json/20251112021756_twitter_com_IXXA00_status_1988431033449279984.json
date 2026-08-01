@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987660446946775507",
+    "created_at": "2025-11-12T02:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988431033449279984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847069989356158976",
+          "start": 0,
+          "username": "VerleneBurgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988431033449279984",
+    "in_reply_to_user_id": "1847069989356158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988421502325456986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VerleneBurgun 你养狗吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987660446946775507",
+        "created_at": "2025-11-12T02:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988431033449279984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847069989356158976",
+              "start": 0,
+              "username": "VerleneBurgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988431033449279984",
+        "in_reply_to_user_id": "1847069989356158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988421502325456986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VerleneBurgun 你养狗吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847069989356158976",
+        "conversation_id": "1987660446946775507",
+        "created_at": "2025-11-12T01:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988421502325456986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988421502325456986",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987660446946775507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我穿一套比较优雅的西装带个丝巾就被人说成同或者鸭子😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5466,
+          "following_count": 4549,
+          "like_count": 32930,
+          "listed_count": 11,
+          "media_count": 2347,
+          "tweet_count": 32432
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T00:19:59.000Z",
+        "description": "",
+        "id": "1847069989356158976",
+        "name": "Verlene Burgun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847070083816054784/h2t45pzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 99,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 363
+        },
+        "username": "VerleneBurgun",
+        "verified": false
+      }
+    ]
+  }
+}

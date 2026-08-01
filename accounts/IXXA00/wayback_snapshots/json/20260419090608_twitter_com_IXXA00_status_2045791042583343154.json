@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2045752682422616189",
+    "created_at": "2026-04-19T09:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045791042583343154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559103901554692096",
+          "start": 0,
+          "username": "Antizen6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045791042583343154",
+    "in_reply_to_user_id": "1559103901554692096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045770430544265584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antizen6 帅otto"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2045752682422616189",
+        "created_at": "2026-04-19T09:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045791042583343154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559103901554692096",
+              "start": 0,
+              "username": "Antizen6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045791042583343154",
+        "in_reply_to_user_id": "1559103901554692096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045770430544265584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antizen6 帅otto"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559103901554692096",
+        "conversation_id": "2045752682422616189",
+        "created_at": "2026-04-19T07:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045770430544265584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045770430544265584",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045752682422616189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 帅！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6461,
+          "following_count": 4408,
+          "like_count": 38122,
+          "listed_count": 16,
+          "media_count": 2745,
+          "tweet_count": 38176
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T09:05:24.000Z",
+        "description": "想要看到你心里的我的倒映是何等离奇的模样",
+        "id": "1559103901554692096",
+        "location": "Stockholm, Sweden",
+        "name": "橘猫大玊",
+        "pinned_tweet_id": "2043613523402481873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044761718979493888/eTCSfXii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 110,
+          "like_count": 4311,
+          "listed_count": 0,
+          "media_count": 811,
+          "tweet_count": 9329
+        },
+        "username": "Antizen6",
+        "verified": false
+      }
+    ]
+  }
+}

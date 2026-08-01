@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983802419281571960",
+    "created_at": "2025-10-30T10:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983844362741280844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1349581149098528769",
+          "start": 0,
+          "username": "ricktungcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983844362741280844",
+    "in_reply_to_user_id": "1349581149098528769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983844024239976493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ricktungcom 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T10:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983844362741280844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1349581149098528769",
+              "start": 0,
+              "username": "ricktungcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983844362741280844",
+        "in_reply_to_user_id": "1349581149098528769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983844024239976493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ricktungcom 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349581149098528769",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T10:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983844024239976493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983844024239976493",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983802419281571960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 把它扶起来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5075,
+          "following_count": 4508,
+          "like_count": 31604,
+          "listed_count": 11,
+          "media_count": 2289,
+          "tweet_count": 31376
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-14T04:56:48.000Z",
+        "description": "Dominant/Sir ｜没有勇气和忠诚的人不值得被选择",
+        "id": "1349581149098528769",
+        "name": "灯下无人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952472052038053888/bzvBKgPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 72,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 148
+        },
+        "username": "ricktungcom",
+        "verified": true
+      }
+    ]
+  }
+}

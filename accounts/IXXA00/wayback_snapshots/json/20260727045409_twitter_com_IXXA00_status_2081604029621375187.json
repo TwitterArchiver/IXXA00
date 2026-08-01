@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2081571551670079662",
+    "created_at": "2026-07-27T04:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081604029621375187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763121326234185728",
+          "start": 0,
+          "username": "Liu1368941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081604029621375187",
+    "in_reply_to_user_id": "1763121326234185728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081598986193166478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu1368941 姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2081571551670079662",
+        "created_at": "2026-07-27T04:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081604029621375187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763121326234185728",
+              "start": 0,
+              "username": "Liu1368941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081604029621375187",
+        "in_reply_to_user_id": "1763121326234185728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081598986193166478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu1368941 姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763121326234185728",
+        "conversation_id": "2081571551670079662",
+        "created_at": "2026-07-27T04:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081598986193166478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081598986193166478",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081571551670079662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那主播和我同岁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "本质上是个16～24岁的小女孩",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2079584347494211710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7514,
+          "following_count": 4536,
+          "like_count": 43495,
+          "listed_count": 18,
+          "media_count": 3194,
+          "tweet_count": 43092
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T08:37:49.000Z",
+        "description": "",
+        "id": "1763121326234185728",
+        "name": "Liu.",
+        "pinned_tweet_id": "1875935123948114192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012333353681539072/3n8_8IFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 173,
+          "like_count": 46517,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 5482
+        },
+        "url": "",
+        "username": "Liu1368941",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2001144104256987205",
+    "created_at": "2025-12-17T23:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T00:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001430607184973920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972649714853240832",
+          "start": 0,
+          "username": "xianrenzhang987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001430607184973920",
+    "in_reply_to_user_id": "1972649714853240832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001350936753811633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianrenzhang987 🥄🍚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T23:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T00:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001430607184973920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972649714853240832",
+              "start": 0,
+              "username": "xianrenzhang987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001430607184973920",
+        "in_reply_to_user_id": "1972649714853240832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001350936753811633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianrenzhang987 🥄🍚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972649714853240832",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T17:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T18:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001350936753811633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001350936753811633",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001144104256987205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是isla。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5608,
+          "following_count": 4535,
+          "like_count": 34688,
+          "listed_count": 11,
+          "media_count": 2488,
+          "tweet_count": 34293
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T13:08:52.000Z",
+        "description": "头像是本人，致力于在自由开放的环境中，促进有价值的思想交流，马斯克别封我了行不！",
+        "id": "1972649714853240832",
+        "name": "掌掌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997379057605132288/qJ1Y_9KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 164,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1557
+        },
+        "username": "xianrenzhang987",
+        "verified": false
+      }
+    ]
+  }
+}

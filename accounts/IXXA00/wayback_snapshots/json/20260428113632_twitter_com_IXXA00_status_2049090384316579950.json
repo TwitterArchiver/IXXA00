@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048925286692188160"
+      ],
+      "media_source_tweet_id": [
+        "2048925405437190181"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049090384316579950",
+    "created_at": "2026-04-28T11:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049090384316579950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/38dsz7OiYj",
+          "end": 50,
+          "expanded_url": "https://x.com/0b7cm/status/2048925405437190181/video/1",
+          "media_key": "13_2048925286692188160",
+          "start": 27,
+          "url": "https://t.co/38dsz7OiYj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049090384316579950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048925405437190181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 不说还真不知道这是ai生成的… https://t.co/38dsz7OiYj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118533,
+        "height": 720,
+        "media_key": "13_2048925286692188160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048925286692188160/img/rn2ibddTyK7Yl5_9.jpg",
+        "public_metrics": {
+          "view_count": 7023
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048925286692188160/vid/avc1/478x270/CwsC4H8Dy1n7vFUa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048925286692188160/vid/avc1/638x360/NAyuGkx9bqbdsdYI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048925286692188160/vid/avc1/1276x720/IxKgFfmZaftwBedv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048925286692188160/pl/2jOYAHieZHwTQd_c.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048925286692188160"
+          ],
+          "media_source_tweet_id": [
+            "2048925405437190181"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049090384316579950",
+        "created_at": "2026-04-28T11:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049090384316579950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38dsz7OiYj",
+              "end": 50,
+              "expanded_url": "https://x.com/0b7cm/status/2048925405437190181/video/1",
+              "media_key": "13_2048925286692188160",
+              "start": 27,
+              "url": "https://t.co/38dsz7OiYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049090384316579950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048925405437190181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 不说还真不知道这是ai生成的… https://t.co/38dsz7OiYj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048925286692188160"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "conversation_id": "2048925405437190181",
+        "created_at": "2026-04-28T00:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048925405437190181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38dsz7OiYj",
+              "end": 39,
+              "expanded_url": "https://x.com/0b7cm/status/2048925405437190181/video/1",
+              "media_key": "13_2048925286692188160",
+              "start": 16,
+              "url": "https://t.co/38dsz7OiYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048925405437190181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 8227,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "不说还真不知道这是ai生成的… https://t.co/38dsz7OiYj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6997,
+          "following_count": 4482,
+          "like_count": 38875,
+          "listed_count": 19,
+          "media_count": 2795,
+          "tweet_count": 38902
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2048206095970378224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7444,
+          "following_count": 1085,
+          "like_count": 10151,
+          "listed_count": 11,
+          "media_count": 1057,
+          "tweet_count": 11833
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

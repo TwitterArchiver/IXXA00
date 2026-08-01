@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2047135009962897688",
+    "created_at": "2026-04-23T08:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047229055439896817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047229055439896817",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047225062873608674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 这个可以"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047225062873608674].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047225062873608674",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047225062873608674"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2047135009962897688",
+        "created_at": "2026-04-23T08:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047229055439896817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047229055439896817",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047225062873608674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 这个可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanning, Guangxi Zhuangzu Zizhiqu, China",
+              "geo": {
+                "coordinates": [
+                  108.31667,
+                  22.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanning",
+              "region": "Guangxi Zhuangzu Zizhiqu"
+            }
+          ]
+        },
+        "description": "35yo/男/已婚人妻/敏感，脆弱，缺乏安全感，冷漠，焦虑，如果这样也没关系的话，那么请享受我给你的爱。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 76,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 53,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6485,
+          "following_count": 4410,
+          "like_count": 38404,
+          "listed_count": 17,
+          "media_count": 2765,
+          "tweet_count": 38474
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "这是我的城堡🩸🌹📢\n\n@zhu6hua\n\n波兰立陶宛联合王国酒蒙子🦅📢⚔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "zhu6hua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nightmare7411",
+                "end": 23,
+                "expanded_url": "http://t.me/nightmare7411",
+                "start": 0,
+                "url": "https://t.co/emoVb4nLNp"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "location": "Laniakea Supercluster ",
+        "name": "江上 清風遊🌹🦄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027094251964895232/6U4t83hN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1455,
+          "like_count": 127167,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/emoVb4nLNp",
+        "username": "genya1976",
+        "verified": false
+      }
+    ]
+  }
+}

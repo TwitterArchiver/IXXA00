@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057669622921560065"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057669648007757931",
+    "created_at": "2026-05-22T03:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057669648007757931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1gWftKFVT",
+          "end": 36,
+          "expanded_url": "https://x.com/IXXA00/status/2057669648007757931/photo/1",
+          "media_key": "3_2057669622921560065",
+          "start": 13,
+          "url": "https://t.co/j1gWftKFVT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057669648007757931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不愧是你啊，鸡架都能寄存 https://t.co/j1gWftKFVT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057669622921560065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5PnrtaAAEbbRk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057669622921560065"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057669648007757931",
+        "created_at": "2026-05-22T03:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057669648007757931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1gWftKFVT",
+              "end": 36,
+              "expanded_url": "https://x.com/IXXA00/status/2057669648007757931/photo/1",
+              "media_key": "3_2057669622921560065",
+              "start": 13,
+              "url": "https://t.co/j1gWftKFVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057669648007757931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是你啊，鸡架都能寄存 https://t.co/j1gWftKFVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2057271964809699631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7014,
+          "following_count": 4506,
+          "like_count": 40118,
+          "listed_count": 18,
+          "media_count": 2930,
+          "tweet_count": 40056
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

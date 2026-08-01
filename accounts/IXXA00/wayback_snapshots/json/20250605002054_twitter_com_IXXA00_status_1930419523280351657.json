@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1930411265152995606",
+    "created_at": "2025-06-05T00:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T01:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930419523280351657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1497081082734333986",
+          "start": 0,
+          "username": "LiangMingge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930419523280351657",
+    "in_reply_to_user_id": "1497081082734333986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930417907638644791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiangMingge 听起来不错，但是预算多少够啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1930411265152995606",
+        "created_at": "2025-06-05T00:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T01:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930419523280351657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1497081082734333986",
+              "start": 0,
+              "username": "LiangMingge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930419523280351657",
+        "in_reply_to_user_id": "1497081082734333986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930417907638644791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiangMingge 听起来不错，但是预算多少够啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497081082734333986",
+        "conversation_id": "1930411265152995606",
+        "created_at": "2025-06-05T00:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T01:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930417907638644791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930417907638644791",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930417166542877168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 上预算，去新街口那的莱迪负二层看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1930121860882280625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3699,
+          "following_count": 3051,
+          "like_count": 22830,
+          "listed_count": 7,
+          "media_count": 1650,
+          "tweet_count": 22325
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T05:29:09.000Z",
+        "description": "",
+        "id": "1497081082734333986",
+        "location": "地球",
+        "name": "echoecho",
+        "pinned_tweet_id": "1928113670870941792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928037660855001088/IxsZqkxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 327,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 353
+        },
+        "username": "LiangMingge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2061575890686116281",
+    "created_at": "2026-06-02T04:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061669060077887935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795395823490240513",
+          "start": 0,
+          "username": "Riven271378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061669060077887935",
+    "in_reply_to_user_id": "1795395823490240513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061667162721550525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riven271378 只能说明你眼光很好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2061575890686116281",
+        "created_at": "2026-06-02T04:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061669060077887935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795395823490240513",
+              "start": 0,
+              "username": "Riven271378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061669060077887935",
+        "in_reply_to_user_id": "1795395823490240513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061667162721550525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riven271378 只能说明你眼光很好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795395823490240513",
+        "conversation_id": "2061575890686116281",
+        "created_at": "2026-06-02T04:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061667162721550525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061667162721550525",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061663909489328503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 听起来不太妙，难道我爱上主播了？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2061314012080648510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7195,
+          "following_count": 4513,
+          "like_count": 41009,
+          "listed_count": 18,
+          "media_count": 2987,
+          "tweet_count": 40712
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T10:05:12.000Z",
+        "description": "INTJ",
+        "id": "1795395823490240513",
+        "location": "宇宙尽头",
+        "name": "宇宙探索指南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031942943444217856/3WNmkBSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 65,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 236
+        },
+        "username": "Riven271378",
+        "verified": false
+      }
+    ]
+  }
+}

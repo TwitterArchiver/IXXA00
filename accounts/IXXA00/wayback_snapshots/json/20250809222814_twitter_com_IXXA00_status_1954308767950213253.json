@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1954198382043451705",
+    "created_at": "2025-08-09T22:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T23:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954308767950213253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "566884600",
+          "start": 0,
+          "username": "aseer014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954308767950213253",
+    "in_reply_to_user_id": "566884600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954199197894562303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aseer014 那很好了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1954198382043451705",
+        "created_at": "2025-08-09T22:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T23:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954308767950213253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "566884600",
+              "start": 0,
+              "username": "aseer014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954308767950213253",
+        "in_reply_to_user_id": "566884600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954199197894562303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aseer014 那很好了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "566884600",
+        "conversation_id": "1954198382043451705",
+        "created_at": "2025-08-09T15:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T16:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954199197894562303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954199197894562303",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954198382043451705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 线下买衣服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "pinned_tweet_id": "1953848447431286904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 3238,
+          "like_count": 27042,
+          "listed_count": 5,
+          "media_count": 2003,
+          "tweet_count": 26653
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-30T03:40:13.000Z",
+        "description": "intp路过",
+        "id": "566884600",
+        "name": "123456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952989397437308928/bXaALqT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 528,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 167
+        },
+        "username": "aseer014",
+        "verified": false
+      }
+    ]
+  }
+}

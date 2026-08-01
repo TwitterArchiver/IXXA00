@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938401286392844289"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1938401291556032610",
+    "created_at": "2025-06-27T00:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T01:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938401291556032610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YbsLTXJQlJ",
+          "end": 28,
+          "expanded_url": "https://x.com/IXXA00/status/1938401291556032610/photo/1",
+          "media_key": "3_1938401286392844289",
+          "start": 5,
+          "url": "https://t.co/YbsLTXJQlJ"
+        },
+        {
+          "display_url": "x.com/salluzzo359123…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/salluzzo359123/status/1938397137215320300",
+          "start": 29,
+          "url": "https://t.co/IAHJjFXQzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938401291556032610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938397137215320300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎样呢。 https://t.co/YbsLTXJQlJ https://t.co/IAHJjFXQzE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_1938401286392844289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuaVsyubEAE-yld.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938401286392844289"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1938401291556032610",
+        "created_at": "2025-06-27T00:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T01:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938401291556032610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbsLTXJQlJ",
+              "end": 28,
+              "expanded_url": "https://x.com/IXXA00/status/1938401291556032610/photo/1",
+              "media_key": "3_1938401286392844289",
+              "start": 5,
+              "url": "https://t.co/YbsLTXJQlJ"
+            },
+            {
+              "display_url": "x.com/salluzzo359123…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/salluzzo359123/status/1938397137215320300",
+              "start": 29,
+              "url": "https://t.co/IAHJjFXQzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938401291556032610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938397137215320300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎样呢。 https://t.co/YbsLTXJQlJ https://t.co/IAHJjFXQzE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764116802974498816",
+        "conversation_id": "1938182276405452800",
+        "created_at": "2025-06-27T00:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T01:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938397137215320300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938397137215320300",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938396634163122436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 挺好的，但会不会太咸了？感觉酱油有些多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 26,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "pinned_tweet_id": "1937501010458759214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936447229180657664/hi_Aavke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3716,
+          "following_count": 3112,
+          "like_count": 24492,
+          "listed_count": 8,
+          "media_count": 1811,
+          "tweet_count": 24168
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T02:33:29.000Z",
+        "description": "Workers of the world unite！\n全世界无产者，联合起来！\n红旗插上算法深处的主机核心，云端之中奏响国际歌。",
+        "id": "1764116802974498816",
+        "name": "salluzzo☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935779231965057025/EFMqTaRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 139,
+          "like_count": 3617,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1159
+        },
+        "username": "salluzzo359123",
+        "verified": false
+      }
+    ]
+  }
+}

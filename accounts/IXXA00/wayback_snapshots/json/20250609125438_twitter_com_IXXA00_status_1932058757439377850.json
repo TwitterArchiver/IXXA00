@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931980573939228825",
+    "created_at": "2025-06-09T12:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T13:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932058757439377850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1664588654118064128",
+          "start": 0,
+          "username": "_wer507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932058757439377850",
+    "in_reply_to_user_id": "1664588654118064128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932057403316748494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_wer507 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931980573939228825",
+        "created_at": "2025-06-09T12:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932058757439377850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1664588654118064128",
+              "start": 0,
+              "username": "_wer507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932058757439377850",
+        "in_reply_to_user_id": "1664588654118064128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932057403316748494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_wer507 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664588654118064128",
+        "conversation_id": "1931980573939228825",
+        "created_at": "2025-06-09T12:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932057403316748494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932057403316748494",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931980573939228825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这不得瘦死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢吃别人对我无法自拔的爱欲。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 3074,
+          "like_count": 23208,
+          "listed_count": 7,
+          "media_count": 1701,
+          "tweet_count": 22723
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T11:04:04.000Z",
+        "description": "4i男♂/不会聊天( ;´д`)/阴沟里的肥宅老鼠( ´_ゝ`)",
+        "id": "1664588654118064128",
+        "location": "Hell",
+        "name": "wer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664590318573080580/XKZZQxYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 441,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 433
+        },
+        "username": "_wer507",
+        "verified": false
+      }
+    ]
+  }
+}

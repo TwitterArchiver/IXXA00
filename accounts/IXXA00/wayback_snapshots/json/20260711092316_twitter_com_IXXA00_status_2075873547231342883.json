@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2075867054549119197",
+    "created_at": "2026-07-11T09:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075873547231342883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950873611759448064",
+          "start": 0,
+          "username": "haohaoshimeinv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075873547231342883",
+    "in_reply_to_user_id": "1950873611759448064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075867054549119197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaoshimeinv 皮肤也太好了吧？咋弄得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075867040359796736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM72EyWWUAAPDfE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2075867054549119197",
+        "created_at": "2026-07-11T09:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075873547231342883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950873611759448064",
+              "start": 0,
+              "username": "haohaoshimeinv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075873547231342883",
+        "in_reply_to_user_id": "1950873611759448064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075867054549119197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaoshimeinv 皮肤也太好了吧？咋弄得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075867040359796736"
+          ]
+        },
+        "author_id": "1950873611759448064",
+        "conversation_id": "2075867054549119197",
+        "created_at": "2026-07-11T08:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075867054549119197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmbDKq9YT6",
+              "end": 48,
+              "expanded_url": "https://x.com/haohaoshimeinv/status/2075867054549119197/photo/1",
+              "media_key": "3_2075867040359796736",
+              "start": 25,
+              "url": "https://t.co/LmbDKq9YT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075867054549119197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子的素颜也这么帅气吗\n#男娘 #femboy https://t.co/LmbDKq9YT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7497,
+          "following_count": 4545,
+          "like_count": 42986,
+          "listed_count": 18,
+          "media_count": 3134,
+          "tweet_count": 42491
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-31T10:58:14.000Z",
+        "description": "真发男娘/杭州读书🎒在江浙沪游走ing/是个话痨\n（过门交朋友哦(´-ω-`)超级无敌大话痨\n另一只宝宝：@haohaodebaobao\n私人 tg 下方（已经炸了，有事情 x 私信我就行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "haohaodebaobao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/haohaowuyu",
+                "end": 23,
+                "expanded_url": "http://t.me/haohaowuyu",
+                "start": 0,
+                "url": "https://t.co/pEfcpSPFfu"
+              }
+            ]
+          }
+        },
+        "id": "1950873611759448064",
+        "location": "🚪68r（不过门不闲聊抱歉捏",
+        "name": "Hao hao",
+        "pinned_tweet_id": "2059173152488333627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976801750041718784/us4PFQHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36111,
+          "following_count": 19,
+          "like_count": 1439,
+          "listed_count": 149,
+          "media_count": 212,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/pEfcpSPFfu",
+        "username": "haohaoshimeinv",
+        "verified": true
+      }
+    ]
+  }
+}

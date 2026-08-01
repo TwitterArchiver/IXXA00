@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2005238277348200809",
+    "created_at": "2025-12-28T13:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T14:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005266767632052504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "906346969735376896",
+          "start": 0,
+          "username": "DrgCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005266767632052504",
+    "in_reply_to_user_id": "906346969735376896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005262822616563860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrgCandle 上班了吧？这下作业写不完了吧😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2005238277348200809",
+        "created_at": "2025-12-28T13:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005266767632052504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "906346969735376896",
+              "start": 0,
+              "username": "DrgCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005266767632052504",
+        "in_reply_to_user_id": "906346969735376896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005262822616563860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrgCandle 上班了吧？这下作业写不完了吧😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906346969735376896",
+        "conversation_id": "2005238277348200809",
+        "created_at": "2025-12-28T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005262822616563860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005262822616563860",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005261477020918114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 笑死，初中几乎就没写过作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5647,
+          "following_count": 4530,
+          "like_count": 35245,
+          "listed_count": 14,
+          "media_count": 2529,
+          "tweet_count": 34757
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T02:42:11.000Z",
+        "description": "就是来看看柰子找找乐子的。积极活跃在各种评论区里。平等地已读乱回各位网友。\n狗头爱你。",
+        "id": "906346969735376896",
+        "location": "1.1 km",
+        "name": "一颗已读乱回的狗头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588891705277059073/P3thaCzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 213,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 439
+        },
+        "username": "DrgCandle",
+        "verified": false
+      }
+    ]
+  }
+}

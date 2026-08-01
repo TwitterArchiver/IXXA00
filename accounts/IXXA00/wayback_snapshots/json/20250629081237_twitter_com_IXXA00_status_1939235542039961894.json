@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1939149777175998683",
+    "created_at": "2025-06-29T08:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T09:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939235542039961894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1563386955437871104",
+          "start": 0,
+          "username": "xiannadu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939235542039961894",
+    "in_reply_to_user_id": "1563386955437871104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939230015767646584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiannadu 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1939149777175998683",
+        "created_at": "2025-06-29T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939235542039961894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1563386955437871104",
+              "start": 0,
+              "username": "xiannadu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939235542039961894",
+        "in_reply_to_user_id": "1563386955437871104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939230015767646584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiannadu 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563386955437871104",
+        "conversation_id": "1939149777175998683",
+        "created_at": "2025-06-29T07:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939230015767646584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939230015767646584",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939224580050297321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 手机卡了，自动的🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 26,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938555655847280640/mMSYCZ3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 3111,
+          "like_count": 24557,
+          "listed_count": 8,
+          "media_count": 1824,
+          "tweet_count": 24285
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T04:44:40.000Z",
+        "description": "多喝热水。",
+        "id": "1563386955437871104",
+        "name": "仙那渡",
+        "pinned_tweet_id": "1920404102900601019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887867198351495169/f47l7UIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 62,
+          "like_count": 27582,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1637
+        },
+        "username": "xiannadu",
+        "verified": false
+      }
+    ]
+  }
+}

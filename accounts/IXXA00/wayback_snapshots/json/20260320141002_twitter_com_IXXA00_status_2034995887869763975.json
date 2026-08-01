@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2034971224007413805",
+    "created_at": "2026-03-20T14:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034995887869763975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808093317894492160",
+          "start": 0,
+          "username": "yijiepiminbale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034995887869763975",
+    "in_reply_to_user_id": "1808093317894492160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034990035586699398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yijiepiminbale 😋诶嘿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2034990035586699398].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2034990035586699398",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2034990035586699398"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2034971224007413805",
+        "created_at": "2026-03-20T14:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034995887869763975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808093317894492160",
+              "start": 0,
+              "username": "yijiepiminbale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034995887869763975",
+        "in_reply_to_user_id": "1808093317894492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034990035586699398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yijiepiminbale 😋诶嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "抽象主包。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6277,
+          "following_count": 4473,
+          "like_count": 36380,
+          "listed_count": 15,
+          "media_count": 2657,
+          "tweet_count": 36766
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T11:00:32.000Z",
+        "description": "한국어 공부해요",
+        "id": "1808093317894492160",
+        "location": "대한민국",
+        "name": "데온",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012339929746124800/NYIwu6E6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1635,
+          "like_count": 74552,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 9693
+        },
+        "username": "yijiepiminbale",
+        "verified": false
+      }
+    ]
+  }
+}

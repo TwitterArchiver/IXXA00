@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929398353160544692",
+    "created_at": "2025-06-02T05:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T06:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929404363635589527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513151909217341442",
+          "start": 0,
+          "username": "Daesjck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929404363635589527",
+    "in_reply_to_user_id": "1513151909217341442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929402637427855396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daesjck ？真的相似了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929398353160544692",
+        "created_at": "2025-06-02T05:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929404363635589527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513151909217341442",
+              "start": 0,
+              "username": "Daesjck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929404363635589527",
+        "in_reply_to_user_id": "1513151909217341442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929402637427855396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daesjck ？真的相似了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513151909217341442",
+        "conversation_id": "1929398353160544692",
+        "created_at": "2025-06-02T05:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929402637427855396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929402637427855396",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929398353160544692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我干的👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 3042,
+          "like_count": 22558,
+          "listed_count": 7,
+          "media_count": 1630,
+          "tweet_count": 22065
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T13:48:39.000Z",
+        "description": "放轻松",
+        "id": "1513151909217341442",
+        "name": "面具悍匪",
+        "pinned_tweet_id": "1908491764500955147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929180972190429185/zS6_DUU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 97,
+          "like_count": 1986,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 4020
+        },
+        "username": "Daesjck",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1917436093827539365",
+    "created_at": "2025-04-30T12:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T13:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917559375272763693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763121326234185728",
+          "start": 0,
+          "username": "Liu1368941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917559375272763693",
+    "in_reply_to_user_id": "1763121326234185728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917546243179569287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu1368941 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1917436093827539365",
+        "created_at": "2025-04-30T12:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917559375272763693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763121326234185728",
+              "start": 0,
+              "username": "Liu1368941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917559375272763693",
+        "in_reply_to_user_id": "1763121326234185728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917546243179569287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu1368941 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763121326234185728",
+        "conversation_id": "1917436093827539365",
+        "created_at": "2025-04-30T11:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917546243179569287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917546243179569287",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917436093827539365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 未来是护士 也确实喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1916674712316641709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917074204043972610/H9EW5pZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 2948,
+          "like_count": 20818,
+          "listed_count": 7,
+          "media_count": 1476,
+          "tweet_count": 20157
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T08:37:49.000Z",
+        "description": "enfp",
+        "id": "1763121326234185728",
+        "name": "Liu.",
+        "pinned_tweet_id": "1875935123948114192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765699238082797568/qqIJXmrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 126,
+          "like_count": 32266,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2306
+        },
+        "username": "Liu1368941",
+        "verified": false
+      }
+    ]
+  }
+}

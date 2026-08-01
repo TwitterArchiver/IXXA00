@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1901849453570429137",
+    "created_at": "2025-03-19T01:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T02:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902165386092552690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797323695364714496",
+          "start": 0,
+          "username": "Fgbylt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902165386092552690",
+    "in_reply_to_user_id": "1797323695364714496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902165070471426406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fgbylt 死了帮免费火化🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1901849453570429137",
+        "created_at": "2025-03-19T01:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T02:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902165386092552690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797323695364714496",
+              "start": 0,
+              "username": "Fgbylt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902165386092552690",
+        "in_reply_to_user_id": "1797323695364714496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902165070471426406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fgbylt 死了帮免费火化🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797323695364714496",
+        "conversation_id": "1901849453570429137",
+        "created_at": "2025-03-19T01:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T02:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902165070471426406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902165070471426406",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901849453570429137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "有一颗温暖的心。/别扭又傲娇。",
+        "id": "1739391734491086848",
+        "location": "CD男，入门前看好了。",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 2671,
+          "like_count": 18432,
+          "listed_count": 6,
+          "media_count": 1256,
+          "tweet_count": 17455
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T17:45:51.000Z",
+        "description": "",
+        "id": "1797323695364714496",
+        "name": "Fgbylt",
+        "pinned_tweet_id": "1880867311890190560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797323836377247744/gYOkIIj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 44,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 158
+        },
+        "username": "Fgbylt",
+        "verified": false
+      }
+    ]
+  }
+}

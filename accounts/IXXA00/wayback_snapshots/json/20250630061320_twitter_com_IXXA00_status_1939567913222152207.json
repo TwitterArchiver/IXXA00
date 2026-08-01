@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1939565904876146813",
+    "created_at": "2025-06-30T06:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939567913222152207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1372520961329623042",
+          "start": 0,
+          "username": "ImMocha_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939567913222152207",
+    "in_reply_to_user_id": "1372520961329623042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939565904876146813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImMocha_0 ai图看多啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1939565904876146813",
+        "created_at": "2025-06-30T06:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939567913222152207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1372520961329623042",
+              "start": 0,
+              "username": "ImMocha_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939567913222152207",
+        "in_reply_to_user_id": "1372520961329623042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939565904876146813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImMocha_0 ai图看多啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372520961329623042",
+        "conversation_id": "1939565904876146813",
+        "created_at": "2025-06-30T06:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939565904876146813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ixxa00/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ixxa00/status/1939314360201158917",
+              "start": 13,
+              "url": "https://t.co/xUb6pAaEkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939565904876146813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939314360201158917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好光滑 真的不是ai图吗 https://t.co/xUb6pAaEkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 26,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938555655847280640/mMSYCZ3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3725,
+          "following_count": 3116,
+          "like_count": 24654,
+          "listed_count": 8,
+          "media_count": 1830,
+          "tweet_count": 24361
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T12:11:36.000Z",
+        "description": "我昨天梦见自己大冬天的在抹茶和冰冻牛奶的池子里游冬泳。INTP",
+        "id": "1372520961329623042",
+        "location": "ENG/中",
+        "name": "晕船大师",
+        "pinned_tweet_id": "1933132319503872385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002359307739136/TiusGodY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 372,
+          "like_count": 20675,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 4335
+        },
+        "username": "ImMocha_0",
+        "verified": false
+      }
+    ]
+  }
+}

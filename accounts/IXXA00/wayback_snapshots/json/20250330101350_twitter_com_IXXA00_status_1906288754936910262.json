@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1905978606687539673",
+    "created_at": "2025-03-30T10:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T11:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906288754936910262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1892601288879403008",
+          "start": 0,
+          "username": "twrhrth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906288754936910262",
+    "in_reply_to_user_id": "1892601288879403008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905978606687539673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twrhrth 明道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1987,
+        "media_key": "3_1905978564274708480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnNlZ-kaYAAE__Q.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1905978606687539673",
+        "created_at": "2025-03-30T10:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T11:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906288754936910262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1892601288879403008",
+              "start": 0,
+              "username": "twrhrth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906288754936910262",
+        "in_reply_to_user_id": "1892601288879403008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905978606687539673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twrhrth 明道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905978564274708480"
+          ]
+        },
+        "author_id": "1892601288879403008",
+        "conversation_id": "1905978606687539673",
+        "created_at": "2025-03-29T13:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905978606687539673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jycFV3v7re",
+              "end": 69,
+              "expanded_url": "https://x.com/twrhrth/status/1905978606687539673/photo/1",
+              "media_key": "3_1905978564274708480",
+              "start": 46,
+              "url": "https://t.co/jycFV3v7re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905978606687539673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 246819,
+          "like_count": 2395,
+          "quote_count": 2,
+          "reply_count": 280,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "有人知道他是誰嗎？ 昨天隨便吃個滷肉飯遇到⋯\n當下真的超級開心 本人也超級好讓我們可以合照 https://t.co/jycFV3v7re"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一辈子只能租房子住的女孩，就算把房子刷成粉色也不行。更现实的DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1905990906085617861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 2805,
+          "like_count": 19330,
+          "listed_count": 6,
+          "media_count": 1318,
+          "tweet_count": 18424
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:45:34.000Z",
+        "description": "琪琪幼齒女孩  #已成年  無業遊民  #發佈美女圖\n琪琪澀澀群組 https://t.co/dJGkhBKoff",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "已成年"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "發佈美女圖"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/addlist/xtIhXw…",
+                "end": 57,
+                "expanded_url": "https://t.me/addlist/xtIhXwtqcFkzMjU1",
+                "start": 34,
+                "url": "https://t.co/dJGkhBKoff"
+              }
+            ]
+          }
+        },
+        "id": "1892601288879403008",
+        "name": "||ヽ(*￣▽￣*)ノミ|Ю",
+        "pinned_tweet_id": "1901181712610246687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900245842004463616/uwziGjqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7116,
+          "following_count": 1,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 36
+        },
+        "username": "twrhrth",
+        "verified": false
+      }
+    ]
+  }
+}

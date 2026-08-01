@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1907009129434304731",
+    "created_at": "2025-04-01T09:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T10:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907009129434304731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingshan1117/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/qingshan1117/status/1907008768698896539",
+          "start": 24,
+          "url": "https://t.co/1v55cclxx9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907009129434304731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907008768698896539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也不知道，加群的大家都硬硬的，可能是玩命吧。 https://t.co/1v55cclxx9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1907009129434304731",
+        "created_at": "2025-04-01T09:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907009129434304731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshan1117/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/qingshan1117/status/1907008768698896539",
+              "start": 24,
+              "url": "https://t.co/1v55cclxx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907009129434304731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907008768698896539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不知道，加群的大家都硬硬的，可能是玩命吧。 https://t.co/1v55cclxx9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504365012546170883",
+        "conversation_id": "1907008091301749230",
+        "created_at": "2025-04-01T09:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907008768698896539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907008768698896539",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907008091301749230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 玩什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一滴薄荷甜酒(72度)。主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 2812,
+          "like_count": 19400,
+          "listed_count": 6,
+          "media_count": 1330,
+          "tweet_count": 18551
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T07:52:41.000Z",
+        "description": "",
+        "id": "1504365012546170883",
+        "name": "人生无青山",
+        "pinned_tweet_id": "1906548028066128247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894417609988149248/4-pNlrqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 2785,
+          "like_count": 101430,
+          "listed_count": 3,
+          "media_count": 588,
+          "tweet_count": 81511
+        },
+        "username": "qingshan1117",
+        "verified": false
+      }
+    ]
+  }
+}

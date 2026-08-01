@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1924393160387760606",
+    "created_at": "2025-05-19T09:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T10:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924394882334089390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897894039397318658",
+          "start": 0,
+          "username": "31K4t3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924394882334089390",
+    "in_reply_to_user_id": "1897894039397318658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924394153674145964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@31K4t3k 不是，大概也就1天就分开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1924393160387760606",
+        "created_at": "2025-05-19T09:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T10:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924394882334089390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897894039397318658",
+              "start": 0,
+              "username": "31K4t3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924394882334089390",
+        "in_reply_to_user_id": "1897894039397318658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924394153674145964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@31K4t3k 不是，大概也就1天就分开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897894039397318658",
+        "conversation_id": "1924393160387760606",
+        "created_at": "2025-05-19T09:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T10:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924394153674145964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924394153674145964",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924393160387760606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 502是粘在一起永不分离的意思吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "说不定哪天就死了。有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923202205613768704/0P_Mo563_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 3021,
+          "like_count": 21886,
+          "listed_count": 7,
+          "media_count": 1576,
+          "tweet_count": 21294
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:17:00.000Z",
+        "description": "Many fall in the face of chaos...But not this one! Not today",
+        "id": "1897894039397318658",
+        "name": "justAnormalguy",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 617,
+          "like_count": 22503,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1428
+        },
+        "username": "31K4t3k",
+        "verified": false
+      }
+    ]
+  }
+}

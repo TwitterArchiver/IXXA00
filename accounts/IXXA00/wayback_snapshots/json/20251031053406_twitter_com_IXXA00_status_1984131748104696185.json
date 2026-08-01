@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983802419281571960",
+    "created_at": "2025-10-31T05:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984131748104696185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944580038516686848",
+          "start": 0,
+          "username": "jiaoliaoqie2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984131748104696185",
+    "in_reply_to_user_id": "1944580038516686848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984124188249178350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoliaoqie2 新手教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-31T05:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984131748104696185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944580038516686848",
+              "start": 0,
+              "username": "jiaoliaoqie2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984131748104696185",
+        "in_reply_to_user_id": "1944580038516686848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984124188249178350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoliaoqie2 新手教程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944580038516686848",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-31T05:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984124188249178350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984124188249178350",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983802419281571960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 神力展示（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5184,
+          "following_count": 4604,
+          "like_count": 31858,
+          "listed_count": 11,
+          "media_count": 2294,
+          "tweet_count": 31508
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T02:09:58.000Z",
+        "description": "统一",
+        "id": "1944580038516686848",
+        "name": "JIAO🇨🇳🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944580099317334016/4SYNrcOp_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 13,
+          "like_count": 1881,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 915
+        },
+        "username": "jiaoliaoqie2",
+        "verified": false
+      }
+    ]
+  }
+}

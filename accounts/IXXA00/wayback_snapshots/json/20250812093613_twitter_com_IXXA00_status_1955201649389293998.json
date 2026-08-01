@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1955200425151656274",
+    "created_at": "2025-08-12T09:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T10:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955201649389293998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780498367669514240",
+          "start": 0,
+          "username": "lzlld38244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955201649389293998",
+    "in_reply_to_user_id": "1780498367669514240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955201216776225228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzlld38244 可能是胸太大了？？？😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1955200425151656274",
+        "created_at": "2025-08-12T09:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T10:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955201649389293998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780498367669514240",
+              "start": 0,
+              "username": "lzlld38244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955201649389293998",
+        "in_reply_to_user_id": "1780498367669514240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955201216776225228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzlld38244 可能是胸太大了？？？😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780498367669514240",
+        "conversation_id": "1955200425151656274",
+        "created_at": "2025-08-12T09:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T10:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955201216776225228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955201216776225228",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955200425151656274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好看，但是为什么你的哪个线歪歪扭扭的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1954930100564312101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 3254,
+          "like_count": 27134,
+          "listed_count": 5,
+          "media_count": 2015,
+          "tweet_count": 26792
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T07:27:52.000Z",
+        "description": "",
+        "id": "1780498367669514240",
+        "name": "lzlld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780498501610393600/HOhEDmHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 3184,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 1547
+        },
+        "username": "lzlld38244",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1924029791013113892",
+    "created_at": "2025-05-18T09:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T10:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924033137589514423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1755430037304860672",
+          "start": 0,
+          "username": "SeiranTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924033137589514423",
+    "in_reply_to_user_id": "1755430037304860672",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924031267584254253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeiranTH ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1924029791013113892",
+        "created_at": "2025-05-18T09:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T10:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924033137589514423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1755430037304860672",
+              "start": 0,
+              "username": "SeiranTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924033137589514423",
+        "in_reply_to_user_id": "1755430037304860672",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924031267584254253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeiranTH ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755430037304860672",
+        "conversation_id": "1924029791013113892",
+        "created_at": "2025-05-18T09:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T10:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924031267584254253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924031267584254253",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924029791013113892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 建议去玩ck3，谋略中线😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就这样爱受不受。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923202205613768704/0P_Mo563_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3025,
+          "like_count": 21886,
+          "listed_count": 7,
+          "media_count": 1576,
+          "tweet_count": 21259
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T03:15:17.000Z",
+        "description": "用是发愤立志，务当同心协力，以竟厥功。",
+        "id": "1755430037304860672",
+        "name": "清兰",
+        "pinned_tweet_id": "1871016002412294551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902758510003470336/dkypSVMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 53,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 507
+        },
+        "username": "SeiranTH",
+        "verified": false
+      }
+    ]
+  }
+}

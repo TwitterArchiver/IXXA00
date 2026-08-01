@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059406531930751083",
+    "created_at": "2026-05-28T04:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059847179955823011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1298921644027600896",
+          "start": 0,
+          "username": "tg07210712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059847179955823011",
+    "in_reply_to_user_id": "1298921644027600896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059845075019161840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tg07210712 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-28T04:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059847179955823011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1298921644027600896",
+              "start": 0,
+              "username": "tg07210712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059847179955823011",
+        "in_reply_to_user_id": "1298921644027600896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059845075019161840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tg07210712 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1298921644027600896",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-28T03:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059845075019161840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059845075019161840",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059406531930751083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7096,
+          "following_count": 4503,
+          "like_count": 40505,
+          "listed_count": 18,
+          "media_count": 2963,
+          "tweet_count": 40386
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-27T09:53:54.000Z",
+        "description": "",
+        "id": "1298921644027600896",
+        "name": "WWWWW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1298921739112443906/tyQaAWOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 46,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 119
+        },
+        "username": "tg07210712",
+        "verified": false
+      }
+    ]
+  }
+}

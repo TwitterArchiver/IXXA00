@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1954787522736959577",
+    "created_at": "2025-08-11T06:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T07:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954787522736959577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/IXXA00/status/1954782763745530075",
+          "start": 22,
+          "url": "https://t.co/l1llJjspSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954787522736959577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954782763745530075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别说你们了我自己都点不开😭😭😭😭😭😭😭😭😭 https://t.co/l1llJjspSM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1954782763745530075].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1954782763745530075",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954782763745530075"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1954787522736959577",
+        "created_at": "2025-08-11T06:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954787522736959577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/IXXA00/status/1954782763745530075",
+              "start": 22,
+              "url": "https://t.co/l1llJjspSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954787522736959577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954782763745530075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别说你们了我自己都点不开😭😭😭😭😭😭😭😭😭 https://t.co/l1llJjspSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "pinned_tweet_id": "1954563649172848722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3834,
+          "following_count": 3248,
+          "like_count": 27080,
+          "listed_count": 5,
+          "media_count": 2011,
+          "tweet_count": 26730
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

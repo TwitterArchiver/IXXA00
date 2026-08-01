@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1935190413406781761",
+    "created_at": "2025-06-18T04:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T05:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935191658959880304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1576507946292416512",
+          "start": 0,
+          "username": "daoyuex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935191658959880304",
+    "in_reply_to_user_id": "1576507946292416512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935190413406781761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daoyuex 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1935190413406781761",
+        "created_at": "2025-06-18T04:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T05:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935191658959880304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1576507946292416512",
+              "start": 0,
+              "username": "daoyuex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935191658959880304",
+        "in_reply_to_user_id": "1576507946292416512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935190413406781761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daoyuex 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576507946292416512",
+        "conversation_id": "1935190413406781761",
+        "created_at": "2025-06-18T04:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T05:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935190413406781761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengdie199/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/mengdie199/status/1935187202125791648",
+              "start": 6,
+              "url": "https://t.co/tuzponrF5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935190413406781761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935187202125791648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要这个 https://t.co/tuzponrF5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 27,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 4,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🥑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 3102,
+          "like_count": 23932,
+          "listed_count": 7,
+          "media_count": 1762,
+          "tweet_count": 23530
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T09:42:48.000Z",
+        "description": "正在染色",
+        "id": "1576507946292416512",
+        "name": "蝴蝶",
+        "pinned_tweet_id": "1898602139162964133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927159630330744832/EhT1cxi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 1019,
+          "like_count": 91019,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 7585
+        },
+        "username": "daoyuex",
+        "verified": false
+      }
+    ]
+  }
+}

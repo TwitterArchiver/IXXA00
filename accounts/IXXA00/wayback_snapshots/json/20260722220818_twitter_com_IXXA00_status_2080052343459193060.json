@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2079929285826293934",
+    "created_at": "2026-07-22T22:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T23:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080052343459193060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613904503161638918",
+          "start": 0,
+          "username": "zshdshabi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080052343459193060",
+    "in_reply_to_user_id": "1613904503161638918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079986279958430051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zshdshabi 卡61卡俩个月了真没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2079929285826293934",
+        "created_at": "2026-07-22T22:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080052343459193060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613904503161638918",
+              "start": 0,
+              "username": "zshdshabi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080052343459193060",
+        "in_reply_to_user_id": "1613904503161638918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079986279958430051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zshdshabi 卡61卡俩个月了真没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613904503161638918",
+        "conversation_id": "2079929285826293934",
+        "created_at": "2026-07-22T17:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079986279958430051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079986279958430051",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079929285826293934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 体脂率下来了自然就有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7524,
+          "following_count": 4541,
+          "like_count": 43495,
+          "listed_count": 18,
+          "media_count": 3181,
+          "tweet_count": 42955
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-13T14:23:26.000Z",
+        "description": "",
+        "id": "1613904503161638918",
+        "name": "z sh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971230399402811392/41QOMJ-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 420,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "zshdshabi",
+        "verified": false
+      }
+    ]
+  }
+}

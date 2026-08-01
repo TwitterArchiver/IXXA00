@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2077371544498819073"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2077371568578306289",
+    "created_at": "2026-07-15T12:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077371568578306289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50LXd4OVgq",
+          "end": 29,
+          "expanded_url": "https://x.com/IXXA00/status/2077371568578306289/video/1",
+          "media_key": "7_2077371544498819073",
+          "start": 6,
+          "url": "https://t.co/50LXd4OVgq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077371568578306289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看我干嘛？ https://t.co/50LXd4OVgq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5117,
+        "height": 954,
+        "media_key": "7_2077371544498819073",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077371544498819073/pu/img/R4RN095m9Z4uWvX6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077371544498819073/pu/vid/avc1/320x424/qLR2GwWxH2Y4Pk3O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077371544498819073/pu/vid/avc1/480x636/6N4hdyC5t6nXzYnM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077371544498819073/pu/vid/avc1/720x954/xrdIdoS69BiQVDH8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077371544498819073/pu/pl/iGVmEwBqwtSnGRcr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077371544498819073"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2077371568578306289",
+        "created_at": "2026-07-15T12:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077371568578306289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50LXd4OVgq",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/2077371568578306289/video/1",
+              "media_key": "7_2077371544498819073",
+              "start": 6,
+              "url": "https://t.co/50LXd4OVgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077371568578306289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我干嘛？ https://t.co/50LXd4OVgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7497,
+          "following_count": 4539,
+          "like_count": 43192,
+          "listed_count": 18,
+          "media_count": 3152,
+          "tweet_count": 42670
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

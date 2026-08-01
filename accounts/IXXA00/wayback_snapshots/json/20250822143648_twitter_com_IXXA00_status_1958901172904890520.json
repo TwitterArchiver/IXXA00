@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1958863777048535457",
+    "created_at": "2025-08-22T14:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T15:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958901172904890520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884273316900519936",
+          "start": 0,
+          "username": "XieLuo94207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958901172904890520",
+    "in_reply_to_user_id": "1884273316900519936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958900835116560586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XieLuo94207 我会烹饪菠萝包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1958863777048535457",
+        "created_at": "2025-08-22T14:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958901172904890520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884273316900519936",
+              "start": 0,
+              "username": "XieLuo94207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958901172904890520",
+        "in_reply_to_user_id": "1884273316900519936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958900835116560586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XieLuo94207 我会烹饪菠萝包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884273316900519936",
+        "conversation_id": "1958863777048535457",
+        "created_at": "2025-08-22T14:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958900835116560586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958900835116560586",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958863777048535457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 看着好好吃，手艺真不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1958508946555294010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3902,
+          "following_count": 3334,
+          "like_count": 27607,
+          "listed_count": 7,
+          "media_count": 2058,
+          "tweet_count": 27409
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T16:12:32.000Z",
+        "description": "",
+        "id": "1884273316900519936",
+        "name": "菠萝包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884273513705467904/N0mC1-Vd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 200,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 269
+        },
+        "username": "XieLuo94207",
+        "verified": false
+      }
+    ]
+  }
+}

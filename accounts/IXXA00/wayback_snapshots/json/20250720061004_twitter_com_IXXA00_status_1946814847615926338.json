@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1946803533787144456",
+    "created_at": "2025-07-20T06:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T07:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946814847615926338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238062693182926851",
+          "start": 0,
+          "username": "xiaoyao01111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946814847615926338",
+    "in_reply_to_user_id": "1238062693182926851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946808278593495179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyao01111 潮湿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1946803533787144456",
+        "created_at": "2025-07-20T06:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T07:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946814847615926338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238062693182926851",
+              "start": 0,
+              "username": "xiaoyao01111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946814847615926338",
+        "in_reply_to_user_id": "1238062693182926851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946808278593495179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyao01111 潮湿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238062693182926851",
+        "conversation_id": "1946803533787144456",
+        "created_at": "2025-07-20T05:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T06:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946808278593495179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946808278593495179",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946803533787144456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 很潮是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 3145,
+          "like_count": 26132,
+          "listed_count": 6,
+          "media_count": 1916,
+          "tweet_count": 25620
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T11:22:11.000Z",
+        "description": "愿每个人都能找到自己的幸福",
+        "id": "1238062693182926851",
+        "location": "People's Republic of China",
+        "name": "xiaoyao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924449500879360000/6fAVkNZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 31,
+          "like_count": 6639,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1471
+        },
+        "username": "xiaoyao01111",
+        "verified": false
+      }
+    ]
+  }
+}

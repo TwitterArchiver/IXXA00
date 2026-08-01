@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1988550514225643805",
+    "created_at": "2025-11-13T02:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T03:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988796132357718303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902175697835323395",
+          "start": 0,
+          "username": "fufumiaoQxQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988796132357718303",
+    "in_reply_to_user_id": "1902175697835323395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988794305574834506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufumiaoQxQ_ 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1988550514225643805",
+        "created_at": "2025-11-13T02:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988796132357718303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902175697835323395",
+              "start": 0,
+              "username": "fufumiaoQxQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988796132357718303",
+        "in_reply_to_user_id": "1902175697835323395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988794305574834506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufumiaoQxQ_ 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902175697835323395",
+        "conversation_id": "1988550514225643805",
+        "created_at": "2025-11-13T02:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988794305574834506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988794305574834506",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988550514225643805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好吃哇！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 4551,
+          "like_count": 32973,
+          "listed_count": 11,
+          "media_count": 2349,
+          "tweet_count": 32484
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T01:50:20.000Z",
+        "description": "喵！",
+        "id": "1902175697835323395",
+        "name": "fuefuemiao🍯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925731477334941696/qx6f6wA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 47,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 581
+        },
+        "username": "fufumiaoQxQ_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2001144104256987205",
+    "created_at": "2025-12-17T16:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001335520698466808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1813500209328193536",
+          "start": 0,
+          "username": "Nukokw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001335520698466808",
+    "in_reply_to_user_id": "1813500209328193536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001331152427290839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nukokw 我还以为发的腿照呢那没事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T16:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001335520698466808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1813500209328193536",
+              "start": 0,
+              "username": "Nukokw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001335520698466808",
+        "in_reply_to_user_id": "1813500209328193536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001331152427290839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nukokw 我还以为发的腿照呢那没事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813500209328193536",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T16:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001331152427290839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001331152427290839",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001144104256987205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我说实话这个我是真忍不住吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是isla。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5606,
+          "following_count": 4535,
+          "like_count": 34681,
+          "listed_count": 11,
+          "media_count": 2488,
+          "tweet_count": 34291
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T09:05:28.000Z",
+        "description": "hololive\n \n nukokw@outlook.",
+        "id": "1813500209328193536",
+        "location": "Japan",
+        "name": "Nuko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813558132284502017/UXGXWE9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 737,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 214
+        },
+        "username": "Nukokw",
+        "verified": false
+      }
+    ]
+  }
+}

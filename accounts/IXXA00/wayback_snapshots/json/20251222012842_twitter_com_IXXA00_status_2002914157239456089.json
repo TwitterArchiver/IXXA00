@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2002762260972978611",
+    "created_at": "2025-12-22T01:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T02:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002914157239456089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892896759808217092",
+          "start": 0,
+          "username": "hajixi12356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002914157239456089",
+    "in_reply_to_user_id": "1892896759808217092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002908443938791560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajixi12356 我是地雷女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2002762260972978611",
+        "created_at": "2025-12-22T01:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002914157239456089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892896759808217092",
+              "start": 0,
+              "username": "hajixi12356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002914157239456089",
+        "in_reply_to_user_id": "1892896759808217092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002908443938791560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajixi12356 我是地雷女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892896759808217092",
+        "conversation_id": "2002762260972978611",
+        "created_at": "2025-12-22T01:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002908443938791560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002908443938791560",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002762260972978611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 假如你舍一滴泪假如老去我能陪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就在这圈地自萌。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5623,
+          "following_count": 4535,
+          "like_count": 34870,
+          "listed_count": 12,
+          "media_count": 2505,
+          "tweet_count": 34479
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:18:58.000Z",
+        "description": "你神爹我是什么人你别管，支黑死妈就对了知道吗。",
+        "id": "1892896759808217092",
+        "location": "台湾及其附属岛屿是中华人民共和国神圣不可分割的一部分",
+        "name": "你猜我是谁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943010728060796928/11S3jyjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 195,
+          "like_count": 11304,
+          "listed_count": 17,
+          "media_count": 212,
+          "tweet_count": 4585
+        },
+        "username": "hajixi12356",
+        "verified": false
+      }
+    ]
+  }
+}

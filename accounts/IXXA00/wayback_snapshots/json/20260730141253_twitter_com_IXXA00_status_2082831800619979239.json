@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2082700528212136029",
+    "created_at": "2026-07-30T14:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082831800619979239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662475524457869312",
+          "start": 0,
+          "username": "Pleaseeatpotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082831800619979239",
+    "in_reply_to_user_id": "1662475524457869312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082830949327233085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pleaseeatpotato 土豆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2082700528212136029",
+        "created_at": "2026-07-30T14:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082831800619979239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662475524457869312",
+              "start": 0,
+              "username": "Pleaseeatpotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082831800619979239",
+        "in_reply_to_user_id": "1662475524457869312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082830949327233085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pleaseeatpotato 土豆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662475524457869312",
+        "conversation_id": "2082700528212136029",
+        "created_at": "2026-07-30T14:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082830949327233085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082830949327233085",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082700528212136029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 人如其名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7528,
+          "following_count": 4531,
+          "like_count": 43655,
+          "listed_count": 17,
+          "media_count": 3207,
+          "tweet_count": 43253
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T15:07:24.000Z",
+        "description": "鸳鸯锅",
+        "id": "1662475524457869312",
+        "location": "🇨🇦距离安大略湖直线距离16公里处",
+        "name": "🥔需要🍲",
+        "pinned_tweet_id": "1993178394067083737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048869788521541632/HKG4cgM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 430,
+          "like_count": 29251,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 7632
+        },
+        "url": "",
+        "username": "Pleaseeatpotato",
+        "verified": false
+      }
+    ]
+  }
+}

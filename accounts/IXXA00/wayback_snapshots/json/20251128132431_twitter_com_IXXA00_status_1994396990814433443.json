@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1994394305730142357",
+    "created_at": "2025-11-28T13:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994396990814433443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1630100437801263105",
+          "start": 0,
+          "username": "HIxcmkVEkBAkBhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994396990814433443",
+    "in_reply_to_user_id": "1630100437801263105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994396057112060271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HIxcmkVEkBAkBhy 告诉他不要长那么多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1994394305730142357",
+        "created_at": "2025-11-28T13:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994396990814433443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1630100437801263105",
+              "start": 0,
+              "username": "HIxcmkVEkBAkBhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994396990814433443",
+        "in_reply_to_user_id": "1630100437801263105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994396057112060271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HIxcmkVEkBAkBhy 告诉他不要长那么多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630100437801263105",
+        "conversation_id": "1994394305730142357",
+        "created_at": "2025-11-28T13:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994396057112060271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994396057112060271",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994394305730142357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 蛋蛋怎么刮啊褶皱太多了我不敢弄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪(限时半绿聊天/纯绿线下)。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5626,
+          "following_count": 4557,
+          "like_count": 33869,
+          "listed_count": 11,
+          "media_count": 2422,
+          "tweet_count": 33433
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-27T07:00:16.000Z",
+        "description": "啊哈哈哈哈",
+        "id": "1630100437801263105",
+        "name": "恶包面魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633660085573677059/e8awn66X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 1218,
+          "like_count": 20599,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 457
+        },
+        "username": "HIxcmkVEkBAkBhy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1947666040051404808"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947666072053944464",
+    "created_at": "2025-07-22T14:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947666072053944464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XWtBRcpn2p",
+          "end": 28,
+          "expanded_url": "https://x.com/IXXA00/status/1947666072053944464/video/1",
+          "media_key": "7_1947666040051404808",
+          "start": 5,
+          "url": "https://t.co/XWtBRcpn2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947666072053944464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听不懂。 https://t.co/XWtBRcpn2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7933,
+        "height": 1280,
+        "media_key": "7_1947666040051404808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1947666040051404808/pu/img/qGEtr5DVdAaTny8F.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947666040051404808/pu/vid/avc1/320x568/zOP3z9YpHTxz2fB4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947666040051404808/pu/vid/avc1/480x852/67yut1UlfzcM5Mj2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947666040051404808/pu/vid/avc1/720x1280/kdN2BbzMdBcHupFc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1947666040051404808/pu/pl/agndEACs55znvQ2S.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1947666040051404808"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947666072053944464",
+        "created_at": "2025-07-22T14:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947666072053944464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWtBRcpn2p",
+              "end": 28,
+              "expanded_url": "https://x.com/IXXA00/status/1947666072053944464/video/1",
+              "media_key": "7_1947666040051404808",
+              "start": 5,
+              "url": "https://t.co/XWtBRcpn2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947666072053944464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听不懂。 https://t.co/XWtBRcpn2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 3154,
+          "like_count": 26254,
+          "listed_count": 5,
+          "media_count": 1928,
+          "tweet_count": 25769
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

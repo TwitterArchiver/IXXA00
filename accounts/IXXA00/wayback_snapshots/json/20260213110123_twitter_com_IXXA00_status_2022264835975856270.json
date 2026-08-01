@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2022264835975856270",
+    "created_at": "2026-02-13T11:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022264835975856270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7i__g/status/2…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/7i__g/status/2022141316063490201",
+          "start": 7,
+          "url": "https://t.co/JKOnEhacOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022264835975856270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022141316063490201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁让我踩下， https://t.co/JKOnEhacOc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2022141308064985088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAWzlDbcAAhN9f.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2022264835975856270",
+        "created_at": "2026-02-13T11:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022264835975856270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7i__g/status/2…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/7i__g/status/2022141316063490201",
+              "start": 7,
+              "url": "https://t.co/JKOnEhacOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022264835975856270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022141316063490201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁让我踩下， https://t.co/JKOnEhacOc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022141308064985088"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2022141316063490201",
+        "created_at": "2026-02-13T02:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022141316063490201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaEHolZFBI",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2022141316063490201/photo/1",
+              "media_key": "3_2022141308064985088",
+              "start": 0,
+              "url": "https://t.co/SaEHolZFBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022141316063490201",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 56498,
+          "like_count": 2832,
+          "quote_count": 159,
+          "reply_count": 5,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SaEHolZFBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanning, Guangxi Zhuangzu Zizhiqu, China",
+              "geo": {
+                "coordinates": [
+                  108.31667,
+                  22.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanning",
+              "region": "Guangxi Zhuangzu Zizhiqu"
+            }
+          ]
+        },
+        "description": "等待一份纯粹的爱意。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5653,
+          "following_count": 4471,
+          "like_count": 35834,
+          "listed_count": 14,
+          "media_count": 2607,
+          "tweet_count": 35848
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "name": "ًً",
+        "pinned_tweet_id": "2020143277861687409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12054,
+          "following_count": 175,
+          "like_count": 369924,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 3674
+        },
+        "username": "7i__g",
+        "verified": false
+      }
+    ]
+  }
+}

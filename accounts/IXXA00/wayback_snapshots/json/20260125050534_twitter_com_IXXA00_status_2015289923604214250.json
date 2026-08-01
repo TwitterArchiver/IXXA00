@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2015201314859540773",
+    "created_at": "2026-01-25T05:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T06:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015289923604214250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015289923604214250",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015201314859540773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 无情铁手"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26300,
+        "height": 720,
+        "media_key": "13_2014464180443815936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014464180443815936/img/OqbnEkTBqQcNk6K-.jpg",
+        "public_metrics": {
+          "view_count": 2208740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014464180443815936/vid/avc1/320x320/afsQcKk6F0PXn-PQ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014464180443815936/vid/avc1/540x540/7RJCC-uOJRiw-EY6.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014464180443815936/vid/avc1/720x720/DgbDeK3SRlnhckDR.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014464180443815936/pl/D-WoSpcneBnqfUTF.m3u8?tag=16&v=c6b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2015201314859540773",
+        "created_at": "2026-01-25T05:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015289923604214250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015289923604214250",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015201314859540773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 无情铁手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014464180443815936"
+          ],
+          "media_source_tweet_id": [
+            "2014674726296404376"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015201314859540773",
+        "created_at": "2026-01-24T23:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T00:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015201314859540773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEAL6nN0GV",
+              "end": 76,
+              "expanded_url": "https://x.com/wonderofscience/status/2014674726296404376/video/1",
+              "media_key": "13_2014464180443815936",
+              "start": 53,
+              "url": "https://t.co/XEAL6nN0GV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015201314859540773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 521163,
+          "like_count": 828,
+          "quote_count": 5,
+          "reply_count": 80,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "航空航天史上最疯狂的演示之一：从 1204.4摄氏度的烤箱中取出航天飞机隔热瓦……然后像没事人一样拿着它。https://t.co/XEAL6nN0GV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "失温。欢迎来看主包：抖子43707218480，曼波：https://t.co/UDk836tI8A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 50,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 27,
+                "url": "https://t.co/UDk836tI8A"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 4488,
+          "like_count": 35692,
+          "listed_count": 12,
+          "media_count": 2582,
+          "tweet_count": 35505
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜\n\n✈️投研频道：https://t.co/QsTW1lsaMp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 159,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 136,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2wIEN3JaDn5hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2wIEN3JaDn5hZjAx",
+                "start": 0,
+                "url": "https://t.co/RAqwp4VYZc"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Palo Alto",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52124,
+          "following_count": 2710,
+          "like_count": 7965,
+          "listed_count": 533,
+          "media_count": 2555,
+          "tweet_count": 6167
+        },
+        "url": "https://t.co/RAqwp4VYZc",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

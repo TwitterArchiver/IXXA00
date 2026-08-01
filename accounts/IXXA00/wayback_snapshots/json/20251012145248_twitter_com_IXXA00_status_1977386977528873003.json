@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1977376523410616586",
+    "created_at": "2025-10-12T14:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T15:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977386977528873003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816146295427645440",
+          "start": 0,
+          "username": "informer131189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977386977528873003",
+    "in_reply_to_user_id": "1816146295427645440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977384227847938514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@informer131189 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1977376523410616586",
+        "created_at": "2025-10-12T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977386977528873003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816146295427645440",
+              "start": 0,
+              "username": "informer131189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977386977528873003",
+        "in_reply_to_user_id": "1816146295427645440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977384227847938514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@informer131189 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816146295427645440",
+        "conversation_id": "1977376523410616586",
+        "created_at": "2025-10-12T14:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977384227847938514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977384227847938514",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977376523410616586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这个嘴看着十分美味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。/有🚪谢谢/抖音主包43707218480",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 3907,
+          "like_count": 30042,
+          "listed_count": 9,
+          "media_count": 2227,
+          "tweet_count": 30049
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:20:04.000Z",
+        "description": "",
+        "id": "1816146295427645440",
+        "name": "informer",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 56,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "username": "informer131189",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1927702345447579987",
+    "created_at": "2025-05-29T22:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T23:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928223181011042814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291959515970015232",
+          "start": 0,
+          "username": "nnhyqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928223181011042814",
+    "in_reply_to_user_id": "1291959515970015232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928176967158841492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnhyqm 好奇什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1927702345447579987",
+        "created_at": "2025-05-29T22:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T23:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928223181011042814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291959515970015232",
+              "start": 0,
+              "username": "nnhyqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928223181011042814",
+        "in_reply_to_user_id": "1291959515970015232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928176967158841492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnhyqm 好奇什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291959515970015232",
+        "conversation_id": "1927702345447579987",
+        "created_at": "2025-05-29T19:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T20:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928176967158841492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928176967158841492",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927702345447579987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好奇你😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "出售一点微薄的爱。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3681,
+          "following_count": 3024,
+          "like_count": 22373,
+          "listed_count": 7,
+          "media_count": 1614,
+          "tweet_count": 21817
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T04:49:04.000Z",
+        "description": "日本語を勉強中/我想做个互联网空气人（非互fo不要fo我）",
+        "id": "1291959515970015232",
+        "name": "nnhyqm",
+        "pinned_tweet_id": "1795838169361080465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789667659560464384/hhWLTwaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 85,
+          "like_count": 4573,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 507
+        },
+        "username": "nnhyqm",
+        "verified": false
+      }
+    ]
+  }
+}

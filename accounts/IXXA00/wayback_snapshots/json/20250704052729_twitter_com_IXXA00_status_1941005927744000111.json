@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1940983498476867658",
+    "created_at": "2025-07-04T05:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T06:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941005927744000111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "282165566",
+          "start": 0,
+          "username": "klimoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941005927744000111",
+    "in_reply_to_user_id": "282165566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941004733264830656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@klimoon 那很有骨气了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1940983498476867658",
+        "created_at": "2025-07-04T05:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T06:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941005927744000111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "282165566",
+              "start": 0,
+              "username": "klimoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941005927744000111",
+        "in_reply_to_user_id": "282165566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941004733264830656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klimoon 那很有骨气了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "282165566",
+        "conversation_id": "1940983498476867658",
+        "created_at": "2025-07-04T05:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T06:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941004733264830656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941004733264830656",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940992680445858245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 宁直不处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。/我完全收不到🚪了。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 29,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3745,
+          "following_count": 3138,
+          "like_count": 25106,
+          "listed_count": 7,
+          "media_count": 1847,
+          "tweet_count": 24656
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-14T17:37:55.000Z",
+        "description": "比格里纳斯星人",
+        "id": "282165566",
+        "location": "People's Republic of China",
+        "name": "moonlight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503519107349905408/eExbyvrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 1008,
+          "like_count": 19174,
+          "listed_count": 22,
+          "media_count": 434,
+          "tweet_count": 23333
+        },
+        "username": "klimoon",
+        "verified": false
+      }
+    ]
+  }
+}

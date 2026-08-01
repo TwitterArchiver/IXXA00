@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929566687659196627",
+    "created_at": "2025-06-02T23:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T00:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929676054773617021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "714132438893461504",
+          "start": 0,
+          "username": "Ena18_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929676054773617021",
+    "in_reply_to_user_id": "714132438893461504",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929592715051688036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ena18_ ？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929566687659196627",
+        "created_at": "2025-06-02T23:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T00:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929676054773617021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "714132438893461504",
+              "start": 0,
+              "username": "Ena18_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929676054773617021",
+        "in_reply_to_user_id": "714132438893461504",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929592715051688036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ena18_ ？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "714132438893461504",
+        "conversation_id": "1929566687659196627",
+        "created_at": "2025-06-02T17:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T18:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929592715051688036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929592715051688036",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929566687659196627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 难蹦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1929346939696365664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3045,
+          "like_count": 22595,
+          "listed_count": 7,
+          "media_count": 1633,
+          "tweet_count": 22117
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-27T16:50:16.000Z",
+        "description": "喜欢各种各样的过膝袜裤袜",
+        "id": "714132438893461504",
+        "name": "Ena",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323240815662034947/VjdiOqe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 165,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "Ena18_",
+        "verified": false
+      }
+    ]
+  }
+}

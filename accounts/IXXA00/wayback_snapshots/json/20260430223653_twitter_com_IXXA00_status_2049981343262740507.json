@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049832477590773929",
+    "created_at": "2026-04-30T22:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049981343262740507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891478825240051712",
+          "start": 0,
+          "username": "Komiker_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049981343262740507",
+    "in_reply_to_user_id": "1891478825240051712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049922554668908669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Komiker_ 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049832477590773929",
+        "created_at": "2026-04-30T22:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049981343262740507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891478825240051712",
+              "start": 0,
+              "username": "Komiker_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049981343262740507",
+        "in_reply_to_user_id": "1891478825240051712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049922554668908669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Komiker_ 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891478825240051712",
+        "conversation_id": "2049832477590773929",
+        "created_at": "2026-04-30T18:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049922554668908669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049922554668908669",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049832477590773929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我喜欢你啊喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "35/重女/病娇/Little sub/swich",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "香脆叔丁基锂涂层法夫纳",
+        "pinned_tweet_id": "2049630666841821221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 4489,
+          "like_count": 39042,
+          "listed_count": 19,
+          "media_count": 2809,
+          "tweet_count": 39058
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-17T13:24:52.000Z",
+        "description": "",
+        "id": "1891478825240051712",
+        "location": "布吉岛",
+        "name": "Komiker_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979923175849766912/GmU0wfi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 1436,
+          "like_count": 5013,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "Komiker_",
+        "verified": false
+      }
+    ]
+  }
+}

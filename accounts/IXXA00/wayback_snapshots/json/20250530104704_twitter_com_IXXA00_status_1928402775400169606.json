@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928122757969236276",
+    "created_at": "2025-05-30T10:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928402775400169606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766388563627905024",
+          "start": 0,
+          "username": "Note473640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928402775400169606",
+    "in_reply_to_user_id": "1766388563627905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928401102577209508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Note473640 很难有表达欲旺盛的日子，要抓紧机会说话才行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928122757969236276",
+        "created_at": "2025-05-30T10:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928402775400169606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766388563627905024",
+              "start": 0,
+              "username": "Note473640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928402775400169606",
+        "in_reply_to_user_id": "1766388563627905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928401102577209508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Note473640 很难有表达欲旺盛的日子，要抓紧机会说话才行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766388563627905024",
+        "conversation_id": "1928122757969236276",
+        "created_at": "2025-05-30T10:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928401102577209508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928401102577209508",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928222981525737941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 、也挺好的，至少疏解疏解郁闷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "出售一点微薄的爱。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3681,
+          "following_count": 3026,
+          "like_count": 22401,
+          "listed_count": 7,
+          "media_count": 1615,
+          "tweet_count": 21853
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T09:00:35.000Z",
+        "description": "",
+        "id": "1766388563627905024",
+        "name": "Note",
+        "pinned_tweet_id": "1867578789687177668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852957917034815488/RA1pxzhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 2268,
+          "like_count": 3743,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 6278
+        },
+        "username": "Note473640",
+        "verified": false
+      }
+    ]
+  }
+}

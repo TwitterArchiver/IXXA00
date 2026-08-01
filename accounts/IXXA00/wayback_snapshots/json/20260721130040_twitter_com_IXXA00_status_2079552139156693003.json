@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079552129027760128"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079552139156693003",
+    "created_at": "2026-07-21T13:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079552139156693003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zpCugYZIMS",
+          "end": 65,
+          "expanded_url": "https://x.com/IXXA00/status/2079552139156693003/photo/1",
+          "media_key": "3_2079552129027760128",
+          "start": 42,
+          "url": "https://t.co/zpCugYZIMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079552139156693003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "竟然有乖乖卖。\n可惜没有绿乖乖。\n以前在台湾写码子的时候，人手一个绿乖乖。（假的） https://t.co/zpCugYZIMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079552129027760128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwNpLabYAAmmyk.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079552129027760128"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079552139156693003",
+        "created_at": "2026-07-21T13:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079552139156693003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zpCugYZIMS",
+              "end": 65,
+              "expanded_url": "https://x.com/IXXA00/status/2079552139156693003/photo/1",
+              "media_key": "3_2079552129027760128",
+              "start": 42,
+              "url": "https://t.co/zpCugYZIMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079552139156693003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "竟然有乖乖卖。\n可惜没有绿乖乖。\n以前在台湾写码子的时候，人手一个绿乖乖。（假的） https://t.co/zpCugYZIMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2060502017668534481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7522,
+          "following_count": 4542,
+          "like_count": 43432,
+          "listed_count": 18,
+          "media_count": 3180,
+          "tweet_count": 42898
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904848068383510529"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1904848073320259635",
+    "created_at": "2025-03-26T10:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T11:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904848073320259635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTq5w1d75X",
+          "end": 38,
+          "expanded_url": "https://x.com/IXXA00/status/1904848073320259635/photo/1",
+          "media_key": "3_1904848068383510529",
+          "start": 15,
+          "url": "https://t.co/aTq5w1d75X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904848073320259635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 83,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "味道很好，我也不知道叫什么。 https://t.co/aTq5w1d75X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1904848068383510529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9hOdMWkAE2D5L.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904848068383510529"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1904848073320259635",
+        "created_at": "2025-03-26T10:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904848073320259635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTq5w1d75X",
+              "end": 38,
+              "expanded_url": "https://x.com/IXXA00/status/1904848073320259635/photo/1",
+              "media_key": "3_1904848068383510529",
+              "start": 15,
+              "url": "https://t.co/aTq5w1d75X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904848073320259635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "味道很好，我也不知道叫什么。 https://t.co/aTq5w1d75X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1904509813540745281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 2789,
+          "like_count": 19093,
+          "listed_count": 6,
+          "media_count": 1285,
+          "tweet_count": 18108
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

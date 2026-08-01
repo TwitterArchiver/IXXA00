@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982293281129308412",
+    "created_at": "2025-10-26T13:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T14:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982437783001251846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797045155674865665",
+          "start": 0,
+          "username": "mgz1suming"
+        },
+        {
+          "end": 23,
+          "id": "1725486340542775296",
+          "start": 12,
+          "username": "myaukarova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982437783001251846",
+    "in_reply_to_user_id": "1797045155674865665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982437363600032116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mgz1suming @myaukarova 我可会了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-26T13:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982437783001251846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797045155674865665",
+              "start": 0,
+              "username": "mgz1suming"
+            },
+            {
+              "end": 23,
+              "id": "1725486340542775296",
+              "start": 12,
+              "username": "myaukarova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982437783001251846",
+        "in_reply_to_user_id": "1797045155674865665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982437363600032116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mgz1suming @myaukarova 我可会了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797045155674865665",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-26T13:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982437363600032116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            },
+            {
+              "end": 19,
+              "id": "1725486340542775296",
+              "start": 8,
+              "username": "myaukarova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982437363600032116",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982433339320787445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 @myaukarova 666现学现用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 4096,
+          "like_count": 30603,
+          "listed_count": 10,
+          "media_count": 2265,
+          "tweet_count": 30678
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T23:19:04.000Z",
+        "description": "拒绝滥用药物，拒绝烟酒，立志一直健康活着，希望大家都好好的",
+        "id": "1797045155674865665",
+        "name": "弥狗子💊🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982313978706411520/4aBy5ZLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "mgz1suming",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "关注喵卡酱喵，关注喵卡洛娃谢谢喵",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "超绝无敌暴猫战士喵卡酱🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964898609469739008/PORyHOjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 181,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2373
+        },
+        "username": "myaukarova",
+        "verified": false
+      }
+    ]
+  }
+}

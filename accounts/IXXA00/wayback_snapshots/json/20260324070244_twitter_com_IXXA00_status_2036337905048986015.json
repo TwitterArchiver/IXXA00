@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2036208658733039730",
+    "created_at": "2026-03-24T07:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036337905048986015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757236052551745536",
+          "start": 0,
+          "username": "HomeboyJessonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036337905048986015",
+    "in_reply_to_user_id": "1757236052551745536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036336779394163027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HomeboyJessonn 我爸家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2036208658733039730",
+        "created_at": "2026-03-24T07:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036337905048986015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757236052551745536",
+              "start": 0,
+              "username": "HomeboyJessonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036337905048986015",
+        "in_reply_to_user_id": "1757236052551745536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036336779394163027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HomeboyJessonn 我爸家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757236052551745536",
+        "conversation_id": "2036208658733039730",
+        "created_at": "2026-03-24T06:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036336779394163027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036336779394163027",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036208658733039730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好重的中年男人味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6359,
+          "following_count": 4471,
+          "like_count": 36517,
+          "listed_count": 16,
+          "media_count": 2663,
+          "tweet_count": 36887
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T02:51:50.000Z",
+        "description": "叽里咕噜说什么呢 给我拿两万块钱",
+        "id": "1757236052551745536",
+        "name": "恶魔之王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968555326959124480/W51Uczvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 202,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 243
+        },
+        "username": "HomeboyJessonn",
+        "verified": false
+      }
+    ]
+  }
+}

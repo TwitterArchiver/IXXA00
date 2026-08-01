@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2071181910425137207",
+    "created_at": "2026-06-29T05:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071460484960890940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "730691288165699584",
+          "start": 0,
+          "username": "Mr_zongzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071460484960890940",
+    "in_reply_to_user_id": "730691288165699584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071454839796830410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_zongzi 我是河南人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2071181910425137207",
+        "created_at": "2026-06-29T05:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071460484960890940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "730691288165699584",
+              "start": 0,
+              "username": "Mr_zongzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071460484960890940",
+        "in_reply_to_user_id": "730691288165699584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071454839796830410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_zongzi 我是河南人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "730691288165699584",
+        "conversation_id": "2071181910425137207",
+        "created_at": "2026-06-29T04:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071454839796830410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071454839796830410",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071181910425137207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 怎么喝出胡辣汤味的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期四重。/🎺：@islaixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省 鞍山市",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7364,
+          "following_count": 4515,
+          "like_count": 42410,
+          "listed_count": 18,
+          "media_count": 3091,
+          "tweet_count": 41899
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-12T09:29:13.000Z",
+        "description": "INTP/产品经理/重仓猛干，浮盈加仓，频繁交易，技术分析。基本上美好，早晚得势😈\n🦋：https://t.co/zcbbyiVW1k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/zongzi…",
+                "end": 67,
+                "expanded_url": "https://bsky.app/profile/zongzi666.bsky.social",
+                "start": 44,
+                "url": "https://t.co/zcbbyiVW1k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZONGZI-000",
+                "end": 23,
+                "expanded_url": "https://github.com/ZONGZI-000",
+                "start": 0,
+                "url": "https://t.co/S8HreJNkkp"
+              }
+            ]
+          }
+        },
+        "id": "730691288165699584",
+        "location": "🌏",
+        "name": "粽子Zongzi",
+        "pinned_tweet_id": "1827540056455716984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063300646082863104/Dv6QUPTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 3116,
+          "like_count": 37446,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 11343
+        },
+        "url": "https://t.co/S8HreJNkkp",
+        "username": "Mr_zongzi",
+        "verified": false
+      }
+    ]
+  }
+}

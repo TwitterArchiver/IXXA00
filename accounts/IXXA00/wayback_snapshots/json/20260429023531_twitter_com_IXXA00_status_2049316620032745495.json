@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049316620032745495",
+    "created_at": "2026-04-29T02:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049316620032745495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/IXXA00/status/2049282930351153624",
+          "start": 8,
+          "url": "https://t.co/gKEeVWcV6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049316620032745495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049282930351153624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没事了，缺钾。 https://t.co/gKEeVWcV6e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049316620032745495",
+        "created_at": "2026-04-29T02:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049316620032745495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/IXXA00/status/2049282930351153624",
+              "start": 8,
+              "url": "https://t.co/gKEeVWcV6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049316620032745495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049282930351153624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没事了，缺钾。 https://t.co/gKEeVWcV6e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049282930351153624",
+        "created_at": "2026-04-29T00:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049282930351153624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049282930351153624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，\n为啥我身上还在抖，都抖了一天了\n？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇/BDSM",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 4485,
+          "like_count": 38898,
+          "listed_count": 19,
+          "media_count": 2796,
+          "tweet_count": 38929
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

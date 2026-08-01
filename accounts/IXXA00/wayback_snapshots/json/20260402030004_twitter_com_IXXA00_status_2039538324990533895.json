@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2039276586348998666",
+    "created_at": "2026-04-02T03:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039538324990533895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807097305067130880",
+          "start": 0,
+          "username": "tompsinsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039538324990533895",
+    "in_reply_to_user_id": "1807097305067130880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039538102172049679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tompsinsky 拆家都行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2039276586348998666",
+        "created_at": "2026-04-02T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039538324990533895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807097305067130880",
+              "start": 0,
+              "username": "tompsinsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039538324990533895",
+        "in_reply_to_user_id": "1807097305067130880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039538102172049679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tompsinsky 拆家都行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807097305067130880",
+        "conversation_id": "2039276586348998666",
+        "created_at": "2026-04-02T02:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039538102172049679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039538102172049679",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039276586348998666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可以翻窗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要成为一群太阳，成为你石板上刻画的绚烂群星。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2039534008124781004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6391,
+          "following_count": 4473,
+          "like_count": 36863,
+          "listed_count": 16,
+          "media_count": 2686,
+          "tweet_count": 37256
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:02:43.000Z",
+        "description": "多伦多 男娘爱好者 缚手 约克大学phd",
+        "id": "1807097305067130880",
+        "location": "卡尔克萨 哈利湖",
+        "name": "tompsinsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918823208658014209/g-cLCvhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 224,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 72
+        },
+        "username": "tompsinsky",
+        "verified": false
+      }
+    ]
+  }
+}

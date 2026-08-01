@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2032327646156292187",
+    "created_at": "2026-03-13T05:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032327646156292187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dominos_UK/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Dominos_UK/status/2032122963311419531",
+          "start": 7,
+          "url": "https://t.co/cW5HTbEgOs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032327646156292187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032122963311419531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这馅饼店疯了 https://t.co/cW5HTbEgOs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2032327646156292187",
+        "created_at": "2026-03-13T05:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032327646156292187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dominos_UK/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Dominos_UK/status/2032122963311419531",
+              "start": 7,
+              "url": "https://t.co/cW5HTbEgOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032327646156292187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032122963311419531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这馅饼店疯了 https://t.co/cW5HTbEgOs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89214789",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026427301",
+              "name": "Domino's Pizza"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026427301",
+              "name": "Domino's Pizza"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2032122963311419531",
+        "created_at": "2026-03-12T15:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032122963311419531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032122963311419531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "pineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\nno"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 804,
+          "impression_count": 1185778,
+          "like_count": 9074,
+          "quote_count": 961,
+          "reply_count": 1775,
+          "retweet_count": 2124
+        },
+        "reply_settings": "everyone",
+        "text": "pineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple\npineapple \npineapple \npineapple \npineapple"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "主包很可爱。/gender irrelevant/non-binary-ish/post-label",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服小i",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5768,
+          "following_count": 4469,
+          "like_count": 36173,
+          "listed_count": 14,
+          "media_count": 2643,
+          "tweet_count": 36504
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-11T15:56:28.000Z",
+        "description": "Mostly chatting football. Sometimes pizza.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dominos.co.uk",
+                "end": 23,
+                "expanded_url": "https://www.dominos.co.uk/",
+                "start": 0,
+                "url": "https://t.co/MRgrRg8IzK"
+              }
+            ]
+          }
+        },
+        "id": "89214789",
+        "location": "UK",
+        "name": "Domino's Pizza UK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843211328489476096/JdYKZx27_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306085,
+          "following_count": 196,
+          "like_count": 11202,
+          "listed_count": 640,
+          "media_count": 5888,
+          "tweet_count": 535198
+        },
+        "url": "https://t.co/MRgrRg8IzK",
+        "username": "Dominos_UK",
+        "verified": true
+      }
+    ]
+  }
+}

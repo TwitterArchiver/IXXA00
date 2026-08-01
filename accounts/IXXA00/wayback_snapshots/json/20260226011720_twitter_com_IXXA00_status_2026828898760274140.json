@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2026828898760274140",
+    "created_at": "2026-02-26T01:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026828898760274140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ami__231/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ami__231/status/2026722244949656052",
+          "start": 6,
+          "url": "https://t.co/96AZR65Kdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026828898760274140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026722244949656052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样。 https://t.co/96AZR65Kdk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22753,
+        "height": 2048,
+        "media_key": "13_2026722092230782977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026722092230782977/img/Ma_bqQlm4CmKnTP-.jpg",
+        "public_metrics": {
+          "view_count": 1762584
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026722092230782977/vid/avc1/480x854/7S371KtufwDCXfWN.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026722092230782977/vid/avc1/1150x2048/5_l77FTs0iEVKc8H.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026722092230782977/vid/avc1/320x568/XtjPiCISpGLr4of_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026722092230782977/vid/avc1/720x1282/EcfY1AAhj-pKfr4j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026722092230782977/pl/Sv0s62xNny6UOLRQ.m3u8"
+          }
+        ],
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2026828898760274140",
+        "created_at": "2026-02-26T01:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026828898760274140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ami__231/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ami__231/status/2026722244949656052",
+              "start": 6,
+              "url": "https://t.co/96AZR65Kdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026828898760274140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026722244949656052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样。 https://t.co/96AZR65Kdk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026722092230782977"
+          ]
+        },
+        "author_id": "1867347242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2026722244949656052",
+        "created_at": "2026-02-25T18:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026722244949656052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1RVrfHuFq",
+              "end": 78,
+              "expanded_url": "https://x.com/ami__231/status/2026722244949656052/video/1",
+              "media_key": "13_2026722092230782977",
+              "start": 55,
+              "url": "https://t.co/R1RVrfHuFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026722244949656052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21182,
+          "impression_count": 3232253,
+          "like_count": 38931,
+          "quote_count": 29,
+          "reply_count": 588,
+          "retweet_count": 1602
+        },
+        "reply_settings": "everyone",
+        "text": "いくらトラブルが起きて大事故が起きても\nポーズだけは絶対に崩さないのが\nプロのコスプレイヤーとしての矜持です https://t.co/R1RVrfHuFq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5768,
+          "following_count": 4482,
+          "like_count": 36047,
+          "listed_count": 14,
+          "media_count": 2621,
+          "tweet_count": 36134
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-15T11:19:14.000Z",
+        "description": "自称：地上最強ℂ𝕠𝕤𝕡𝕝𝕒𝕪𝕖𝕣。acosta!や個人撮影会など開いてます。『理想の自分になれるのはコスプレだけ』06産の天然Ⓛsize。",
+        "id": "1867347242",
+        "name": "乙葉らら🩵🤍",
+        "pinned_tweet_id": "2026402164944552190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025777925988155392/-Ay46i5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25682,
+          "following_count": 20,
+          "like_count": 99,
+          "listed_count": 52,
+          "media_count": 19,
+          "tweet_count": 60
+        },
+        "username": "ami__231",
+        "verified": true
+      }
+    ]
+  }
+}

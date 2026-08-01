@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1960304642903949416",
+    "created_at": "2025-08-27T08:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T09:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960617073517977633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497202869480693769",
+          "start": 0,
+          "username": "tianmo73314664"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960617073517977633",
+    "in_reply_to_user_id": "1497202869480693769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960613657781616738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianmo73314664 那你很有福了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1960304642903949416",
+        "created_at": "2025-08-27T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960617073517977633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497202869480693769",
+              "start": 0,
+              "username": "tianmo73314664"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960617073517977633",
+        "in_reply_to_user_id": "1497202869480693769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960613657781616738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianmo73314664 那你很有福了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497202869480693769",
+        "conversation_id": "1960304642903949416",
+        "created_at": "2025-08-27T08:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T09:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960613657781616738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960613657781616738",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960304642903949416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 马上要去沈阳上大学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "容貌焦虑，非常痛苦。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 3361,
+          "like_count": 27781,
+          "listed_count": 9,
+          "media_count": 2080,
+          "tweet_count": 27652
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T13:32:46.000Z",
+        "description": "偏好日系本格，不知名推理写手，fps领域低手和东方领域高手\n关注都会回关",
+        "id": "1497202869480693769",
+        "name": "天末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679456325468819456/tWcyR8mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 738,
+          "like_count": 1134,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 773
+        },
+        "username": "tianmo73314664",
+        "verified": false
+      }
+    ]
+  }
+}

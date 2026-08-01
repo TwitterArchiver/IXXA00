@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043602897448079869",
+    "created_at": "2026-04-14T02:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043885948694602022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2006037489052704768",
+          "start": 0,
+          "username": "Dnn78Bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043885948694602022",
+    "in_reply_to_user_id": "2006037489052704768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043885376117587992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dnn78Bai 不是吧哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043602897448079869",
+        "created_at": "2026-04-14T02:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043885948694602022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2006037489052704768",
+              "start": 0,
+              "username": "Dnn78Bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043885948694602022",
+        "in_reply_to_user_id": "2006037489052704768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043885376117587992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dnn78Bai 不是吧哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006037489052704768",
+        "conversation_id": "2043602897448079869",
+        "created_at": "2026-04-14T02:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043885376117587992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043885376117587992",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043602897448079869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 涨奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6229,
+          "following_count": 4393,
+          "like_count": 37331,
+          "listed_count": 16,
+          "media_count": 2716,
+          "tweet_count": 37725
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T16:22:00.000Z",
+        "description": "",
+        "id": "2006037489052704768",
+        "name": "fan bai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006038068294467584/EN8fSo_D_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 6,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 152
+        },
+        "username": "Dnn78Bai",
+        "verified": true
+      }
+    ]
+  }
+}

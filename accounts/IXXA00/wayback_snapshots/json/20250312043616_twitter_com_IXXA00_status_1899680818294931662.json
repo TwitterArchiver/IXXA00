@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1899660579129729537",
+    "created_at": "2025-03-12T04:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T05:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899680818294931662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1643149234517209088",
+          "start": 0,
+          "username": "J1angyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899680818294931662",
+    "in_reply_to_user_id": "1643149234517209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899678492360601636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1angyl 那就上厕所被！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1899660579129729537",
+        "created_at": "2025-03-12T04:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T05:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899680818294931662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1643149234517209088",
+              "start": 0,
+              "username": "J1angyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899680818294931662",
+        "in_reply_to_user_id": "1643149234517209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899678492360601636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1angyl 那就上厕所被！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643149234517209088",
+        "conversation_id": "1899660579129729537",
+        "created_at": "2025-03-12T04:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T05:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899678492360601636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899678492360601636",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899660579129729537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 要是腹泻了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "查无此人。",
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899646835691515904/zV86yMHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 2596,
+          "like_count": 17896,
+          "listed_count": 6,
+          "media_count": 1219,
+          "tweet_count": 16967
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T07:11:32.000Z",
+        "description": "努力写作",
+        "id": "1643149234517209088",
+        "name": "yi",
+        "pinned_tweet_id": "1863304162055696555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834157006338621442/yYniXmAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 672
+        },
+        "username": "J1angyl",
+        "verified": false
+      }
+    ]
+  }
+}

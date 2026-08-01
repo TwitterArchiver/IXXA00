@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918444562181435699",
+    "created_at": "2025-05-03T05:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T06:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918539949747675409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1268615328",
+          "start": 0,
+          "username": "Oscarpizarro05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918539949747675409",
+    "in_reply_to_user_id": "1268615328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918538263440310298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscarpizarro05 我是抽象主包啊，我能怎么办我只会抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T05:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918539949747675409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1268615328",
+              "start": 0,
+              "username": "Oscarpizarro05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918539949747675409",
+        "in_reply_to_user_id": "1268615328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918538263440310298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscarpizarro05 我是抽象主包啊，我能怎么办我只会抽象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268615328",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T05:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918538263440310298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918538263440310298",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918444562181435699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这么抽象吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3628,
+          "following_count": 2956,
+          "like_count": 21023,
+          "listed_count": 7,
+          "media_count": 1496,
+          "tweet_count": 20366
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-15T03:04:18.000Z",
+        "description": "ok",
+        "id": "1268615328",
+        "name": "Oscar pizarro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897215698746896384/N5VB0MhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 648,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 219
+        },
+        "username": "Oscarpizarro05",
+        "verified": false
+      }
+    ]
+  }
+}

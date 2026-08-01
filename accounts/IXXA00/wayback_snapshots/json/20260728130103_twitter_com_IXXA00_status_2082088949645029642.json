@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2082088949645029642",
+    "created_at": "2026-07-28T13:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082088949645029642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/S_Studio42/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/S_Studio42/status/2056671150504337707",
+          "start": 6,
+          "url": "https://t.co/9GNvLyTW3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082088949645029642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056671150504337707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太残忍了。 https://t.co/9GNvLyTW3j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2082088949645029642",
+        "created_at": "2026-07-28T13:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082088949645029642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/S_Studio42/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/S_Studio42/status/2056671150504337707",
+              "start": 6,
+              "url": "https://t.co/9GNvLyTW3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082088949645029642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056671150504337707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太残忍了。 https://t.co/9GNvLyTW3j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "2056671150504337707",
+        "created_at": "2026-05-19T09:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056671150504337707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056671150504337707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 53761,
+          "like_count": 539,
+          "quote_count": 6,
+          "reply_count": 140,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "你能找到他爱你的证据\n\n这才是他最残忍的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "太阳应该燃烧。❤️我也有足够的爱。/一个热烈、分享欲强、情绪丰富、愿意给予的小孩。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2081982951584399512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7526,
+          "following_count": 4536,
+          "like_count": 43590,
+          "listed_count": 17,
+          "media_count": 3203,
+          "tweet_count": 43189
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "2046830700196933905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83476,
+          "following_count": 92,
+          "like_count": 13007,
+          "listed_count": 142,
+          "media_count": 14,
+          "tweet_count": 2752
+        },
+        "url": "",
+        "username": "S_Studio42",
+        "verified": true
+      }
+    ]
+  }
+}

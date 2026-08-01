@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1965594920162656267",
+    "created_at": "2025-09-10T03:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T04:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965613943231328323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1326496203547181056",
+          "start": 0,
+          "username": "Kevinlove886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965613943231328323",
+    "in_reply_to_user_id": "1326496203547181056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965612977215996225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevinlove886 知豆"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1965612977215996225].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1965612977215996225",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1965612977215996225"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1965594920162656267",
+        "created_at": "2025-09-10T03:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965613943231328323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1326496203547181056",
+              "start": 0,
+              "username": "Kevinlove886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965613943231328323",
+        "in_reply_to_user_id": "1326496203547181056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965612977215996225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevinlove886 知豆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1965073573254738170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3990,
+          "following_count": 3447,
+          "like_count": 28498,
+          "listed_count": 8,
+          "media_count": 2125,
+          "tweet_count": 28583
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-11T12:05:23.000Z",
+        "description": "Longing for freedom     私は長門の意志と精神を受け継ぎ,皆に喜びと笑顔を届けたいと思っています。出来れば,自分を燃やして他の人を照らしたいです。",
+        "id": "1326496203547181056",
+        "location": "JAPAN",
+        "name": "長門有希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662109403213070336/bGE0nWOY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 590,
+          "like_count": 4780,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 8963
+        },
+        "username": "Kevinlove886",
+        "verified": false
+      }
+    ]
+  }
+}

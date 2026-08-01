@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1908917082663829957",
+    "created_at": "2025-04-07T05:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909118574817608126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567125029032443912",
+          "start": 0,
+          "username": "RedDeathCrow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909118574817608126",
+    "in_reply_to_user_id": "1567125029032443912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908917082663829957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RedDeathCrow 好吃，我吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908917082663829957].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1908917082663829957",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1908917082663829957"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1908917082663829957",
+        "created_at": "2025-04-07T05:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909118574817608126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567125029032443912",
+              "start": 0,
+              "username": "RedDeathCrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909118574817608126",
+        "in_reply_to_user_id": "1567125029032443912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908917082663829957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RedDeathCrow 好吃，我吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "内含99.5%纽甜，有🚪谢谢。主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "宇宙甜妹isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448305476239360/O3ggHyR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3595,
+          "following_count": 2885,
+          "like_count": 19624,
+          "listed_count": 6,
+          "media_count": 1359,
+          "tweet_count": 18827
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T12:18:25.000Z",
+        "description": "0.5/185cm/77kg左右🫎喜欢旅游🎒探店🍚奶茶🥤Jellycat🧸爬宠🐍猫猫🐱互关欢迎找我扩列找我玩😉🌹",
+        "id": "1567125029032443912",
+        "location": "麋一样的幽暗府邸",
+        "name": "酒鬼麋鹿Nous🏳️‍🌈",
+        "pinned_tweet_id": "1908032213389660645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874654389832654848/KF8lbM0s_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 235,
+          "like_count": 21947,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 6788
+        },
+        "username": "RedDeathCrow",
+        "verified": false
+      }
+    ]
+  }
+}

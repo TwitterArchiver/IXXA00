@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1989930047814475896",
+    "created_at": "2025-11-17T05:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T06:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990295036018466862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545068736297590785",
+          "start": 0,
+          "username": "_warm_a_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990295036018466862",
+    "in_reply_to_user_id": "1545068736297590785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990292188371238946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_warm_a_ 😰……那真的很烫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1989930047814475896",
+        "created_at": "2025-11-17T05:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990295036018466862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545068736297590785",
+              "start": 0,
+              "username": "_warm_a_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990295036018466862",
+        "in_reply_to_user_id": "1545068736297590785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990292188371238946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_warm_a_ 😰……那真的很烫了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545068736297590785",
+        "conversation_id": "1989930047814475896",
+        "created_at": "2025-11-17T05:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990292188371238946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990292188371238946",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989930047814475896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 锟斤拷烫烫烫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 4548,
+          "like_count": 33153,
+          "listed_count": 11,
+          "media_count": 2365,
+          "tweet_count": 32659
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T15:34:35.000Z",
+        "description": "屑",
+        "id": "1545068736297590785",
+        "location": "蔡英文坟头",
+        "name": "mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686864562036039680/e94CV-A7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 72,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 102
+        },
+        "username": "_warm_a_",
+        "verified": false
+      }
+    ]
+  }
+}

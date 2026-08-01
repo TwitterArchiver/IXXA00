@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2074122221111713842",
+    "created_at": "2026-07-07T09:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074425739722801594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1731719552583802883",
+          "start": 0,
+          "username": "Rix_Y59927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074425739722801594",
+    "in_reply_to_user_id": "1731719552583802883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074425669271089624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rix_Y59927 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2074122221111713842",
+        "created_at": "2026-07-07T09:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074425739722801594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1731719552583802883",
+              "start": 0,
+              "username": "Rix_Y59927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074425739722801594",
+        "in_reply_to_user_id": "1731719552583802883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074425669271089624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rix_Y59927 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731719552583802883",
+        "conversation_id": "2074122221111713842",
+        "created_at": "2026-07-07T09:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074425669271089624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074425669271089624",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074122221111713842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 消失了就算说了也听不到罢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7490,
+          "following_count": 4541,
+          "like_count": 42825,
+          "listed_count": 18,
+          "media_count": 3121,
+          "tweet_count": 42287
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-04T16:58:27.000Z",
+        "description": "",
+        "id": "1731719552583802883",
+        "name": "Rix_Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836252521326874627/RE1ajkk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 119,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "Rix_Y59927",
+        "verified": false
+      }
+    ]
+  }
+}

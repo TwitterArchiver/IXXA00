@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1923665809123180702",
+    "created_at": "2025-05-17T10:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T11:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923681864155529423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1659929871504777217",
+          "start": 0,
+          "username": "jia_pa16244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923681864155529423",
+    "in_reply_to_user_id": "1659929871504777217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923675674575089755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jia_pa16244 我最讨厌这个表情了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1923665809123180702",
+        "created_at": "2025-05-17T10:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923681864155529423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1659929871504777217",
+              "start": 0,
+              "username": "jia_pa16244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923681864155529423",
+        "in_reply_to_user_id": "1659929871504777217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923675674575089755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jia_pa16244 我最讨厌这个表情了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659929871504777217",
+        "conversation_id": "1923665809123180702",
+        "created_at": "2025-05-17T09:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T10:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923675674575089755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923675674575089755",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923665809123180702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就这样爱受不受。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923202205613768704/0P_Mo563_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3025,
+          "like_count": 21850,
+          "listed_count": 7,
+          "media_count": 1571,
+          "tweet_count": 21221
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T14:31:44.000Z",
+        "description": "生如涅槃 死如槍花",
+        "id": "1659929871504777217",
+        "name": "一起看夕陽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918605793106235392/AUPM4aPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 568,
+          "like_count": 2891,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 356
+        },
+        "username": "jia_pa16244",
+        "verified": false
+      }
+    ]
+  }
+}

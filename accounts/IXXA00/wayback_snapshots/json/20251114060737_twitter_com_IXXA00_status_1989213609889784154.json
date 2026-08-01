@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1989165615488372887",
+    "created_at": "2025-11-14T06:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989213609889784154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1094116537005334533",
+          "start": 0,
+          "username": "eettfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989213609889784154",
+    "in_reply_to_user_id": "1094116537005334533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989203195084828831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eettfox 除皱加颈阔肌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1989165615488372887",
+        "created_at": "2025-11-14T06:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989213609889784154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1094116537005334533",
+              "start": 0,
+              "username": "eettfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989213609889784154",
+        "in_reply_to_user_id": "1094116537005334533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989203195084828831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eettfox 除皱加颈阔肌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094116537005334533",
+        "conversation_id": "1989165615488372887",
+        "created_at": "2025-11-14T05:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989203195084828831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989203195084828831",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989165615488372887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 有点东西，这是做了啥项目"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5479,
+          "following_count": 4546,
+          "like_count": 33035,
+          "listed_count": 11,
+          "media_count": 2354,
+          "tweet_count": 32534
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-09T06:11:24.000Z",
+        "description": "想发什么就发什么/想当一个很好的人/我是好人",
+        "id": "1094116537005334533",
+        "name": "茶泡饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864191982756630528/aIZ9l0C0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 92,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 144
+        },
+        "username": "eettfox",
+        "verified": false
+      }
+    ]
+  }
+}

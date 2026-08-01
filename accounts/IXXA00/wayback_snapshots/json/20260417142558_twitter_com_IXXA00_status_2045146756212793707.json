@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2045146756212793707",
+    "created_at": "2026-04-17T14:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045146756212793707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "776961507917639681",
+          "start": 3,
+          "username": "tingyun97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045146756212793707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044973714597634061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingyun97: 人总是会爱上三种人:\n过去的自己，\n和自己相似的人，\n和自己想要成为的人。\n—— 弗洛伊德"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2045146756212793707",
+        "created_at": "2026-04-17T14:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045146756212793707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "776961507917639681",
+              "start": 3,
+              "username": "tingyun97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045146756212793707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044973714597634061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingyun97: 人总是会爱上三种人:\n过去的自己，\n和自己相似的人，\n和自己想要成为的人。\n—— 弗洛伊德"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "776961507917639681",
+        "conversation_id": "2044973714597634061",
+        "created_at": "2026-04-17T02:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044973714597634061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044973714597634061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5069,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "人总是会爱上三种人:\n过去的自己，\n和自己相似的人，\n和自己想要成为的人。\n—— 弗洛伊德"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一个情绪沉重脆弱又细腻的人。我只想安静的当个绿推。",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6444,
+          "following_count": 4401,
+          "like_count": 38048,
+          "listed_count": 16,
+          "media_count": 2738,
+          "tweet_count": 38098
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-17T01:50:33.000Z",
+        "description": "一生負氣成今日 四海無人對夕陽",
+        "id": "776961507917639681",
+        "location": "北平",
+        "name": "停雲",
+        "pinned_tweet_id": "1245338957363195906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959168888891117568/9aZARp5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132615,
+          "following_count": 2167,
+          "like_count": 43483,
+          "listed_count": 454,
+          "media_count": 35867,
+          "tweet_count": 65894
+        },
+        "username": "tingyun97",
+        "verified": true
+      }
+    ]
+  }
+}

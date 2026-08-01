@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891149549701390336"
+      ],
+      "media_source_tweet_id": [
+        "1891149552654123094"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1891299219966763471",
+    "created_at": "2025-02-17T01:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T02:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891299219966763471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529517197437112320",
+          "start": 3,
+          "username": "sharkuuuuuuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tt1vXD2Jvx",
+          "end": 50,
+          "expanded_url": "https://x.com/sharkuuuuuuu/status/1891149552654123094/photo/1",
+          "media_key": "3_1891149549701390336",
+          "start": 27,
+          "url": "https://t.co/Tt1vXD2Jvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891299219966763471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891149552654123094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sharkuuuuuuu: 好可怕好可怕// https://t.co/Tt1vXD2Jvx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1891299219966763471].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1891299219966763471",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1891299219966763471"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1891149549701390336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj62fucXYAA5xLA.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891149549701390336"
+          ]
+        },
+        "author_id": "1529517197437112320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891149552654123094",
+        "created_at": "2025-02-16T15:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T16:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891149552654123094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt1vXD2Jvx",
+              "end": 32,
+              "expanded_url": "https://x.com/sharkuuuuuuu/status/1891149552654123094/photo/1",
+              "media_key": "3_1891149549701390336",
+              "start": 9,
+              "url": "https://t.co/Tt1vXD2Jvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891149552654123094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好可怕好可怕// https://t.co/Tt1vXD2Jvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/聊天机器人/想把大家的心里加满爱/150cm出拳很猛/偶尔文援黄推@IZLA665营业中🔋/本号🚫黄，谢谢。/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "IZLA665"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "私信随意DD但是有🚪",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1890245400176857420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889687262008393728/HE8pTrUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3293,
+          "following_count": 2520,
+          "like_count": 16345,
+          "listed_count": 6,
+          "media_count": 1143,
+          "tweet_count": 15570
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T17:38:19.000Z",
+        "description": "腐烂精神病人^",
+        "id": "1529517197437112320",
+        "location": "昏暗的房间",
+        "name": "七濑湘",
+        "pinned_tweet_id": "1831629437810401608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771167814923210752/ypW_ObkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 256,
+          "like_count": 7633,
+          "listed_count": 11,
+          "media_count": 389,
+          "tweet_count": 4204
+        },
+        "username": "sharkuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2078419555589017885",
+    "created_at": "2026-07-18T10:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:56:49.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078418708624756993",
+      "2078418814438633637",
+      "2078419555589017885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2078250844990914638",
+          "start": 22,
+          "url": "https://t.co/7uC4Ddh06y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078419555589017885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078250844990914638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的同类只会顶着胃溃疡在那嗯造🍵お茶漬け。 https://t.co/7uC4Ddh06y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2078418708624756993",
+        "created_at": "2026-07-18T09:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:56:49.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078418708624756993",
+          "2078418814438633637",
+          "2078419555589017885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2078250844990914638",
+              "start": 15,
+              "url": "https://t.co/7uC4Ddh06y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078418708624756993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078250844990914638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的同类只会在那嗯造茶泡饭。 https://t.co/7uC4Ddh06y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2078418814438633637",
+        "created_at": "2026-07-18T09:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:56:49.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078418708624756993",
+          "2078418814438633637",
+          "2078419555589017885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2078250844990914638",
+              "start": 20,
+              "url": "https://t.co/7uC4Ddh06y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078418814438633637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078250844990914638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的同类只会顶着胃溃疡在那嗯造汤泡饭。 https://t.co/7uC4Ddh06y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2078419555589017885",
+        "created_at": "2026-07-18T10:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:56:49.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078418708624756993",
+          "2078418814438633637",
+          "2078419555589017885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2078250844990914638",
+              "start": 22,
+              "url": "https://t.co/7uC4Ddh06y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078419555589017885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078250844990914638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的同类只会顶着胃溃疡在那嗯造🍵お茶漬け。 https://t.co/7uC4Ddh06y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2078250844990914638",
+        "created_at": "2026-07-17T22:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078250844990914638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aacerf59616/st…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/aacerf59616/status/2078008904953602118",
+              "start": 96,
+              "url": "https://t.co/ehvOQVwz26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078250844990914638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5116,
+          "like_count": 74,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078008904953602118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（发现同类）好耶，我是一只药娘！（摆尾巴）（吞食补佳乐）我是药娘 好耶 （疯狂喵叫）（晃耳朵）好耶 药娘我是药娘，好耶！！！！！（摆动尾巴）（rua耳朵）（使劲撒娇）（在地上打滚）（装可爱） https://t.co/ehvOQVwz26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7510,
+          "following_count": 4539,
+          "like_count": 43267,
+          "listed_count": 18,
+          "media_count": 3162,
+          "tweet_count": 42747
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "前世 @amber_toffee\n🏳️‍⚧️☭ she/her #药娘\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 76,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 53,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6763,
+          "following_count": 1157,
+          "like_count": 6671,
+          "listed_count": 11,
+          "media_count": 326,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

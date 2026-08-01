@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2051680240288870738",
+    "created_at": "2026-05-05T15:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051680240288870738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/IXXA00/status/1762783453139841251",
+          "start": 23,
+          "url": "https://t.co/DvOT10D6gW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051680240288870738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1762783453139841251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7kfo 正在关注4496，强迫症早治好了。 https://t.co/DvOT10D6gW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2051680240288870738",
+        "created_at": "2026-05-05T15:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051680240288870738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/IXXA00/status/1762783453139841251",
+              "start": 23,
+              "url": "https://t.co/DvOT10D6gW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051680240288870738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1762783453139841251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7kfo 正在关注4496，强迫症早治好了。 https://t.co/DvOT10D6gW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1762783453139841251",
+        "created_at": "2024-02-28T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-28T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1762783453139841251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1762783453139841251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3961,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊300fo了但是正在关注是299我要死了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2051269951366017407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 4496,
+          "like_count": 39378,
+          "listed_count": 20,
+          "media_count": 2846,
+          "tweet_count": 39368
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

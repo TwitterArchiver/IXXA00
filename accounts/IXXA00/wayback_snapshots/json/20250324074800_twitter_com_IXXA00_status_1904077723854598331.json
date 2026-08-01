@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1904061484348407876",
+    "created_at": "2025-03-24T07:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T08:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904077723854598331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802993535303733248",
+          "start": 0,
+          "username": "Alice72372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904077723854598331",
+    "in_reply_to_user_id": "1802993535303733248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904077649464410427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice72372 只有人机😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1904061484348407876",
+        "created_at": "2025-03-24T07:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T08:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904077723854598331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802993535303733248",
+              "start": 0,
+              "username": "Alice72372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904077723854598331",
+        "in_reply_to_user_id": "1802993535303733248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904077649464410427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice72372 只有人机😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802993535303733248",
+        "conversation_id": "1904061484348407876",
+        "created_at": "2025-03-24T07:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T08:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904077649464410427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904077649464410427",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904061484348407876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 转人工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。更多的我：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3500,
+          "following_count": 2773,
+          "like_count": 18885,
+          "listed_count": 6,
+          "media_count": 1275,
+          "tweet_count": 17929
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T09:16:12.000Z",
+        "description": "社畜 肥宅",
+        "id": "1802993535303733248",
+        "name": "wanhualiuli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860644630897033216/T8WrvHPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 104,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 262
+        },
+        "username": "Alice72372",
+        "verified": false
+      }
+    ]
+  }
+}

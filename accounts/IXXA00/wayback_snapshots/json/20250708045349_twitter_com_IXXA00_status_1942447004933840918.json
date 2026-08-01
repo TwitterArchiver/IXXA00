@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1942431421777469599",
+    "created_at": "2025-07-08T04:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T05:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942447004933840918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1140543686247366656",
+          "start": 0,
+          "username": "TsumiEnatsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942447004933840918",
+    "in_reply_to_user_id": "1140543686247366656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942438981125500981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TsumiEnatsu 给你吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1942431421777469599",
+        "created_at": "2025-07-08T04:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942447004933840918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1140543686247366656",
+              "start": 0,
+              "username": "TsumiEnatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942447004933840918",
+        "in_reply_to_user_id": "1140543686247366656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942438981125500981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TsumiEnatsu 给你吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1140543686247366656",
+        "conversation_id": "1942431421777469599",
+        "created_at": "2025-07-08T04:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942438981125500981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942438981125500981",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942431421777469599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 西瓜分我一口🍉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "麦小蛋isla🥚",
+        "pinned_tweet_id": "1940417596748410985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 3146,
+          "like_count": 25429,
+          "listed_count": 7,
+          "media_count": 1861,
+          "tweet_count": 24912
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-17T08:56:19.000Z",
+        "description": "平静的生活，自由的吐槽\n乐子人来的.jpg",
+        "id": "1140543686247366656",
+        "location": "安居小窝",
+        "name": "江夏千枳",
+        "pinned_tweet_id": "1435664780518465539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798990983616724993/_zTc4b32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 290,
+          "like_count": 357,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 247
+        },
+        "username": "TsumiEnatsu",
+        "verified": false
+      }
+    ]
+  }
+}

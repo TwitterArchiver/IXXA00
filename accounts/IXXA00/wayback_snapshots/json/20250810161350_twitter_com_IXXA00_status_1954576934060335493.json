@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1954576902032879616"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1954576934060335493",
+    "created_at": "2025-08-10T16:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954576934060335493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xLDDMsc8S7",
+          "end": 36,
+          "expanded_url": "https://x.com/IXXA00/status/1954576934060335493/video/1",
+          "media_key": "7_1954576902032879616",
+          "start": 13,
+          "url": "https://t.co/xLDDMsc8S7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954576934060335493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上了，人在阴间很正常。 https://t.co/xLDDMsc8S7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15069,
+        "height": 1280,
+        "media_key": "7_1954576902032879616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954576902032879616/pu/img/N1yqivIz66Gl9OIX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954576902032879616/pu/vid/avc1/320x568/w8Y0TEt7G-_MWnOA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954576902032879616/pu/vid/avc1/480x852/1boQvHwsBC71oTzw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954576902032879616/pu/vid/avc1/720x1280/WlNG0T-0OZ8nmkA9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954576902032879616/pu/pl/YxNzIbnwnJr7NEYz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954576902032879616"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1954576934060335493",
+        "created_at": "2025-08-10T16:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954576934060335493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLDDMsc8S7",
+              "end": 36,
+              "expanded_url": "https://x.com/IXXA00/status/1954576934060335493/video/1",
+              "media_key": "7_1954576902032879616",
+              "start": 13,
+              "url": "https://t.co/xLDDMsc8S7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954576934060335493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上了，人在阴间很正常。 https://t.co/xLDDMsc8S7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "pinned_tweet_id": "1954563649172848722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 3247,
+          "like_count": 27063,
+          "listed_count": 5,
+          "media_count": 2006,
+          "tweet_count": 26688
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

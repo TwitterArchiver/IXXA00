@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2075910264973914190",
+    "created_at": "2026-07-13T23:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076804438518575120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001619637759545346",
+          "start": 0,
+          "username": "li_wei56230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076804438518575120",
+    "in_reply_to_user_id": "2001619637759545346",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076785844728271062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li_wei56230 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2075910264973914190",
+        "created_at": "2026-07-13T23:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076804438518575120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001619637759545346",
+              "start": 0,
+              "username": "li_wei56230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076804438518575120",
+        "in_reply_to_user_id": "2001619637759545346",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076785844728271062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li_wei56230 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001619637759545346",
+        "conversation_id": "2075910264973914190",
+        "created_at": "2026-07-13T21:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076785844728271062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076785844728271062",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075910264973914190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 凯尔吸！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7498,
+          "following_count": 4544,
+          "like_count": 43076,
+          "listed_count": 18,
+          "media_count": 3146,
+          "tweet_count": 42586
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T11:45:21.000Z",
+        "description": "一个木讷无聊的人/头像是小红书的老师【Atanaca】画的插画",
+        "id": "2001619637759545346",
+        "name": "我们都在舞台上",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016960915820990467/MULWoq7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 341,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "li_wei56230",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982490086194471035",
+    "created_at": "2025-10-28T06:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983057839531929896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1470383507130093568",
+          "start": 0,
+          "username": "burley2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983057839531929896",
+    "in_reply_to_user_id": "1470383507130093568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983047537255952824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@burley2004 小狗来了属于是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-28T06:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983057839531929896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1470383507130093568",
+              "start": 0,
+              "username": "burley2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983057839531929896",
+        "in_reply_to_user_id": "1470383507130093568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983047537255952824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@burley2004 小狗来了属于是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470383507130093568",
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-28T05:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983047537255952824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983047537255952824",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982490086194471035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 “我在森林里放了一些华夫饼 然后你就出现在我生命里”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 4338,
+          "like_count": 31155,
+          "listed_count": 11,
+          "media_count": 2275,
+          "tweet_count": 31026
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T13:22:03.000Z",
+        "description": "",
+        "id": "1470383507130093568",
+        "name": "Burley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490554498015633408/4edDrBRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "burley2004",
+        "verified": false
+      }
+    ]
+  }
+}

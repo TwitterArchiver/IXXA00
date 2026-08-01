@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1992647907921834398",
+    "created_at": "2025-11-23T17:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992647907921834398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zuimenghuaqizu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zuimenghuaqizue/status/1992611584007696464",
+          "start": 4,
+          "url": "https://t.co/sYUGaJl2Is"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992647907921834398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992611584007696464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只会鲁 https://t.co/sYUGaJl2Is"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1992647907921834398",
+        "created_at": "2025-11-23T17:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992647907921834398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zuimenghuaqizu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zuimenghuaqizue/status/1992611584007696464",
+              "start": 4,
+              "url": "https://t.co/sYUGaJl2Is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992647907921834398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992611584007696464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只会鲁 https://t.co/sYUGaJl2Is"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795043232340119552",
+        "conversation_id": "1992582577379762234",
+        "created_at": "2025-11-23T15:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992611584007696464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992611584007696464",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992582577379762234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 只会彷徨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5545,
+          "following_count": 4551,
+          "like_count": 33726,
+          "listed_count": 11,
+          "media_count": 2396,
+          "tweet_count": 33152
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T10:44:01.000Z",
+        "description": "水货，爱开黄腔",
+        "id": "1795043232340119552",
+        "name": "白羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897097722441949190/ORiMDk3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 187
+        },
+        "username": "zuimenghuaqizue",
+        "verified": false
+      }
+    ]
+  }
+}

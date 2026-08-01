@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1925904088119615722",
+    "created_at": "2025-05-24T01:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T02:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926092774647939455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533794664490455040",
+          "start": 0,
+          "username": "gugu123456gugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926092774647939455",
+    "in_reply_to_user_id": "1533794664490455040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925926908488814689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugu123456gugu 好的老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1925904088119615722",
+        "created_at": "2025-05-24T01:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T02:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926092774647939455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533794664490455040",
+              "start": 0,
+              "username": "gugu123456gugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926092774647939455",
+        "in_reply_to_user_id": "1533794664490455040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925926908488814689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugu123456gugu 好的老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533794664490455040",
+        "conversation_id": "1925904088119615722",
+        "created_at": "2025-05-23T14:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T15:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925926908488814689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925926908488814689",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925904088119615722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好好学习。。。。这玩意跟啥潮流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1925842594208023028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 3017,
+          "like_count": 22060,
+          "listed_count": 7,
+          "media_count": 1585,
+          "tweet_count": 21478
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T12:55:28.000Z",
+        "description": "既非良妇",
+        "id": "1533794664490455040",
+        "name": "急急着火了",
+        "pinned_tweet_id": "1923592826287423968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924373989259915264/ia6sA7nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 317,
+          "like_count": 3281,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1458
+        },
+        "username": "gugu123456gugu",
+        "verified": false
+      }
+    ]
+  }
+}

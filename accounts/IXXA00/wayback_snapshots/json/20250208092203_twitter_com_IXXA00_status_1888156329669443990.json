@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1888076218207199647",
+    "created_at": "2025-02-08T09:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T10:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888156329669443990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1492511040206082048",
+          "start": 0,
+          "username": "G315EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888156329669443990",
+    "in_reply_to_user_id": "1492511040206082048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888147000664703213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G315EX 在别人家里拿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1888076218207199647",
+        "created_at": "2025-02-08T09:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T10:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888156329669443990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1492511040206082048",
+              "start": 0,
+              "username": "G315EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888156329669443990",
+        "in_reply_to_user_id": "1492511040206082048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888147000664703213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G315EX 在别人家里拿的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492511040206082048",
+        "conversation_id": "1888076218207199647",
+        "created_at": "2025-02-08T08:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T09:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888147000664703213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888147000664703213",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888076218207199647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 表情包在哪里下载的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 2479,
+          "like_count": 15824,
+          "listed_count": 6,
+          "media_count": 1106,
+          "tweet_count": 15074
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T14:49:11.000Z",
+        "description": "",
+        "id": "1492511040206082048",
+        "location": "Guangdong",
+        "name": "屎忽魔灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617190738470776833/lfzQOWGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 575,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 204
+        },
+        "username": "G315EX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2045848030423970242",
+    "created_at": "2026-04-19T14:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045866377232396541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912663189923438592",
+          "start": 0,
+          "username": "ZPeng63296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045866377232396541",
+    "in_reply_to_user_id": "1912663189923438592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045863877309837352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZPeng63296 对了，奖励你随便中出券，明早到期。😋✌🏿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2045848030423970242",
+        "created_at": "2026-04-19T14:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045866377232396541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912663189923438592",
+              "start": 0,
+              "username": "ZPeng63296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045866377232396541",
+        "in_reply_to_user_id": "1912663189923438592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045863877309837352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZPeng63296 对了，奖励你随便中出券，明早到期。😋✌🏿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912663189923438592",
+        "conversation_id": "2045848030423970242",
+        "created_at": "2026-04-19T13:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045863877309837352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045863877309837352",
+        "in_reply_to_user_id": "1912663189923438592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045863276526084523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 黑珍珠番茄 (゜-゜)つロ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6468,
+          "following_count": 4412,
+          "like_count": 38155,
+          "listed_count": 16,
+          "media_count": 2747,
+          "tweet_count": 38193
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:24:01.000Z",
+        "description": "",
+        "id": "1912663189923438592",
+        "name": "八级小狂风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912666192936071169/goZqEbJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 455,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 282
+        },
+        "username": "ZPeng63296",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1990943131660062969",
+    "created_at": "2025-11-19T07:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991045946831249848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761719778400698368",
+          "start": 0,
+          "username": "DEfoW125Q347505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991045946831249848",
+    "in_reply_to_user_id": "1761719778400698368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991045473160106351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DEfoW125Q347505 我是isla"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990943131660062969",
+        "created_at": "2025-11-19T07:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991045946831249848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761719778400698368",
+              "start": 0,
+              "username": "DEfoW125Q347505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991045946831249848",
+        "in_reply_to_user_id": "1761719778400698368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991045473160106351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DEfoW125Q347505 我是isla"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761719778400698368",
+        "conversation_id": "1990943131660062969",
+        "created_at": "2025-11-19T07:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991045473160106351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991045473160106351",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990943131660062969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "冷萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991011487989837830/4ufZsIXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5494,
+          "following_count": 4551,
+          "like_count": 33410,
+          "listed_count": 11,
+          "media_count": 2377,
+          "tweet_count": 32817
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T11:49:35.000Z",
+        "description": "我恨有钱人",
+        "id": "1761719778400698368",
+        "name": "CN.Doran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984244355683745792/LJyuTWS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 1289,
+          "like_count": 43472,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 25661
+        },
+        "username": "DEfoW125Q347505",
+        "verified": false
+      }
+    ]
+  }
+}

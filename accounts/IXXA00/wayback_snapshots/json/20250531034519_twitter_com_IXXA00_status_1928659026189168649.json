@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928657481120498071",
+    "created_at": "2025-05-31T03:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928659026189168649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793377526542245888",
+          "start": 0,
+          "username": "CT726D_sky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928659026189168649",
+    "in_reply_to_user_id": "793377526542245888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928657481120498071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CT726D_sky 发生什么了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928657481120498071",
+        "created_at": "2025-05-31T03:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928659026189168649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793377526542245888",
+              "start": 0,
+              "username": "CT726D_sky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928659026189168649",
+        "in_reply_to_user_id": "793377526542245888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928657481120498071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CT726D_sky 发生什么了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "793377526542245888",
+        "conversation_id": "1928657481120498071",
+        "created_at": "2025-05-31T03:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928657481120498071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/IXXA00/status/1928629891815080120",
+              "start": 17,
+              "url": "https://t.co/EZ9N7CmL2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928657481120498071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928629891815080120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "未知書名的開頭，作者持續追更中~ https://t.co/EZ9N7CmL2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 3027,
+          "like_count": 22447,
+          "listed_count": 7,
+          "media_count": 1618,
+          "tweet_count": 21904
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-01T09:01:57.000Z",
+        "description": "",
+        "id": "793377526542245888",
+        "location": "Tainan City, Taiwan",
+        "name": "把悲傷留給自己",
+        "pinned_tweet_id": "1910151225905238058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/793381048943980544/94P_ztMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 1922,
+          "like_count": 34368,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1083
+        },
+        "username": "CT726D_sky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1957041331848790440",
+    "created_at": "2025-08-18T07:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T08:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957348831424827398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930192046108917760",
+          "start": 0,
+          "username": "dachanmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957348831424827398",
+    "in_reply_to_user_id": "1930192046108917760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957345240739713401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachanmiao 老师你好可怜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1957041331848790440",
+        "created_at": "2025-08-18T07:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957348831424827398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930192046108917760",
+              "start": 0,
+              "username": "dachanmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957348831424827398",
+        "in_reply_to_user_id": "1930192046108917760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957345240739713401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachanmiao 老师你好可怜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930192046108917760",
+        "conversation_id": "1957041331848790440",
+        "created_at": "2025-08-18T07:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957345240739713401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957345240739713401",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957088155930116353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 无所谓了 我就当他阳痿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/性别：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1956318087436742723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3879,
+          "following_count": 3313,
+          "like_count": 27442,
+          "listed_count": 5,
+          "media_count": 2045,
+          "tweet_count": 27197
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T09:17:37.000Z",
+        "description": "我有病 不要跟我计较了 好吗 好的",
+        "id": "1930192046108917760",
+        "name": "缠猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934612496649965568/ovuv_Qe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 79,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 407
+        },
+        "username": "dachanmiao",
+        "verified": false
+      }
+    ]
+  }
+}

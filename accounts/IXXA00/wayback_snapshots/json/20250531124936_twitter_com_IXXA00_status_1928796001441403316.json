@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928782305293640026",
+    "created_at": "2025-05-31T12:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T13:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928796001441403316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1857390051677622272",
+          "start": 0,
+          "username": "mlemle14302881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928796001441403316",
+    "in_reply_to_user_id": "1857390051677622272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928789891883655593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mlemle14302881 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928782305293640026",
+        "created_at": "2025-05-31T12:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928796001441403316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857390051677622272",
+              "start": 0,
+              "username": "mlemle14302881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928796001441403316",
+        "in_reply_to_user_id": "1857390051677622272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928789891883655593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mlemle14302881 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857390051677622272",
+        "conversation_id": "1928782305293640026",
+        "created_at": "2025-05-31T12:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928789891883655593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928789891883655593",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928782305293640026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 变态小处男怎么样＼(`Δ’)／"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 3027,
+          "like_count": 22473,
+          "listed_count": 7,
+          "media_count": 1623,
+          "tweet_count": 21942
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T11:48:11.000Z",
+        "description": "男高二🌈/欢迎来扩列聊天~",
+        "id": "1857390051677622272",
+        "location": "北京",
+        "name": "麻了麻了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880273089793265664/hZ1i6NR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 146,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "mlemle14302881",
+        "verified": false
+      }
+    ]
+  }
+}

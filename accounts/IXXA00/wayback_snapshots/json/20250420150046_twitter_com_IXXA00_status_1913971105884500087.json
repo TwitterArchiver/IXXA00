@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1913970798219694348",
+    "created_at": "2025-04-20T15:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T16:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913971105884500087"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1913971105884500087",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913970798219694348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不能有女友感吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1913970798219694348",
+        "created_at": "2025-04-20T15:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913971105884500087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913971105884500087",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913970798219694348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不能有女友感吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1913970798219694348",
+        "created_at": "2025-04-20T14:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T15:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913970798219694348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vox35112635/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Vox35112635/status/1913804263656137116",
+              "start": 20,
+              "url": "https://t.co/OoxUZvCiad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913970798219694348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913804263656137116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们觉得我是这样的吗？\n他没说性别吧？ https://t.co/OoxUZvCiad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，写了你们也不看。🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "🚪52",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1912795515689091380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913970624315428864/3mQ1-xkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 2936,
+          "like_count": 20226,
+          "listed_count": 7,
+          "media_count": 1424,
+          "tweet_count": 19547
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

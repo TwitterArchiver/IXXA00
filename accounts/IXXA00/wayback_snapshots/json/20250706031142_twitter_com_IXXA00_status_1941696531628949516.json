@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941695763232457121",
+    "created_at": "2025-07-06T03:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T04:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941696531628949516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835632340388950016",
+          "start": 0,
+          "username": "Stupid_yao112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941696531628949516",
+    "in_reply_to_user_id": "1835632340388950016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941695763232457121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupid_yao112 你是人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941695763232457121",
+        "created_at": "2025-07-06T03:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941696531628949516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835632340388950016",
+              "start": 0,
+              "username": "Stupid_yao112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941696531628949516",
+        "in_reply_to_user_id": "1835632340388950016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941695763232457121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupid_yao112 你是人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835632340388950016",
+        "conversation_id": "1941695763232457121",
+        "created_at": "2025-07-06T03:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941695763232457121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941695763232457121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是人吗，我是不是人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 3136,
+          "like_count": 25210,
+          "listed_count": 7,
+          "media_count": 1849,
+          "tweet_count": 24769
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T10:50:40.000Z",
+        "description": "嗜睡/东京在住/希望哪天我死后会有人给我收尸/赛博幽灵/大概是mtf",
+        "id": "1835632340388950016",
+        "location": "Tokyo-to, Japan",
+        "name": "Stupid_ヨウ",
+        "pinned_tweet_id": "1922928234259267783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862221019538219008/qik8QhqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 289,
+          "like_count": 3536,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1216
+        },
+        "username": "Stupid_yao112",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2003787272404267299",
+    "created_at": "2025-12-24T13:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T14:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003820339529421054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1053157503461027840",
+          "start": 0,
+          "username": "yifengchen28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003820339529421054",
+    "in_reply_to_user_id": "1053157503461027840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003817273514229999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifengchen28 去给我取快递"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2003787272404267299",
+        "created_at": "2025-12-24T13:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T14:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003820339529421054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1053157503461027840",
+              "start": 0,
+              "username": "yifengchen28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003820339529421054",
+        "in_reply_to_user_id": "1053157503461027840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003817273514229999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifengchen28 去给我取快递"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1053157503461027840",
+        "conversation_id": "2003787272404267299",
+        "created_at": "2025-12-24T13:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T14:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003817273514229999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003817273514229999",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003787272404267299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 后四位更好，9527"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "pinned_tweet_id": "2003145796611654028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 4537,
+          "like_count": 35041,
+          "listed_count": 12,
+          "media_count": 2514,
+          "tweet_count": 34568
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-19T05:34:50.000Z",
+        "description": "维尼写诗 维尼禁止 维尼做不可能的事 维尼学会弹琴写词 维尼失去理智",
+        "id": "1053157503461027840",
+        "name": "维尼写诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326575939766026240/FQKS_O04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3595,
+          "following_count": 5122,
+          "like_count": 423651,
+          "listed_count": 16,
+          "media_count": 909,
+          "tweet_count": 43473
+        },
+        "username": "yifengchen28",
+        "verified": false
+      }
+    ]
+  }
+}

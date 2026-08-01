@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931152726496616745",
+    "created_at": "2025-06-07T08:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T09:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931270467853385820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803116552633610240",
+          "start": 0,
+          "username": "friendloveL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931270467853385820",
+    "in_reply_to_user_id": "1803116552633610240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931261155005304854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friendloveL 老师你是人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931152726496616745",
+        "created_at": "2025-06-07T08:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931270467853385820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803116552633610240",
+              "start": 0,
+              "username": "friendloveL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931270467853385820",
+        "in_reply_to_user_id": "1803116552633610240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931261155005304854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friendloveL 老师你是人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803116552633610240",
+        "conversation_id": "1931152726496616745",
+        "created_at": "2025-06-07T08:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931261155005304854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931261155005304854",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931152726496616745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我是学生😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就这样独自盛开。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 3052,
+          "like_count": 23029,
+          "listed_count": 7,
+          "media_count": 1677,
+          "tweet_count": 22553
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T17:24:29.000Z",
+        "description": "我想成为一个什么样的人呢",
+        "id": "1803116552633610240",
+        "name": "人",
+        "pinned_tweet_id": "1855509672297648393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803116893127188483/wQE4eXfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 54,
+          "like_count": 1953,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1086
+        },
+        "username": "friendloveL",
+        "verified": false
+      }
+    ]
+  }
+}

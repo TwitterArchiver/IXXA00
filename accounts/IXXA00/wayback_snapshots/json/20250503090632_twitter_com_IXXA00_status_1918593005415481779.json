@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918444562181435699",
+    "created_at": "2025-05-03T09:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T10:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918593005415481779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827307367928897536",
+          "start": 0,
+          "username": "broken439967937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918593005415481779",
+    "in_reply_to_user_id": "1827307367928897536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918581333015560561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@broken439967937 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T09:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T10:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918593005415481779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827307367928897536",
+              "start": 0,
+              "username": "broken439967937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918593005415481779",
+        "in_reply_to_user_id": "1827307367928897536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918581333015560561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broken439967937 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827307367928897536",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T08:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T09:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918581333015560561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918581333015560561",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918444562181435699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 地狱笑话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3631,
+          "following_count": 2958,
+          "like_count": 21035,
+          "listed_count": 7,
+          "media_count": 1496,
+          "tweet_count": 20374
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T11:30:10.000Z",
+        "description": "无敌的infp大王",
+        "id": "1827307367928897536",
+        "name": "辍学🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917966757454843904/tlrqBrNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 91,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 117
+        },
+        "username": "broken439967937",
+        "verified": false
+      }
+    ]
+  }
+}

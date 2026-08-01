@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1916793802628518398",
+    "created_at": "2025-04-28T10:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T11:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916798731640516805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516995295787495424",
+          "start": 0,
+          "username": "HojLAabqpoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916798731640516805",
+    "in_reply_to_user_id": "1516995295787495424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916794545448067291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HojLAabqpoB 嗯嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1916793802628518398",
+        "created_at": "2025-04-28T10:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T11:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916798731640516805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516995295787495424",
+              "start": 0,
+              "username": "HojLAabqpoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916798731640516805",
+        "in_reply_to_user_id": "1516995295787495424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916794545448067291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HojLAabqpoB 嗯嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516995295787495424",
+        "conversation_id": "1916793802628518398",
+        "created_at": "2025-04-28T10:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T11:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916794545448067291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916794545448067291",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916793802628518398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 一定會好起來的加油！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三，并且会假装自己是萌萌的小女孩。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1916674712316641709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916676507738800128/Bcpn1bPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3617,
+          "following_count": 2951,
+          "like_count": 20677,
+          "listed_count": 7,
+          "media_count": 1468,
+          "tweet_count": 20024
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T04:20:51.000Z",
+        "description": "QQ擴列中1550419927",
+        "id": "1516995295787495424",
+        "location": "シリウス",
+        "name": "I'mLuvinit",
+        "pinned_tweet_id": "1916747912262062163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916793643324907520/WduRKH8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 350,
+          "like_count": 11610,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 3763
+        },
+        "username": "HojLAabqpoB",
+        "verified": false
+      }
+    ]
+  }
+}

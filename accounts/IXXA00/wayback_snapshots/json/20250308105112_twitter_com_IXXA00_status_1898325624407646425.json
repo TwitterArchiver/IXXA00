@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898325621295419392"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1898322324136284619",
+    "created_at": "2025-03-08T10:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898325624407646425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570466382365728771",
+          "start": 0,
+          "username": "m8o9j6i4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/10cwBXbBqs",
+          "end": 42,
+          "expanded_url": "https://x.com/IXXA00/status/1898325624407646425/photo/1",
+          "media_key": "3_1898325621295419392",
+          "start": 19,
+          "url": "https://t.co/10cwBXbBqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898325624407646425",
+    "in_reply_to_user_id": "1570466382365728771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898324750302372023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m8o9j6i4 好看吗(打电话) https://t.co/10cwBXbBqs"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1898324750302372023].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898324750302372023",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1898324750302372023"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_1898325621295419392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glg1GEVWEAAs5kZ.jpg",
+        "width": 441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898325621295419392"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898322324136284619",
+        "created_at": "2025-03-08T10:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898325624407646425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570466382365728771",
+              "start": 0,
+              "username": "m8o9j6i4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/10cwBXbBqs",
+              "end": 42,
+              "expanded_url": "https://x.com/IXXA00/status/1898325624407646425/photo/1",
+              "media_key": "3_1898325621295419392",
+              "start": 19,
+              "url": "https://t.co/10cwBXbBqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898325624407646425",
+        "in_reply_to_user_id": "1570466382365728771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898324750302372023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m8o9j6i4 好看吗(打电话) https://t.co/10cwBXbBqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "吃不了一点苦并且超级会抱怨。/@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896889420311351296/2OPrka2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 2589,
+          "like_count": 17665,
+          "listed_count": 6,
+          "media_count": 1215,
+          "tweet_count": 16761
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "@mo6ji4 \n最好最善良最可爱的好厚米：@BigFreshShrimp @miku_suki393939\nemmmmmmmmm🚪14000000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "BigFreshShrimp"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "location": "厄普西隆南极总部",
+        "name": "织毛衣的Big青蛙奶奶",
+        "pinned_tweet_id": "1889308544505131314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 318,
+          "like_count": 12997,
+          "listed_count": 0,
+          "media_count": 649,
+          "tweet_count": 4637
+        },
+        "username": "m8o9j6i4",
+        "verified": false
+      }
+    ]
+  }
+}

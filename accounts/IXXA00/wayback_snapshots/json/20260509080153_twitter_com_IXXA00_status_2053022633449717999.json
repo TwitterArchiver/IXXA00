@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2053022633449717999",
+    "created_at": "2026-05-09T08:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053022633449717999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ytyznqcswbzwx/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ytyznqcswbzwx/status/2053021476027314674",
+          "start": 6,
+          "url": "https://t.co/1Gc0Vubgxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053022633449717999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053021476027314674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已开私信。 https://t.co/1Gc0Vubgxe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2053022633449717999",
+        "created_at": "2026-05-09T08:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053022633449717999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ytyznqcswbzwx/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ytyznqcswbzwx/status/2053021476027314674",
+              "start": 6,
+              "url": "https://t.co/1Gc0Vubgxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053022633449717999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053021476027314674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已开私信。 https://t.co/1Gc0Vubgxe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725217360695738371",
+        "conversation_id": "2052824142580506690",
+        "created_at": "2026-05-09T07:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053021476027314674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053021476027314674",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052824142580506690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 孩子为何不开私信呢🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/18/塔罗牌简单咨询：25r/张/线下",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2052824142580506690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7003,
+          "following_count": 4495,
+          "like_count": 39609,
+          "listed_count": 19,
+          "media_count": 2866,
+          "tweet_count": 39551
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-16T18:21:45.000Z",
+        "description": "我的tradwife小药娘在哪里🥺",
+        "id": "1725217360695738371",
+        "location": "東京",
+        "name": "甘美風来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045020043118039040/S6d3nxNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 3578,
+          "like_count": 3947,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 306
+        },
+        "username": "ytyznqcswbzwx",
+        "verified": false
+      }
+    ]
+  }
+}

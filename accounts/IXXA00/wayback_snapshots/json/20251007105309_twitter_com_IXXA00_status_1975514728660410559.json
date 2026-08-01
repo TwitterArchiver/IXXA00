@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975030696948441493",
+    "created_at": "2025-10-07T10:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975514728660410559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482897698051465221",
+          "start": 0,
+          "username": "pt7657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975514728660410559",
+    "in_reply_to_user_id": "1482897698051465221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975513751815389659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pt7657 万物生长呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975030696948441493",
+        "created_at": "2025-10-07T10:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975514728660410559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482897698051465221",
+              "start": 0,
+              "username": "pt7657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975514728660410559",
+        "in_reply_to_user_id": "1482897698051465221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975513751815389659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pt7657 万物生长呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482897698051465221",
+        "conversation_id": "1975030696948441493",
+        "created_at": "2025-10-07T10:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975513751815389659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975513751815389659",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975030696948441493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哥们你每天趴在地上不能是在侵犯地球吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 3823,
+          "like_count": 29847,
+          "listed_count": 9,
+          "media_count": 2217,
+          "tweet_count": 29899
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T02:08:59.000Z",
+        "description": "吾日三省吾身，要做一条安静的咸鱼~",
+        "id": "1482897698051465221",
+        "name": "404 Not Found",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848323127161565184/XRCpx-YC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 192,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 236
+        },
+        "username": "pt7657",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983802419281571960",
+    "created_at": "2025-10-30T14:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983896917341040674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1536210784438456320",
+          "start": 0,
+          "username": "shuiiii9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983896917341040674",
+    "in_reply_to_user_id": "1536210784438456320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983895257780715922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiiii9 求求了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T14:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983896917341040674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1536210784438456320",
+              "start": 0,
+              "username": "shuiiii9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983896917341040674",
+        "in_reply_to_user_id": "1536210784438456320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983895257780715922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiiii9 求求了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536210784438456320",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T13:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983895257780715922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983895257780715922",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983802419281571960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 跪下求它起来（汤姆求求.gif）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5114,
+          "following_count": 4546,
+          "like_count": 31718,
+          "listed_count": 11,
+          "media_count": 2290,
+          "tweet_count": 31427
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T04:56:14.000Z",
+        "description": "💎💙🦋💦🧊🫐🌊🧩",
+        "id": "1536210784438456320",
+        "name": "shuiiii",
+        "pinned_tweet_id": "1720172511969583551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898495980007464960/LwpDq3ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 1634,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 302
+        },
+        "username": "shuiiii9",
+        "verified": false
+      }
+    ]
+  }
+}

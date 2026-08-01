@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1924271818023829507",
+    "created_at": "2025-05-19T05:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T06:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924331362934526282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587367952659394562",
+          "start": 0,
+          "username": "lllllueee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924331362934526282",
+    "in_reply_to_user_id": "1587367952659394562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924314554982695056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lllllueee 妈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1924271818023829507",
+        "created_at": "2025-05-19T05:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T06:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924331362934526282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587367952659394562",
+              "start": 0,
+              "username": "lllllueee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924331362934526282",
+        "in_reply_to_user_id": "1587367952659394562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924314554982695056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllllueee 妈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587367952659394562",
+        "conversation_id": "1924271818023829507",
+        "created_at": "2025-05-19T04:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T05:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924314554982695056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924314554982695056",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924271818023829507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 瓦本卑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "说不定哪天就死了。有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923202205613768704/0P_Mo563_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 3022,
+          "like_count": 21882,
+          "listed_count": 7,
+          "media_count": 1576,
+          "tweet_count": 21287
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T08:56:36.000Z",
+        "description": "求求你关注我吧🥺我人真的很好的\n（没事可以找我聊聊天）",
+        "id": "1587367952659394562",
+        "location": "Jiangsu",
+        "name": "略略略੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649473903222202370/NV_NKFo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1015,
+          "like_count": 11482,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 6663
+        },
+        "username": "lllllueee",
+        "verified": false
+      }
+    ]
+  }
+}

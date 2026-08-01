@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1931485715181051904"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931485716120494415",
+    "created_at": "2025-06-07T22:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T23:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931485716120494415"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931485716120494415",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去哪玩？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-06-08T22:57:34.000Z",
+        "id": "1931485715181051904",
+        "options": [
+          {
+            "label": "鸡鸣寺",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "新街口",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "中山陵",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "在家发呆",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1931485715181051904"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931485716120494415",
+        "created_at": "2025-06-07T22:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T23:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931485716120494415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931485716120494415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去哪玩？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢吃别人对我无法自拔的爱欲。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 3053,
+          "like_count": 23079,
+          "listed_count": 7,
+          "media_count": 1681,
+          "tweet_count": 22596
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

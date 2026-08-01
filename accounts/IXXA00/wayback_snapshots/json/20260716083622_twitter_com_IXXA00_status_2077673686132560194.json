@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2077666185332875725",
+    "created_at": "2026-07-16T08:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077673686132560194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763121326234185728",
+          "start": 0,
+          "username": "Liu1368941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077673686132560194",
+    "in_reply_to_user_id": "1763121326234185728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077670722080850427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu1368941 大家都有喜欢的模式。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2077666185332875725",
+        "created_at": "2026-07-16T08:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077673686132560194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763121326234185728",
+              "start": 0,
+              "username": "Liu1368941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077673686132560194",
+        "in_reply_to_user_id": "1763121326234185728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077670722080850427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu1368941 大家都有喜欢的模式。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763121326234185728",
+        "conversation_id": "2077666185332875725",
+        "created_at": "2026-07-16T08:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077670722080850427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077670722080850427",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077666185332875725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我不喜欢确定任何关系….好像把我们之间的感情固定了一样….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7493,
+          "following_count": 4538,
+          "like_count": 43209,
+          "listed_count": 18,
+          "media_count": 3156,
+          "tweet_count": 42696
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T08:37:49.000Z",
+        "description": "",
+        "id": "1763121326234185728",
+        "name": "Liu.",
+        "pinned_tweet_id": "1875935123948114192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012333353681539072/3n8_8IFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 158,
+          "like_count": 44537,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 4877
+        },
+        "url": "",
+        "username": "Liu1368941",
+        "verified": false
+      }
+    ]
+  }
+}

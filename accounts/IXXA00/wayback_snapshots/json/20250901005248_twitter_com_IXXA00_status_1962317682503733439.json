@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1962213957277815011",
+    "created_at": "2025-09-01T00:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T01:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962317682503733439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702477793182019584",
+          "start": 0,
+          "username": "MikoMikoooy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962317682503733439",
+    "in_reply_to_user_id": "1702477793182019584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962213957277815011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikoMikoooy 太好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1962213957277815011",
+        "created_at": "2025-09-01T00:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T01:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962317682503733439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702477793182019584",
+              "start": 0,
+              "username": "MikoMikoooy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962317682503733439",
+        "in_reply_to_user_id": "1702477793182019584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962213957277815011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikoMikoooy 太好啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702477793182019584",
+        "conversation_id": "1962213957277815011",
+        "created_at": "2025-08-31T18:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T19:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962213957277815011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962213957277815011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1961771229775601717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3954,
+          "following_count": 3394,
+          "like_count": 28132,
+          "listed_count": 9,
+          "media_count": 2097,
+          "tweet_count": 28093
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T00:22:10.000Z",
+        "description": "",
+        "id": "1702477793182019584",
+        "location": "1000km+",
+        "name": "𝐌𝐢𝐤𝐨",
+        "pinned_tweet_id": "1866485909430194655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873335182499123200/b8HtZaLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 4281,
+          "like_count": 26764,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3772
+        },
+        "username": "MikoMikoooy",
+        "verified": false
+      }
+    ]
+  }
+}

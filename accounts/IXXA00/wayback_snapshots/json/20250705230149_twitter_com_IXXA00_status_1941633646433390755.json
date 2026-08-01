@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941627840144773563",
+    "created_at": "2025-07-05T23:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T00:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941633646433390755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "408702956",
+          "start": 0,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941633646433390755",
+    "in_reply_to_user_id": "408702956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941627840144773563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceball_wuwaa 王萌豚，你退休啦？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_1941627834104987648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvIMOlnWwAAYDUz.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941627840144773563",
+        "created_at": "2025-07-05T23:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T00:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941633646433390755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941633646433390755",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941627840144773563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 王萌豚，你退休啦？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941627834104987648"
+          ]
+        },
+        "author_id": "408702956",
+        "conversation_id": "1941627840144773563",
+        "created_at": "2025-07-05T22:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T23:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941627840144773563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVViVRzmQc",
+              "end": 33,
+              "expanded_url": "https://x.com/niceball_wuwaa/status/1941627840144773563/photo/1",
+              "media_key": "3_1941627834104987648",
+              "start": 10,
+              "url": "https://t.co/xVViVRzmQc"
+            },
+            {
+              "display_url": "x.com/rebecca_1574/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/rebecca_1574/status/1941514908455272846",
+              "start": 34,
+              "url": "https://t.co/706y65xfeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941627840144773563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941514908455272846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这老登根本就是我😭 https://t.co/xVViVRzmQc https://t.co/706y65xfeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3736,
+          "following_count": 3136,
+          "like_count": 25201,
+          "listed_count": 7,
+          "media_count": 1854,
+          "tweet_count": 24767
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 雄性萌豚 术力口厨 车万小鬼 舞萌废人 每日加班 低薪社畜 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://www.example.com/",
+                "start": 0,
+                "url": "https://t.co/DqYbDnpkVy"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1935472034886070590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888338555484684288/8oc2KYdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7404,
+          "following_count": 1756,
+          "like_count": 359876,
+          "listed_count": 34,
+          "media_count": 4779,
+          "tweet_count": 60996
+        },
+        "url": "https://t.co/DqYbDnpkVy",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

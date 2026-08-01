@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936296132356800512"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1936292542741725523",
+    "created_at": "2025-06-21T05:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T06:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936296144675684745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490351006097371138",
+          "start": 0,
+          "username": "Akrin_QWQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kdsA3Sb8yh",
+          "end": 34,
+          "expanded_url": "https://x.com/IXXA00/status/1936296144675684745/photo/1",
+          "media_key": "3_1936296132356800512",
+          "start": 11,
+          "url": "https://t.co/kdsA3Sb8yh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936296144675684745",
+    "in_reply_to_user_id": "1490351006097371138",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936295319115120692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akrin_QWQ https://t.co/kdsA3Sb8yh"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1936295319115120692].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1936295319115120692",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1936295319115120692"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1936296132356800512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8bEs0XAAAtijq.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936296132356800512"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1936292542741725523",
+        "created_at": "2025-06-21T05:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936296144675684745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490351006097371138",
+              "start": 0,
+              "username": "Akrin_QWQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdsA3Sb8yh",
+              "end": 34,
+              "expanded_url": "https://x.com/IXXA00/status/1936296144675684745/photo/1",
+              "media_key": "3_1936296132356800512",
+              "start": 11,
+              "url": "https://t.co/kdsA3Sb8yh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936296144675684745",
+        "in_reply_to_user_id": "1490351006097371138",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936295319115120692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akrin_QWQ https://t.co/kdsA3Sb8yh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "面目全非。🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 9,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "鞍山市",
+        "name": "isla🍈",
+        "pinned_tweet_id": "1935636833834348590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 3097,
+          "like_count": 24088,
+          "listed_count": 7,
+          "media_count": 1782,
+          "tweet_count": 23725
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T15:46:45.000Z",
+        "description": "一只阿卡林/mtf🏳️‍⚧️/不定期消失/同類互fo学生/❤️@Somonis42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Somonis42"
+              }
+            ]
+          }
+        },
+        "id": "1490351006097371138",
+        "location": "127.0.0.1",
+        "name": "𝗔𝗸𝗮𝗿𝗶𝗻",
+        "pinned_tweet_id": "1840976568761332109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875397750583652352/Roja5db4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1182,
+          "like_count": 103262,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 6276
+        },
+        "username": "Akrin_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1957824830868185422",
+    "created_at": "2025-08-19T15:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T16:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957831834919748032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "397807690",
+          "start": 0,
+          "username": "hide1983away"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957831834919748032",
+    "in_reply_to_user_id": "397807690",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957830623923696133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hide1983away ？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1957824830868185422",
+        "created_at": "2025-08-19T15:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957831834919748032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397807690",
+              "start": 0,
+              "username": "hide1983away"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957831834919748032",
+        "in_reply_to_user_id": "397807690",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957830623923696133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hide1983away ？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "397807690",
+        "conversation_id": "1957824830868185422",
+        "created_at": "2025-08-19T15:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957830623923696133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957830623923696133",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957824830868185422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 卧槽。吓死了。赶紧撒上一袋椒盐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/性别：随便。/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1956318087436742723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 3318,
+          "like_count": 27494,
+          "listed_count": 7,
+          "media_count": 2049,
+          "tweet_count": 27282
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-25T05:33:37.000Z",
+        "description": "不卷了 退休躺平🤡",
+        "id": "397807690",
+        "location": "Japan",
+        "name": "Da～盘桑（退休了）🧊🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347754596697980932/ZapNT50u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 2220,
+          "like_count": 79934,
+          "listed_count": 11,
+          "media_count": 2610,
+          "tweet_count": 73709
+        },
+        "username": "hide1983away",
+        "verified": false
+      }
+    ]
+  }
+}

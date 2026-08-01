@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049834562143076354"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049834641457401943",
+    "created_at": "2026-04-30T12:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049834641457401943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OnFq5JYbWx",
+          "end": 34,
+          "expanded_url": "https://x.com/IXXA00/status/2049834641457401943/video/1",
+          "media_key": "7_2049834562143076354",
+          "start": 11,
+          "url": "https://t.co/OnFq5JYbWx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049834641457401943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去年冬天的录屏切片。 https://t.co/OnFq5JYbWx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 170483,
+        "height": 1280,
+        "media_key": "7_2049834562143076354",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049834562143076354/pu/img/FmVzqWaO3iWVTgzC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049834562143076354/pu/vid/avc1/320x710/84HA5c2yxbb52NEU.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049834562143076354/pu/vid/avc1/480x1066/9kfaJCYmmywExEt6.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049834562143076354/pu/vid/avc1/576x1280/jkhx0PY5dNy9YGhp.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049834562143076354/pu/pl/8Cd4gXW362mOtx1v.m3u8?tag=25"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049834562143076354"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049834641457401943",
+        "created_at": "2026-04-30T12:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049834641457401943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnFq5JYbWx",
+              "end": 34,
+              "expanded_url": "https://x.com/IXXA00/status/2049834641457401943/video/1",
+              "media_key": "7_2049834562143076354",
+              "start": 11,
+              "url": "https://t.co/OnFq5JYbWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049834641457401943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去年冬天的录屏切片。 https://t.co/OnFq5JYbWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇/BDSM",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "香脆叔丁基锂涂层法夫纳",
+        "pinned_tweet_id": "2049630666841821221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 4487,
+          "like_count": 39021,
+          "listed_count": 19,
+          "media_count": 2806,
+          "tweet_count": 39036
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

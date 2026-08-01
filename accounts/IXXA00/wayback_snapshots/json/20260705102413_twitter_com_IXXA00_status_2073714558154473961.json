@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2073632998197772707",
+    "created_at": "2026-07-05T10:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073714558154473961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012929733621600258",
+          "start": 0,
+          "username": "linyan25355617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073714558154473961",
+    "in_reply_to_user_id": "2012929733621600258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073714010986582334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyan25355617 没有，拿我图当头像的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2073632998197772707",
+        "created_at": "2026-07-05T10:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073714558154473961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012929733621600258",
+              "start": 0,
+              "username": "linyan25355617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073714558154473961",
+        "in_reply_to_user_id": "2012929733621600258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073714010986582334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyan25355617 没有，拿我图当头像的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012929733621600258",
+        "conversation_id": "2073632998197772707",
+        "created_at": "2026-07-05T10:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073714010986582334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073714010986582334",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073632998197772707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 开新号了？这么年轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "需要一份崭新的爱。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7492,
+          "following_count": 4538,
+          "like_count": 42753,
+          "listed_count": 18,
+          "media_count": 3117,
+          "tweet_count": 42218
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T16:47:19.000Z",
+        "description": "平庸，平凡",
+        "id": "2012929733621600258",
+        "name": "瓶中船",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 23,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "linyan25355617",
+        "verified": false
+      }
+    ]
+  }
+}

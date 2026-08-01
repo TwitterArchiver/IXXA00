@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2009107804817420449",
+    "created_at": "2026-01-08T03:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T04:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009107804817420449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/IXXA00/status/2009107655143641249",
+          "start": 20,
+          "url": "https://t.co/2oKjjBd4xr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009107804817420449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009107655143641249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "贴肚子上了主包最近有点宫寒谢谢谢谢谢谢 https://t.co/2oKjjBd4xr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2009107804817420449",
+        "created_at": "2026-01-08T03:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009107804817420449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/IXXA00/status/2009107655143641249",
+              "start": 20,
+              "url": "https://t.co/2oKjjBd4xr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009107804817420449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009107655143641249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "贴肚子上了主包最近有点宫寒谢谢谢谢谢谢 https://t.co/2oKjjBd4xr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2009105473019236866",
+        "created_at": "2026-01-08T03:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009107655143641249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009107655143641249",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009107250699489776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽怎么还有暖贴，真救我狗命了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "主包是主包。🎺：@meetlimecookie 🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "meetlimecookie"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "アイサラ",
+        "pinned_tweet_id": "2008924499211898907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5657,
+          "following_count": 4514,
+          "like_count": 35298,
+          "listed_count": 12,
+          "media_count": 2555,
+          "tweet_count": 35064
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

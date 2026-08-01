@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059890287389163695",
+    "created_at": "2026-05-28T07:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059905696305729929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795395823490240513",
+          "start": 0,
+          "username": "Riven271378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059905696305729929",
+    "in_reply_to_user_id": "1795395823490240513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059904800045900109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riven271378 嗯嗯，我也高兴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059890287389163695",
+        "created_at": "2026-05-28T07:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059905696305729929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795395823490240513",
+              "start": 0,
+              "username": "Riven271378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059905696305729929",
+        "in_reply_to_user_id": "1795395823490240513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059904800045900109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riven271378 嗯嗯，我也高兴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795395823490240513",
+        "conversation_id": "2059890287389163695",
+        "created_at": "2026-05-28T07:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059904800045900109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059904800045900109",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059890287389163695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那真的是太好了！为isla感到高兴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7096,
+          "following_count": 4503,
+          "like_count": 40547,
+          "listed_count": 18,
+          "media_count": 2970,
+          "tweet_count": 40423
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T10:05:12.000Z",
+        "description": "INTJ",
+        "id": "1795395823490240513",
+        "location": "宇宙尽头",
+        "name": "宇宙探索指南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031942943444217856/3WNmkBSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 62,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 222
+        },
+        "username": "Riven271378",
+        "verified": false
+      }
+    ]
+  }
+}

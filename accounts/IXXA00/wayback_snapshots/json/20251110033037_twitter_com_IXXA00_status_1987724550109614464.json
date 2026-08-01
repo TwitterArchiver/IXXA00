@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1987724548905844736"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987724550109614464",
+    "created_at": "2025-11-10T03:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T04:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987724550109614464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987724550109614464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中午了，吃饭吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-11-11T03:30:37.000Z",
+        "id": "1987724548905844736",
+        "options": [
+          {
+            "label": "不吃",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "吃一点",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "好吃多吃",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "干tm今天我就是要吃爆",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1987724548905844736"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987724550109614464",
+        "created_at": "2025-11-10T03:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T04:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987724550109614464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987724550109614464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午了，吃饭吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "喵喵不乖，打。有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986977084263354368/3gtkdMmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 4543,
+          "like_count": 32760,
+          "listed_count": 11,
+          "media_count": 2330,
+          "tweet_count": 32237
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

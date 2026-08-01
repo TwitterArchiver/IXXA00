@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1905776035402317825"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1905776267716333719",
+    "created_at": "2025-03-29T00:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T01:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905776267716333719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Zt8vHF0P8",
+          "end": 31,
+          "expanded_url": "https://x.com/IXXA00/status/1905776267716333719/video/1",
+          "media_key": "7_1905776035402317825",
+          "start": 8,
+          "url": "https://t.co/8Zt8vHF0P8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905776267716333719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算了，管他呢。 https://t.co/8Zt8vHF0P8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33245,
+        "height": 1280,
+        "media_key": "7_1905776035402317825",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905776035402317825/pu/img/CqUctLq04yaR4YAX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905776035402317825/pu/vid/avc1/320x568/Cf7UfYH6VFXeCjYE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905776035402317825/pu/vid/avc1/480x852/fXFenINUJG_hc_DW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905776035402317825/pu/vid/avc1/720x1280/n2a_lUY9jEYqEK4C.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905776035402317825/pu/pl/P1klcRXoq84MKrH9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905776035402317825"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1905776267716333719",
+        "created_at": "2025-03-29T00:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905776267716333719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Zt8vHF0P8",
+              "end": 31,
+              "expanded_url": "https://x.com/IXXA00/status/1905776267716333719/video/1",
+              "media_key": "7_1905776035402317825",
+              "start": 8,
+              "url": "https://t.co/8Zt8vHF0P8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905776267716333719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了，管他呢。 https://t.co/8Zt8vHF0P8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。真实DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 2801,
+          "like_count": 19256,
+          "listed_count": 6,
+          "media_count": 1299,
+          "tweet_count": 18296
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

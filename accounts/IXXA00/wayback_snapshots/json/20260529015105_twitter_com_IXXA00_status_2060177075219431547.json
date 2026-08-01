@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059985840424775940",
+    "created_at": "2026-05-29T01:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060177075219431547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041735253929422850",
+          "start": 0,
+          "username": "DoroDoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060177075219431547",
+    "in_reply_to_user_id": "2041735253929422850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059985840424775940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoroDoge 去红灯区当臭婊子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059985840424775940",
+        "created_at": "2026-05-29T01:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060177075219431547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041735253929422850",
+              "start": 0,
+              "username": "DoroDoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060177075219431547",
+        "in_reply_to_user_id": "2041735253929422850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059985840424775940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoroDoge 去红灯区当臭婊子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041735253929422850",
+        "conversation_id": "2059985840424775940",
+        "created_at": "2026-05-28T13:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059985840424775940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059985840424775940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1472,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你一天时间：\n\n不做爸爸，不做丈夫，不做儿子，只做自己，你最想做什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7115,
+          "following_count": 4505,
+          "like_count": 40658,
+          "listed_count": 18,
+          "media_count": 2972,
+          "tweet_count": 40473
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T04:30:35.000Z",
+        "description": "Vibe Coding",
+        "id": "2041735253929422850",
+        "name": "DoroDoge",
+        "pinned_tweet_id": "2059118167704977457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046082643629154304/XsM-1IsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1175,
+          "like_count": 1131,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1082
+        },
+        "username": "DoroDoge",
+        "verified": true
+      }
+    ]
+  }
+}

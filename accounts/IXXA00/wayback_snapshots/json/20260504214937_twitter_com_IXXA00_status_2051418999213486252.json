@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2051135157542031555",
+    "created_at": "2026-05-04T21:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T22:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051418999213486252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803039087420489728",
+          "start": 0,
+          "username": "chiko495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051418999213486252",
+    "in_reply_to_user_id": "1803039087420489728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051393933431935180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiko495 主包是猪降临"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2051135157542031555",
+        "created_at": "2026-05-04T21:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051418999213486252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1803039087420489728",
+              "start": 0,
+              "username": "chiko495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051418999213486252",
+        "in_reply_to_user_id": "1803039087420489728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051393933431935180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiko495 主包是猪降临"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803039087420489728",
+        "conversation_id": "2051135157542031555",
+        "created_at": "2026-05-04T20:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T21:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051393933431935180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051393933431935180",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051135157542031555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 反过来讲看不出来哪里不漂亮()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2051269951366017407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6996,
+          "following_count": 4495,
+          "like_count": 39318,
+          "listed_count": 19,
+          "media_count": 2841,
+          "tweet_count": 39316
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-18T12:16:41.000Z",
+        "description": "喵喵喵",
+        "id": "1803039087420489728",
+        "name": "chiko",
+        "pinned_tweet_id": "1907848512886419613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050316932558344192/41Trnpmg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 284,
+          "like_count": 17507,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 8531
+        },
+        "username": "chiko495",
+        "verified": false
+      }
+    ]
+  }
+}

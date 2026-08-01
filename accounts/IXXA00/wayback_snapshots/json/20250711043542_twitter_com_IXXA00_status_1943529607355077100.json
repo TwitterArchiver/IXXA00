@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1943282051802894748",
+    "created_at": "2025-07-11T04:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T05:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943529607355077100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760680069415174144",
+          "start": 0,
+          "username": "KoitoSiamese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943529607355077100",
+    "in_reply_to_user_id": "1760680069415174144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943282051802894748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoitoSiamese 老师你是逻辑猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1943282051802894748",
+        "created_at": "2025-07-11T04:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T05:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943529607355077100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760680069415174144",
+              "start": 0,
+              "username": "KoitoSiamese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943529607355077100",
+        "in_reply_to_user_id": "1760680069415174144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943282051802894748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoitoSiamese 老师你是逻辑猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760680069415174144",
+        "conversation_id": "1943282051802894748",
+        "created_at": "2025-07-10T12:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943282051802894748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943282051802894748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 188,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人记得我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "91年/1x岁/170/76kg，梦想是在酒吧坐台。",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "总不能叫isla吧",
+        "pinned_tweet_id": "1943302738663870950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 3151,
+          "like_count": 25625,
+          "listed_count": 6,
+          "media_count": 1874,
+          "tweet_count": 25133
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T14:57:01.000Z",
+        "description": "纸壳做的猫 / 幸福寻觅中 / 监狱中使用小号 @Koitosiamese1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "Koitosiamese1"
+              }
+            ]
+          }
+        },
+        "id": "1760680069415174144",
+        "location": "猫窝",
+        "name": "番茄暹罗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760683093663580160/H-YLCSr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 82,
+          "like_count": 6243,
+          "listed_count": 7,
+          "media_count": 438,
+          "tweet_count": 8191
+        },
+        "username": "KoitoSiamese",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1901431955092127808",
+    "created_at": "2025-03-17T02:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T03:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901463946990587907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1570424690212216835",
+          "start": 0,
+          "username": "DIOGW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901463946990587907",
+    "in_reply_to_user_id": "1570424690212216835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901463846424044021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DIOGW1 你看，立刻就冷淡了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1901431955092127808",
+        "created_at": "2025-03-17T02:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T03:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901463946990587907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1570424690212216835",
+              "start": 0,
+              "username": "DIOGW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901463946990587907",
+        "in_reply_to_user_id": "1570424690212216835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901463846424044021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIOGW1 你看，立刻就冷淡了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570424690212216835",
+        "conversation_id": "1901431955092127808",
+        "created_at": "2025-03-17T02:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T03:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901463846424044021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901463846424044021",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901463242200793322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哦哦哦，好的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "The ISLA is made up of volcanic ash.",
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "火山积灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901429421829173248/2hNrFo2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 2658,
+          "like_count": 18229,
+          "listed_count": 6,
+          "media_count": 1242,
+          "tweet_count": 17254
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T14:50:08.000Z",
+        "description": "被悲伤笼罩",
+        "id": "1570424690212216835",
+        "name": "残阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774169602190356480/b_qGoM6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 157,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 843
+        },
+        "username": "DIOGW1",
+        "verified": false
+      }
+    ]
+  }
+}

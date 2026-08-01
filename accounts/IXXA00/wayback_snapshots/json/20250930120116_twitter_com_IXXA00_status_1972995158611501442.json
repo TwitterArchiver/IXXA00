@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1972938834301309187",
+    "created_at": "2025-09-30T12:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T13:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972995158611501442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "397807690",
+          "start": 0,
+          "username": "hide1983away"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972995158611501442",
+    "in_reply_to_user_id": "397807690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972994672407834688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hide1983away 为啥？你该干嘛干嘛被，又不是特地来找我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1972938834301309187",
+        "created_at": "2025-09-30T12:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T13:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972995158611501442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397807690",
+              "start": 0,
+              "username": "hide1983away"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972995158611501442",
+        "in_reply_to_user_id": "397807690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972994672407834688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hide1983away 为啥？你该干嘛干嘛被，又不是特地来找我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "397807690",
+        "conversation_id": "1972938834301309187",
+        "created_at": "2025-09-30T11:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972994672407834688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972994672407834688",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972981608220360877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 啊。那么我就🫩。悲催的跑了？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4125,
+          "following_count": 3604,
+          "like_count": 29286,
+          "listed_count": 8,
+          "media_count": 2189,
+          "tweet_count": 29473
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-25T05:33:37.000Z",
+        "description": "不卷了 退休躺平🤡",
+        "id": "397807690",
+        "location": "Japan",
+        "name": "Da～盘桑（退休了）🧊🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347754596697980932/ZapNT50u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 2225,
+          "like_count": 80989,
+          "listed_count": 12,
+          "media_count": 2741,
+          "tweet_count": 74760
+        },
+        "username": "hide1983away",
+        "verified": false
+      }
+    ]
+  }
+}

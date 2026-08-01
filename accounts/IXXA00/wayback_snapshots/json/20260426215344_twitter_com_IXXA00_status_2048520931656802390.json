@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2048304380571746345",
+    "created_at": "2026-04-26T21:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T22:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048520931656802390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668075049012842497",
+          "start": 0,
+          "username": "MackAbo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048520931656802390",
+    "in_reply_to_user_id": "1668075049012842497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048433780256571657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MackAbo2 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2048304380571746345",
+        "created_at": "2026-04-26T21:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T22:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048520931656802390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668075049012842497",
+              "start": 0,
+              "username": "MackAbo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048520931656802390",
+        "in_reply_to_user_id": "1668075049012842497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048433780256571657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MackAbo2 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668075049012842497",
+        "conversation_id": "2048304380571746345",
+        "created_at": "2026-04-26T16:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048433780256571657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048433780256571657",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048304380571746345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 動畫感很強"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 0,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6870,
+          "following_count": 4460,
+          "like_count": 38718,
+          "listed_count": 18,
+          "media_count": 2787,
+          "tweet_count": 38788
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-12T01:57:45.000Z",
+        "description": "机器人退散！",
+        "id": "1668075049012842497",
+        "location": "新山",
+        "name": "Mack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867937701342900224/rB-9xYXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 60,
+          "like_count": 4590,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 3322
+        },
+        "username": "MackAbo2",
+        "verified": false
+      }
+    ]
+  }
+}

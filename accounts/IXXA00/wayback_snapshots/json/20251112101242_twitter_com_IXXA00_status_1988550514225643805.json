@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988550503937241088"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988550514225643805",
+    "created_at": "2025-11-12T10:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988550514225643805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1Q2FuiGY8",
+          "end": 32,
+          "expanded_url": "https://x.com/IXXA00/status/1988550514225643805/photo/1",
+          "media_key": "3_1988550503937241088",
+          "start": 9,
+          "url": "https://t.co/u1Q2FuiGY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988550514225643805",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上是酸菜火锅。 https://t.co/u1Q2FuiGY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1988550503937241088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jAJcUacAAU6GU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988550503937241088"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988550514225643805",
+        "created_at": "2025-11-12T10:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988550514225643805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1Q2FuiGY8",
+              "end": 32,
+              "expanded_url": "https://x.com/IXXA00/status/1988550514225643805/photo/1",
+              "media_key": "3_1988550503937241088",
+              "start": 9,
+              "url": "https://t.co/u1Q2FuiGY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988550514225643805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上是酸菜火锅。 https://t.co/u1Q2FuiGY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5469,
+          "following_count": 4549,
+          "like_count": 32939,
+          "listed_count": 11,
+          "media_count": 2347,
+          "tweet_count": 32451
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

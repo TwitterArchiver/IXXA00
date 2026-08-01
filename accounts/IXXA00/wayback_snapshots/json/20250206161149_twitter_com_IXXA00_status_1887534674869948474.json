@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1887515195985027224",
+    "created_at": "2025-02-06T16:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T17:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887534674869948474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839738256533118976",
+          "start": 0,
+          "username": "xiangrikui8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887534674869948474",
+    "in_reply_to_user_id": "1839738256533118976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887534411027259546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangrikui8848 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1887515195985027224",
+        "created_at": "2025-02-06T16:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887534674869948474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839738256533118976",
+              "start": 0,
+              "username": "xiangrikui8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887534674869948474",
+        "in_reply_to_user_id": "1839738256533118976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887534411027259546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangrikui8848 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839738256533118976",
+        "conversation_id": "1887515195985027224",
+        "created_at": "2025-02-06T16:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887534411027259546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887534411027259546",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887534229183209956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 非常厉害，这样就不担心你没有好好吃饭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3288,
+          "following_count": 2485,
+          "like_count": 15747,
+          "listed_count": 6,
+          "media_count": 1097,
+          "tweet_count": 15013
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T18:46:10.000Z",
+        "description": "🌻",
+        "id": "1839738256533118976",
+        "name": "风吹过",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840717437140086784/jXH65Fj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 70
+        },
+        "username": "xiangrikui8848",
+        "verified": false
+      }
+    ]
+  }
+}

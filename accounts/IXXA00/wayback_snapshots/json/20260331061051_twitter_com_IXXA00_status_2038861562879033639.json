@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2038789555122516227",
+    "created_at": "2026-03-31T06:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038861562879033639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1279636618874195968",
+          "start": 0,
+          "username": "oredaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038861562879033639",
+    "in_reply_to_user_id": "1279636618874195968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038854536832364628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oredaidai 我觉得行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2038789555122516227",
+        "created_at": "2026-03-31T06:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038861562879033639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1279636618874195968",
+              "start": 0,
+              "username": "oredaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038861562879033639",
+        "in_reply_to_user_id": "1279636618874195968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038854536832364628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oredaidai 我觉得行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279636618874195968",
+        "conversation_id": "2038789555122516227",
+        "created_at": "2026-03-31T05:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038854536832364628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038854536832364628",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038789555122516227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这种处方应该用明黄色的纸写"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "驻波偶尔会在抖子直播43707218480/",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6391,
+          "following_count": 4470,
+          "like_count": 36828,
+          "listed_count": 16,
+          "media_count": 2682,
+          "tweet_count": 37203
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T04:42:32.000Z",
+        "description": "素代々です\nsudaidaidesu\n散歩上手",
+        "id": "1279636618874195968",
+        "location": "Chez moi",
+        "name": "Sudaidai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903293756218150914/owi6evDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 5833,
+          "like_count": 29147,
+          "listed_count": 6,
+          "media_count": 629,
+          "tweet_count": 24551
+        },
+        "username": "oredaidai",
+        "verified": false
+      }
+    ]
+  }
+}

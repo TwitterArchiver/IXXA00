@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1887515195985027224",
+    "created_at": "2025-02-06T15:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T16:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887530328535015793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1600094196341563392",
+          "start": 0,
+          "username": "dkklas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887530328535015793",
+    "in_reply_to_user_id": "1600094196341563392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887529972480549044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dkklas 你好，本人是技术主包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1887515195985027224",
+        "created_at": "2025-02-06T15:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887530328535015793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1600094196341563392",
+              "start": 0,
+              "username": "dkklas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887530328535015793",
+        "in_reply_to_user_id": "1600094196341563392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887529972480549044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dkklas 你好，本人是技术主包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600094196341563392",
+        "conversation_id": "1887515195985027224",
+        "created_at": "2025-02-06T15:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887529972480549044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887529972480549044",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887515195985027224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我草，看起来挺好吃，你还有这本事，厉害厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 2485,
+          "like_count": 15745,
+          "listed_count": 6,
+          "media_count": 1099,
+          "tweet_count": 15011
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T11:46:08.000Z",
+        "description": "能好好说话你就说，不行就果断b了",
+        "id": "1600094196341563392",
+        "name": "抑扬顿挫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884272887487684609/GdeMPNi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 1558,
+          "like_count": 18062,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 1602
+        },
+        "username": "dkklas",
+        "verified": false
+      }
+    ]
+  }
+}

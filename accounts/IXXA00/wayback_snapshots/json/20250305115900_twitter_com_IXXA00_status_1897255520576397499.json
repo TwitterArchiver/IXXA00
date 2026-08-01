@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1897254237333282986",
+    "created_at": "2025-03-05T11:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T12:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897255520576397499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688829520655364096",
+          "start": 0,
+          "username": "notear1y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897255520576397499",
+    "in_reply_to_user_id": "1688829520655364096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897254237333282986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notear1y 晚了老师还是这么抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1897254237333282986",
+        "created_at": "2025-03-05T11:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T12:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897255520576397499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688829520655364096",
+              "start": 0,
+              "username": "notear1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897255520576397499",
+        "in_reply_to_user_id": "1688829520655364096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897254237333282986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notear1y 晚了老师还是这么抽象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688829520655364096",
+        "conversation_id": "1897254237333282986",
+        "created_at": "2025-03-05T11:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T12:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897254237333282986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yeaplo/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yeaplo/status/1897253582359159076",
+              "start": 13,
+              "url": "https://t.co/oBgJ6lhixk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897254237333282986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897253582359159076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这是人能写出来的文字吗 https://t.co/oBgJ6lhixk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这个人什么也不会，只会爱你。/主号@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896889420311351296/2OPrka2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3394,
+          "following_count": 2591,
+          "like_count": 17460,
+          "listed_count": 6,
+          "media_count": 1208,
+          "tweet_count": 16579
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T08:28:47.000Z",
+        "description": "枪枪爆头，好运连连\n大家好我是狙击手不早",
+        "id": "1688829520655364096",
+        "name": "不早",
+        "pinned_tweet_id": "1884227152138457396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861262643270688774/2IyGr_r-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 612,
+          "like_count": 9386,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 326
+        },
+        "username": "notear1y",
+        "verified": false
+      }
+    ]
+  }
+}

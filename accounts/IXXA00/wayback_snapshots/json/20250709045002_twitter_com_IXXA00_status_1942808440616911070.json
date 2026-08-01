@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942808429107802112"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1942808264632312196",
+    "created_at": "2025-07-09T04:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T05:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942808440616911070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DwIh6y4c0C",
+          "end": 28,
+          "expanded_url": "https://x.com/IXXA00/status/1942808440616911070/photo/1",
+          "media_key": "3_1942808429107802112",
+          "start": 5,
+          "url": "https://t.co/DwIh6y4c0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942808440616911070",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942808264632312196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发一点。 https://t.co/DwIh6y4c0C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942808440616911070].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942808440616911070",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942808440616911070"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942808429107802112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvY9-Qua8AAOCuK.jpg",
+        "width": 1352
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942808252342849536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvY9z-OX0AAHKHw.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942808252342849536"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1942808264632312196",
+        "created_at": "2025-07-09T04:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942808264632312196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PFyWkDJKn",
+              "end": 36,
+              "expanded_url": "https://x.com/IXXA00/status/1942808264632312196/photo/1",
+              "media_key": "3_1942808252342849536",
+              "start": 13,
+              "url": "https://t.co/4PFyWkDJKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942808264632312196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没发色图了，发一点。 https://t.co/4PFyWkDJKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是婊子但是没有人让我犯贱。",
+        "id": "1739391734491086848",
+        "name": "总不能叫isla吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 3147,
+          "like_count": 25498,
+          "listed_count": 6,
+          "media_count": 1870,
+          "tweet_count": 24979
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

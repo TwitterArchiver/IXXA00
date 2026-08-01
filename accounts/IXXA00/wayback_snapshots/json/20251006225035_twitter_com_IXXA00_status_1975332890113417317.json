@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975177557910958494",
+    "created_at": "2025-10-06T22:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T23:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975332890113417317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1711338102047100928",
+          "start": 0,
+          "username": "nlggqgu7530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975332890113417317",
+    "in_reply_to_user_id": "1711338102047100928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975332128905961537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nlggqgu7530 完啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975177557910958494",
+        "created_at": "2025-10-06T22:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T23:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975332890113417317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1711338102047100928",
+              "start": 0,
+              "username": "nlggqgu7530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975332890113417317",
+        "in_reply_to_user_id": "1711338102047100928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975332128905961537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nlggqgu7530 完啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711338102047100928",
+        "conversation_id": "1975177557910958494",
+        "created_at": "2025-10-06T22:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T23:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975332128905961537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975332128905961537",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975177557910958494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不打自招😅😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 3755,
+          "like_count": 29711,
+          "listed_count": 9,
+          "media_count": 2217,
+          "tweet_count": 29841
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T11:09:54.000Z",
+        "description": "",
+        "id": "1711338102047100928",
+        "name": "nlggqgu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715358325322510336/LD5O0s5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 299,
+          "like_count": 2952,
+          "listed_count": 8,
+          "media_count": 89,
+          "tweet_count": 4192
+        },
+        "username": "nlggqgu7530",
+        "verified": false
+      }
+    ]
+  }
+}

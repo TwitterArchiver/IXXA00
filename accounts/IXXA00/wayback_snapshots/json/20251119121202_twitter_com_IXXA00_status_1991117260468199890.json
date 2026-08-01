@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1990253555916415138",
+    "created_at": "2025-11-19T12:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T13:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991117260468199890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808945697372450820",
+          "start": 0,
+          "username": "tendowsli28475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991117260468199890",
+    "in_reply_to_user_id": "1808945697372450820",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990794540069060947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tendowsli28475 hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-19T12:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991117260468199890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808945697372450820",
+              "start": 0,
+              "username": "tendowsli28475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991117260468199890",
+        "in_reply_to_user_id": "1808945697372450820",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990794540069060947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tendowsli28475 hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808945697372450820",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-18T14:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990794540069060947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990794540069060947",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990253555916415138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 人一辈子一定要学会一种交通工具，我学的是开冰箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "冷萌",
+        "pinned_tweet_id": "1991057365240881313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991011487989837830/4ufZsIXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498,
+          "following_count": 4550,
+          "like_count": 33468,
+          "listed_count": 11,
+          "media_count": 2378,
+          "tweet_count": 32829
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T19:27:28.000Z",
+        "description": "",
+        "id": "1808945697372450820",
+        "name": "tendowsli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808945766272282626/mieeKCzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 15,
+          "like_count": 99,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 1371
+        },
+        "username": "tendowsli28475",
+        "verified": false
+      }
+    ]
+  }
+}

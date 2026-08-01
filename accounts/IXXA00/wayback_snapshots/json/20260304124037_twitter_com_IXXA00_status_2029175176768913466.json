@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2029114491825475676",
+    "created_at": "2026-03-04T12:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029175176768913466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1149703590535057408",
+          "start": 0,
+          "username": "Ningen2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029175176768913466",
+    "in_reply_to_user_id": "1149703590535057408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029126840259101081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ningen2022 😭谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2029114491825475676",
+        "created_at": "2026-03-04T12:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029175176768913466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1149703590535057408",
+              "start": 0,
+              "username": "Ningen2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029175176768913466",
+        "in_reply_to_user_id": "1149703590535057408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029126840259101081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ningen2022 😭谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1149703590535057408",
+        "conversation_id": "2029114491825475676",
+        "created_at": "2026-03-04T09:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029126840259101081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029126840259101081",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029114491825475676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 来吧，我请客"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是麦的。",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5771,
+          "following_count": 4482,
+          "like_count": 36141,
+          "listed_count": 14,
+          "media_count": 2628,
+          "tweet_count": 36285
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-12T15:34:31.000Z",
+        "description": "直男、猫奴、甜党、已润。",
+        "id": "1149703590535057408",
+        "name": "ningen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1236932268339257344/mx1Kvyjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 903,
+          "like_count": 277,
+          "listed_count": 7,
+          "media_count": 78,
+          "tweet_count": 3819
+        },
+        "username": "Ningen2022",
+        "verified": false
+      }
+    ]
+  }
+}

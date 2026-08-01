@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1985124102177276224",
+    "created_at": "2025-11-03T14:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985349625159528678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1396691980579524614",
+          "start": 0,
+          "username": "4NmurmKUMPWJDr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985349625159528678",
+    "in_reply_to_user_id": "1396691980579524614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985349023994380473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4NmurmKUMPWJDr3 最近没做肠镜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1985124102177276224",
+        "created_at": "2025-11-03T14:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985349625159528678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1396691980579524614",
+              "start": 0,
+              "username": "4NmurmKUMPWJDr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985349625159528678",
+        "in_reply_to_user_id": "1396691980579524614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985349023994380473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4NmurmKUMPWJDr3 最近没做肠镜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396691980579524614",
+        "conversation_id": "1985124102177276224",
+        "created_at": "2025-11-03T14:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985349023994380473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985349023994380473",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985124102177276224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 看看你的肠镜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5338,
+          "following_count": 4759,
+          "like_count": 32313,
+          "listed_count": 11,
+          "media_count": 2309,
+          "tweet_count": 31812
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-24T04:58:22.000Z",
+        "description": "中国大陆🇨🇳普通人",
+        "id": "1396691980579524614",
+        "name": "穿盔甲的松鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975229645156167683/a-TiUsvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 236,
+          "like_count": 765,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1408
+        },
+        "username": "4NmurmKUMPWJDr3",
+        "verified": false
+      }
+    ]
+  }
+}

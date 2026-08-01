@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947452455912149310",
+    "created_at": "2025-07-22T03:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947505082003821048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1569944149746655239",
+          "start": 0,
+          "username": "llzmxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947505082003821048",
+    "in_reply_to_user_id": "1569944149746655239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947504558902849818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llzmxx_ 我是奶茶isla"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947452455912149310",
+        "created_at": "2025-07-22T03:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947505082003821048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1569944149746655239",
+              "start": 0,
+              "username": "llzmxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947505082003821048",
+        "in_reply_to_user_id": "1569944149746655239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947504558902849818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llzmxx_ 我是奶茶isla"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569944149746655239",
+        "conversation_id": "1947452455912149310",
+        "created_at": "2025-07-22T03:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947504558902849818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947504558902849818",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947452455912149310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 😋😋有请奶茶😋😋在哪！在哪！😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 3154,
+          "like_count": 26245,
+          "listed_count": 5,
+          "media_count": 1926,
+          "tweet_count": 25758
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T07:00:50.000Z",
+        "description": "",
+        "id": "1569944149746655239",
+        "name": "琉璃织梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569944830553518081/Lh9CrcUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 129,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 108
+        },
+        "username": "llzmxx_",
+        "verified": false
+      }
+    ]
+  }
+}

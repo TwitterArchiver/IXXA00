@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2081637414372839424"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2081637416138637779",
+    "created_at": "2026-07-27T07:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081637416138637779"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081637416138637779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“拥有”与“自由”是不是一定冲突？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-07-28T07:06:49.000Z",
+        "id": "2081637414372839424",
+        "options": [
+          {
+            "label": "是",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不是",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "其他",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2081637414372839424"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2081637416138637779",
+        "created_at": "2026-07-27T07:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081637416138637779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081637416138637779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“拥有”与“自由”是不是一定冲突？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "本质上是个16～24岁的小女孩",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2079584347494211710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7516,
+          "following_count": 4536,
+          "like_count": 43514,
+          "listed_count": 18,
+          "media_count": 3194,
+          "tweet_count": 43105
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928782305293640026",
+    "created_at": "2025-05-31T13:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T14:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928806698258518165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1813085873598263298",
+          "start": 0,
+          "username": "hkwxsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928806698258518165",
+    "in_reply_to_user_id": "1813085873598263298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928805717734990063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hkwxsl 我才应该对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928782305293640026",
+        "created_at": "2025-05-31T13:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T14:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928806698258518165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1813085873598263298",
+              "start": 0,
+              "username": "hkwxsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928806698258518165",
+        "in_reply_to_user_id": "1813085873598263298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928805717734990063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hkwxsl 我才应该对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813085873598263298",
+        "conversation_id": "1928782305293640026",
+        "created_at": "2025-05-31T13:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T14:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928805717734990063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928805717734990063",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928782305293640026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 对不起🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3028,
+          "like_count": 22476,
+          "listed_count": 7,
+          "media_count": 1623,
+          "tweet_count": 21949
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T05:39:19.000Z",
+        "description": "可能是小动物转发bot。奇怪的言论会自行删除｜日记本https://t.co/52Ovg3TO5F｜巨大猫@Eglantine257",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Eglantine257"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+QLoWmOfE4-9hN…",
+                "end": 49,
+                "expanded_url": "https://t.me/+QLoWmOfE4-9hNzM9",
+                "start": 26,
+                "url": "https://t.co/52Ovg3TO5F"
+              }
+            ]
+          }
+        },
+        "id": "1813085873598263298",
+        "location": "Walk on the wild side",
+        "name": "好困我先睡了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923262917539229696/XU8SbdSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 704,
+          "like_count": 5878,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 689
+        },
+        "username": "hkwxsl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932397315991724032"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1932242268326633980",
+    "created_at": "2025-06-10T11:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T12:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932397318357299283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477635011092393987",
+          "start": 0,
+          "username": "yizhixiaoyu0222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qTWTZSfpBl",
+          "end": 45,
+          "expanded_url": "https://x.com/IXXA00/status/1932397318357299283/photo/1",
+          "media_key": "3_1932397315991724032",
+          "start": 22,
+          "url": "https://t.co/qTWTZSfpBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932397318357299283",
+    "in_reply_to_user_id": "1477635011092393987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932396430259552311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhixiaoyu0222 吃没啦！ https://t.co/qTWTZSfpBl"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932396430259552311].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932396430259552311",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932396430259552311"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1932397315991724032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFBHuCa4AAVRF6.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932397315991724032"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1932242268326633980",
+        "created_at": "2025-06-10T11:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932397318357299283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477635011092393987",
+              "start": 0,
+              "username": "yizhixiaoyu0222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTWTZSfpBl",
+              "end": 45,
+              "expanded_url": "https://x.com/IXXA00/status/1932397318357299283/photo/1",
+              "media_key": "3_1932397315991724032",
+              "start": 22,
+              "url": "https://t.co/qTWTZSfpBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932397318357299283",
+        "in_reply_to_user_id": "1477635011092393987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932396430259552311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhixiaoyu0222 吃没啦！ https://t.co/qTWTZSfpBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢的食物是对我不能自拔的爱欲。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "按摩小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 3078,
+          "like_count": 23306,
+          "listed_count": 7,
+          "media_count": 1709,
+          "tweet_count": 22824
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T13:37:14.000Z",
+        "description": "中文/en｜🇺🇸本在读｜小狗@YYSunny1202｜匿名信箱https://t.co/zhTfIB5GY3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "YYSunny1202"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yizhixiaoyu0222",
+                "end": 54,
+                "expanded_url": "https://ngl.link/yizhixiaoyu0222",
+                "start": 31,
+                "url": "https://t.co/zhTfIB5GY3"
+              }
+            ]
+          }
+        },
+        "id": "1477635011092393987",
+        "location": "Ohio, USA",
+        "name": "蘑菇小᳐羽᳐੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900012603184996352/ZUIbYazm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 409,
+          "like_count": 21180,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 3201
+        },
+        "username": "yizhixiaoyu0222",
+        "verified": false
+      }
+    ]
+  }
+}

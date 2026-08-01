@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1939314360201158917",
+    "created_at": "2025-06-30T05:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T06:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939558436754292797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "816541085564440576",
+          "start": 0,
+          "username": "Chisen_Lupus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939558436754292797",
+    "in_reply_to_user_id": "816541085564440576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 81,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939554846807355498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chisen_Lupus 好圆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1939314360201158917",
+        "created_at": "2025-06-30T05:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939558436754292797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "816541085564440576",
+              "start": 0,
+              "username": "Chisen_Lupus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939558436754292797",
+        "in_reply_to_user_id": "816541085564440576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939554846807355498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chisen_Lupus 好圆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "816541085564440576",
+        "conversation_id": "1939314360201158917",
+        "created_at": "2025-06-30T05:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939554846807355498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chisen_lupus/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/chisen_lupus/status/1508078219429179393",
+              "start": 19,
+              "url": "https://t.co/vaGTzMuhnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939554846807355498",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1508078219429179393",
+            "type": "quoted"
+          },
+          {
+            "id": "1939314360201158917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 窝也有 但没有这么圆 https://t.co/vaGTzMuhnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 26,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938555655847280640/mMSYCZ3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 3118,
+          "like_count": 24655,
+          "listed_count": 8,
+          "media_count": 1830,
+          "tweet_count": 24363
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-04T07:05:40.000Z",
+        "description": "",
+        "id": "816541085564440576",
+        "name": "甜狼赤弦",
+        "pinned_tweet_id": "1559711567410634755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449952702486630402/dYdT1ONc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27788,
+          "following_count": 6993,
+          "like_count": 94578,
+          "listed_count": 44,
+          "media_count": 2758,
+          "tweet_count": 20122
+        },
+        "username": "Chisen_Lupus",
+        "verified": false
+      }
+    ]
+  }
+}

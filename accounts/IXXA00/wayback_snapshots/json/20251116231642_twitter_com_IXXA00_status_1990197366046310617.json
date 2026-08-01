@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1989930047814475896",
+    "created_at": "2025-11-16T23:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T00:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990197366046310617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912142197459398656",
+          "start": 0,
+          "username": "songQwQ23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990197366046310617",
+    "in_reply_to_user_id": "1912142197459398656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990097702680736133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songQwQ23333 点了地三鲜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1989930047814475896",
+        "created_at": "2025-11-16T23:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990197366046310617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912142197459398656",
+              "start": 0,
+              "username": "songQwQ23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990197366046310617",
+        "in_reply_to_user_id": "1912142197459398656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990097702680736133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songQwQ23333 点了地三鲜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912142197459398656",
+        "conversation_id": "1989930047814475896",
+        "created_at": "2025-11-16T16:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990097702680736133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990097702680736133",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989930047814475896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 4546,
+          "like_count": 33110,
+          "listed_count": 11,
+          "media_count": 2360,
+          "tweet_count": 32610
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T13:54:20.000Z",
+        "description": "什么时候死",
+        "id": "1912142197459398656",
+        "location": "美国偏远小岛",
+        "name": "深秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984902056902299648/GjqO43r4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 166,
+          "like_count": 691,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1048
+        },
+        "username": "songQwQ23333",
+        "verified": false
+      }
+    ]
+  }
+}

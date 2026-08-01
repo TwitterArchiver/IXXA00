@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2036991719334699032",
+    "created_at": "2026-03-26T15:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037191135287009493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        },
+        {
+          "end": 27,
+          "id": "1530439255163490304",
+          "start": 11,
+          "username": "xiangguirailway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037191135287009493",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036991719334699032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe @xiangguirailway 宕机……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2036991711705268225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETZK1qbgAEq4Rf.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2036991719334699032",
+        "created_at": "2026-03-26T15:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037191135287009493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            },
+            {
+              "end": 27,
+              "id": "1530439255163490304",
+              "start": 11,
+              "username": "xiangguirailway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037191135287009493",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036991719334699032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe @xiangguirailway 宕机……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036991711705268225"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2036991719334699032",
+        "created_at": "2026-03-26T02:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036991719334699032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuOf2xPP2i",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2036991719334699032/photo/1",
+              "media_key": "3_2036991711705268225",
+              "start": 0,
+              "url": "https://t.co/kuOf2xPP2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036991719334699032",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 50617,
+          "like_count": 277,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kuOf2xPP2i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "驻波偶尔会在抖子直播43707218480",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6395,
+          "following_count": 4470,
+          "like_count": 36622,
+          "listed_count": 16,
+          "media_count": 2672,
+          "tweet_count": 37014
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35272,
+          "following_count": 379,
+          "like_count": 165,
+          "listed_count": 99,
+          "media_count": 12278,
+          "tweet_count": 12354
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-28T06:42:13.000Z",
+        "description": "they/them 💚🏳️‍🌈🏳️‍⚧️\n壮族，小站拍车佬，19岁19年经验专业菜农\n不鉴证！不鉴证！鉴证的可以拉黑了谢谢\n普通话壮话白话英语法语ok\n#GoHabsGo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 76,
+                "tag": "GoHabsGo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qinhuai.straw.page",
+                "end": 23,
+                "expanded_url": "http://qinhuai.straw.page",
+                "start": 0,
+                "url": "https://t.co/NmqRxn5Ae6"
+              }
+            ]
+          }
+        },
+        "id": "1530439255163490304",
+        "location": "通道侗族自治县 / Québec, Canada",
+        "name": "咕 ⚜️🇨🇦🇨🇳",
+        "pinned_tweet_id": "1969572484362944847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002130603999727616/hgUqrf0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 1527,
+          "like_count": 165091,
+          "listed_count": 12,
+          "media_count": 1555,
+          "tweet_count": 66784
+        },
+        "url": "https://t.co/NmqRxn5Ae6",
+        "username": "xiangguirailway",
+        "verified": false
+      }
+    ]
+  }
+}

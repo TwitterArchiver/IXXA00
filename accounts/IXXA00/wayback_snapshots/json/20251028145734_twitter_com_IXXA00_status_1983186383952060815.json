@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983166517715054975",
+    "created_at": "2025-10-28T14:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T15:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983186383952060815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982268780559626240",
+          "start": 0,
+          "username": "allthistime42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983186383952060815",
+    "in_reply_to_user_id": "1982268780559626240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983186041071907181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allthistime42 主包这里0-8度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983166517715054975",
+        "created_at": "2025-10-28T14:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983186383952060815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982268780559626240",
+              "start": 0,
+              "username": "allthistime42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983186383952060815",
+        "in_reply_to_user_id": "1982268780559626240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983186041071907181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allthistime42 主包这里0-8度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982268780559626240",
+        "conversation_id": "1983166517715054975",
+        "created_at": "2025-10-28T14:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983186041071907181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983186041071907181",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983166517715054975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主包那里很冷吗，这么早就戴围巾了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 4352,
+          "like_count": 31270,
+          "listed_count": 11,
+          "media_count": 2280,
+          "tweet_count": 31113
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T02:11:50.000Z",
+        "description": "或许稍微休息一会，我就能飞得更好",
+        "id": "1982268780559626240",
+        "name": "不擅飞翔的伊卡洛斯",
+        "pinned_tweet_id": "1982468736629272584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982820979890860032/wB4sGYMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 67,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 215
+        },
+        "username": "allthistime42",
+        "verified": false
+      }
+    ]
+  }
+}

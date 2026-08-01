@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1961460323652907111",
+    "created_at": "2025-08-29T16:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T17:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961460323652907111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hehuoyuan/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hehuoyuan/status/1961459722047164425",
+          "start": 5,
+          "url": "https://t.co/FwEOjGeqn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961460323652907111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961459722047164425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来个男娘 https://t.co/FwEOjGeqn1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1961460323652907111",
+        "created_at": "2025-08-29T16:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961460323652907111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hehuoyuan/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hehuoyuan/status/1961459722047164425",
+              "start": 5,
+              "url": "https://t.co/FwEOjGeqn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961460323652907111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961459722047164425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来个男娘 https://t.co/FwEOjGeqn1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708874582554513408",
+        "conversation_id": "1961424596952916389",
+        "created_at": "2025-08-29T16:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961459722047164425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961459722047164425",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961424596952916389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哪有男娘。介绍一个给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 3373,
+          "like_count": 27941,
+          "listed_count": 9,
+          "media_count": 2089,
+          "tweet_count": 27870
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:01:10.000Z",
+        "description": "喜欢梗图bot和关注画师老师，还有一些碎碎念(我比较喜欢看每个人的生活)\n\nネタ画像のボットが好きで、イラストレーターの先生をフォローしています。",
+        "id": "1708874582554513408",
+        "location": "地球",
+        "name": "鶴火源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960013605606473728/JODk2s76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 155,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 432
+        },
+        "username": "hehuoyuan",
+        "verified": false
+      }
+    ]
+  }
+}

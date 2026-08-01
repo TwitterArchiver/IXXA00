@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941809832262340904",
+    "created_at": "2025-07-07T07:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T08:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942128615417860235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1334486452705615874",
+          "start": 0,
+          "username": "Johnhana608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942128615417860235",
+    "in_reply_to_user_id": "1334486452705615874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942127111596314747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Johnhana608 丢丢丢丢丢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-07-07T07:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T08:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942128615417860235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1334486452705615874",
+              "start": 0,
+              "username": "Johnhana608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942128615417860235",
+        "in_reply_to_user_id": "1334486452705615874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942127111596314747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johnhana608 丢丢丢丢丢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1334486452705615874",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-07-07T07:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T08:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942127111596314747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942127111596314747",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941809832262340904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哇，还有麦小鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "麦小蛋isla🥚",
+        "pinned_tweet_id": "1940417596748410985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 3141,
+          "like_count": 25336,
+          "listed_count": 7,
+          "media_count": 1855,
+          "tweet_count": 24847
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-03T13:15:54.000Z",
+        "description": "“去相信吧！你最后一定会为人所爱！”",
+        "id": "1334486452705615874",
+        "location": "Niigata City Chuo Ward",
+        "name": "3310（网络乞讨中）",
+        "pinned_tweet_id": "1759212579078213920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889396470899765248/v-LXjxiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 3156,
+          "like_count": 33397,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 8581
+        },
+        "username": "Johnhana608",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1986591336649400398",
+    "created_at": "2025-11-07T03:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T04:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986644181541073143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766286002476511232",
+          "start": 0,
+          "username": "xinaovo72338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986644181541073143",
+    "in_reply_to_user_id": "1766286002476511232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986639983198020029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinaovo72338 说什么呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1986591336649400398",
+        "created_at": "2025-11-07T03:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986644181541073143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766286002476511232",
+              "start": 0,
+              "username": "xinaovo72338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986644181541073143",
+        "in_reply_to_user_id": "1766286002476511232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986639983198020029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinaovo72338 说什么呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766286002476511232",
+        "conversation_id": "1986591336649400398",
+        "created_at": "2025-11-07T03:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986639983198020029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986639983198020029",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986591336649400398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ?这家伙叽哩咕噜说什么呢😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5442,
+          "following_count": 4537,
+          "like_count": 32615,
+          "listed_count": 11,
+          "media_count": 2321,
+          "tweet_count": 32043
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T02:13:03.000Z",
+        "description": "",
+        "id": "1766286002476511232",
+        "location": "/dev/random",
+        "name": "xinaovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921833047600533504/rro52TmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 49,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "xinaovo72338",
+        "verified": false
+      }
+    ]
+  }
+}

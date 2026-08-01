@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2001972206814032198",
+    "created_at": "2025-12-19T11:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T12:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001983324454359422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658853717737652225",
+          "start": 0,
+          "username": "jiqioy122539"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001983324454359422",
+    "in_reply_to_user_id": "1658853717737652225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001972924446908648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiqioy122539 我🚪哥快200人了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2001972206814032198",
+        "created_at": "2025-12-19T11:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001983324454359422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658853717737652225",
+              "start": 0,
+              "username": "jiqioy122539"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001983324454359422",
+        "in_reply_to_user_id": "1658853717737652225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001972924446908648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiqioy122539 我🚪哥快200人了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658853717737652225",
+        "conversation_id": "2001972206814032198",
+        "created_at": "2025-12-19T11:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001972924446908648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001972924446908648",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001972206814032198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 真的有人过🚪啊！我以为你没开张"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是isla。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 4535,
+          "like_count": 34785,
+          "listed_count": 12,
+          "media_count": 2494,
+          "tweet_count": 34378
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T15:15:34.000Z",
+        "description": "嗯 是我",
+        "id": "1658853717737652225",
+        "name": "男闺蜜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921123150030352384/hE8tf5U6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 1420,
+          "like_count": 6124,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 585
+        },
+        "username": "jiqioy122539",
+        "verified": false
+      }
+    ]
+  }
+}

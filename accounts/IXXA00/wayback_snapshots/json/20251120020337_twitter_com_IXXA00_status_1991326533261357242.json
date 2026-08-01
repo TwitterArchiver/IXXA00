@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1991310556075028772",
+    "created_at": "2025-11-20T02:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T03:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991326533261357242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1090219994502197248",
+          "start": 0,
+          "username": "InvasionRabbit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991326533261357242",
+    "in_reply_to_user_id": "1090219994502197248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991326103496192398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InvasionRabbit 赶紧死了继承遗产"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1991310556075028772",
+        "created_at": "2025-11-20T02:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T03:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991326533261357242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1090219994502197248",
+              "start": 0,
+              "username": "InvasionRabbit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991326533261357242",
+        "in_reply_to_user_id": "1090219994502197248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991326103496192398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InvasionRabbit 赶紧死了继承遗产"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090219994502197248",
+        "conversation_id": "1991310556075028772",
+        "created_at": "2025-11-20T02:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T03:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991326103496192398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991326103496192398",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991310556075028772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 大爷老当益壮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5495,
+          "following_count": 4549,
+          "like_count": 33469,
+          "listed_count": 11,
+          "media_count": 2382,
+          "tweet_count": 32850
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T12:07:56.000Z",
+        "description": "",
+        "id": "1090219994502197248",
+        "name": "兔子入侵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090220784918790144/pac4A3xJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 203,
+          "like_count": 4275,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 159
+        },
+        "username": "InvasionRabbit",
+        "verified": false
+      }
+    ]
+  }
+}

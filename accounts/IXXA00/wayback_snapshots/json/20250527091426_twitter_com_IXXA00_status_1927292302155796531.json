@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1927271079204016335",
+    "created_at": "2025-05-27T09:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T10:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927292302155796531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1504365012546170883",
+          "start": 0,
+          "username": "qingshan1117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927292302155796531",
+    "in_reply_to_user_id": "1504365012546170883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927283278089740361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingshan1117 你怎么不去菜市场里找呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1927271079204016335",
+        "created_at": "2025-05-27T09:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T10:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927292302155796531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1504365012546170883",
+              "start": 0,
+              "username": "qingshan1117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927292302155796531",
+        "in_reply_to_user_id": "1504365012546170883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927283278089740361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshan1117 你怎么不去菜市场里找呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504365012546170883",
+        "conversation_id": "1927271079204016335",
+        "created_at": "2025-05-27T08:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927283278089740361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927283278089740361",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927282716946362721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 禁漫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1926304021137985851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 3025,
+          "like_count": 22235,
+          "listed_count": 7,
+          "media_count": 1604,
+          "tweet_count": 21670
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T07:52:41.000Z",
+        "description": "",
+        "id": "1504365012546170883",
+        "name": "人生无青山",
+        "pinned_tweet_id": "1918008562263142654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894417609988149248/4-pNlrqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 2811,
+          "like_count": 110838,
+          "listed_count": 4,
+          "media_count": 656,
+          "tweet_count": 93038
+        },
+        "username": "qingshan1117",
+        "verified": false
+      }
+    ]
+  }
+}

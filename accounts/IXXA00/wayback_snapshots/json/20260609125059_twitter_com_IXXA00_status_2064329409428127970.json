@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2064170781068959810",
+    "created_at": "2026-06-09T12:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064329409428127970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897639827211776000",
+          "start": 0,
+          "username": "dashaibi888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064329409428127970",
+    "in_reply_to_user_id": "1897639827211776000",
+    "lang": "sv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064315541184266612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dashaibi888 holyshit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2064170781068959810",
+        "created_at": "2026-06-09T12:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064329409428127970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897639827211776000",
+              "start": 0,
+              "username": "dashaibi888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064329409428127970",
+        "in_reply_to_user_id": "1897639827211776000",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064315541184266612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dashaibi888 holyshit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897639827211776000",
+        "conversation_id": "2064170781068959810",
+        "created_at": "2026-06-09T11:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064315541184266612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064315541184266612",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064170781068959810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好....神圣啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/主播的麻袋里现在：1个人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7338,
+          "following_count": 4522,
+          "like_count": 41603,
+          "listed_count": 18,
+          "media_count": 3018,
+          "tweet_count": 41175
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-06T13:26:17.000Z",
+        "description": "",
+        "id": "1897639827211776000",
+        "name": "发呆的白兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897640082909143040/36-BGXxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 29,
+          "like_count": 5943,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2405
+        },
+        "username": "dashaibi888",
+        "verified": false
+      }
+    ]
+  }
+}

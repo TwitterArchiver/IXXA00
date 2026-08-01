@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1974733374209282335",
+    "created_at": "2025-10-05T11:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T12:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974800734442123719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974788365238353920",
+          "start": 0,
+          "username": "Rjz1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974800734442123719",
+    "in_reply_to_user_id": "1974788365238353920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974796791154618870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rjz1991 😰😱😱😱😱😱卧槽医生来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1974733374209282335",
+        "created_at": "2025-10-05T11:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974800734442123719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974788365238353920",
+              "start": 0,
+              "username": "Rjz1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974800734442123719",
+        "in_reply_to_user_id": "1974788365238353920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974796791154618870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rjz1991 😰😱😱😱😱😱卧槽医生来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974788365238353920",
+        "conversation_id": "1974733374209282335",
+        "created_at": "2025-10-05T11:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974796791154618870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974796791154618870",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974733374209282335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可以帮我的医生们拿一点笔吗，就一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "暴躁mode，无差别aoe所有人。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 3700,
+          "like_count": 29491,
+          "listed_count": 8,
+          "media_count": 2209,
+          "tweet_count": 29719
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T10:47:10.000Z",
+        "description": "",
+        "id": "1974788365238353920",
+        "name": "鲨鱼辣酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974790350184263681/uTrcID8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Rjz1991",
+        "verified": false
+      }
+    ]
+  }
+}

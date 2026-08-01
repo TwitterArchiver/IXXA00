@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1951095830137729209",
+    "created_at": "2025-08-01T01:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T02:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951095830137729209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MikoMikoooy/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/MikoMikoooy/status/1950969308563251313",
+          "start": 5,
+          "url": "https://t.co/R455MOT4QC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951095830137729209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950969308563251313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢哥哥 https://t.co/R455MOT4QC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1951095830137729209",
+        "created_at": "2025-08-01T01:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T02:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951095830137729209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MikoMikoooy/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/MikoMikoooy/status/1950969308563251313",
+              "start": 5,
+              "url": "https://t.co/R455MOT4QC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951095830137729209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950969308563251313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢哥哥 https://t.co/R455MOT4QC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702477793182019584",
+        "conversation_id": "1950969308563251313",
+        "created_at": "2025-07-31T17:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950969308563251313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950969308563251313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜歡哥哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "pinned_tweet_id": "1950584993929208297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 3173,
+          "like_count": 26655,
+          "listed_count": 5,
+          "media_count": 1964,
+          "tweet_count": 26179
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T00:22:10.000Z",
+        "description": "",
+        "id": "1702477793182019584",
+        "location": "哥哥家",
+        "name": "𝐌𝐢𝐤𝐨",
+        "pinned_tweet_id": "1866485909430194655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873335182499123200/b8HtZaLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 4197,
+          "like_count": 26112,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 3739
+        },
+        "username": "MikoMikoooy",
+        "verified": false
+      }
+    ]
+  }
+}

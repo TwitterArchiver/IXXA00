@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1912328039897412061",
+    "created_at": "2025-04-16T06:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T07:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912389223904358450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800047166003826688",
+          "start": 0,
+          "username": "Pomb0ring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912389223904358450",
+    "in_reply_to_user_id": "1800047166003826688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912368422522171485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pomb0ring 我还特别会骂人呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1912328039897412061",
+        "created_at": "2025-04-16T06:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912389223904358450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800047166003826688",
+              "start": 0,
+              "username": "Pomb0ring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912389223904358450",
+        "in_reply_to_user_id": "1800047166003826688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912368422522171485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pomb0ring 我还特别会骂人呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800047166003826688",
+        "conversation_id": "1912328039897412061",
+        "created_at": "2025-04-16T04:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T05:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912368422522171485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912368422522171485",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912328039897412061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好会说话呀。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "精神恋爱/已黑化(晒黑)🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "🚪52",
+        "name": "isla",
+        "pinned_tweet_id": "1912088613438767120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911601116623654912/TfVBwcq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3618,
+          "following_count": 2927,
+          "like_count": 19974,
+          "listed_count": 7,
+          "media_count": 1402,
+          "tweet_count": 19289
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T06:07:52.000Z",
+        "description": "浮游生物猫在雷",
+        "id": "1800047166003826688",
+        "location": "河流，湖泊，和海洋",
+        "name": "猫在雷",
+        "pinned_tweet_id": "1839169950440964257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810050983441158144/ffDk_Lqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 188,
+          "like_count": 24646,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 3917
+        },
+        "username": "Pomb0ring",
+        "verified": false
+      }
+    ]
+  }
+}

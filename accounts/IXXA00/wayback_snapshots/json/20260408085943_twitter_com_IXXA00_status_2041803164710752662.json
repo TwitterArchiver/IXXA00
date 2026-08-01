@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2041791232247263522",
+    "created_at": "2026-04-08T08:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041803164710752662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559103901554692096",
+          "start": 0,
+          "username": "Antizen6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041803164710752662",
+    "in_reply_to_user_id": "1559103901554692096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041799540072726848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antizen6 找到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2041791232247263522",
+        "created_at": "2026-04-08T08:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041803164710752662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559103901554692096",
+              "start": 0,
+              "username": "Antizen6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041803164710752662",
+        "in_reply_to_user_id": "1559103901554692096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041799540072726848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antizen6 找到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559103901554692096",
+        "conversation_id": "2041791232247263522",
+        "created_at": "2026-04-08T08:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041799540072726848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041799540072726848",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041791232247263522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 再买一个！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2041341539889410451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6326,
+          "following_count": 4451,
+          "like_count": 37124,
+          "listed_count": 17,
+          "media_count": 2702,
+          "tweet_count": 37512
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T09:05:24.000Z",
+        "description": "努力就是胜利",
+        "id": "1559103901554692096",
+        "location": "Stockholm, Sweden",
+        "name": "橘猫大玊",
+        "pinned_tweet_id": "2036110794987823150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034236307262545920/lGOSO268_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 107,
+          "like_count": 3923,
+          "listed_count": 0,
+          "media_count": 782,
+          "tweet_count": 8619
+        },
+        "username": "Antizen6",
+        "verified": false
+      }
+    ]
+  }
+}

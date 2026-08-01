@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2063448667722567688",
+    "created_at": "2026-06-07T19:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063703624572936387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1604448537554481152",
+          "start": 0,
+          "username": "feichen881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063703624572936387",
+    "in_reply_to_user_id": "1604448537554481152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063645670742118442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feichen881 看情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2063448667722567688",
+        "created_at": "2026-06-07T19:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063703624572936387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1604448537554481152",
+              "start": 0,
+              "username": "feichen881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063703624572936387",
+        "in_reply_to_user_id": "1604448537554481152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063645670742118442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feichen881 看情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604448537554481152",
+        "conversation_id": "2063448667722567688",
+        "created_at": "2026-06-07T15:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063645670742118442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063645670742118442",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063448667722567688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是涂完就阳痿一阵吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 4521,
+          "like_count": 41389,
+          "listed_count": 18,
+          "media_count": 3010,
+          "tweet_count": 41018
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-18T12:08:52.000Z",
+        "description": "沙贝鸿蒙3 强制闪退推特和谷歌商城让我不得不转生",
+        "id": "1604448537554481152",
+        "name": "feichen881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624689636516990976/4ka48rb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 2361,
+          "like_count": 4085,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 174
+        },
+        "username": "feichen881",
+        "verified": false
+      }
+    ]
+  }
+}

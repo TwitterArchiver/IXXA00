@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2041825760126922901",
+    "created_at": "2026-04-08T11:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041841152647954751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1424663804097417220",
+          "start": 0,
+          "username": "Au2dnMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041841152647954751",
+    "in_reply_to_user_id": "1424663804097417220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041840624387944704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Au2dnMa 豪得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2041825760126922901",
+        "created_at": "2026-04-08T11:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041841152647954751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1424663804097417220",
+              "start": 0,
+              "username": "Au2dnMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041841152647954751",
+        "in_reply_to_user_id": "1424663804097417220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041840624387944704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Au2dnMa 豪得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424663804097417220",
+        "conversation_id": "2041825760126922901",
+        "created_at": "2026-04-08T11:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041840624387944704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041840624387944704",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041825760126922901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 露肩裙吧，我挺喜欢这种秀身材还秀锁骨的衣服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2041341539889410451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6325,
+          "following_count": 4450,
+          "like_count": 37143,
+          "listed_count": 17,
+          "media_count": 2704,
+          "tweet_count": 37529
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T09:28:36.000Z",
+        "description": "",
+        "id": "1424663804097417220",
+        "name": "鹹捯懶得動的醃魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1424665005866110983/W9lKtkzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 175,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 460
+        },
+        "username": "Au2dnMa",
+        "verified": false
+      }
+    ]
+  }
+}

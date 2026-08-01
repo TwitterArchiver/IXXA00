@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1981753828946084089",
+    "created_at": "2025-10-24T16:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T17:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981756656741736487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862538322888785920",
+          "start": 0,
+          "username": "jin_zhi72843"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981756656741736487",
+    "in_reply_to_user_id": "1862538322888785920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981756549333918054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jin_zhi72843 1分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1981753828946084089",
+        "created_at": "2025-10-24T16:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T17:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981756656741736487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862538322888785920",
+              "start": 0,
+              "username": "jin_zhi72843"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981756656741736487",
+        "in_reply_to_user_id": "1862538322888785920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981756549333918054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jin_zhi72843 1分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862538322888785920",
+        "conversation_id": "1981753828946084089",
+        "created_at": "2025-10-24T16:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T17:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981756549333918054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981756549333918054",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981756250963820710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 开个小玩笑ヘ(￣ω￣ヘ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 4087,
+          "like_count": 30536,
+          "listed_count": 10,
+          "media_count": 2264,
+          "tweet_count": 30610
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T16:45:37.000Z",
+        "description": "为啥找不到活人啊！",
+        "id": "1862538322888785920",
+        "location": "1cm",
+        "name": "禁止芜湖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878000584999002112/88tyP4Ri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 1282,
+          "like_count": 2295,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 814
+        },
+        "username": "jin_zhi72843",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931235177763836365",
+    "created_at": "2025-06-07T06:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T07:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931235270856454396"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931235270856454396",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931235177763836365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算了，太丑了一会删了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931235172198072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs0gKDCbQAAM_sA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931235177763836365",
+        "created_at": "2025-06-07T06:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T07:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931235270856454396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931235270856454396",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931235177763836365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了，太丑了一会删了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931235172198072320"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931235177763836365",
+        "created_at": "2025-06-07T06:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T07:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931235177763836365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7xjXbciQZ",
+              "end": 31,
+              "expanded_url": "https://x.com/IXXA00/status/1931235177763836365/photo/1",
+              "media_key": "3_1931235172198072320",
+              "start": 8,
+              "url": "https://t.co/C7xjXbciQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931235177763836365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普通的卖货妹。 https://t.co/C7xjXbciQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就这样独自盛开。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3699,
+          "following_count": 3053,
+          "like_count": 23026,
+          "listed_count": 7,
+          "media_count": 1677,
+          "tweet_count": 22548
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

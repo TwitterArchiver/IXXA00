@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1985515203682086924",
+    "created_at": "2025-11-04T05:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T06:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985583791533154577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797045155674865665",
+          "start": 0,
+          "username": "mgz1suming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985583791533154577",
+    "in_reply_to_user_id": "1797045155674865665",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985583427148554676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mgz1suming ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985583414972473344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G441mIlXYAA9PJ6.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1985515203682086924",
+        "created_at": "2025-11-04T05:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985583791533154577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797045155674865665",
+              "start": 0,
+              "username": "mgz1suming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985583791533154577",
+        "in_reply_to_user_id": "1797045155674865665",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985583427148554676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mgz1suming ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985583414972473344"
+          ]
+        },
+        "author_id": "1797045155674865665",
+        "conversation_id": "1985515203682086924",
+        "created_at": "2025-11-04T05:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985583427148554676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQnG7hIgfc",
+              "end": 31,
+              "expanded_url": "https://x.com/mgz1suming/status/1985583427148554676/photo/1",
+              "media_key": "3_1985583414972473344",
+              "start": 8,
+              "url": "https://t.co/jQnG7hIgfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985583427148554676",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985515203682086924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 https://t.co/jQnG7hIgfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 4807,
+          "like_count": 32381,
+          "listed_count": 11,
+          "media_count": 2312,
+          "tweet_count": 31870
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T23:19:04.000Z",
+        "description": "拒绝滥用药物，拒绝烟酒，立志一直健康活着，希望大家都好好的",
+        "id": "1797045155674865665",
+        "name": "弥狗子💊🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982313978706411520/4aBy5ZLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 122
+        },
+        "username": "mgz1suming",
+        "verified": false
+      }
+    ]
+  }
+}

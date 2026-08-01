@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2037386695428178400",
+    "created_at": "2026-03-27T04:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T05:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037386695428178400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/codyhunk/status/2037336162357141732",
+          "start": 6,
+          "url": "https://t.co/pClx86El2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037386695428178400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037336162357141732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要这个 https://t.co/pClx86El2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2037336154509574145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYScDGagAEGSu0.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2037386695428178400",
+        "created_at": "2026-03-27T04:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037386695428178400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/codyhunk/status/2037336162357141732",
+              "start": 6,
+              "url": "https://t.co/pClx86El2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037386695428178400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037336162357141732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要这个 https://t.co/pClx86El2A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037336154509574145"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2037336162357141732",
+        "created_at": "2026-03-27T01:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037336162357141732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d67Fk7JYyR",
+              "end": 29,
+              "expanded_url": "https://x.com/codyhunk/status/2037336162357141732/photo/1",
+              "media_key": "3_2037336154509574145",
+              "start": 6,
+              "url": "https://t.co/d67Fk7JYyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037336162357141732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 65071,
+          "like_count": 1544,
+          "quote_count": 17,
+          "reply_count": 25,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "我需要这个 https://t.co/d67Fk7JYyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "驻波偶尔会在抖子直播43707218480",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6395,
+          "following_count": 4471,
+          "like_count": 36634,
+          "listed_count": 16,
+          "media_count": 2675,
+          "tweet_count": 37034
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12805,
+          "following_count": 1366,
+          "like_count": 23370,
+          "listed_count": 35,
+          "media_count": 5614,
+          "tweet_count": 8599
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

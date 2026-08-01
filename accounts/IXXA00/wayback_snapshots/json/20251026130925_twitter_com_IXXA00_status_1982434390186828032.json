@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982434390186828032",
+    "created_at": "2025-10-26T13:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T14:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982434390186828032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhang_jia57877…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/zhang_jia57877/status/1982433813641986272",
+          "start": 20,
+          "url": "https://t.co/iIGntH6gOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982434390186828032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982433813641986272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我媒体里全是照片你翻一天都不带翻完的。 https://t.co/iIGntH6gOq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982434390186828032",
+        "created_at": "2025-10-26T13:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982434390186828032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhang_jia57877…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/zhang_jia57877/status/1982433813641986272",
+              "start": 20,
+              "url": "https://t.co/iIGntH6gOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982434390186828032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982433813641986272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我媒体里全是照片你翻一天都不带翻完的。 https://t.co/iIGntH6gOq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753042880162299904",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-26T13:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982433813641986272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982433813641986272",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982293281129308412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 当了发两张照片我来审核。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 4094,
+          "like_count": 30597,
+          "listed_count": 10,
+          "media_count": 2264,
+          "tweet_count": 30670
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T13:09:39.000Z",
+        "description": "希望你天天开心🫂",
+        "id": "1753042880162299904",
+        "name": "荆棘我冠 .",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963597480542834689/Dkn_4pRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 69,
+          "like_count": 5141,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9162
+        },
+        "username": "zhang_jia57877",
+        "verified": false
+      }
+    ]
+  }
+}

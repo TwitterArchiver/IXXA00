@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983713955722981449",
+    "created_at": "2025-10-30T04:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983756408668774807"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983756408668774807",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983713955722981449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我谁也不喜欢，包括我自己。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1983713953126748160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eRVIgbEAAP_oD.jpg",
+        "width": 327
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983713955722981449",
+        "created_at": "2025-10-30T04:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983756408668774807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983756408668774807",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983713955722981449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我谁也不喜欢，包括我自己。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983713953126748160"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983713955722981449",
+        "created_at": "2025-10-30T01:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T02:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983713955722981449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITErsfCPmS",
+              "end": 23,
+              "expanded_url": "https://x.com/IXXA00/status/1983713955722981449/photo/1",
+              "media_key": "3_1983713953126748160",
+              "start": 0,
+              "url": "https://t.co/ITErsfCPmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983713955722981449",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ITErsfCPmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5032,
+          "following_count": 4471,
+          "like_count": 31498,
+          "listed_count": 11,
+          "media_count": 2286,
+          "tweet_count": 31286
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

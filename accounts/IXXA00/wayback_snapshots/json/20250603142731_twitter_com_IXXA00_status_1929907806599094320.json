@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929579560548377033",
+    "created_at": "2025-06-03T14:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T15:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929907806599094320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533794664490455040",
+          "start": 0,
+          "username": "gugu123456gugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929907806599094320",
+    "in_reply_to_user_id": "1533794664490455040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929907708888817783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugu123456gugu 那很奢侈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929579560548377033",
+        "created_at": "2025-06-03T14:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929907806599094320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533794664490455040",
+              "start": 0,
+              "username": "gugu123456gugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929907806599094320",
+        "in_reply_to_user_id": "1533794664490455040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929907708888817783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugu123456gugu 那很奢侈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533794664490455040",
+        "conversation_id": "1929579560548377033",
+        "created_at": "2025-06-03T14:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929907708888817783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929907708888817783",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929579560548377033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我爸有十条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 3046,
+          "like_count": 22655,
+          "listed_count": 7,
+          "media_count": 1638,
+          "tweet_count": 22178
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T12:55:28.000Z",
+        "description": "既非良妇",
+        "id": "1533794664490455040",
+        "name": "急急着火了",
+        "pinned_tweet_id": "1926894452561342916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924373989259915264/ia6sA7nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 318,
+          "like_count": 3393,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1543
+        },
+        "username": "gugu123456gugu",
+        "verified": false
+      }
+    ]
+  }
+}

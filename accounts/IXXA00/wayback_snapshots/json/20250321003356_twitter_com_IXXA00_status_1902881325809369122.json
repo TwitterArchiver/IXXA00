@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1902875301236920707",
+    "created_at": "2025-03-21T00:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T01:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902881325809369122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1246105407589740544",
+          "start": 0,
+          "username": "camtrca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902881325809369122",
+    "in_reply_to_user_id": "1246105407589740544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902880554628100233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camtrca 原来是这样，那大家都是挺好看的人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1902875301236920707",
+        "created_at": "2025-03-21T00:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T01:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902881325809369122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1246105407589740544",
+              "start": 0,
+              "username": "camtrca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902881325809369122",
+        "in_reply_to_user_id": "1246105407589740544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902880554628100233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camtrca 原来是这样，那大家都是挺好看的人的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246105407589740544",
+        "conversation_id": "1902875301236920707",
+        "created_at": "2025-03-21T00:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T01:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902880554628100233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902880554628100233",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902875301236920707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 就像看到很漂亮的人也會喜歡一樣呀."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷小甜酒(72度)。",
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3499,
+          "following_count": 2754,
+          "like_count": 18751,
+          "listed_count": 6,
+          "media_count": 1265,
+          "tweet_count": 17733
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-03T16:01:07.000Z",
+        "description": "不太确定为什么在这 \n也不太确定为什么离开",
+        "id": "1246105407589740544",
+        "location": "鸭绿江边  荷苇田上",
+        "name": "camtrca",
+        "pinned_tweet_id": "1900935632370675989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747873479893073920/tNN9yNQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 43,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 631
+        },
+        "username": "camtrca",
+        "verified": true
+      }
+    ]
+  }
+}

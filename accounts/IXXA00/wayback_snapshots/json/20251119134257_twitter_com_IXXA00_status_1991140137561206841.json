@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1991132451947876801",
+    "created_at": "2025-11-19T13:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T14:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991140137561206841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1744347762047803392",
+          "start": 0,
+          "username": "YouKiARiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991140137561206841",
+    "in_reply_to_user_id": "1744347762047803392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991136634289394095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouKiARiA 那时候还是一个开心果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1991132451947876801",
+        "created_at": "2025-11-19T13:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991140137561206841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1744347762047803392",
+              "start": 0,
+              "username": "YouKiARiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991140137561206841",
+        "in_reply_to_user_id": "1744347762047803392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991136634289394095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouKiARiA 那时候还是一个开心果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744347762047803392",
+        "conversation_id": "1991132451947876801",
+        "created_at": "2025-11-19T13:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991136634289394095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991136634289394095",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991132451947876801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 初具人形（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "冷萌",
+        "pinned_tweet_id": "1991057365240881313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991011487989837830/4ufZsIXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5496,
+          "following_count": 4549,
+          "like_count": 33461,
+          "listed_count": 11,
+          "media_count": 2382,
+          "tweet_count": 32835
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T13:18:21.000Z",
+        "description": "mtftx 穷矮丑的肥猪流长发男\n中文/tiếng Việt",
+        "id": "1744347762047803392",
+        "name": "山と风🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968331931545972736/y4cMjfD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 626,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 225
+        },
+        "username": "YouKiARiA",
+        "verified": false
+      }
+    ]
+  }
+}

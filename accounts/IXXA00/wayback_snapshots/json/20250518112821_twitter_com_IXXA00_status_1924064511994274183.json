@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1924064511994274183",
+    "created_at": "2025-05-18T11:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T12:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924064511994274183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1876586982429581312",
+          "start": 3,
+          "username": "Phryne_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924064511994274183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924064324106293756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phryne_0: 我做不到在网上也像现实一样去表达，我厌恶我拥有的一切，平等的厌恶内心中在网上自由的我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1924064511994274183",
+        "created_at": "2025-05-18T11:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T12:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924064511994274183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1876586982429581312",
+              "start": 3,
+              "username": "Phryne_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924064511994274183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924064324106293756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phryne_0: 我做不到在网上也像现实一样去表达，我厌恶我拥有的一切，平等的厌恶内心中在网上自由的我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876586982429581312",
+        "conversation_id": "1924064324106293756",
+        "created_at": "2025-05-18T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924064324106293756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924064324106293756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我做不到在网上也像现实一样去表达，我厌恶我拥有的一切，平等的厌恶内心中在网上自由的我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就这样爱受不受。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923202205613768704/0P_Mo563_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 3026,
+          "like_count": 21894,
+          "listed_count": 7,
+          "media_count": 1576,
+          "tweet_count": 21269
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T11:09:54.000Z",
+        "description": "盐豆不盐了，我不是一个14岁的小女孩。",
+        "id": "1876586982429581312",
+        "name": "ithra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924046075276537856/MA_s_Il6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 135,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1027
+        },
+        "username": "Phryne_0",
+        "verified": false
+      }
+    ]
+  }
+}

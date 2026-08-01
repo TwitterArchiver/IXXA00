@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1954992753949167639",
+    "created_at": "2025-08-12T07:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T08:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955164882875121857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1213412688790843397",
+          "start": 0,
+          "username": "ErjiCat_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955164882875121857",
+    "in_reply_to_user_id": "1213412688790843397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955152580587512108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErjiCat_ 暗黑耳机猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1954992753949167639",
+        "created_at": "2025-08-12T07:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955164882875121857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1213412688790843397",
+              "start": 0,
+              "username": "ErjiCat_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955164882875121857",
+        "in_reply_to_user_id": "1213412688790843397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955152580587512108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErjiCat_ 暗黑耳机猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213412688790843397",
+        "conversation_id": "1954992753949167639",
+        "created_at": "2025-08-12T06:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T07:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955152580587512108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955152580587512108",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955038631879377226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我是阴暗b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1954930100564312101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3837,
+          "following_count": 3254,
+          "like_count": 27119,
+          "listed_count": 5,
+          "media_count": 2014,
+          "tweet_count": 26782
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "此账号由我和我的猫共同运营/提问箱：https://t.co/j6FJ8q8iwO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nirvana68624",
+                "end": 41,
+                "expanded_url": "https://ngl.link/nirvana68624",
+                "start": 18,
+                "url": "https://t.co/j6FJ8q8iwO"
+              }
+            ]
+          }
+        },
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "耳机猫",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912082967809163265/HdDimLiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4427,
+          "following_count": 195,
+          "like_count": 4382,
+          "listed_count": 7,
+          "media_count": 459,
+          "tweet_count": 7460
+        },
+        "username": "ErjiCat_",
+        "verified": false
+      }
+    ]
+  }
+}

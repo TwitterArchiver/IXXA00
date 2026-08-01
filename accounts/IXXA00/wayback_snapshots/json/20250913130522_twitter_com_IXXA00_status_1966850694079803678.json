@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1966699036968173845",
+    "created_at": "2025-09-13T13:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T14:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966850694079803678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "829603366154051584",
+          "start": 0,
+          "username": "mayajoss1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966850694079803678",
+    "in_reply_to_user_id": "829603366154051584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966842182306066810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayajoss1 哈呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1966699036968173845",
+        "created_at": "2025-09-13T13:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966850694079803678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "829603366154051584",
+              "start": 0,
+              "username": "mayajoss1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966850694079803678",
+        "in_reply_to_user_id": "829603366154051584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966842182306066810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayajoss1 哈呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829603366154051584",
+        "conversation_id": "1966699036968173845",
+        "created_at": "2025-09-13T12:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966842182306066810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966842182306066810",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966699036968173845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 乌拉~呀哈~呀哈乌拉~\n乌拉拉~乌拉\n乌拉拉呀哈呀哈~\n噗噜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1966508599930139122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4014,
+          "following_count": 3478,
+          "like_count": 28628,
+          "listed_count": 8,
+          "media_count": 2136,
+          "tweet_count": 28766
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-09T08:10:30.000Z",
+        "description": "千金易得，知己难寻；春华有尽，英雄无归。\n\nGold easy found, friend hard seek; Spring must fade, hero never back.🎻",
+        "id": "829603366154051584",
+        "location": "Kallithea, Greece",
+        "name": "Mayajoss 'Swift' Min🎻🇬🇷",
+        "pinned_tweet_id": "1745206005942595952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928670726208270337/UVLjX7tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 96,
+          "like_count": 3561,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 2615
+        },
+        "username": "mayajoss1",
+        "verified": false
+      }
+    ]
+  }
+}

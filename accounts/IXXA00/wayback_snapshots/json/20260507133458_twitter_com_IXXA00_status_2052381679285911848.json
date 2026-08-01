@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2052381613133357056"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2052381679285911848",
+    "created_at": "2026-05-07T13:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052381679285911848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZLZEmsFnzM",
+          "end": 33,
+          "expanded_url": "https://x.com/IXXA00/status/2052381679285911848/video/1",
+          "media_key": "7_2052381613133357056",
+          "start": 10,
+          "url": "https://t.co/ZLZEmsFnzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052381679285911848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依然是发5min删 https://t.co/ZLZEmsFnzM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052381679285911848].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052381679285911848",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052381679285911848"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15812,
+        "height": 1080,
+        "media_key": "7_2052381613133357056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052381613133357056/pu/img/y9N1fCHBcXn92pQ7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052381613133357056/pu/vid/avc1/640x360/g00CUR3g4Ypcc0UO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052381613133357056/pu/vid/avc1/1920x1080/e8-9X2t2nzUfYreA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052381613133357056/pu/pl/uYgugyeV3RnVY4cp.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052381613133357056/pu/vid/avc1/480x270/UHKrQ09q39cODYva.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052381613133357056/pu/vid/avc1/1280x720/R5QHDqjpl8hl2PMX.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/18/塔罗牌简单咨询：25r/张",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2051269951366017407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6997,
+          "following_count": 4490,
+          "like_count": 39478,
+          "listed_count": 20,
+          "media_count": 2853,
+          "tweet_count": 39451
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

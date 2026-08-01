@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1901849453570429137",
+    "created_at": "2025-03-18T09:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T10:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901928885538738198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1279757631242989569",
+          "start": 0,
+          "username": "mj81890686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901928885538738198",
+    "in_reply_to_user_id": "1279757631242989569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901928003669746006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mj81890686 是不是呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1901849453570429137",
+        "created_at": "2025-03-18T09:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T10:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901928885538738198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1279757631242989569",
+              "start": 0,
+              "username": "mj81890686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901928885538738198",
+        "in_reply_to_user_id": "1279757631242989569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901928003669746006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mj81890686 是不是呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279757631242989569",
+        "conversation_id": "1901849453570429137",
+        "created_at": "2025-03-18T09:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T10:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901928003669746006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901928003669746006",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901849453570429137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是这样的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "有一颗温暖的心。",
+        "id": "1739391734491086848",
+        "location": "有q和v，🚪费随意",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3417,
+          "following_count": 2668,
+          "like_count": 18356,
+          "listed_count": 6,
+          "media_count": 1252,
+          "tweet_count": 17381
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T12:42:57.000Z",
+        "description": "",
+        "id": "1279757631242989569",
+        "name": "无言なし",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875596794068930561/QhwGpqkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 1124,
+          "like_count": 382,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 869
+        },
+        "username": "mj81890686",
+        "verified": false
+      }
+    ]
+  }
+}

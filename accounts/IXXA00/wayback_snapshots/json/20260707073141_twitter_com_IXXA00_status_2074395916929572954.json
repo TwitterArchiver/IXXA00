@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2074017126462132422",
+    "created_at": "2026-07-07T07:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074395916929572954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610208716841947137",
+          "start": 0,
+          "username": "kitsune_tokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074395916929572954",
+    "in_reply_to_user_id": "1610208716841947137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074017126462132422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitsune_tokyo 想去工作。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2074016693379305472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhjMasakAA6dUg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2074016696248225792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhjMlYa0AAKr1C.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074016699943436288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhjMzJbQAASiTx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074016703621861376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhjNA2bkAANZM5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2074017126462132422",
+        "created_at": "2026-07-07T07:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074395916929572954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610208716841947137",
+              "start": 0,
+              "username": "kitsune_tokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074395916929572954",
+        "in_reply_to_user_id": "1610208716841947137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074017126462132422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitsune_tokyo 想去工作。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074016693379305472",
+            "3_2074016696248225792",
+            "3_2074016699943436288",
+            "3_2074016703621861376"
+          ]
+        },
+        "author_id": "1610208716841947137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2074017126462132422",
+        "created_at": "2026-07-06T06:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074017126462132422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OwohZTI2b",
+              "end": 303,
+              "expanded_url": "https://x.com/kitsune_tokyo/status/2074017126462132422/photo/1",
+              "media_key": "3_2074016693379305472",
+              "start": 280,
+              "url": "https://t.co/3OwohZTI2b"
+            },
+            {
+              "display_url": "pic.x.com/3OwohZTI2b",
+              "end": 303,
+              "expanded_url": "https://x.com/kitsune_tokyo/status/2074017126462132422/photo/1",
+              "media_key": "3_2074016696248225792",
+              "start": 280,
+              "url": "https://t.co/3OwohZTI2b"
+            },
+            {
+              "display_url": "pic.x.com/3OwohZTI2b",
+              "end": 303,
+              "expanded_url": "https://x.com/kitsune_tokyo/status/2074017126462132422/photo/1",
+              "media_key": "3_2074016699943436288",
+              "start": 280,
+              "url": "https://t.co/3OwohZTI2b"
+            },
+            {
+              "display_url": "pic.x.com/3OwohZTI2b",
+              "end": 303,
+              "expanded_url": "https://x.com/kitsune_tokyo/status/2074017126462132422/photo/1",
+              "media_key": "3_2074016703621861376",
+              "start": 280,
+              "url": "https://t.co/3OwohZTI2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074017126462132422",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 730,
+                "start": 720,
+                "tag": "Otokonoko"
+              },
+              {
+                "end": 743,
+                "start": 731,
+                "tag": "ConceptCafe"
+              },
+              {
+                "end": 748,
+                "start": 744,
+                "tag": "MTF"
+              },
+              {
+                "end": 757,
+                "start": 749,
+                "tag": "Newhalf"
+              },
+              {
+                "end": 771,
+                "start": 758,
+                "tag": "KITSUNETOKYO"
+              }
+            ]
+          },
+          "text": "Otokonoko (Trans girl/ femboy /Crossdresser) Bar\n\n \"KITSUNE TOKYO\" \n\n◉Type: Concept Café & Bar \n◉Watanabe Bldg. 2F, 3-30-8 Nishi-Ikebukuro, Toshima-ku, Tokyo \n◉Nearest Station: Ikebukuro Station (Fukutoshin Line) \n◉Business Hours: 18:00–23:00 (Last Order: 22:30) \n◉Open every day (no fixed holidays)\n◉ All-you-can-drink plan: From ¥3,000 for 45 minutes (Non-alcoholic: ¥2,700) \n◉Standard charge system: ¥1,500 for 45 minutes / Drinks from ¥700 \n◉Payment: Cash, Credit Card, QR Payment\n\nLicensed under the Entertainment Business Act (Category 1) \nNo entry for persons under 18 \nOutside food and drinks allowed (no bottle keeping)\nNo \"nomination\" system (cannot request specific staff) \nPlease strictly observe the rules \n#Otokonoko #ConceptCafe #MTF #Newhalf #KITSUNETOKYO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2533,
+          "impression_count": 335610,
+          "like_count": 5102,
+          "quote_count": 180,
+          "reply_count": 40,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "Otokonoko (Trans girl/ femboy /Crossdresser) Bar\n\n \"KITSUNE TOKYO\" \n\n◉Type: Concept Café &amp; Bar \n◉Watanabe Bldg. 2F, 3-30-8 Nishi-Ikebukuro, Toshima-ku, Tokyo \n◉Nearest Station: Ikebukuro Station (Fukutoshin Line) \n◉Business Hours: 18:00–23:00 (Last Order: 22:30) \n◉Open every https://t.co/3OwohZTI2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "粉色辣条妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7491,
+          "following_count": 4541,
+          "like_count": 42826,
+          "listed_count": 18,
+          "media_count": 3120,
+          "tweet_count": 42285
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-03T09:38:08.000Z",
+        "description": "おとこの娘のBAR♂『KITSUNE TOKYO』\n＃おとこの娘   #偽娘   ＃コンカフェ  #BAR  #西池袋 　\n風営1号認可店\n18:00～23:00（L.o22:30）\n▶公式HP https://t.co/f7e5fyQMBA\n\n▶遠隔\nhttps://t.co/oOWDiSWA9j",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 26,
+                "tag": "おとこの娘"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "偽娘"
+              },
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "コンカフェ"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "BAR"
+              },
+              {
+                "end": 59,
+                "start": 55,
+                "tag": "西池袋"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kitsune-tokyo.jp",
+                "end": 121,
+                "expanded_url": "https://kitsune-tokyo.jp",
+                "start": 98,
+                "url": "https://t.co/f7e5fyQMBA"
+              },
+              {
+                "display_url": "kitsunetokyo.base.shop",
+                "end": 150,
+                "expanded_url": "https://kitsunetokyo.base.shop",
+                "start": 127,
+                "url": "https://t.co/oOWDiSWA9j"
+              }
+            ]
+          }
+        },
+        "id": "1610208716841947137",
+        "location": "豊島区西池袋3-30-8渡辺ビル2F",
+        "name": "KITSUNE TOKYO",
+        "pinned_tweet_id": "2071158929149886920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884212831790518272/hZqfArLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17836,
+          "following_count": 23,
+          "like_count": 13947,
+          "listed_count": 71,
+          "media_count": 2133,
+          "tweet_count": 3974
+        },
+        "url": "",
+        "username": "kitsune_tokyo",
+        "verified": true
+      }
+    ]
+  }
+}

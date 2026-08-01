@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2062904979036455290",
+    "created_at": "2026-06-05T20:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062995946162774078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493752323394641923",
+          "start": 0,
+          "username": "OuVzNmYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062995946162774078",
+    "in_reply_to_user_id": "1493752323394641923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062908085199647138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuVzNmYu 激素"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2062904979036455290",
+        "created_at": "2026-06-05T20:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062995946162774078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493752323394641923",
+              "start": 0,
+              "username": "OuVzNmYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062995946162774078",
+        "in_reply_to_user_id": "1493752323394641923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062908085199647138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuVzNmYu 激素"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493752323394641923",
+        "conversation_id": "2062904979036455290",
+        "created_at": "2026-06-05T14:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062908085199647138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062908085199647138",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062904979036455290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 提问，e2是什么？想抄作业了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7241,
+          "following_count": 4513,
+          "like_count": 41269,
+          "listed_count": 18,
+          "media_count": 3000,
+          "tweet_count": 40914
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-16T01:01:28.000Z",
+        "description": "活得不好，死也不掉。守自己的坟，修自己的庙。",
+        "id": "1493752323394641923",
+        "name": "雨夜守墓人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054932119500300288/OeQEGXfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 179,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 307
+        },
+        "username": "OuVzNmYu",
+        "verified": false
+      }
+    ]
+  }
+}

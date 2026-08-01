@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2060502017668534481",
+    "created_at": "2026-05-30T14:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060732351421022462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014621466659024896",
+          "start": 0,
+          "username": "kkkwf1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060732351421022462",
+    "in_reply_to_user_id": "2014621466659024896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060725773045231749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkwf1208 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2060502017668534481",
+        "created_at": "2026-05-30T14:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060732351421022462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014621466659024896",
+              "start": 0,
+              "username": "kkkwf1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060732351421022462",
+        "in_reply_to_user_id": "2014621466659024896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060725773045231749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkwf1208 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014621466659024896",
+        "conversation_id": "2060502017668534481",
+        "created_at": "2026-05-30T14:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060725773045231749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060725773045231749",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060502017668534481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "传统的小男女孩婊子/睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7150,
+          "following_count": 4511,
+          "like_count": 40807,
+          "listed_count": 18,
+          "media_count": 2979,
+          "tweet_count": 40575
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T08:49:32.000Z",
+        "description": "🇨🇳🇫🇷 Liverpool FC",
+        "id": "2014621466659024896",
+        "name": "kkkwf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041817414850236416/o2ejoW0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 37,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "kkkwf1208",
+        "verified": false
+      }
+    ]
+  }
+}

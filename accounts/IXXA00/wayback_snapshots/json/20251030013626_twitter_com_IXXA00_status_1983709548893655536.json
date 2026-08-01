@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1983709548893655536",
+    "created_at": "2025-10-30T01:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T02:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983709548893655536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/IXXA00/status/1960839063990362184",
+          "start": 12,
+          "url": "https://t.co/jwXQQ74mxK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983709548893655536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960839063990362184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想cosplay这个 https://t.co/jwXQQ74mxK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_1960839059871555587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZMvGla4AM2pXT.jpg",
+        "width": 1300
+      },
+      {
+        "height": 1115,
+        "media_key": "3_1960839058063810565",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZMu_2a4AU-jlW.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1983709548893655536",
+        "created_at": "2025-10-30T01:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T02:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983709548893655536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/IXXA00/status/1960839063990362184",
+              "start": 12,
+              "url": "https://t.co/jwXQQ74mxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983709548893655536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960839063990362184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想cosplay这个 https://t.co/jwXQQ74mxK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960839059871555587",
+            "3_1960839058063810565"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1960839063990362184",
+        "created_at": "2025-08-27T22:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T23:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960839063990362184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIyWuFpaft",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/1960839063990362184/photo/1",
+              "media_key": "3_1960839059871555587",
+              "start": 6,
+              "url": "https://t.co/pIyWuFpaft"
+            },
+            {
+              "display_url": "pic.x.com/pIyWuFpaft",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/1960839063990362184/photo/1",
+              "media_key": "3_1960839058063810565",
+              "start": 6,
+              "url": "https://t.co/pIyWuFpaft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960839063990362184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想上班。 https://t.co/pIyWuFpaft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5027,
+          "following_count": 4464,
+          "like_count": 31470,
+          "listed_count": 11,
+          "media_count": 2283,
+          "tweet_count": 31259
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1990372494977720734",
+    "created_at": "2025-11-17T23:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T00:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990556069102510142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1970413364087345152",
+          "start": 0,
+          "username": "sun15612157938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990556069102510142",
+    "in_reply_to_user_id": "1970413364087345152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990455827057221975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sun15612157938 眼光很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990372494977720734",
+        "created_at": "2025-11-17T23:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T00:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990556069102510142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1970413364087345152",
+              "start": 0,
+              "username": "sun15612157938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990556069102510142",
+        "in_reply_to_user_id": "1970413364087345152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990455827057221975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sun15612157938 眼光很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970413364087345152",
+        "conversation_id": "1990372494977720734",
+        "created_at": "2025-11-17T16:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990455827057221975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990455827057221975",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990372494977720734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 很像我初恋呜呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5482,
+          "following_count": 4550,
+          "like_count": 33218,
+          "listed_count": 11,
+          "media_count": 2368,
+          "tweet_count": 32716
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T09:02:17.000Z",
+        "description": "男大学生，喜欢健身也正在减肥，高壮\n181高110kg，卧推100，深蹲120，硬拉腰受伤了没试过，直男直男，要原味好商量",
+        "id": "1970413364087345152",
+        "name": "良子(健身消除胃袋版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970413721743958020/0-LY2KvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 80,
+          "like_count": 1095,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 181
+        },
+        "username": "sun15612157938",
+        "verified": false
+      }
+    ]
+  }
+}

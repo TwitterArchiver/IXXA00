@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1978314651852009797",
+    "created_at": "2025-10-15T06:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T07:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978355015916847355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551797203676852225",
+          "start": 0,
+          "username": "HZM6DC7pIKKFRLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978355015916847355",
+    "in_reply_to_user_id": "1551797203676852225",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978343671616377046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HZM6DC7pIKKFRLp ✌🏿✌🏿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1978314651852009797",
+        "created_at": "2025-10-15T06:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978355015916847355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551797203676852225",
+              "start": 0,
+              "username": "HZM6DC7pIKKFRLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978355015916847355",
+        "in_reply_to_user_id": "1551797203676852225",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978343671616377046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HZM6DC7pIKKFRLp ✌🏿✌🏿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551797203676852225",
+        "conversation_id": "1978314651852009797",
+        "created_at": "2025-10-15T06:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978343671616377046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978343671616377046",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978314651852009797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "通常你不需要了解我那么多。/有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 3944,
+          "like_count": 30168,
+          "listed_count": 10,
+          "media_count": 2234,
+          "tweet_count": 30196
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T05:11:21.000Z",
+        "description": "...",
+        "id": "1551797203676852225",
+        "name": "悲傷的青蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758436522754461697/xfU97V6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 2294,
+          "like_count": 11750,
+          "listed_count": 7,
+          "media_count": 160,
+          "tweet_count": 3778
+        },
+        "username": "HZM6DC7pIKKFRLp",
+        "verified": false
+      }
+    ]
+  }
+}

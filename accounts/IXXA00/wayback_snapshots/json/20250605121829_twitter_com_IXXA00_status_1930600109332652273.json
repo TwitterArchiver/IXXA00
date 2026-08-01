@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1930597069968089516",
+    "created_at": "2025-06-05T12:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T13:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930600109332652273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800731151629168640",
+          "start": 0,
+          "username": "wdnmd67892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930600109332652273",
+    "in_reply_to_user_id": "1800731151629168640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930599164649607457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdnmd67892 是的我是玄武湖海盗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1930597069968089516",
+        "created_at": "2025-06-05T12:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T13:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930600109332652273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800731151629168640",
+              "start": 0,
+              "username": "wdnmd67892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930600109332652273",
+        "in_reply_to_user_id": "1800731151629168640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930599164649607457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdnmd67892 是的我是玄武湖海盗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800731151629168640",
+        "conversation_id": "1930597069968089516",
+        "created_at": "2025-06-05T12:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T13:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930599164649607457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930599164649607457",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930597069968089516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 玄武湖海盗吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1930121860882280625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3702,
+          "following_count": 3052,
+          "like_count": 22866,
+          "listed_count": 7,
+          "media_count": 1658,
+          "tweet_count": 22381
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T03:25:52.000Z",
+        "description": "糖分超标",
+        "id": "1800731151629168640",
+        "location": "kiss five",
+        "name": "K1555.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825398841710903297/MsrmsuJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 90,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 219
+        },
+        "username": "wdnmd67892",
+        "verified": false
+      }
+    ]
+  }
+}

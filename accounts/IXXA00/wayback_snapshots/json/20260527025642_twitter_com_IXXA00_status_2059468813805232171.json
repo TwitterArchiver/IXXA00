@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059406531930751083",
+    "created_at": "2026-05-27T02:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059468813805232171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1762249959972511744",
+          "start": 0,
+          "username": "nuo_si6832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059468813805232171",
+    "in_reply_to_user_id": "1762249959972511744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059465687312294012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuo_si6832 明天才过生日。谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-27T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059468813805232171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762249959972511744",
+              "start": 0,
+              "username": "nuo_si6832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059468813805232171",
+        "in_reply_to_user_id": "1762249959972511744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059465687312294012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuo_si6832 明天才过生日。谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762249959972511744",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-27T02:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059465687312294012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059465687312294012",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059406531930751083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 生日快乐老大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7050,
+          "following_count": 4502,
+          "like_count": 40385,
+          "listed_count": 18,
+          "media_count": 2961,
+          "tweet_count": 40302
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-26T22:55:19.000Z",
+        "description": "",
+        "id": "1762249959972511744",
+        "name": "42",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015997644825624586/ri2RAZI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1469,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 255
+        },
+        "username": "nuo_si6832",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1980646491137142942",
+    "created_at": "2025-10-22T02:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T03:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980819163179548778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757062646564900864",
+          "start": 0,
+          "username": "dodokiyoni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980819163179548778",
+    "in_reply_to_user_id": "1757062646564900864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980646491137142942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dodokiyoni 我把微信给你了我用什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1980646491137142942",
+        "created_at": "2025-10-22T02:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980819163179548778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757062646564900864",
+              "start": 0,
+              "username": "dodokiyoni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980819163179548778",
+        "in_reply_to_user_id": "1757062646564900864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980646491137142942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dodokiyoni 我把微信给你了我用什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757062646564900864",
+        "conversation_id": "1980646491137142942",
+        "created_at": "2025-10-21T14:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980646491137142942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980646491137142942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 37278,
+          "like_count": 340,
+          "quote_count": 7,
+          "reply_count": 70,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "加微信都干啥啊？加微信能聊啥？不跟在推特一样吗，为什么要加微信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "通常你不需要了解我那么多。/有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4605,
+          "following_count": 4071,
+          "like_count": 30405,
+          "listed_count": 10,
+          "media_count": 2250,
+          "tweet_count": 30453
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T15:22:50.000Z",
+        "description": "04  大四  165  天蝎  NT人｜最爱的食物是披萨🍕  最喜欢的角色是齐木楠雄｜男生私信发了照片我就考虑一下回不回复｜喜欢美女宝宝找我玩😋｜我是正常人 管好你自己 别来审判我",
+        "id": "1757062646564900864",
+        "location": "天王老子来了",
+        "name": "bumicat",
+        "pinned_tweet_id": "1974662651902140612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969951319336292352/ezLOtjhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 21,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 329
+        },
+        "username": "dodokiyoni",
+        "verified": false
+      }
+    ]
+  }
+}

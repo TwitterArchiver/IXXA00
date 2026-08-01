@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2035167033831416303",
+    "created_at": "2026-03-21T01:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T02:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035167364808126795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035167364808126795",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035167033831416303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不出意外的话，下周就能来到120多斤。\n终于……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2035167033831416303",
+        "created_at": "2026-03-21T01:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T02:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035167364808126795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035167364808126795",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035167033831416303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不出意外的话，下周就能来到120多斤。\n终于……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2035167033831416303",
+        "created_at": "2026-03-21T01:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T02:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035167033831416303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/IXXA00/status/2032801107031052421",
+              "start": 47,
+              "url": "https://t.co/WNt6VvomAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035167033831416303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032801107031052421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第三针\n本来今晚扎的\n但我提前了2天就扎了，因为要为下一阶段做准备。\n早上66kg\n早上好。 https://t.co/WNt6VvomAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "抽象主包。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6286,
+          "following_count": 4472,
+          "like_count": 36396,
+          "listed_count": 15,
+          "media_count": 2656,
+          "tweet_count": 36773
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

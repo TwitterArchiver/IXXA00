@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975117404700381584",
+    "created_at": "2025-10-06T09:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975131849388335321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1972316554202112000",
+          "start": 0,
+          "username": "ruiqin485045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975131849388335321",
+    "in_reply_to_user_id": "1972316554202112000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975125037905776935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiqin485045 4了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975117404700381584",
+        "created_at": "2025-10-06T09:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975131849388335321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1972316554202112000",
+              "start": 0,
+              "username": "ruiqin485045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975131849388335321",
+        "in_reply_to_user_id": "1972316554202112000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975125037905776935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiqin485045 4了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972316554202112000",
+        "conversation_id": "1975117404700381584",
+        "created_at": "2025-10-06T09:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975125037905776935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975125037905776935",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975117404700381584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 虽然但是，老板把年字漏了，变成在一起4啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4264,
+          "following_count": 3734,
+          "like_count": 29610,
+          "listed_count": 9,
+          "media_count": 2214,
+          "tweet_count": 29779
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T15:05:15.000Z",
+        "description": "一米六五，160斤，14cm线下找个母人同居 不男同谢谢，男同偷偷看就行了。",
+        "id": "1972316554202112000",
+        "location": "0791",
+        "name": "rui qin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972333032926314496/-V1odvdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 45,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "ruiqin485045",
+        "verified": false
+      }
+    ]
+  }
+}

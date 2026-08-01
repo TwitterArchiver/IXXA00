@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1970649803760824548",
+    "created_at": "2025-09-24T06:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970731436358672409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1872417759776112640",
+          "start": 0,
+          "username": "KingK1581621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970731436358672409",
+    "in_reply_to_user_id": "1872417759776112640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970693130099081453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KingK1581621 那不能😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1970649803760824548",
+        "created_at": "2025-09-24T06:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970731436358672409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1872417759776112640",
+              "start": 0,
+              "username": "KingK1581621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970731436358672409",
+        "in_reply_to_user_id": "1872417759776112640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970693130099081453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KingK1581621 那不能😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872417759776112640",
+        "conversation_id": "1970649803760824548",
+        "created_at": "2025-09-24T03:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T04:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970693130099081453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970693130099081453",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970684973486350343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不熟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla✌🏿",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4100,
+          "following_count": 3581,
+          "like_count": 29031,
+          "listed_count": 8,
+          "media_count": 2162,
+          "tweet_count": 29202
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T23:02:50.000Z",
+        "description": "1939 11•7——2022 6•16",
+        "id": "1872417759776112640",
+        "name": "K",
+        "pinned_tweet_id": "1939702248571019597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872418204900794375/wVVQBkKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1017,
+          "like_count": 3841,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2138
+        },
+        "username": "KingK1581621",
+        "verified": false
+      }
+    ]
+  }
+}

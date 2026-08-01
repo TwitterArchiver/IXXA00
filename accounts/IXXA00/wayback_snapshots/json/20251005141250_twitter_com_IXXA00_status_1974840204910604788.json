@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1974745193028214805",
+    "created_at": "2025-10-05T14:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T15:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974840204910604788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893941095882747904",
+          "start": 0,
+          "username": "abc_114514_fc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974840204910604788",
+    "in_reply_to_user_id": "1893941095882747904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974835322799448446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abc_114514_fc 我真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1974745193028214805",
+        "created_at": "2025-10-05T14:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974840204910604788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893941095882747904",
+              "start": 0,
+              "username": "abc_114514_fc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974840204910604788",
+        "in_reply_to_user_id": "1893941095882747904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974835322799448446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abc_114514_fc 我真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893941095882747904",
+        "conversation_id": "1974745193028214805",
+        "created_at": "2025-10-05T13:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974835322799448446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974835322799448446",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974745193028214805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 但日雌好像本来就是给这方面有疾病的女性用的药物，只不过某些生物小头控制大头了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "暴躁mode，无差别aoe所有人。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 3705,
+          "like_count": 29509,
+          "listed_count": 8,
+          "media_count": 2209,
+          "tweet_count": 29730
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T08:28:45.000Z",
+        "description": "",
+        "id": "1893941095882747904",
+        "name": "---",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929504093342666752/rK2KG-_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "abc_114514_fc",
+        "verified": false
+      }
+    ]
+  }
+}

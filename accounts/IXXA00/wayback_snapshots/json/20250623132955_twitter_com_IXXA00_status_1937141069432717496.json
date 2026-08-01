@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937141066550870016"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1937141069432717496",
+    "created_at": "2025-06-23T13:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937141069432717496"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "瑞平",
+          "probability": 0.4322,
+          "start": 2,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3l5TrzRN1H",
+          "end": 28,
+          "expanded_url": "https://x.com/IXXA00/status/1937141069432717496/photo/1",
+          "media_key": "3_1937141066550870016",
+          "start": 5,
+          "url": "https://t.co/3l5TrzRN1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937141069432717496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来点瑞平 https://t.co/3l5TrzRN1H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "3_1937141066550870016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIbiV-WAAAgTO8.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937141066550870016"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1937141069432717496",
+        "created_at": "2025-06-23T13:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937141069432717496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "瑞平",
+              "probability": 0.4322,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3l5TrzRN1H",
+              "end": 28,
+              "expanded_url": "https://x.com/IXXA00/status/1937141069432717496/photo/1",
+              "media_key": "3_1937141066550870016",
+              "start": 5,
+              "url": "https://t.co/3l5TrzRN1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937141069432717496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点瑞平 https://t.co/3l5TrzRN1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。🚪52/188/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 26,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "鞍山市",
+        "name": "isla🍗",
+        "pinned_tweet_id": "1936113120067670433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936447229180657664/hi_Aavke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 3102,
+          "like_count": 24261,
+          "listed_count": 7,
+          "media_count": 1792,
+          "tweet_count": 23890
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

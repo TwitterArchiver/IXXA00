@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1922817689468207577",
+    "created_at": "2025-05-15T03:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T04:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922863672944193887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1149206523320516608",
+          "start": 0,
+          "username": "ykq315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922863672944193887",
+    "in_reply_to_user_id": "1149206523320516608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922863432644075950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ykq315 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1922817689468207577",
+        "created_at": "2025-05-15T03:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T04:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922863672944193887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1149206523320516608",
+              "start": 0,
+              "username": "ykq315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922863672944193887",
+        "in_reply_to_user_id": "1149206523320516608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922863432644075950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ykq315 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1149206523320516608",
+        "conversation_id": "1922817689468207577",
+        "created_at": "2025-05-15T03:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T04:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922863432644075950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922863432644075950",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922850189779329215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可以喵~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "烦死了。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "猫菇isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922471366768656384/7lbVz7px_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 3022,
+          "like_count": 21754,
+          "listed_count": 7,
+          "media_count": 1560,
+          "tweet_count": 21127
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-11T06:39:21.000Z",
+        "description": "我不是人类了",
+        "id": "1149206523320516608",
+        "name": "普通猫",
+        "pinned_tweet_id": "1667564947839291393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841992474572820480/0KZ4lXk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 298,
+          "like_count": 33904,
+          "listed_count": 1,
+          "media_count": 603,
+          "tweet_count": 6429
+        },
+        "username": "ykq315",
+        "verified": false
+      }
+    ]
+  }
+}

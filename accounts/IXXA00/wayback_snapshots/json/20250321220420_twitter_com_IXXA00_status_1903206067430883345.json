@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1902670838345654431",
+    "created_at": "2025-03-21T22:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T23:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903206067430883345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1543852749238202368",
+          "start": 0,
+          "username": "sostuanyuan1513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903206067430883345",
+    "in_reply_to_user_id": "1543852749238202368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903146303552422189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sostuanyuan1513 给你吃一个"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903146303552422189].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903146303552422189",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903146303552422189"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1902670838345654431",
+        "created_at": "2025-03-21T22:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T23:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903206067430883345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543852749238202368",
+              "start": 0,
+              "username": "sostuanyuan1513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903206067430883345",
+        "in_reply_to_user_id": "1543852749238202368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903146303552422189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sostuanyuan1513 给你吃一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷小甜酒(72度)。潘多拉魔盒慎点@ithra00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "ithra00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3507,
+          "following_count": 2760,
+          "like_count": 18802,
+          "listed_count": 6,
+          "media_count": 1268,
+          "tweet_count": 17793
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T07:02:45.000Z",
+        "description": "•ᴗ•💧( ˙꒳​˙ )???",
+        "id": "1543852749238202368",
+        "name": "YUUUU=͟͟͞͞(꒪ᗜ꒪ ‧̣̥̇)🍍",
+        "pinned_tweet_id": "1895863465098842427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619616319367950336/1F1BbZ-5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 286,
+          "like_count": 15672,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 9732
+        },
+        "username": "sostuanyuan1513",
+        "verified": false
+      }
+    ]
+  }
+}

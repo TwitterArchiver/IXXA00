@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1988489666107236464",
+    "created_at": "2025-11-12T10:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988555798947967294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988555798947967294",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988489666107236464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 6，穿裙子，换二次元头像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1988488917939875842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iIIqmbcAIbg_5.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1988489666107236464",
+        "created_at": "2025-11-12T10:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988555798947967294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988555798947967294",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988489666107236464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 6，穿裙子，换二次元头像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988488917939875842"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1988489666107236464",
+        "created_at": "2025-11-12T06:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988489666107236464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMYRqnQUIu",
+              "end": 160,
+              "expanded_url": "https://x.com/manateelazycat/status/1988489666107236464/photo/1",
+              "media_key": "3_1988488917939875842",
+              "start": 137,
+              "url": "https://t.co/kMYRqnQUIu"
+            },
+            {
+              "display_url": "x.com/seekjourney/st…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/seekjourney/status/1988247574172836099",
+              "start": 161,
+              "url": "https://t.co/emqPYN9gwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988489666107236464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我来给大家分享一个我自学编程的经历\n\n100％容易复刻\n\n1. 折腾阶段：Windows和Linux系统经常装系统，折腾各种配置，不要怕，大不了就重装。ArchWiki上越是写的 “不要作死” 的命令，我越要去作死。那些凡是让你系统起不来的命令，都是你以后宝贵的计算机基础\n\n2.写代码：先乱写，先把手感弄熟悉了，你不写出来一个垃圾，你怎么知道自己是垃圾？这个阶段不要想那么多，就天天写代码，先把量搞上去，多学点语言，就跟虚竹一样，练不死的。我现在就会30种编程语言，偶尔还会语法混搭串台，不影响的。乱整的经验多了，就是老师傅了\n\n3.商业代码倒计时：系统和编程语言折腾明白了，就去找个班上，给自己一个倒计时定义，比如别人写一个功能要一周，你就给自己一天的时间，挑战一下。那种把工作变成游戏挑战的心态会让你肾上腺激素爆发，你在摇滚乐和紧张的时间中编写代码，会非常快的进入心流。忘我的写代码心流就是你台阶式进化自己脑部操作系统的时刻\n\n4.大部头书：其实到第3步的时候你已经是武林高手了，要进入扫地僧的状态就要开始读大部头的书。比如TCP/IP详解、UNIX高级编程、计算机编程的艺术、Xlib手册、编译原理、OpenGL图形等等，大部头的书虽然吓人，但是这些书会告诉你计算机底层的原理，不像那些薄的书作者自己都不明白，当你懂得的底层技术越多，就会发现，世界99％的难题对于别人是无头苍蝇，你就是信手拈来\n\n5. 有自己的开源项目：公司的事情，不管怎么做都是给客户做的，整一点自己喜欢的开源项目。当你写代码在取悦自己的时候，代码就不是工作和质量。而是艺术品，当你像艺术品那样雕琢每一行代码，每一个参数，每一个注释语法。你就已经超越你自己了，那时候编程对于你就是生活消遣，就是享受\n\n是不是很简单？开始尝试吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 28224,
+          "like_count": 263,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988247574172836099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来给大家分享一个我自学编程的经历\n\n100％容易复刻\n\n1. 折腾阶段：Windows和Linux系统经常装系统，折腾各种配置，不要怕，大不了就重装。ArchWiki上越是写的 “不要作死” 的命令，我越要去作死。那些凡是让你系统起不来的命令，都是你以后宝贵的计算机基础 https://t.co/kMYRqnQUIu https://t.co/emqPYN9gwP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5469,
+          "following_count": 4549,
+          "like_count": 32939,
+          "listed_count": 11,
+          "media_count": 2347,
+          "tweet_count": 32454
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 98,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 75,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1968998079623041134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43422,
+          "following_count": 230,
+          "like_count": 14664,
+          "listed_count": 300,
+          "media_count": 3424,
+          "tweet_count": 28849
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

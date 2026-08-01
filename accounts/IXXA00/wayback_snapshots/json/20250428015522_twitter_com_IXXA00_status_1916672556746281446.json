@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1916672325782741279",
+    "created_at": "2025-04-28T01:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T02:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916672556746281446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497833061916213251",
+          "start": 0,
+          "username": "aaapplepieee1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916672556746281446",
+    "in_reply_to_user_id": "1497833061916213251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916672325782741279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaapplepieee1 我趣，好猛"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916672325782741279].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916672325782741279",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916672325782741279"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1916672325782741279",
+        "created_at": "2025-04-28T01:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T02:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916672556746281446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497833061916213251",
+              "start": 0,
+              "username": "aaapplepieee1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916672556746281446",
+        "in_reply_to_user_id": "1497833061916213251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916672325782741279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaapplepieee1 我趣，好猛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，加了糖，也下了毒。门槛188/520/1314过门问价可接线下",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1915215627545162231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914587294960644096/GIbUxxih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 2950,
+          "like_count": 20639,
+          "listed_count": 7,
+          "media_count": 1468,
+          "tweet_count": 19983
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T07:16:48.000Z",
+        "description": "吸烟有害健康",
+        "id": "1497833061916213251",
+        "name": "🚬",
+        "pinned_tweet_id": "1903459439618965539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901860170407510016/BcsvCkqY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 777,
+          "like_count": 61045,
+          "listed_count": 8,
+          "media_count": 1461,
+          "tweet_count": 34824
+        },
+        "username": "aaapplepieee1",
+        "verified": false
+      }
+    ]
+  }
+}

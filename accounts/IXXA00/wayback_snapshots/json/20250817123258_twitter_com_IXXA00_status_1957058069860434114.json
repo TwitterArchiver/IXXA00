@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1956692415445926362",
+    "created_at": "2025-08-17T12:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957058069860434114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795828482057940992",
+          "start": 0,
+          "username": "ygxdst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957058069860434114",
+    "in_reply_to_user_id": "1795828482057940992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957053332746625252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygxdst ✌🏿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1956692415445926362",
+        "created_at": "2025-08-17T12:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957058069860434114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795828482057940992",
+              "start": 0,
+              "username": "ygxdst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957058069860434114",
+        "in_reply_to_user_id": "1795828482057940992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957053332746625252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygxdst ✌🏿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795828482057940992",
+        "conversation_id": "1956692415445926362",
+        "created_at": "2025-08-17T12:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957053332746625252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957053332746625252",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957045359450206502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你好年轻，我都56了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不是男娘。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1956318087436742723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3851,
+          "following_count": 3283,
+          "like_count": 27359,
+          "listed_count": 5,
+          "media_count": 2041,
+          "tweet_count": 27123
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T14:45:26.000Z",
+        "description": "抛弃一切希望与绝望，只是向前走",
+        "id": "1795828482057940992",
+        "name": "阳光下的尸体",
+        "pinned_tweet_id": "1955305527405318303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915089232592564227/RI2PHdjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 463,
+          "like_count": 1980,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 2835
+        },
+        "username": "ygxdst",
+        "verified": false
+      }
+    ]
+  }
+}

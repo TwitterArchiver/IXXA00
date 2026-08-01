@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1991803263545741684",
+    "created_at": "2025-11-21T15:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991889352893571212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827938116717686784",
+          "start": 0,
+          "username": "nihao2228387"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991889352893571212",
+    "in_reply_to_user_id": "1827938116717686784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991884758322999308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nihao2228387 我自己做的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1991803263545741684",
+        "created_at": "2025-11-21T15:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991889352893571212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827938116717686784",
+              "start": 0,
+              "username": "nihao2228387"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991889352893571212",
+        "in_reply_to_user_id": "1827938116717686784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991884758322999308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nihao2228387 我自己做的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827938116717686784",
+        "conversation_id": "1991803263545741684",
+        "created_at": "2025-11-21T15:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991884758322999308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991884758322999308",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991803263545741684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 在哪？关门没？贵吗？在市内吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5509,
+          "following_count": 4549,
+          "like_count": 33610,
+          "listed_count": 11,
+          "media_count": 2391,
+          "tweet_count": 33015
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T05:16:34.000Z",
+        "description": "别骂我 我现实里有生活 每天都要忙 真的没时间跟你对线",
+        "id": "1827938116717686784",
+        "location": "West Region, Singapore",
+        "name": "狗狗大王",
+        "pinned_tweet_id": "1990079274875810081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901245679441444865/RmY__4CV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 294,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 205
+        },
+        "username": "nihao2228387",
+        "verified": false
+      }
+    ]
+  }
+}

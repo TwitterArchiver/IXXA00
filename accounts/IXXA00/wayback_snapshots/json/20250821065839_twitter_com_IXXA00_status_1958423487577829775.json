@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958423475972177920",
+        "3_1958423476181901312"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1958423487577829775",
+    "created_at": "2025-08-21T06:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958423487577829775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZy0SjCZiA",
+          "end": 23,
+          "expanded_url": "https://x.com/IXXA00/status/1958423487577829775/photo/1",
+          "media_key": "3_1958423475972177920",
+          "start": 0,
+          "url": "https://t.co/iZy0SjCZiA"
+        },
+        {
+          "display_url": "pic.x.com/iZy0SjCZiA",
+          "end": 23,
+          "expanded_url": "https://x.com/IXXA00/status/1958423487577829775/photo/1",
+          "media_key": "3_1958423476181901312",
+          "start": 0,
+          "url": "https://t.co/iZy0SjCZiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958423487577829775",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/iZy0SjCZiA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1958423487577829775].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1958423487577829775",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1958423487577829775"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_1958423475972177920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy23xnUbgAAMRJA.jpg",
+        "width": 1248
+      },
+      {
+        "height": 1824,
+        "media_key": "3_1958423476181901312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy23xoGboAAbWhd.jpg",
+        "width": 1248
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 3325,
+          "like_count": 27533,
+          "listed_count": 7,
+          "media_count": 2051,
+          "tweet_count": 27338
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1995986859206574471",
+    "created_at": "2025-12-03T02:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T03:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996049306504286555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662475524457869312",
+          "start": 0,
+          "username": "Pleaseeatpotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996049306504286555",
+    "in_reply_to_user_id": "1662475524457869312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996036574317084912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pleaseeatpotato 蜗牛人出门左拐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1995986859206574471",
+        "created_at": "2025-12-03T02:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996049306504286555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662475524457869312",
+              "start": 0,
+              "username": "Pleaseeatpotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996049306504286555",
+        "in_reply_to_user_id": "1662475524457869312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996036574317084912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pleaseeatpotato 蜗牛人出门左拐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662475524457869312",
+        "conversation_id": "1995986859206574471",
+        "created_at": "2025-12-03T01:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996036574317084912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996036574317084912",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995986859206574471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 爱你老蜗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5629,
+          "following_count": 4552,
+          "like_count": 34061,
+          "listed_count": 11,
+          "media_count": 2437,
+          "tweet_count": 33644
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:07:24.000Z",
+        "description": "",
+        "id": "1662475524457869312",
+        "location": "🇨🇦距离安大略湖直线距离16公里处",
+        "name": "🍫 covered 🥔",
+        "pinned_tweet_id": "1993178394067083737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774989551674499072/gOQaEtHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 472,
+          "like_count": 27328,
+          "listed_count": 5,
+          "media_count": 462,
+          "tweet_count": 7321
+        },
+        "username": "Pleaseeatpotato",
+        "verified": false
+      }
+    ]
+  }
+}

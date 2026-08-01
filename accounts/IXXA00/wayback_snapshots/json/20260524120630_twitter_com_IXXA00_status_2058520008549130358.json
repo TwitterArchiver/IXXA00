@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2058504877538734289",
+    "created_at": "2026-05-24T12:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058520008549130358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1965819361459093504",
+          "start": 0,
+          "username": "chen0303125955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058520008549130358",
+    "in_reply_to_user_id": "1965819361459093504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058519736624075107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen0303125955 很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2058504877538734289",
+        "created_at": "2026-05-24T12:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058520008549130358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965819361459093504",
+              "start": 0,
+              "username": "chen0303125955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058520008549130358",
+        "in_reply_to_user_id": "1965819361459093504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058519736624075107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen0303125955 很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965819361459093504",
+        "conversation_id": "2058504877538734289",
+        "created_at": "2026-05-24T12:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058519736624075107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058519736624075107",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058504877538734289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 昨天下班路过小学门口，买了两包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7046,
+          "following_count": 4502,
+          "like_count": 40269,
+          "listed_count": 18,
+          "media_count": 2947,
+          "tweet_count": 40187
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T16:47:23.000Z",
+        "description": "，",
+        "id": "1965819361459093504",
+        "location": "距离你114514m",
+        "name": "飞飞飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965819709745713152/IYrFY5io_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 210,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 84
+        },
+        "username": "chen0303125955",
+        "verified": false
+      }
+    ]
+  }
+}

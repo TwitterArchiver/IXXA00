@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2075690041956037097",
+    "created_at": "2026-07-11T02:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075767801105789315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763121326234185728",
+          "start": 0,
+          "username": "Liu1368941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075767801105789315",
+    "in_reply_to_user_id": "1763121326234185728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075744306313502841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu1368941 大哥，你没长过胸吗？好疼啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2075690041956037097",
+        "created_at": "2026-07-11T02:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075767801105789315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763121326234185728",
+              "start": 0,
+              "username": "Liu1368941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075767801105789315",
+        "in_reply_to_user_id": "1763121326234185728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075744306313502841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu1368941 大哥，你没长过胸吗？好疼啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763121326234185728",
+        "conversation_id": "2075690041956037097",
+        "created_at": "2026-07-11T00:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T01:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075744306313502841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075744306313502841",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075690041956037097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 捏捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7496,
+          "following_count": 4543,
+          "like_count": 42956,
+          "listed_count": 18,
+          "media_count": 3134,
+          "tweet_count": 42467
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T08:37:49.000Z",
+        "description": "enfp\n脑部肛裂症患者",
+        "id": "1763121326234185728",
+        "name": "Liu.",
+        "pinned_tweet_id": "1875935123948114192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012333353681539072/3n8_8IFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 158,
+          "like_count": 43531,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 4640
+        },
+        "url": "",
+        "username": "Liu1368941",
+        "verified": false
+      }
+    ]
+  }
+}

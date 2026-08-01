@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1986015129964863829",
+    "created_at": "2025-11-05T10:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T11:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986025435604582820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793975623024570368",
+          "start": 0,
+          "username": "lm44133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986025435604582820",
+    "in_reply_to_user_id": "1793975623024570368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986024478552535442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lm44133 耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1986015129964863829",
+        "created_at": "2025-11-05T10:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986025435604582820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793975623024570368",
+              "start": 0,
+              "username": "lm44133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986025435604582820",
+        "in_reply_to_user_id": "1793975623024570368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986024478552535442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lm44133 耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793975623024570368",
+        "conversation_id": "1986015129964863829",
+        "created_at": "2025-11-05T10:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986024478552535442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986024478552535442",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986015129964863829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 美美哒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5404,
+          "following_count": 4527,
+          "like_count": 32480,
+          "listed_count": 11,
+          "media_count": 2318,
+          "tweet_count": 31961
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T12:01:44.000Z",
+        "description": "你和，我是李汉星（涩图爱好者，著名评论家）欢迎你的到来",
+        "id": "1793975623024570368",
+        "location": "1",
+        "name": "李汉星",
+        "pinned_tweet_id": "1921986334928851035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920210458943836160/1c0Zo-bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 314,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 994
+        },
+        "username": "lm44133",
+        "verified": false
+      }
+    ]
+  }
+}

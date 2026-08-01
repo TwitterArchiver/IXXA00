@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2078625153811189881",
+    "created_at": "2026-07-18T23:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078625153811189881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/selfish070820/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/selfish070820/status/2078542225919860850",
+          "start": 6,
+          "url": "https://t.co/8dp0NjwoIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078625153811189881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078542225919860850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喝大了： https://t.co/8dp0NjwoIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2078625153811189881",
+        "created_at": "2026-07-18T23:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078625153811189881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/selfish070820/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/selfish070820/status/2078542225919860850",
+              "start": 6,
+              "url": "https://t.co/8dp0NjwoIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078625153811189881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078542225919860850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喝大了： https://t.co/8dp0NjwoIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899865750233636864",
+        "conversation_id": "2078542225919860850",
+        "created_at": "2026-07-18T18:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078542225919860850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078542225919860850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想和相爱的人拥吻在一起…我一定是今天晚上喝大了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7513,
+          "following_count": 4542,
+          "like_count": 43312,
+          "listed_count": 18,
+          "media_count": 3166,
+          "tweet_count": 42780
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-12T16:51:18.000Z",
+        "description": "愿人世间再无疾苦，希望所有人都能幸福",
+        "id": "1899865750233636864",
+        "location": "我爱故我在",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930999010363654144/sBUU8mOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 204,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "selfish070820",
+        "verified": false
+      }
+    ]
+  }
+}

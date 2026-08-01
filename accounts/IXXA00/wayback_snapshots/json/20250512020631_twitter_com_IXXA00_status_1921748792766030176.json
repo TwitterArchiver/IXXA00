@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1921597493214609675",
+    "created_at": "2025-05-12T02:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T03:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921748792766030176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896393150064992256",
+          "start": 0,
+          "username": "hao85860505290"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921748792766030176",
+    "in_reply_to_user_id": "1896393150064992256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921744398569926673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hao85860505290 谢谢hao老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1921597493214609675",
+        "created_at": "2025-05-12T02:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T03:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921748792766030176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896393150064992256",
+              "start": 0,
+              "username": "hao85860505290"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921748792766030176",
+        "in_reply_to_user_id": "1896393150064992256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921744398569926673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hao85860505290 谢谢hao老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896393150064992256",
+        "conversation_id": "1921597493214609675",
+        "created_at": "2025-05-12T01:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T02:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921744398569926673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921744398569926673",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921597493214609675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不好吃🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1921597493214609675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921254080334491650/T6AK4pIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 2995,
+          "like_count": 21603,
+          "listed_count": 7,
+          "media_count": 1540,
+          "tweet_count": 20912
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T02:52:23.000Z",
+        "description": "",
+        "id": "1896393150064992256",
+        "name": "hao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896393710113583105/8_oPbaXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 49,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "username": "hao85860505290",
+        "verified": false
+      }
+    ]
+  }
+}

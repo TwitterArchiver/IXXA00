@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2063207556718440628",
+    "created_at": "2026-06-06T23:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063403209893486853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744746496535539712",
+          "start": 0,
+          "username": "anorth_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063403209893486853",
+    "in_reply_to_user_id": "1744746496535539712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063207556718440628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anorth_chen 我是筹集😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2063207556718440628",
+        "created_at": "2026-06-06T23:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063403209893486853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744746496535539712",
+              "start": 0,
+              "username": "anorth_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063403209893486853",
+        "in_reply_to_user_id": "1744746496535539712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063207556718440628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anorth_chen 我是筹集😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744746496535539712",
+        "conversation_id": "2063207556718440628",
+        "created_at": "2026-06-06T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063207556718440628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063207556718440628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1955,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X账号是最好的个人简历。\n\nTalk is cheap, show me your X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7250,
+          "following_count": 4517,
+          "like_count": 41331,
+          "listed_count": 18,
+          "media_count": 3005,
+          "tweet_count": 40956
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-09T15:42:42.000Z",
+        "description": "INTJ, Head of Community @CreaoAI | 2021 CS Bachelor (Focus in AI) @UofT | Crypto Trader | Before: Ex Technical Specialist @AlibabaGroup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "CreaoAI"
+              },
+              {
+                "end": 71,
+                "start": 66,
+                "username": "UofT"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "AlibabaGroup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "community.creao.ai",
+                "end": 23,
+                "expanded_url": "http://community.creao.ai",
+                "start": 0,
+                "url": "https://t.co/T9tjO5HJ9f"
+              }
+            ]
+          }
+        },
+        "id": "1744746496535539712",
+        "location": "AI & Blockchain",
+        "name": "North@CreaoAI",
+        "pinned_tweet_id": "1984209300928246026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063311394359975936/18_6caVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6699,
+          "following_count": 604,
+          "like_count": 1321,
+          "listed_count": 59,
+          "media_count": 160,
+          "tweet_count": 1655
+        },
+        "url": "https://t.co/T9tjO5HJ9f",
+        "username": "anorth_chen",
+        "verified": true
+      }
+    ]
+  }
+}

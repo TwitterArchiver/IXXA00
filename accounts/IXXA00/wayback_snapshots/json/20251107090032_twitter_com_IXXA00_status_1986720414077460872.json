@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1986696707594461540",
+    "created_at": "2025-11-07T09:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T10:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986720414077460872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636035343370838017",
+          "start": 0,
+          "username": "Little_Morichan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986720414077460872",
+    "in_reply_to_user_id": "1636035343370838017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986719771141046418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Little_Morichan 很麻烦的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1986696707594461540",
+        "created_at": "2025-11-07T09:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986720414077460872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636035343370838017",
+              "start": 0,
+              "username": "Little_Morichan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986720414077460872",
+        "in_reply_to_user_id": "1636035343370838017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986719771141046418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Little_Morichan 很麻烦的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636035343370838017",
+        "conversation_id": "1986696707594461540",
+        "created_at": "2025-11-07T08:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986719771141046418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986719771141046418",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986696707594461540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 想srs。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5448,
+          "following_count": 4538,
+          "like_count": 32649,
+          "listed_count": 11,
+          "media_count": 2322,
+          "tweet_count": 32068
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T16:03:25.000Z",
+        "description": "随缘清水日常/不接线下不聊黄色/低质cos/电子游戏瘾/闲聊好友位50r",
+        "id": "1636035343370838017",
+        "location": "在你心里",
+        "name": "Mori🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843481430342672384/tgXnMyQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17231,
+          "following_count": 395,
+          "like_count": 8446,
+          "listed_count": 41,
+          "media_count": 261,
+          "tweet_count": 1313
+        },
+        "username": "Little_Morichan",
+        "verified": false
+      }
+    ]
+  }
+}

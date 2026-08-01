@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1996426665375969386",
+    "created_at": "2025-12-04T15:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T16:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996604033499623688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1233010535311917056",
+          "start": 0,
+          "username": "lk20150823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996604033499623688",
+    "in_reply_to_user_id": "1233010535311917056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996603732839002150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lk20150823 和十三香不一样的香味！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1996426665375969386",
+        "created_at": "2025-12-04T15:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996604033499623688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1233010535311917056",
+              "start": 0,
+              "username": "lk20150823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996604033499623688",
+        "in_reply_to_user_id": "1233010535311917056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996603732839002150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lk20150823 和十三香不一样的香味！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233010535311917056",
+        "conversation_id": "1996426665375969386",
+        "created_at": "2025-12-04T15:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996603732839002150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996603732839002150",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996426665375969386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 自信点不是类似是就是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "喜欢装可爱，很坏。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5636,
+          "following_count": 4550,
+          "like_count": 34252,
+          "listed_count": 11,
+          "media_count": 2442,
+          "tweet_count": 33770
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T12:46:44.000Z",
+        "description": "S，纯爱，骂人极其臭",
+        "id": "1233010535311917056",
+        "location": "南昌,中华人民共和国",
+        "name": "芝麻大福",
+        "pinned_tweet_id": "1929806865543901429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240111563903840257/bmJ0kYms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 69,
+          "like_count": 521,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 874
+        },
+        "username": "lk20150823",
+        "verified": false
+      }
+    ]
+  }
+}

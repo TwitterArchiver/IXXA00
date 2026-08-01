@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983112632111685678",
+    "created_at": "2025-10-30T08:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T09:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983813537903550837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862139023214387200",
+          "start": 0,
+          "username": "mhdwng135616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983813537903550837",
+    "in_reply_to_user_id": "1862139023214387200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983811116884226536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhdwng135616 这用我说吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983112632111685678",
+        "created_at": "2025-10-30T08:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983813537903550837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862139023214387200",
+              "start": 0,
+              "username": "mhdwng135616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983813537903550837",
+        "in_reply_to_user_id": "1862139023214387200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983811116884226536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhdwng135616 这用我说吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862139023214387200",
+        "conversation_id": "1983112632111685678",
+        "created_at": "2025-10-30T08:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983811116884226536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983811116884226536",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983112632111685678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主播你也没说你这么可爱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5058,
+          "following_count": 4491,
+          "like_count": 31543,
+          "listed_count": 11,
+          "media_count": 2288,
+          "tweet_count": 31327
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T14:18:45.000Z",
+        "description": "04年｜……",
+        "id": "1862139023214387200",
+        "location": "中华人民共和国",
+        "name": "迷糊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862139187568214017/cioHou8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 368,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "username": "mhdwng135616",
+        "verified": false
+      }
+    ]
+  }
+}

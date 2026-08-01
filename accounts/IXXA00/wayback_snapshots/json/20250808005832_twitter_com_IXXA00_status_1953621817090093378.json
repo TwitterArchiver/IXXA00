@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941809832262340904",
+    "created_at": "2025-08-08T00:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T01:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953621817090093378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816663565589159936",
+          "start": 0,
+          "username": "CopyLoveWzard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953621817090093378",
+    "in_reply_to_user_id": "1816663565589159936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953620979977978235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CopyLoveWzard ✌🏿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-08-08T00:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T01:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953621817090093378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816663565589159936",
+              "start": 0,
+              "username": "CopyLoveWzard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953621817090093378",
+        "in_reply_to_user_id": "1816663565589159936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953620979977978235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CopyLoveWzard ✌🏿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816663565589159936",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-08-08T00:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T01:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953620979977978235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953620979977978235",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941809832262340904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 麦晓雯姐姐～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓(离异带两百个孩子)",
+        "pinned_tweet_id": "1952031414645576076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 3234,
+          "like_count": 26959,
+          "listed_count": 5,
+          "media_count": 1993,
+          "tweet_count": 26581
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T02:35:40.000Z",
+        "description": "I want make friends! Have anyone see it?",
+        "id": "1816663565589159936",
+        "name": "Copy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816663748762832896/Wfz_oIXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 467,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 236
+        },
+        "username": "CopyLoveWzard",
+        "verified": false
+      }
+    ]
+  }
+}

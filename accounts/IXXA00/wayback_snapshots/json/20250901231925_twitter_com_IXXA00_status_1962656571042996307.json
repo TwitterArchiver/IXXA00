@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1962400675842916574",
+    "created_at": "2025-09-01T23:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T00:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962656571042996307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860735494578929664",
+          "start": 0,
+          "username": "yy9951469711256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962656571042996307",
+    "in_reply_to_user_id": "1860735494578929664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962547564018045171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy9951469711256 臭死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1962400675842916574",
+        "created_at": "2025-09-01T23:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T00:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962656571042996307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860735494578929664",
+              "start": 0,
+              "username": "yy9951469711256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962656571042996307",
+        "in_reply_to_user_id": "1860735494578929664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962547564018045171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy9951469711256 臭死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860735494578929664",
+        "conversation_id": "1962400675842916574",
+        "created_at": "2025-09-01T16:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962547564018045171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962547564018045171",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962400675842916574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 让我尝尝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 3397,
+          "like_count": 28192,
+          "listed_count": 9,
+          "media_count": 2101,
+          "tweet_count": 28179
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:21:47.000Z",
+        "description": "扶她孕肚魅魔，欢迎来操我哦。",
+        "id": "1860735494578929664",
+        "name": "玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860736614617522176/XBlDAJQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 427,
+          "like_count": 3507,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 665
+        },
+        "username": "yy9951469711256",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1949714619250966796",
+    "created_at": "2025-07-30T06:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950447793396437023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1932938982306033665",
+          "start": 0,
+          "username": "running5_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950447793396437023",
+    "in_reply_to_user_id": "1932938982306033665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950439930498601254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@running5_ 一起相处的人也很重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1949714619250966796",
+        "created_at": "2025-07-30T06:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950447793396437023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1932938982306033665",
+              "start": 0,
+              "username": "running5_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950447793396437023",
+        "in_reply_to_user_id": "1932938982306033665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950439930498601254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@running5_ 一起相处的人也很重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932938982306033665",
+        "conversation_id": "1949714619250966796",
+        "created_at": "2025-07-30T06:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950439930498601254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950439930498601254",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949714619250966796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 如果身体和生活环境都很干净整洁，那么心理环境一般也不差了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1949816247232979020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949819300392710144/BQK6xIVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3774,
+          "following_count": 3176,
+          "like_count": 26573,
+          "listed_count": 5,
+          "media_count": 1959,
+          "tweet_count": 26101
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T23:12:36.000Z",
+        "description": "随机🔄的人类，有碎碎念回复。居无定所，四处漂泊，暂居南京而已",
+        "id": "1932938982306033665",
+        "name": "ttingge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933592426079531009/QxzqSNNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 58,
+          "like_count": 3317,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1147
+        },
+        "username": "running5_",
+        "verified": false
+      }
+    ]
+  }
+}

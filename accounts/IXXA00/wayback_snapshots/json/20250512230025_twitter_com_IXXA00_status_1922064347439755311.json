@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1921597493214609675",
+    "created_at": "2025-05-12T23:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T00:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922064347439755311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1755430037304860672",
+          "start": 0,
+          "username": "SeiranTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922064347439755311",
+    "in_reply_to_user_id": "1755430037304860672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921978437209669720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeiranTH 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1921597493214609675",
+        "created_at": "2025-05-12T23:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T00:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922064347439755311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1755430037304860672",
+              "start": 0,
+              "username": "SeiranTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922064347439755311",
+        "in_reply_to_user_id": "1755430037304860672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921978437209669720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeiranTH 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755430037304860672",
+        "conversation_id": "1921597493214609675",
+        "created_at": "2025-05-12T17:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921978437209669720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921978437209669720",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921597493214609675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ？同日生日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不好吃🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "绒布球isla",
+        "pinned_tweet_id": "1921597493214609675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921254080334491650/T6AK4pIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3681,
+          "following_count": 3024,
+          "like_count": 21689,
+          "listed_count": 7,
+          "media_count": 1542,
+          "tweet_count": 20989
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T03:15:17.000Z",
+        "description": "用是发愤立志，务当同心协力，以竟厥功。",
+        "id": "1755430037304860672",
+        "name": "清兰",
+        "pinned_tweet_id": "1871016002412294551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902758510003470336/dkypSVMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 49,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 384
+        },
+        "username": "SeiranTH",
+        "verified": false
+      }
+    ]
+  }
+}

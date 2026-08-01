@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1955914139370709288",
+    "created_at": "2025-08-14T13:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T14:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955981527550189984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802993535303733248",
+          "start": 0,
+          "username": "Alice72372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955981527550189984",
+    "in_reply_to_user_id": "1802993535303733248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955981200558100667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice72372 感觉好奇怪就没买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1955914139370709288",
+        "created_at": "2025-08-14T13:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955981527550189984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802993535303733248",
+              "start": 0,
+              "username": "Alice72372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955981527550189984",
+        "in_reply_to_user_id": "1802993535303733248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955981200558100667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice72372 感觉好奇怪就没买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802993535303733248",
+        "conversation_id": "1955914139370709288",
+        "created_at": "2025-08-14T13:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955981200558100667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955981200558100667",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955914139370709288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 😋今天的陈醋风味鸡腿块不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1955832918028509253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 3263,
+          "like_count": 27199,
+          "listed_count": 5,
+          "media_count": 2024,
+          "tweet_count": 26891
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T09:16:12.000Z",
+        "description": "社畜 肥宅",
+        "id": "1802993535303733248",
+        "name": "wanhualiuli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860644630897033216/T8WrvHPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 98,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 268
+        },
+        "username": "Alice72372",
+        "verified": false
+      }
+    ]
+  }
+}

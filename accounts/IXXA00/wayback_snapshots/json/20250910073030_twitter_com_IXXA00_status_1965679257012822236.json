@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1965667573653189010",
+    "created_at": "2025-09-10T07:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T08:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965679257012822236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860735494578929664",
+          "start": 0,
+          "username": "yy9951469711256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965679257012822236",
+    "in_reply_to_user_id": "1860735494578929664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965678826664669518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy9951469711256 你怎么知道我34岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1965667573653189010",
+        "created_at": "2025-09-10T07:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965679257012822236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860735494578929664",
+              "start": 0,
+              "username": "yy9951469711256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965679257012822236",
+        "in_reply_to_user_id": "1860735494578929664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965678826664669518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy9951469711256 你怎么知道我34岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860735494578929664",
+        "conversation_id": "1965667573653189010",
+        "created_at": "2025-09-10T07:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965678826664669518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965678826664669518",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965667573653189010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1965073573254738170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3987,
+          "following_count": 3447,
+          "like_count": 28516,
+          "listed_count": 8,
+          "media_count": 2126,
+          "tweet_count": 28597
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:21:47.000Z",
+        "description": "扶她孕肚魅魔，欢迎来操我哦。",
+        "id": "1860735494578929664",
+        "name": "玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860736614617522176/XBlDAJQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 438,
+          "like_count": 3732,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 704
+        },
+        "username": "yy9951469711256",
+        "verified": false
+      }
+    ]
+  }
+}

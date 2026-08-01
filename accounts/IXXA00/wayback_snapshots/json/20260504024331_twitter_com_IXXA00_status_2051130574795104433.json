@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051130547360108544"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2051130574795104433",
+    "created_at": "2026-05-04T02:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T03:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051130574795104433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJYh93M6rf",
+          "end": 30,
+          "expanded_url": "https://x.com/IXXA00/status/2051130574795104433/video/1",
+          "media_key": "7_2051130547360108544",
+          "start": 7,
+          "url": "https://t.co/xJYh93M6rf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051130574795104433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出来玩，看🐖 https://t.co/xJYh93M6rf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6501,
+        "height": 1280,
+        "media_key": "7_2051130547360108544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051130547360108544/pu/img/DYFGLPtL9z5A-GuD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051130547360108544/pu/vid/avc1/320x568/tFI4nmSt3mSNEEiV.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051130547360108544/pu/vid/avc1/480x852/x9rh9U-Fi5y6PT4N.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051130547360108544/pu/vid/avc1/720x1280/QGIhT2WTIZ7mv81t.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051130547360108544/pu/pl/eyZMV7T3ztkamlrV.m3u8?tag=25"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051130547360108544"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2051130574795104433",
+        "created_at": "2026-05-04T02:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T03:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051130574795104433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJYh93M6rf",
+              "end": 30,
+              "expanded_url": "https://x.com/IXXA00/status/2051130574795104433/video/1",
+              "media_key": "7_2051130547360108544",
+              "start": 7,
+              "url": "https://t.co/xJYh93M6rf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051130574795104433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出来玩，看🐖 https://t.co/xJYh93M6rf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 4494,
+          "like_count": 39278,
+          "listed_count": 19,
+          "media_count": 2834,
+          "tweet_count": 39275
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

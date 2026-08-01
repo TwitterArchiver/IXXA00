@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059114446833033437",
+    "created_at": "2026-05-27T02:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059468599853793371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1691577632",
+          "start": 0,
+          "username": "Yungstedt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059468599853793371",
+    "in_reply_to_user_id": "1691577632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059443952671928539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yungstedt 舒立缇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059114446833033437",
+        "created_at": "2026-05-27T02:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059468599853793371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1691577632",
+              "start": 0,
+              "username": "Yungstedt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059468599853793371",
+        "in_reply_to_user_id": "1691577632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059443952671928539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yungstedt 舒立缇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691577632",
+        "conversation_id": "2059114446833033437",
+        "created_at": "2026-05-27T01:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059443952671928539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059443952671928539",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059114446833033437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 做的啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7050,
+          "following_count": 4502,
+          "like_count": 40383,
+          "listed_count": 18,
+          "media_count": 2961,
+          "tweet_count": 40299
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-22T16:56:18.000Z",
+        "description": "Xu Yang, MSc Chemical Biology (She/her) 🏳️‍⚧️ PhD student/Glycoproteomist at UGA CCRC, #Miata driver. #glycotime #TeamMassSpec Opinions are my own.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 87,
+                "tag": "Miata"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "tag": "glycotime"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "tag": "TeamMassSpec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yungst…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yungstedt.bsky.social",
+                "start": 0,
+                "url": "https://t.co/uDmzqWC611"
+              }
+            ]
+          }
+        },
+        "id": "1691577632",
+        "location": "Athens, GA",
+        "name": "糖经博士杨小姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988399235935727621/MUazCX8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 3434,
+          "like_count": 5815,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 3748
+        },
+        "url": "https://t.co/uDmzqWC611",
+        "username": "Yungstedt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1986696707594461540",
+    "created_at": "2025-11-09T00:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T01:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987312381358448764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1396033240033480710",
+          "start": 0,
+          "username": "Hamburger_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987312381358448764",
+    "in_reply_to_user_id": "1396033240033480710",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987187712500392187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hamburger_QAQ 期待啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1986696707594461540",
+        "created_at": "2025-11-09T00:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987312381358448764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1396033240033480710",
+              "start": 0,
+              "username": "Hamburger_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987312381358448764",
+        "in_reply_to_user_id": "1396033240033480710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987187712500392187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hamburger_QAQ 期待啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396033240033480710",
+        "conversation_id": "1986696707594461540",
+        "created_at": "2025-11-08T15:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987187712500392187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987187712500392187",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986696707594461540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 期待捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猫菇)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986977084263354368/3gtkdMmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 4550,
+          "like_count": 32703,
+          "listed_count": 11,
+          "media_count": 2327,
+          "tweet_count": 32161
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T09:20:58.000Z",
+        "description": "自说自话",
+        "id": "1396033240033480710",
+        "name": "汉堡包",
+        "pinned_tweet_id": "1681097305150337025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614629145962745868/yCeK596A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 275,
+          "like_count": 8730,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 4901
+        },
+        "username": "Hamburger_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

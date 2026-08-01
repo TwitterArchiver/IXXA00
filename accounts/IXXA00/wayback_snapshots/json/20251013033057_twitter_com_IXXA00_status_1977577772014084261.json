@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1977401848073171108",
+    "created_at": "2025-10-13T03:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T04:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977577772014084261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1949410169362014209",
+          "start": 0,
+          "username": "yngyngyng1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977577772014084261",
+    "in_reply_to_user_id": "1949410169362014209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977571692110393655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yngyngyng1222 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1977401848073171108",
+        "created_at": "2025-10-13T03:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T04:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977577772014084261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1949410169362014209",
+              "start": 0,
+              "username": "yngyngyng1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977577772014084261",
+        "in_reply_to_user_id": "1949410169362014209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977571692110393655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yngyngyng1222 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949410169362014209",
+        "conversation_id": "1977401848073171108",
+        "created_at": "2025-10-13T03:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T04:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977571692110393655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977571692110393655",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977401848073171108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 要是我还有暴食。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。/有🚪谢谢",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 3913,
+          "like_count": 30074,
+          "listed_count": 10,
+          "media_count": 2228,
+          "tweet_count": 30074
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T10:03:04.000Z",
+        "description": "他二舅姥爷的的我这么风趣幽默的灵魂咋没人发现 @msk198118527321",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "msk198118527321"
+              }
+            ]
+          }
+        },
+        "id": "1949410169362014209",
+        "location": "Osaka-fu, Japan",
+        "name": "超级迷人的反派角色",
+        "pinned_tweet_id": "1976703190713385408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959685590859034624/Ydq6jtT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 89,
+          "like_count": 4959,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2207
+        },
+        "username": "yngyngyng1222",
+        "verified": false
+      }
+    ]
+  }
+}

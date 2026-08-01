@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2024639958204690848",
+    "created_at": "2026-02-20T08:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024760609263538262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1421731273672847362",
+          "start": 0,
+          "username": "yizengya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024760609263538262",
+    "in_reply_to_user_id": "1421731273672847362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024758330988835138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizengya 现在不是了，你可以真实的摸到我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2024639958204690848",
+        "created_at": "2026-02-20T08:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024760609263538262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1421731273672847362",
+              "start": 0,
+              "username": "yizengya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024760609263538262",
+        "in_reply_to_user_id": "1421731273672847362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024758330988835138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizengya 现在不是了，你可以真实的摸到我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421731273672847362",
+        "conversation_id": "2024639958204690848",
+        "created_at": "2026-02-20T08:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024758330988835138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024758330988835138",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024739170246402183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 俺不中嘞 isla老师也是电子幽灵啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 4472,
+          "like_count": 35929,
+          "listed_count": 14,
+          "media_count": 2617,
+          "tweet_count": 35984
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T07:15:39.000Z",
+        "description": "网络重拳出击👊 工资不够生活\n学习 库乐队 & procreate ing",
+        "id": "1421731273672847362",
+        "location": "成都",
+        "name": "yz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523718868417474560/BGAxtRMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 164,
+          "like_count": 8196,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 1182
+        },
+        "username": "yizengya",
+        "verified": false
+      }
+    ]
+  }
+}

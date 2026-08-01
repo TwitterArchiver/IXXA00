@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1935869521921032621",
+    "created_at": "2025-06-20T16:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936099510272639323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1755376015294214144",
+          "start": 0,
+          "username": "mngshuw158286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936099510272639323",
+    "in_reply_to_user_id": "1755376015294214144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936097583715565759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngshuw158286 我妆都没化啊……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1936097583715565759].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1936097583715565759",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1936097583715565759"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1935869521921032621",
+        "created_at": "2025-06-20T16:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936099510272639323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1755376015294214144",
+              "start": 0,
+              "username": "mngshuw158286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936099510272639323",
+        "in_reply_to_user_id": "1755376015294214144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936097583715565759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngshuw158286 我妆都没化啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "面目全非。🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 9,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "鞍山市",
+        "name": "isla🍈",
+        "pinned_tweet_id": "1935636833834348590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 3098,
+          "like_count": 24079,
+          "listed_count": 7,
+          "media_count": 1774,
+          "tweet_count": 23701
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T23:43:43.000Z",
+        "description": "我有所思在远道，拣尽寒枝不肯栖",
+        "id": "1755376015294214144",
+        "location": "幽影地十字记号旁",
+        "name": "饺人王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842590818080886784/bk6EDNfA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 155,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 745
+        },
+        "username": "mngshuw158286",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1992222768058990814",
+    "created_at": "2025-11-23T00:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T01:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992392734649594023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1576507946292416512",
+          "start": 0,
+          "username": "daoyuex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992392734649594023",
+    "in_reply_to_user_id": "1576507946292416512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992392461357031504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daoyuex 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1992222768058990814",
+        "created_at": "2025-11-23T00:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992392734649594023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1576507946292416512",
+              "start": 0,
+              "username": "daoyuex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992392734649594023",
+        "in_reply_to_user_id": "1576507946292416512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992392461357031504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daoyuex 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576507946292416512",
+        "conversation_id": "1992222768058990814",
+        "created_at": "2025-11-23T00:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992392461357031504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992392461357031504",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992222768058990814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla萌",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991325961489641473/yHlaCKHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5499,
+          "following_count": 4547,
+          "like_count": 33636,
+          "listed_count": 11,
+          "media_count": 2392,
+          "tweet_count": 33058
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T09:42:48.000Z",
+        "description": "我不喝咖啡。当我困的时候，我睡觉。",
+        "id": "1576507946292416512",
+        "location": "Hong Kong",
+        "name": "蝴蝶",
+        "pinned_tweet_id": "1898602139162964133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927159630330744832/EhT1cxi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1113,
+          "like_count": 118295,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 9527
+        },
+        "username": "daoyuex",
+        "verified": false
+      }
+    ]
+  }
+}

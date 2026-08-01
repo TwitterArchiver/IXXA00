@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941058366622871732",
+    "created_at": "2025-07-04T09:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T10:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941072603814494505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "RAISEY0URWEAP0N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941072603814494505",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941058366622871732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RAISEY0URWEAP0N 皮鼓打冒烟了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1941058366622871732].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1941058366622871732",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1941058366622871732"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941058366622871732",
+        "created_at": "2025-07-04T09:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941072603814494505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "RAISEY0URWEAP0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941072603814494505",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941058366622871732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RAISEY0URWEAP0N 皮鼓打冒烟了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。/我完全收不到🚪了。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 29,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 3138,
+          "like_count": 25113,
+          "listed_count": 7,
+          "media_count": 1847,
+          "tweet_count": 24673
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "When did I become so cold?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com/",
+                "start": 0,
+                "url": "https://t.co/OQUkpqto2C"
+              }
+            ]
+          }
+        },
+        "id": "1905180625981890560",
+        "location": "New South Wales",
+        "name": "໊",
+        "pinned_tweet_id": "1940743796754706899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940717898156462081/K9xm5jNV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 922,
+          "like_count": 19155,
+          "listed_count": 3,
+          "media_count": 400,
+          "tweet_count": 3283
+        },
+        "url": "https://t.co/OQUkpqto2C",
+        "username": "RAISEY0URWEAP0N",
+        "verified": false
+      }
+    ]
+  }
+}

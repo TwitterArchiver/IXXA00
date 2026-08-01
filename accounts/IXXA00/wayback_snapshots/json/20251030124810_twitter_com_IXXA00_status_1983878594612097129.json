@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983802419281571960",
+    "created_at": "2025-10-30T12:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983878594612097129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1615909226286809090",
+          "start": 0,
+          "username": "hhl93333719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983878594612097129",
+    "in_reply_to_user_id": "1615909226286809090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983873335013601555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhl93333719 已经出国了，正在瑞士存钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T12:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983878594612097129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1615909226286809090",
+              "start": 0,
+              "username": "hhl93333719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983878594612097129",
+        "in_reply_to_user_id": "1615909226286809090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983873335013601555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhl93333719 已经出国了，正在瑞士存钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615909226286809090",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T12:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983873335013601555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983873335013601555",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983802419281571960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 等啥，赶紧跑呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5100,
+          "following_count": 4524,
+          "like_count": 31677,
+          "listed_count": 11,
+          "media_count": 2290,
+          "tweet_count": 31409
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T03:09:34.000Z",
+        "description": "",
+        "id": "1615909226286809090",
+        "name": "mao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615909301251624962/G0crnItE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 420,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 629
+        },
+        "username": "hhl93333719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926653754385768601",
+    "created_at": "2025-06-02T06:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T07:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929431112167678225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884273316900519936",
+          "start": 0,
+          "username": "XieLuo94207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929431112167678225",
+    "in_reply_to_user_id": "1884273316900519936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929413813087949251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XieLuo94207 不都给你说放弃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926653754385768601",
+        "created_at": "2025-06-02T06:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T07:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929431112167678225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884273316900519936",
+              "start": 0,
+              "username": "XieLuo94207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929431112167678225",
+        "in_reply_to_user_id": "1884273316900519936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929413813087949251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XieLuo94207 不都给你说放弃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884273316900519936",
+        "conversation_id": "1926653754385768601",
+        "created_at": "2025-06-02T05:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929413813087949251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929413813087949251",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926653754385768601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那挺好了，有你是他的福气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 3043,
+          "like_count": 22566,
+          "listed_count": 7,
+          "media_count": 1630,
+          "tweet_count": 22068
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T16:12:32.000Z",
+        "description": "",
+        "id": "1884273316900519936",
+        "name": "菠萝包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884273513705467904/N0mC1-Vd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 72,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 177
+        },
+        "username": "XieLuo94207",
+        "verified": false
+      }
+    ]
+  }
+}

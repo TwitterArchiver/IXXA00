@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918444562181435699",
+    "created_at": "2025-05-03T13:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T14:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918661787290935342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812404792507105280",
+          "start": 0,
+          "username": "HBS6YY_CHEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918661787290935342",
+    "in_reply_to_user_id": "1812404792507105280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918654035021681016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HBS6YY_CHEN 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T13:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918661787290935342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812404792507105280",
+              "start": 0,
+              "username": "HBS6YY_CHEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918661787290935342",
+        "in_reply_to_user_id": "1812404792507105280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918654035021681016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HBS6YY_CHEN 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812404792507105280",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T13:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918654035021681016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918654035021681016",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918444562181435699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你跟他下去不就能管的着了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1918520888594710775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3638,
+          "following_count": 2960,
+          "like_count": 21068,
+          "listed_count": 7,
+          "media_count": 1496,
+          "tweet_count": 20398
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T08:32:47.000Z",
+        "description": "河北省第六人民医院｜河北省卫生精神卫生中心（河北大学附属第六医院／第六临床医学院／精神卫生研究院）普通精神科副主任医师（PARODY）｜河北省心理援助热线：96312，省外请加0312区号｜同时接入全国12356热线，省外请加0311区号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hbs6yy.com",
+                "end": 23,
+                "expanded_url": "http://www.hbs6yy.com",
+                "start": 0,
+                "url": "https://t.co/usByhzANkx"
+              }
+            ]
+          }
+        },
+        "id": "1812404792507105280",
+        "location": "乘17路，61路，101路，游1路至军校广场（省第六医院）站",
+        "name": "省六院精神科陈主任",
+        "pinned_tweet_id": "1890121502332448791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916883456568836096/Bwx_Dds1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 849,
+          "like_count": 17856,
+          "listed_count": 0,
+          "media_count": 847,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/usByhzANkx",
+        "username": "HBS6YY_CHEN",
+        "verified": false
+      }
+    ]
+  }
+}

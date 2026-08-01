@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2025366837857583621",
+    "created_at": "2026-02-22T00:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025366926718120393"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025366926718120393",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025366837857583621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bmi23"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2025366837857583621",
+        "created_at": "2026-02-22T00:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025366926718120393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025366926718120393",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025366837857583621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bmi23"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2025366837857583621",
+        "created_at": "2026-02-22T00:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025366837857583621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025366837857583621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我难道只能接受微胖这个标签吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanning, Guangxi Zhuangzu Zizhiqu, China",
+              "geo": {
+                "coordinates": [
+                  108.31667,
+                  22.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanning",
+              "region": "Guangxi Zhuangzu Zizhiqu"
+            }
+          ]
+        },
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 4468,
+          "like_count": 35962,
+          "listed_count": 14,
+          "media_count": 2617,
+          "tweet_count": 36011
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

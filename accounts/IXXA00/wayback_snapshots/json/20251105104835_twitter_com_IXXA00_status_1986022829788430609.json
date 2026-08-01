@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1985884265725542492",
+    "created_at": "2025-11-05T10:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T11:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986022829788430609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934239965384507392",
+          "start": 0,
+          "username": "Marry_Jackie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986022829788430609",
+    "in_reply_to_user_id": "1934239965384507392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986020785006465271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marry_Jackie 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1985884265725542492",
+        "created_at": "2025-11-05T10:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986022829788430609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934239965384507392",
+              "start": 0,
+              "username": "Marry_Jackie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986022829788430609",
+        "in_reply_to_user_id": "1934239965384507392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986020785006465271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marry_Jackie 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934239965384507392",
+        "conversation_id": "1985884265725542492",
+        "created_at": "2025-11-05T10:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986020785006465271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986020785006465271",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985884265725542492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那他还用写，作业吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5404,
+          "following_count": 4527,
+          "like_count": 32480,
+          "listed_count": 11,
+          "media_count": 2318,
+          "tweet_count": 31959
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T13:22:28.000Z",
+        "description": "",
+        "id": "1934239965384507392",
+        "name": "Marry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955465786761646080/XbDc91DB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 45,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 214
+        },
+        "username": "Marry_Jackie",
+        "verified": false
+      }
+    ]
+  }
+}

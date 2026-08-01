@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2058144478620426680",
+    "created_at": "2026-05-23T11:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058150333516595563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1142344230565629953",
+          "start": 0,
+          "username": "Evilkiruirui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058150333516595563",
+    "in_reply_to_user_id": "1142344230565629953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058149578462093683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evilkiruirui 我得回家，我要上班了，明天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2058144478620426680",
+        "created_at": "2026-05-23T11:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058150333516595563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1142344230565629953",
+              "start": 0,
+              "username": "Evilkiruirui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058150333516595563",
+        "in_reply_to_user_id": "1142344230565629953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058149578462093683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evilkiruirui 我得回家，我要上班了，明天。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142344230565629953",
+        "conversation_id": "2058144478620426680",
+        "created_at": "2026-05-23T11:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058149578462093683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058149578462093683",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058144478620426680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 然后来找我！~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2057271964809699631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7034,
+          "following_count": 4502,
+          "like_count": 40213,
+          "listed_count": 18,
+          "media_count": 2944,
+          "tweet_count": 40139
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-22T08:11:03.000Z",
+        "description": "早更少妇/中年叛逆期/谜语人/OJ8K/中文(繁简)/20岁零两百多个月/三八拖拉機手/家有一只可爱的团子🍡/知食分子/504司膳",
+        "id": "1142344230565629953",
+        "location": "0.1km",
+        "name": "瑞瑞",
+        "pinned_tweet_id": "1963509700806545602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011840544692191232/_3cMmYZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 180,
+          "like_count": 136921,
+          "listed_count": 3,
+          "media_count": 3116,
+          "tweet_count": 61322
+        },
+        "username": "Evilkiruirui",
+        "verified": false
+      }
+    ]
+  }
+}

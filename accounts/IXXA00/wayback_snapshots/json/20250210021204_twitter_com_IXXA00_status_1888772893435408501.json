@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1888768396843753637",
+    "created_at": "2025-02-10T02:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T03:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888772893435408501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1360473464495214595",
+          "start": 0,
+          "username": "shadow_duckweed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888772893435408501",
+    "in_reply_to_user_id": "1360473464495214595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888772434985472453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadow_duckweed 被发现了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1888768396843753637",
+        "created_at": "2025-02-10T02:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T03:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888772893435408501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1360473464495214595",
+              "start": 0,
+              "username": "shadow_duckweed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888772893435408501",
+        "in_reply_to_user_id": "1360473464495214595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888772434985472453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadow_duckweed 被发现了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360473464495214595",
+        "conversation_id": "1888768396843753637",
+        "created_at": "2025-02-10T02:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T03:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888772434985472453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888772434985472453",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888768396843753637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你名字里的l怎么变成s了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 2505,
+          "like_count": 15910,
+          "listed_count": 0,
+          "media_count": 1112,
+          "tweet_count": 15135
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T06:19:04.000Z",
+        "description": "罗幕早惊秋",
+        "id": "1360473464495214595",
+        "name": "嘘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1360477080924815361/ZsNR0l5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 58,
+          "like_count": 7550,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1335
+        },
+        "username": "shadow_duckweed",
+        "verified": false
+      }
+    ]
+  }
+}

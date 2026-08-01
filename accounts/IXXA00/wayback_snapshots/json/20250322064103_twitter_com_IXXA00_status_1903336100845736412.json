@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1903328002668199955",
+    "created_at": "2025-03-22T06:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T07:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903336100845736412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1643149234517209088",
+          "start": 0,
+          "username": "J1angyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903336100845736412",
+    "in_reply_to_user_id": "1643149234517209088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903335189335658535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1angyl 有点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1903328002668199955",
+        "created_at": "2025-03-22T06:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T07:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903336100845736412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1643149234517209088",
+              "start": 0,
+              "username": "J1angyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903336100845736412",
+        "in_reply_to_user_id": "1643149234517209088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903335189335658535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1angyl 有点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643149234517209088",
+        "conversation_id": "1903328002668199955",
+        "created_at": "2025-03-22T06:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T07:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903335189335658535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903335189335658535",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903328002668199955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 衣服有点受宠若惊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷小甜酒(72度)。潘多拉魔盒慎点@ithra00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "ithra00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3504,
+          "following_count": 2761,
+          "like_count": 18821,
+          "listed_count": 6,
+          "media_count": 1270,
+          "tweet_count": 17820
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T07:11:32.000Z",
+        "description": "努力写作",
+        "id": "1643149234517209088",
+        "name": "yi",
+        "pinned_tweet_id": "1863304162055696555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903122544477220864/Gq4wo3Z3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 378,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 707
+        },
+        "username": "J1angyl",
+        "verified": false
+      }
+    ]
+  }
+}

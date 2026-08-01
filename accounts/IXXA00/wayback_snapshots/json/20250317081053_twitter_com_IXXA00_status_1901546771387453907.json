@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901546762998874112"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1901546771387453907",
+    "created_at": "2025-03-17T08:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T09:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901546771387453907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cnROBwXUbY",
+          "end": 29,
+          "expanded_url": "https://x.com/IXXA00/status/1901546771387453907/photo/1",
+          "media_key": "3_1901546762998874112",
+          "start": 6,
+          "url": "https://t.co/cnROBwXUbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901546771387453907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "送给自己。 https://t.co/cnROBwXUbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_1901546762998874112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmOmtMRXgAAKCgq.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901546762998874112"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901546771387453907",
+        "created_at": "2025-03-17T08:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T09:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901546771387453907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnROBwXUbY",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/1901546771387453907/photo/1",
+              "media_key": "3_1901546762998874112",
+              "start": 6,
+              "url": "https://t.co/cnROBwXUbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901546771387453907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送给自己。 https://t.co/cnROBwXUbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "The ISLA is made up of volcanic ash.",
+        "id": "1739391734491086848",
+        "location": "有q和v，🚪费随意",
+        "name": "火山积灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901429421829173248/2hNrFo2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 2664,
+          "like_count": 18266,
+          "listed_count": 6,
+          "media_count": 1245,
+          "tweet_count": 17283
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

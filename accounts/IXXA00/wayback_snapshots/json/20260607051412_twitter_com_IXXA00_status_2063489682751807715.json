@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2063448667722567688",
+    "created_at": "2026-06-07T05:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063489682751807715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770485510235918336",
+          "start": 0,
+          "username": "hmziuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063489682751807715",
+    "in_reply_to_user_id": "1770485510235918336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063488183854153999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hmziuuu 被我a到啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2063448667722567688",
+        "created_at": "2026-06-07T05:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063489682751807715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770485510235918336",
+              "start": 0,
+              "username": "hmziuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063489682751807715",
+        "in_reply_to_user_id": "1770485510235918336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063488183854153999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmziuuu 被我a到啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770485510235918336",
+        "conversation_id": "2063448667722567688",
+        "created_at": "2026-06-07T05:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063488183854153999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063488183854153999",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063448667722567688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7257,
+          "following_count": 4520,
+          "like_count": 41355,
+          "listed_count": 18,
+          "media_count": 3008,
+          "tweet_count": 40983
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-20T16:20:29.000Z",
+        "description": "小南娘｜Femboy｜北美",
+        "id": "1770485510235918336",
+        "location": "Aoi",
+        "name": "沐子",
+        "pinned_tweet_id": "2008941683925209384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929013416691134464/f1pfvVOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10886,
+          "following_count": 700,
+          "like_count": 8734,
+          "listed_count": 89,
+          "media_count": 223,
+          "tweet_count": 1592
+        },
+        "username": "hmziuuu",
+        "verified": false
+      }
+    ]
+  }
+}

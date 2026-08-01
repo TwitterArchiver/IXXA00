@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2083000382238933011",
+    "created_at": "2026-07-31T01:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083009015697854942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1731719552583802883",
+          "start": 0,
+          "username": "Rix_Y59927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083009015697854942",
+    "in_reply_to_user_id": "1731719552583802883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083006186358792325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rix_Y59927 没事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2083000382238933011",
+        "created_at": "2026-07-31T01:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083009015697854942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1731719552583802883",
+              "start": 0,
+              "username": "Rix_Y59927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083009015697854942",
+        "in_reply_to_user_id": "1731719552583802883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083006186358792325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rix_Y59927 没事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731719552583802883",
+        "conversation_id": "2083000382238933011",
+        "created_at": "2026-07-31T01:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083006186358792325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083006186358792325",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083000382238933011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ？🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7524,
+          "following_count": 4533,
+          "like_count": 43663,
+          "listed_count": 17,
+          "media_count": 3207,
+          "tweet_count": 43262
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-04T16:58:27.000Z",
+        "description": "",
+        "id": "1731719552583802883",
+        "name": "Rix_Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836252521326874627/RE1ajkk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 135,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Rix_Y59927",
+        "verified": false
+      }
+    ]
+  }
+}

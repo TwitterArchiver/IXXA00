@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1924050811380011107",
+    "created_at": "2025-05-18T10:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T11:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924052105255612885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860555054853570560",
+          "start": 0,
+          "username": "ming_li97591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924052105255612885",
+    "in_reply_to_user_id": "1860555054853570560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924051084945105100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_li97591 我不够色，不给"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1924050811380011107",
+        "created_at": "2025-05-18T10:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924052105255612885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860555054853570560",
+              "start": 0,
+              "username": "ming_li97591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924052105255612885",
+        "in_reply_to_user_id": "1860555054853570560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924051084945105100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_li97591 我不够色，不给"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860555054853570560",
+        "conversation_id": "1924050811380011107",
+        "created_at": "2025-05-18T10:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924051084945105100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924051084945105100",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924050811380011107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 吃掉你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就这样爱受不受。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923202205613768704/0P_Mo563_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3025,
+          "like_count": 21892,
+          "listed_count": 7,
+          "media_count": 1576,
+          "tweet_count": 21265
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:24:41.000Z",
+        "description": "男，27，身高188，上推主要是看瑟瑟，会偶尔发癫写点东西，可以找聊天，游戏的固定搭子。（玩魂，法环，饥荒等，均很菜）",
+        "id": "1860555054853570560",
+        "name": "一只阴暗爬行的布偶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863767187724591104/ZDGB3nYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 19,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 60
+        },
+        "username": "ming_li97591",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2031530122864636192",
+    "created_at": "2026-03-11T08:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031650362751664279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013648484570931200",
+          "start": 0,
+          "username": "InkInk634729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031650362751664279",
+    "in_reply_to_user_id": "2013648484570931200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031639842770268615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InkInk634729 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2031530122864636192",
+        "created_at": "2026-03-11T08:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031650362751664279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013648484570931200",
+              "start": 0,
+              "username": "InkInk634729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031650362751664279",
+        "in_reply_to_user_id": "2013648484570931200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031639842770268615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InkInk634729 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013648484570931200",
+        "conversation_id": "2031530122864636192",
+        "created_at": "2026-03-11T07:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031639842770268615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031639842770268615",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031530122864636192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "主包很可爱。/gender irrelevant/non-binary-ish/post-label",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服小i",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5748,
+          "following_count": 4469,
+          "like_count": 36066,
+          "listed_count": 13,
+          "media_count": 2639,
+          "tweet_count": 36431
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T16:24:23.000Z",
+        "description": "无规则冲浪，冒犯到你就受着",
+        "id": "2013648484570931200",
+        "name": "本是铜陵人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031611215202693120/jYHpv6gW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "username": "InkInk634729",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1996148280024297853",
+    "created_at": "2025-12-04T00:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T01:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996381835862106482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883724954468057088",
+          "start": 0,
+          "username": "Itis_pft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996381835862106482",
+    "in_reply_to_user_id": "1883724954468057088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996373870279021039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Itis_pft 撑得住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1996148280024297853",
+        "created_at": "2025-12-04T00:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996381835862106482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883724954468057088",
+              "start": 0,
+              "username": "Itis_pft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996381835862106482",
+        "in_reply_to_user_id": "1883724954468057088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996373870279021039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Itis_pft 撑得住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883724954468057088",
+        "conversation_id": "1996148280024297853",
+        "created_at": "2025-12-04T00:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996373870279021039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996373870279021039",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996148280024297853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你自己发的时候绷得住么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "喜欢装可爱，很坏。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 4554,
+          "like_count": 34180,
+          "listed_count": 11,
+          "media_count": 2439,
+          "tweet_count": 33721
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T03:54:22.000Z",
+        "description": "可能是某人的另一个账户？无所谓吧？\n政治派别我从不站，帽子太高我戴不起\n不避讳任何话题，但并不讨论不感兴趣的东西【至于我说的话，真假自辩\n（简介中第2.3条绝对为真）】",
+        "id": "1883724954468057088",
+        "location": "无法被定义，甚至可能根本不存在的宫殿",
+        "name": "百变小丑帕霏特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907855971872874496/GjlUsYh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 771,
+          "like_count": 10174,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 7528
+        },
+        "username": "Itis_pft",
+        "verified": false
+      }
+    ]
+  }
+}

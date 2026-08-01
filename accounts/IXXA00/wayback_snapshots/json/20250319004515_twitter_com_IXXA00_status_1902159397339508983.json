@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1901849453570429137",
+    "created_at": "2025-03-19T00:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T01:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902159397339508983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "702463130",
+          "start": 0,
+          "username": "tsukabong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902159397339508983",
+    "in_reply_to_user_id": "702463130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902158800133742938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukabong 你有药吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1901849453570429137",
+        "created_at": "2025-03-19T00:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T01:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902159397339508983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "702463130",
+              "start": 0,
+              "username": "tsukabong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902159397339508983",
+        "in_reply_to_user_id": "702463130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902158800133742938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukabong 你有药吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702463130",
+        "conversation_id": "1901849453570429137",
+        "created_at": "2025-03-19T00:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T01:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902158800133742938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902158800133742938",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901849453570429137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 最后一句应该是“你有药吗？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "有一颗温暖的心。",
+        "id": "1739391734491086848",
+        "location": "生理男，入门前看好了。",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 2671,
+          "like_count": 18422,
+          "listed_count": 6,
+          "media_count": 1255,
+          "tweet_count": 17440
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-18T05:55:42.000Z",
+        "description": "",
+        "id": "702463130",
+        "name": "tsukabong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3615450932/b617afe935d547a66a008f7beb8ecb6d_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 325,
+          "like_count": 25365,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 15626
+        },
+        "username": "tsukabong",
+        "verified": false
+      }
+    ]
+  }
+}

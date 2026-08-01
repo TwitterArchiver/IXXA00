@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947310168867525054",
+    "created_at": "2025-07-21T15:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T16:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947312384260944068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777247271689838592",
+          "start": 0,
+          "username": "Catniptac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947312384260944068",
+    "in_reply_to_user_id": "1777247271689838592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947311867254444181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Catniptac 一拳直接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947310168867525054",
+        "created_at": "2025-07-21T15:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T16:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947312384260944068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777247271689838592",
+              "start": 0,
+              "username": "Catniptac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947312384260944068",
+        "in_reply_to_user_id": "1777247271689838592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947311867254444181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Catniptac 一拳直接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777247271689838592",
+        "conversation_id": "1947310168867525054",
+        "created_at": "2025-07-21T15:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T16:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947311867254444181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947311867254444181",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947310168867525054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可爱，想捏捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947312713295888868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 3153,
+          "like_count": 26179,
+          "listed_count": 5,
+          "media_count": 1922,
+          "tweet_count": 25690
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T08:09:28.000Z",
+        "description": "是猫草，不一定会照顾好自己，请勿对猫过量使用，会上瘾。坚定地走下去吧。",
+        "id": "1777247271689838592",
+        "location": "在你旁边",
+        "name": "Catnip🌱猫草草草",
+        "pinned_tweet_id": "1904801030946381983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935577135650852864/NQ2Yv8y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 75,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 607
+        },
+        "username": "Catniptac",
+        "verified": false
+      }
+    ]
+  }
+}

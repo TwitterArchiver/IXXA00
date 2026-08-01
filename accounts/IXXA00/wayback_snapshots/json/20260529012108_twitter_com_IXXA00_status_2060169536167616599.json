@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059965297533333820",
+    "created_at": "2026-05-29T01:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060169536167616599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622923947682713602",
+          "start": 0,
+          "username": "anxietymsgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060169536167616599",
+    "in_reply_to_user_id": "1622923947682713602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059965297533333820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anxietymsgs 是的，我是卡通小女孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059965297533333820",
+        "created_at": "2026-05-29T01:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060169536167616599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622923947682713602",
+              "start": 0,
+              "username": "anxietymsgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060169536167616599",
+        "in_reply_to_user_id": "1622923947682713602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059965297533333820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anxietymsgs 是的，我是卡通小女孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622923947682713602",
+        "conversation_id": "2059965297533333820",
+        "created_at": "2026-05-28T11:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059965297533333820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059965297533333820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 30114,
+          "like_count": 350,
+          "quote_count": 150,
+          "reply_count": 321,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "is your profile picture actually you?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7115,
+          "following_count": 4505,
+          "like_count": 40634,
+          "listed_count": 18,
+          "media_count": 2972,
+          "tweet_count": 40462
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-07T11:43:58.000Z",
+        "description": "i tweet about my feelings",
+        "id": "1622923947682713602",
+        "location": "📖",
+        "name": "Feelings ღ",
+        "pinned_tweet_id": "2059625396354838795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729665768075265/GMI64ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208006,
+          "following_count": 28557,
+          "like_count": 0,
+          "listed_count": 245,
+          "media_count": 1747,
+          "tweet_count": 19384
+        },
+        "username": "anxietymsgs",
+        "verified": true
+      }
+    ]
+  }
+}

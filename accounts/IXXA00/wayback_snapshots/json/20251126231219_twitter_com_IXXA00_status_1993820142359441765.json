@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1993343952054087750",
+    "created_at": "2025-11-26T23:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T00:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993820142359441765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912663189923438592",
+          "start": 0,
+          "username": "ZPeng63296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993820142359441765",
+    "in_reply_to_user_id": "1912663189923438592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993719433672761792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZPeng63296 胃酸过多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1993343952054087750",
+        "created_at": "2025-11-26T23:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993820142359441765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912663189923438592",
+              "start": 0,
+              "username": "ZPeng63296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993820142359441765",
+        "in_reply_to_user_id": "1912663189923438592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993719433672761792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZPeng63296 胃酸过多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912663189923438592",
+        "conversation_id": "1993343952054087750",
+        "created_at": "2025-11-26T16:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993719433672761792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993719433672761792",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993477204307853498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 痛风吗 吃碳酸氢钠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪(限时半绿聊天/纯绿线下)。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993703640511766528/2gtQEBxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5632,
+          "following_count": 4556,
+          "like_count": 33784,
+          "listed_count": 11,
+          "media_count": 2416,
+          "tweet_count": 33335
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:24:01.000Z",
+        "description": "",
+        "id": "1912663189923438592",
+        "name": "八级小狂风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912666192936071169/goZqEbJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 343,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 150
+        },
+        "username": "ZPeng63296",
+        "verified": false
+      }
+    ]
+  }
+}

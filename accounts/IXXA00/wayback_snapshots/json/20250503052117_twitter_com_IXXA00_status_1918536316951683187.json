@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918444562181435699",
+    "created_at": "2025-05-03T05:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T06:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918536316951683187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887874482523795456",
+          "start": 0,
+          "username": "714jingjing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918536316951683187",
+    "in_reply_to_user_id": "1887874482523795456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918536052068810963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@714jingjing ？？？和男娘有什么关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T05:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918536316951683187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887874482523795456",
+              "start": 0,
+              "username": "714jingjing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918536316951683187",
+        "in_reply_to_user_id": "1887874482523795456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918536052068810963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@714jingjing ？？？和男娘有什么关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887874482523795456",
+        "conversation_id": "1918444562181435699",
+        "created_at": "2025-05-03T05:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918536052068810963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918536052068810963",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918444562181435699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 来自地狱的男娘的故事？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 2956,
+          "like_count": 21021,
+          "listed_count": 7,
+          "media_count": 1496,
+          "tweet_count": 20364
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T14:42:20.000Z",
+        "description": "深圳男娘 不援",
+        "id": "1887874482523795456",
+        "name": "苏七月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918208774378274818/s-b_bBYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 93,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 429
+        },
+        "username": "714jingjing",
+        "verified": false
+      }
+    ]
+  }
+}

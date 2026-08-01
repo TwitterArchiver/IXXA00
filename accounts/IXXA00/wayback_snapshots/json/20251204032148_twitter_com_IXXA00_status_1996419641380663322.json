@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1995986859206574471",
+    "created_at": "2025-12-04T03:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T04:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996419641380663322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1282261591",
+          "start": 0,
+          "username": "baebeaexplorer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996419641380663322",
+    "in_reply_to_user_id": "1282261591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996419446207021478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baebeaexplorer 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1995986859206574471",
+        "created_at": "2025-12-04T03:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T04:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996419641380663322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1282261591",
+              "start": 0,
+              "username": "baebeaexplorer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996419641380663322",
+        "in_reply_to_user_id": "1282261591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996419446207021478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baebeaexplorer 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282261591",
+        "conversation_id": "1995986859206574471",
+        "created_at": "2025-12-04T03:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T04:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996419446207021478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996419446207021478",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995986859206574471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 用吃的犒劳老己是一件很自然的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "喜欢装可爱，很坏。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1996233676548608102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5636,
+          "following_count": 4551,
+          "like_count": 34186,
+          "listed_count": 11,
+          "media_count": 2439,
+          "tweet_count": 33725
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-20T04:06:41.000Z",
+        "description": "只是一女的",
+        "id": "1282261591",
+        "name": "一个人上网有时候挺无助的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991402230042488834/a-mefPgj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 1465,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 107
+        },
+        "username": "baebeaexplorer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T07:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043953712000053447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1996400377709887488",
+          "start": 0,
+          "username": "dougeiwogun3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043953712000053447",
+    "in_reply_to_user_id": "1996400377709887488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043927446706368992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dougeiwogun3 随便哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T07:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043953712000053447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1996400377709887488",
+              "start": 0,
+              "username": "dougeiwogun3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043953712000053447",
+        "in_reply_to_user_id": "1996400377709887488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043927446706368992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dougeiwogun3 随便哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996400377709887488",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T05:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043927446706368992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043927446706368992",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我趣笑死我了 可不可以拿这个文案发朋友圈和微博呀宝宝 是私人博自己搞抽象那种！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6311,
+          "following_count": 4395,
+          "like_count": 37424,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37782
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T02:05:25.000Z",
+        "description": "不看就滚",
+        "id": "1996400377709887488",
+        "name": "兮桐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041173545842339841/3XuiYcZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "dougeiwogun3",
+        "verified": false
+      }
+    ]
+  }
+}

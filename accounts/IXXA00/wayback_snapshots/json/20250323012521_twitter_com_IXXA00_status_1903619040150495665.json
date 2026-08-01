@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1903613185866760576",
+    "created_at": "2025-03-23T01:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T02:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903619040150495665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1320611832",
+          "start": 0,
+          "username": "xoKUMAox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903619040150495665",
+    "in_reply_to_user_id": "1320611832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903618845807726916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xoKUMAox 有点幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1903613185866760576",
+        "created_at": "2025-03-23T01:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T02:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903619040150495665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1320611832",
+              "start": 0,
+              "username": "xoKUMAox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903619040150495665",
+        "in_reply_to_user_id": "1320611832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903618845807726916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xoKUMAox 有点幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320611832",
+        "conversation_id": "1903613185866760576",
+        "created_at": "2025-03-23T01:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T02:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903618845807726916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903618845807726916",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903613185866760576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 幸福了www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷制甜酒(72度)。更多的我：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1902312663281000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3498,
+          "following_count": 2762,
+          "like_count": 18838,
+          "listed_count": 6,
+          "media_count": 1270,
+          "tweet_count": 17836
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-01T15:58:40.000Z",
+        "description": "提到回不去了\n往往有一種惆悵\n\n我們往前走了這麼遠\n並不是為了回去的",
+        "id": "1320611832",
+        "location": "New Taipei City, Taiwan",
+        "name": "KUMA",
+        "pinned_tweet_id": "1895808145450287142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891793843131170816/_Tqz3Oos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 170,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1059
+        },
+        "username": "xoKUMAox",
+        "verified": false
+      }
+    ]
+  }
+}

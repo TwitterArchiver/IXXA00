@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017909854971789312"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2017909981786628301",
+    "created_at": "2026-02-01T10:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017909981786628301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pk9d8vE4uO",
+          "end": 38,
+          "expanded_url": "https://x.com/IXXA00/status/2017909981786628301/video/1",
+          "media_key": "13_2017909854971789312",
+          "start": 15,
+          "url": "https://t.co/pk9d8vE4uO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017909981786628301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主包先把最难的副本下了再说。 https://t.co/pk9d8vE4uO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15659,
+        "height": 1920,
+        "media_key": "13_2017909854971789312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017909854971789312/img/kI33FJZL3GfwYZBt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017909854971789312/vid/avc1/320x568/CD-L1HDhCliM45n3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017909854971789312/vid/avc1/480x852/LTgSnyNUELW_Qdcl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017909854971789312/vid/avc1/720x1280/fSayDkbslhTTLag_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017909854971789312/pl/8MTYRVxDIVxs-8Qc.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017909854971789312"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2017909981786628301",
+        "created_at": "2026-02-01T10:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017909981786628301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pk9d8vE4uO",
+              "end": 38,
+              "expanded_url": "https://x.com/IXXA00/status/2017909981786628301/video/1",
+              "media_key": "13_2017909854971789312",
+              "start": 15,
+              "url": "https://t.co/pk9d8vE4uO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017909981786628301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包先把最难的副本下了再说。 https://t.co/pk9d8vE4uO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "长的乱七八糟的反正。\n欢迎来看主包抖子：43707218480",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 4476,
+          "like_count": 35777,
+          "listed_count": 13,
+          "media_count": 2597,
+          "tweet_count": 35694
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

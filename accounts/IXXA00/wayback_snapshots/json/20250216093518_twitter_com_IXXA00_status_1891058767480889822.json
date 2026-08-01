@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1891058767480889822",
+    "created_at": "2025-02-16T09:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T10:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891058767480889822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/IXXA00/status/1891056489948725428",
+          "start": 9,
+          "url": "https://t.co/75qk1z7BZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891058767480889822",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891056489948725428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "烧烤真好吃😋好香 https://t.co/75qk1z7BZu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1891058767480889822",
+        "created_at": "2025-02-16T09:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T10:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891058767480889822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/IXXA00/status/1891056489948725428",
+              "start": 9,
+              "url": "https://t.co/75qk1z7BZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891058767480889822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891056489948725428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "烧烤真好吃😋好香 https://t.co/75qk1z7BZu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1891056489948725428",
+        "created_at": "2025-02-16T09:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T10:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891056489948725428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891056489948725428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出去散步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/聊天机器人/会试着给你一些的爱/文援黄推@IZLA665营业中🔋/本号🚫黄，谢谢。/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "IZLA665"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "私信随意DD但是有正常的人格才能入🚪。",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1890245400176857420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889687262008393728/HE8pTrUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 2491,
+          "like_count": 16317,
+          "listed_count": 6,
+          "media_count": 1142,
+          "tweet_count": 15556
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

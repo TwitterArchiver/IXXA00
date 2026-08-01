@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1914957958275850309",
+    "created_at": "2025-04-24T16:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T17:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915441548537581676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1212056390832754693",
+          "start": 0,
+          "username": "YXR0jxiPb8NXLgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915441548537581676",
+    "in_reply_to_user_id": "1212056390832754693",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915440801125109986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YXR0jxiPb8NXLgo 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1914957958275850309",
+        "created_at": "2025-04-24T16:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T17:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915441548537581676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1212056390832754693",
+              "start": 0,
+              "username": "YXR0jxiPb8NXLgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915441548537581676",
+        "in_reply_to_user_id": "1212056390832754693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915440801125109986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YXR0jxiPb8NXLgo 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212056390832754693",
+        "conversation_id": "1914957958275850309",
+        "created_at": "2025-04-24T16:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T17:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915440801125109986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915440801125109986",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914957958275850309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，加了糖，也下了毒。🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "你猜",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1915235547297308897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914587294960644096/GIbUxxih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 2941,
+          "like_count": 20450,
+          "listed_count": 7,
+          "media_count": 1444,
+          "tweet_count": 19788
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T17:02:39.000Z",
+        "description": "",
+        "id": "1212056390832754693",
+        "name": "ake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905633918138941442/gEj5-34w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 452,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "YXR0jxiPb8NXLgo",
+        "verified": false
+      }
+    ]
+  }
+}

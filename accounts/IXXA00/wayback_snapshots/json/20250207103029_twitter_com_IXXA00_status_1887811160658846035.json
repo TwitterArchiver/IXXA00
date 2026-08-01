@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1887459062008455317",
+    "created_at": "2025-02-07T10:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T11:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887811160658846035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1622465079353692160",
+          "start": 0,
+          "username": "li02700542"
+        },
+        {
+          "end": 21,
+          "id": "1750457146926563328",
+          "start": 12,
+          "username": "ligeiumm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887811160658846035",
+    "in_reply_to_user_id": "1622465079353692160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887791312377913543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@li02700542 @ligeiumm 好吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1887791312377913543].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1887791312377913543",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1887791312377913543"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1887459062008455317",
+        "created_at": "2025-02-07T10:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T11:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887811160658846035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1622465079353692160",
+              "start": 0,
+              "username": "li02700542"
+            },
+            {
+              "end": 21,
+              "id": "1750457146926563328",
+              "start": 12,
+              "username": "ligeiumm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887811160658846035",
+        "in_reply_to_user_id": "1622465079353692160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887791312377913543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@li02700542 @ligeiumm 好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 2485,
+          "like_count": 15772,
+          "listed_count": 6,
+          "media_count": 1100,
+          "tweet_count": 15036
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T05:20:07.000Z",
+        "description": "懒得骂人，别惹我",
+        "id": "1622465079353692160",
+        "location": "心里",
+        "name": "三十五（不是高手）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611953911042048/B2XIw9A__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 100,
+          "like_count": 17993,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 2612
+        },
+        "username": "li02700542",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T09:54:48.000Z",
+        "description": "Mt(X~F) oscillator/they, 佢/linguistics/philology/studying in Sweden/emotionless cyber kitty/请勿将此号内容发至墙内/alt @ligeiumsecundum /master @Chokyiium",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "ligeiumsecundum"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "Chokyiium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/ligeiu…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/ligeiumm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/UTIFaAy20s"
+              }
+            ]
+          }
+        },
+        "id": "1750457146926563328",
+        "location": "Uppsala, Sverige",
+        "name": "Ligeium",
+        "pinned_tweet_id": "1838702958453698629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872155249517207552/pTDXzPwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 2010,
+          "like_count": 164085,
+          "listed_count": 8,
+          "media_count": 556,
+          "tweet_count": 7198
+        },
+        "url": "https://t.co/UTIFaAy20s",
+        "username": "ligeiumm",
+        "verified": false
+      }
+    ]
+  }
+}

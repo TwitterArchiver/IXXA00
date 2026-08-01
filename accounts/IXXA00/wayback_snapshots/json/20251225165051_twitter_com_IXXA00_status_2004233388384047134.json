@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2004159163858063608",
+    "created_at": "2025-12-25T16:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T17:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004233388384047134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780498367669514240",
+          "start": 0,
+          "username": "lzlld38244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004233388384047134",
+    "in_reply_to_user_id": "1780498367669514240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004209820656980469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzlld38244 看30秒广告复活你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2004159163858063608",
+        "created_at": "2025-12-25T16:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004233388384047134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780498367669514240",
+              "start": 0,
+              "username": "lzlld38244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004233388384047134",
+        "in_reply_to_user_id": "1780498367669514240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004209820656980469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzlld38244 看30秒广告复活你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780498367669514240",
+        "conversation_id": "2004159163858063608",
+        "created_at": "2025-12-25T15:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004209820656980469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004209820656980469",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004159163858063608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 鼠鼠死掉了（晕倒）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 4534,
+          "like_count": 35080,
+          "listed_count": 12,
+          "media_count": 2520,
+          "tweet_count": 34613
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T07:27:52.000Z",
+        "description": "",
+        "id": "1780498367669514240",
+        "name": "lzlld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780498501610393600/HOhEDmHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 3304,
+          "like_count": 77,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 1661
+        },
+        "username": "lzlld38244",
+        "verified": false
+      }
+    ]
+  }
+}

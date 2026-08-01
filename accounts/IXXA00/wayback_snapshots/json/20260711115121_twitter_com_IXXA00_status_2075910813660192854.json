@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2075910264973914190",
+    "created_at": "2026-07-11T11:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075910813660192854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3481761495",
+          "start": 0,
+          "username": "ZHANGZHE0727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075910813660192854",
+    "in_reply_to_user_id": "3481761495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075910434574717033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHANGZHE0727 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2075910264973914190",
+        "created_at": "2026-07-11T11:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075910813660192854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3481761495",
+              "start": 0,
+              "username": "ZHANGZHE0727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075910813660192854",
+        "in_reply_to_user_id": "3481761495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075910434574717033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHANGZHE0727 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3481761495",
+        "conversation_id": "2075910264973914190",
+        "created_at": "2026-07-11T11:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075910434574717033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075910434574717033",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075910264973914190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 尼古喵喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7496,
+          "following_count": 4544,
+          "like_count": 42997,
+          "listed_count": 18,
+          "media_count": 3134,
+          "tweet_count": 42503
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-29T16:00:14.000Z",
+        "description": "#小镇做题家#摄影#社畜#宅#Steam#本科学过物理#略懂人文社科",
+        "id": "3481761495",
+        "location": "People's Republic of China",
+        "name": "每天过得都一样",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026648132516458496/mXmeXBD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 223,
+          "like_count": 17731,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "ZHANGZHE0727",
+        "verified": false
+      }
+    ]
+  }
+}

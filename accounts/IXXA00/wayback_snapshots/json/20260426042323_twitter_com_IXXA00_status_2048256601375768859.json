@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048256598402068480"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2048256601375768859",
+    "created_at": "2026-04-26T04:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048256601375768859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8BGrdGG7AP",
+          "end": 43,
+          "expanded_url": "https://x.com/IXXA00/status/2048256601375768859/photo/1",
+          "media_key": "3_2048256598402068480",
+          "start": 20,
+          "url": "https://t.co/8BGrdGG7AP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048256601375768859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开了一年QQ会员。\n先发张照片试试水。 https://t.co/8BGrdGG7AP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048256598402068480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzehiya8AAUbsb.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048256598402068480"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2048256601375768859",
+        "created_at": "2026-04-26T04:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048256601375768859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BGrdGG7AP",
+              "end": 43,
+              "expanded_url": "https://x.com/IXXA00/status/2048256601375768859/photo/1",
+              "media_key": "3_2048256598402068480",
+              "start": 20,
+              "url": "https://t.co/8BGrdGG7AP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048256601375768859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了一年QQ会员。\n先发张照片试试水。 https://t.co/8BGrdGG7AP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 0,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6804,
+          "following_count": 4435,
+          "like_count": 38653,
+          "listed_count": 18,
+          "media_count": 2784,
+          "tweet_count": 38730
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

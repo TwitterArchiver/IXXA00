@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1940349535135609058",
+    "created_at": "2025-07-07T12:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T13:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942193251836129381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1622465079353692160",
+          "start": 0,
+          "username": "li02700542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942193251836129381",
+    "in_reply_to_user_id": "1622465079353692160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940349535135609058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li02700542 🐢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1940349535135609058",
+        "created_at": "2025-07-07T12:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942193251836129381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1622465079353692160",
+              "start": 0,
+              "username": "li02700542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942193251836129381",
+        "in_reply_to_user_id": "1622465079353692160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940349535135609058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li02700542 🐢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622465079353692160",
+        "conversation_id": "1940349535135609058",
+        "created_at": "2025-07-02T09:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T10:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940349535135609058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940349535135609058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我力所能及的给每个人都点了赞，希望你们下次操粉的时候考虑考虑我，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "麦小蛋isla🥚",
+        "pinned_tweet_id": "1940417596748410985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 3145,
+          "like_count": 25364,
+          "listed_count": 7,
+          "media_count": 1855,
+          "tweet_count": 24876
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T05:20:07.000Z",
+        "description": "性压抑的疯子，有诊断书",
+        "id": "1622465079353692160",
+        "location": "心里",
+        "name": "出门看见人咬狗，捡起狗来打砖头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611953911042048/B2XIw9A__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 109,
+          "like_count": 20351,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 2724
+        },
+        "username": "li02700542",
+        "verified": false
+      }
+    ]
+  }
+}

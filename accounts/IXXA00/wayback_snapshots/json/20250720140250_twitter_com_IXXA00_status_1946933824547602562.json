@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1945682749475770695",
+    "created_at": "2025-07-20T14:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T15:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946933824547602562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743843246680543232",
+          "start": 0,
+          "username": "TuAugust68893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946933824547602562",
+    "in_reply_to_user_id": "1743843246680543232",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946926580565160209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuAugust68893 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1945682749475770695",
+        "created_at": "2025-07-20T14:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946933824547602562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743843246680543232",
+              "start": 0,
+              "username": "TuAugust68893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946933824547602562",
+        "in_reply_to_user_id": "1743843246680543232",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946926580565160209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuAugust68893 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743843246680543232",
+        "conversation_id": "1945682749475770695",
+        "created_at": "2025-07-20T13:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946926580565160209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946926580565160209",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945682749475770695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 对不起，又对isla老师犯错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 3146,
+          "like_count": 26148,
+          "listed_count": 5,
+          "media_count": 1917,
+          "tweet_count": 25647
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T03:53:40.000Z",
+        "description": "男，作家，独立思考者",
+        "id": "1743843246680543232",
+        "location": "Lubuk Baja, Indonesia",
+        "name": "九阳正道通玄真人",
+        "pinned_tweet_id": "1803769526393455002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886782004005650432/Yn5ej0D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 290,
+          "like_count": 6333,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2419
+        },
+        "username": "TuAugust68893",
+        "verified": false
+      }
+    ]
+  }
+}

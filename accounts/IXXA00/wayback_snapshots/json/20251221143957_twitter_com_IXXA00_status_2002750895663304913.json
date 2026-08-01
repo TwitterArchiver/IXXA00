@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2002718907568939161",
+    "created_at": "2025-12-21T14:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T15:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002750895663304913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728047202315153408",
+          "start": 0,
+          "username": "Ayame01122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002750895663304913",
+    "in_reply_to_user_id": "1728047202315153408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002750596923949235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayame01122 那咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2002718907568939161",
+        "created_at": "2025-12-21T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002750895663304913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728047202315153408",
+              "start": 0,
+              "username": "Ayame01122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002750895663304913",
+        "in_reply_to_user_id": "1728047202315153408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002750596923949235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayame01122 那咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728047202315153408",
+        "conversation_id": "2002718907568939161",
+        "created_at": "2025-12-21T14:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002750596923949235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002750596923949235",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002721318710714466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我真求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我就在这圈地自萌。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 4535,
+          "like_count": 34855,
+          "listed_count": 12,
+          "media_count": 2504,
+          "tweet_count": 34466
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T13:45:40.000Z",
+        "description": "",
+        "id": "1728047202315153408",
+        "name": "爱笑鬼神あやめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914346856827752448/XIQYa69i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 501,
+          "like_count": 50900,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 8640
+        },
+        "username": "Ayame01122",
+        "verified": false
+      }
+    ]
+  }
+}

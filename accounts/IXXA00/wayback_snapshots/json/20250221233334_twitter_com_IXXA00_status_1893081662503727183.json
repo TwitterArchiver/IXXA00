@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1892968693300355371",
+    "created_at": "2025-02-21T23:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T00:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893081662503727183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1234689652340080640",
+          "start": 0,
+          "username": "broken_guy_257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893081662503727183",
+    "in_reply_to_user_id": "1234689652340080640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892968693300355371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@broken_guy_257 快去工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1892968693300355371",
+        "created_at": "2025-02-21T23:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T00:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893081662503727183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1234689652340080640",
+              "start": 0,
+              "username": "broken_guy_257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893081662503727183",
+        "in_reply_to_user_id": "1234689652340080640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892968693300355371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broken_guy_257 快去工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234689652340080640",
+        "conversation_id": "1892968693300355371",
+        "created_at": "2025-02-21T16:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892968693300355371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892968693300355371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "開始工作之後真的變了很多\n以前會讓我想死的事情有很多\n現在只有工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/欢迎私信",
+        "id": "1739391734491086848",
+        "location": "有🚪",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1892751462612005225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891814168983986176/LYb5LBRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 2521,
+          "like_count": 16668,
+          "listed_count": 6,
+          "media_count": 1168,
+          "tweet_count": 15854
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-03T03:58:55.000Z",
+        "description": "單純只是一個很喜歡睡覺的人。\n-----------------------\n\n想加好友就加 可以直接加 私訊也可以\n討厭我也可以私訊嗆我兩句\n我是無所謂 想私底下說我壞話也OK\n看你方便。\n\n“記錄日常”",
+        "id": "1234689652340080640",
+        "location": "失落之島",
+        "name": "焰火",
+        "pinned_tweet_id": "1736721683426562281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817632104232181760/ooRosrzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1589,
+          "like_count": 27358,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 2926
+        },
+        "username": "broken_guy_257",
+        "verified": false
+      }
+    ]
+  }
+}

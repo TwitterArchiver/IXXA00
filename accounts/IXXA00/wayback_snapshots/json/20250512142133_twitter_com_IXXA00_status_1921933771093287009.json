@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921933767003746305"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1921933142115443025",
+    "created_at": "2025-05-12T14:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T15:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921933771093287009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/htoWIT6Ttp",
+          "end": 26,
+          "expanded_url": "https://x.com/IXXA00/status/1921933771093287009/photo/1",
+          "media_key": "3_1921933767003746305",
+          "start": 3,
+          "url": "https://t.co/htoWIT6Ttp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921933771093287009",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921933142115443025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "答案 https://t.co/htoWIT6Ttp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921933771093287009].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921933771093287009",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921933771093287009"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_1921933767003746305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwUlAgWMAEqS1k.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1921933142115443025",
+        "created_at": "2025-05-12T14:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921933142115443025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921933142115443025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们出一道谜语：什么东西毛绒绒的，绿绿的，从树上掉下来会要人性命?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不好吃🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "绒布球isla",
+        "pinned_tweet_id": "1921597493214609675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921254080334491650/T6AK4pIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 3017,
+          "like_count": 21678,
+          "listed_count": 7,
+          "media_count": 1542,
+          "tweet_count": 20978
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

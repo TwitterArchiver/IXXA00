@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1917726505452593447",
+    "created_at": "2025-05-01T12:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T13:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917916936148816098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477226348741640195",
+          "start": 0,
+          "username": "dalu45533647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917916936148816098",
+    "in_reply_to_user_id": "1477226348741640195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917913313520046407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dalu45533647 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1917726505452593447",
+        "created_at": "2025-05-01T12:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917916936148816098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477226348741640195",
+              "start": 0,
+              "username": "dalu45533647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917916936148816098",
+        "in_reply_to_user_id": "1477226348741640195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917913313520046407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dalu45533647 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477226348741640195",
+        "conversation_id": "1917726505452593447",
+        "created_at": "2025-05-01T12:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917913313520046407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917913313520046407",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917726505452593447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 乖乖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这就是我，试图在一个永远没有黎明的黑夜中长眠。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1916674712316641709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3617,
+          "following_count": 2953,
+          "like_count": 20912,
+          "listed_count": 7,
+          "media_count": 1482,
+          "tweet_count": 20241
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T10:33:14.000Z",
+        "description": "我的墓碑上寫着“我骨灰種的菜好吃嗎” 我是小孩，喜歡喝巧克力，長大以後就喝摩卡。",
+        "id": "1477226348741640195",
+        "name": "嚴重好色，嚴重暴燥，好轉毛囊炎，需要陽光，曹氏宗親會會員",
+        "pinned_tweet_id": "1911462351142011356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901936108533116928/LvrKqto8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1475,
+          "like_count": 24783,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 7046
+        },
+        "username": "dalu45533647",
+        "verified": false
+      }
+    ]
+  }
+}

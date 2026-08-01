@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2046847413789622568",
+    "created_at": "2026-04-22T07:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046851214126772466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1469964176634298370",
+          "start": 0,
+          "username": "lrzsqqwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046851214126772466",
+    "in_reply_to_user_id": "1469964176634298370",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046850161813664134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lrzsqqwx 诗人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2046847413789622568",
+        "created_at": "2026-04-22T07:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046851214126772466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1469964176634298370",
+              "start": 0,
+              "username": "lrzsqqwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046851214126772466",
+        "in_reply_to_user_id": "1469964176634298370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046850161813664134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrzsqqwx 诗人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469964176634298370",
+        "conversation_id": "2046847413789622568",
+        "created_at": "2026-04-22T07:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046850161813664134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046850161813664134",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046847413789622568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主包你在写诗吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Nanning, Guangxi Zhuangzu Zizhiqu, China",
+              "geo": {
+                "coordinates": [
+                  108.31667,
+                  22.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Nanning",
+              "region": "Guangxi Zhuangzu Zizhiqu"
+            }
+          ]
+        },
+        "description": "敏感，脆弱，缺乏安全感，冷漠，焦虑，如果这样也没关系的话，那么请享受我给你的爱。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6456,
+          "following_count": 4406,
+          "like_count": 38310,
+          "listed_count": 17,
+          "media_count": 2757,
+          "tweet_count": 38339
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T09:35:59.000Z",
+        "description": "试上高峰窥皓月，\n偶开天眼觑红尘，\n可怜身是眼中人。",
+        "id": "1469964176634298370",
+        "name": "来日纵使千千晚星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029241455890558976/N9I-vqdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 695,
+          "like_count": 960,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1498
+        },
+        "username": "lrzsqqwx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2083019640771592565",
+    "created_at": "2026-07-31T04:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083047200515326138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "446842231",
+          "start": 0,
+          "username": "saya_nikaido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083047200515326138",
+    "in_reply_to_user_id": "446842231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083044962669916195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya_nikaido 不要叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2083019640771592565",
+        "created_at": "2026-07-31T04:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083047200515326138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "446842231",
+              "start": 0,
+              "username": "saya_nikaido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083047200515326138",
+        "in_reply_to_user_id": "446842231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083044962669916195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya_nikaido 不要叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "446842231",
+        "conversation_id": "2083019640771592565",
+        "created_at": "2026-07-31T04:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083044962669916195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083044962669916195",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083019640771592565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 *尖叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083022973922082816/_crcKq6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7525,
+          "following_count": 4533,
+          "like_count": 43674,
+          "listed_count": 17,
+          "media_count": 3207,
+          "tweet_count": 43269
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-26T06:31:18.000Z",
+        "description": "chaser’s eye | hrt since 2023 | avatar from dorohedoro",
+        "id": "446842231",
+        "location": "Tokyo (hypothetical)",
+        "name": "Nikaido",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422812746207232/1-8iCvQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1242,
+          "like_count": 11808,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 9421
+        },
+        "url": "",
+        "username": "saya_nikaido",
+        "verified": false
+      }
+    ]
+  }
+}

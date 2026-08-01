@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1911401498539401359",
+    "created_at": "2025-04-13T19:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T20:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911496364384796708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1239764449445072896",
+          "start": 0,
+          "username": "Z2pVKJ1goz7t2vy"
+        },
+        {
+          "end": 28,
+          "id": "1597945043251187712",
+          "start": 17,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911496364384796708",
+    "in_reply_to_user_id": "1239764449445072896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911472819772527042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z2pVKJ1goz7t2vy @Sorsacerba 是，陛下"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1911472819772527042].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1911472819772527042",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1911472819772527042"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1911401498539401359",
+        "created_at": "2025-04-13T19:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T20:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911496364384796708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1239764449445072896",
+              "start": 0,
+              "username": "Z2pVKJ1goz7t2vy"
+            },
+            {
+              "end": 28,
+              "id": "1597945043251187712",
+              "start": 17,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911496364384796708",
+        "in_reply_to_user_id": "1239764449445072896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911472819772527042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z2pVKJ1goz7t2vy @Sorsacerba 是，陛下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一碗薄荷甜酒(72度)/群聊897633421/🚪52，只聊天，主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "1911464962763243911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911460051350368256/YZ2lFU-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3628,
+          "following_count": 2924,
+          "like_count": 19879,
+          "listed_count": 7,
+          "media_count": 1387,
+          "tweet_count": 19137
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T04:04:36.000Z",
+        "description": "一颗堂吉诃德风温泉蛋",
+        "id": "1239764449445072896",
+        "location": " 某个温泉旅店的后厨",
+        "name": "Alonso Quijano",
+        "pinned_tweet_id": "1745121519863480500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793488237954252801/bJhjNL9J_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2274,
+          "like_count": 64434,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3522
+        },
+        "username": "Z2pVKJ1goz7t2vy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "死全家也要笑！恋人 @Anastasia195113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Anastasia195113"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "前往天国的道路",
+        "name": "Rayest",
+        "pinned_tweet_id": "1899161895648846285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904425712846819328/A0Whtylm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 709,
+          "like_count": 53809,
+          "listed_count": 7,
+          "media_count": 1033,
+          "tweet_count": 11568
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

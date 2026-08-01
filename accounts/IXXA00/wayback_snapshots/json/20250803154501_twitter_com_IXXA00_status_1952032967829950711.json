@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1952031414645576076",
+    "created_at": "2025-08-03T15:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952032967829950711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1328922423438303234",
+          "start": 0,
+          "username": "SeiunSky8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952032967829950711",
+    "in_reply_to_user_id": "1328922423438303234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952032827962470696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeiunSky8964 你是女的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1952032827962470696].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1952032827962470696",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1952032827962470696"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1952031414645576076",
+        "created_at": "2025-08-03T15:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952032967829950711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1328922423438303234",
+              "start": 0,
+              "username": "SeiunSky8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952032967829950711",
+        "in_reply_to_user_id": "1328922423438303234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952032827962470696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeiunSky8964 你是女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 3178,
+          "like_count": 26719,
+          "listed_count": 5,
+          "media_count": 1978,
+          "tweet_count": 26319
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T04:46:19.000Z",
+        "description": "可以随便称呼我哦/友跨🏳️‍⚧️/普瑞赛斯单推人/政委@ziyue8964/超可爱的笨蛋陌小语@M0ry_wh1sp/牢猫大人@Paranoia23334/ ██████████████（此信息已被保密涂抹）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "ziyue8964"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "M0ry_wh1sp"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Paranoia23334"
+              }
+            ]
+          }
+        },
+        "id": "1328922423438303234",
+        "location": "距你1.2km",
+        "name": "SeiunSky",
+        "pinned_tweet_id": "1786280436278435906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941100680556494848/V5JhIDg6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 272,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2297
+        },
+        "username": "SeiunSky8964",
+        "verified": false
+      }
+    ]
+  }
+}

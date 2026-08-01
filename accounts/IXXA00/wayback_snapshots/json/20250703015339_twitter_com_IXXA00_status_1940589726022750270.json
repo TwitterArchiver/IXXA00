@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1940589724902756352"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1940589726022750270",
+    "created_at": "2025-07-03T01:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T02:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940589726022750270"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1940589726022750270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以你们觉得我看起来像"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-07-04T01:53:39.000Z",
+        "id": "1940589724902756352",
+        "options": [
+          {
+            "label": "初中生",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "高中生",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "大学生",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "参加工作",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1940589724902756352"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1940589726022750270",
+        "created_at": "2025-07-03T01:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940589726022750270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940589726022750270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以你们觉得我看起来像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。/我完全收不到🚪了。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 29,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "pinned_tweet_id": "1940417596748410985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 3134,
+          "like_count": 25010,
+          "listed_count": 7,
+          "media_count": 1840,
+          "tweet_count": 24535
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

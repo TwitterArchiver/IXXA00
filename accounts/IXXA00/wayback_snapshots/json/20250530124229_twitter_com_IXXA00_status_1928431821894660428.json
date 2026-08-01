@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928284295786819797",
+    "created_at": "2025-05-30T12:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T13:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928431821894660428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1769260901021208576",
+          "start": 0,
+          "username": "zhinian021602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928431821894660428",
+    "in_reply_to_user_id": "1769260901021208576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928431508374908954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinian021602 hhhh我懂老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928284295786819797",
+        "created_at": "2025-05-30T12:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T13:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928431821894660428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1769260901021208576",
+              "start": 0,
+              "username": "zhinian021602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928431821894660428",
+        "in_reply_to_user_id": "1769260901021208576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928431508374908954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinian021602 hhhh我懂老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769260901021208576",
+        "conversation_id": "1928284295786819797",
+        "created_at": "2025-05-30T12:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T13:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928431508374908954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928431508374908954",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928284295786819797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是不是有字打错了，复制到pdd没有反应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "出售一点微薄的爱。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 3026,
+          "like_count": 22414,
+          "listed_count": 7,
+          "media_count": 1616,
+          "tweet_count": 21869
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T07:14:16.000Z",
+        "description": "礼貌聊天会随心情回复。\n爱大奶男妈",
+        "id": "1769260901021208576",
+        "name": "清炖羊排骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820048650581479424/WQ1LiUgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 94,
+          "like_count": 1329,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 564
+        },
+        "username": "zhinian021602",
+        "verified": false
+      }
+    ]
+  }
+}

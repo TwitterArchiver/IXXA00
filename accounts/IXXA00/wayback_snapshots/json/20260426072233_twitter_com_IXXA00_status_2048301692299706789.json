@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2048301692299706789",
+    "created_at": "2026-04-26T07:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048301692299706789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jye1968/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/jye1968/status/2048196876454051900",
+          "start": 4,
+          "url": "https://t.co/NRQhUkBPxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048301692299706789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048196876454051900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？你妈 https://t.co/NRQhUkBPxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20300,
+        "height": 1280,
+        "media_key": "13_2048196811723280384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048196811723280384/img/2wIbC88uIOEi42v7.jpg",
+        "public_metrics": {
+          "view_count": 17838
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048196811723280384/vid/avc1/320x632/sR4AY1gTtkiMwIqg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048196811723280384/vid/avc1/480x948/2NhmzXxGqjED70bW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048196811723280384/vid/avc1/648x1280/x8-gExSLhVpvt068.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048196811723280384/pl/KmWEacIeVyq7Uuz7.m3u8?v=246"
+          }
+        ],
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2048301692299706789",
+        "created_at": "2026-04-26T07:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048301692299706789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jye1968/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/jye1968/status/2048196876454051900",
+              "start": 4,
+              "url": "https://t.co/NRQhUkBPxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048301692299706789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048196876454051900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？你妈 https://t.co/NRQhUkBPxD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048196811723280384"
+          ]
+        },
+        "author_id": "1603337446183546880",
+        "conversation_id": "2048196876454051900",
+        "created_at": "2026-04-26T00:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048196876454051900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NtlLX52WF",
+              "end": 36,
+              "expanded_url": "https://x.com/jye1968/status/2048196876454051900/video/1",
+              "media_key": "13_2048196811723280384",
+              "start": 13,
+              "url": "https://t.co/9NtlLX52WF"
+            },
+            {
+              "display_url": "x.com/jye1968/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/jye1968/status/2048160846854173129",
+              "start": 37,
+              "url": "https://t.co/bG81f22ezm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048196876454051900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 71976,
+          "like_count": 103,
+          "quote_count": 5,
+          "reply_count": 123,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048160846854173129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我惊了！还能这样做饺子？ https://t.co/9NtlLX52WF https://t.co/bG81f22ezm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 0,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6811,
+          "following_count": 4437,
+          "like_count": 38672,
+          "listed_count": 18,
+          "media_count": 2786,
+          "tweet_count": 38752
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-15T10:35:40.000Z",
+        "description": "Share the latest news from China.",
+        "id": "1603337446183546880",
+        "name": "新新",
+        "pinned_tweet_id": "2040068058455462376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763085380453326848/6gLHRO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25495,
+          "following_count": 10163,
+          "like_count": 116656,
+          "listed_count": 73,
+          "media_count": 4676,
+          "tweet_count": 55483
+        },
+        "username": "jye1968",
+        "verified": false
+      }
+    ]
+  }
+}

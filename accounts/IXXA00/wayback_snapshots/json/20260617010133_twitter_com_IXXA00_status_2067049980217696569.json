@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2066702723421249743",
+    "created_at": "2026-06-17T01:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067049980217696569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "726653612248584192",
+          "start": 0,
+          "username": "Allen_Ren_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067049980217696569",
+    "in_reply_to_user_id": "726653612248584192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067043466442633671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen_Ren_ 吃那种肉比骨头贵的时期的大骨棒吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2066702723421249743",
+        "created_at": "2026-06-17T01:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067049980217696569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "726653612248584192",
+              "start": 0,
+              "username": "Allen_Ren_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067049980217696569",
+        "in_reply_to_user_id": "726653612248584192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067043466442633671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen_Ren_ 吃那种肉比骨头贵的时期的大骨棒吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "726653612248584192",
+        "conversation_id": "2066702723421249743",
+        "created_at": "2026-06-17T00:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067043466442633671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067043466442633671",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066702723421249743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 选排骨也行，一斤排骨也没多少肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/鲜嫩多汁的情绪自留地：@islaixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7359,
+          "following_count": 4525,
+          "like_count": 41989,
+          "listed_count": 18,
+          "media_count": 3036,
+          "tweet_count": 41463
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-01T06:04:56.000Z",
+        "description": "",
+        "id": "726653612248584192",
+        "name": "Allen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/726654382700285956/b3d1Fo_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 373,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 689
+        },
+        "username": "Allen_Ren_",
+        "verified": false
+      }
+    ]
+  }
+}

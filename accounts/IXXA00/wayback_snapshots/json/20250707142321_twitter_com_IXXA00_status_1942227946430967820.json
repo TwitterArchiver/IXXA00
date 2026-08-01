@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1942221415849357345",
+    "created_at": "2025-07-07T14:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942227946430967820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930192046108917760",
+          "start": 0,
+          "username": "dachanmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942227946430967820",
+    "in_reply_to_user_id": "1930192046108917760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942221415849357345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachanmiao 匪夷所思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1942221415849357345",
+        "created_at": "2025-07-07T14:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942227946430967820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930192046108917760",
+              "start": 0,
+              "username": "dachanmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942227946430967820",
+        "in_reply_to_user_id": "1930192046108917760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942221415849357345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachanmiao 匪夷所思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930192046108917760",
+        "conversation_id": "1942221415849357345",
+        "created_at": "2025-07-07T13:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942221415849357345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942221415849357345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有男的出来说说 为什么啊 为什么红大爷这样的你们也能吃下去 而且甚至有些人真的人模人样的 也有老婆女朋友 到底为什么啊！？？？我不理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "麦小蛋isla🥚",
+        "pinned_tweet_id": "1940417596748410985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3746,
+          "following_count": 3145,
+          "like_count": 25389,
+          "listed_count": 7,
+          "media_count": 1856,
+          "tweet_count": 24884
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T09:17:37.000Z",
+        "description": "我有病 不要跟我计较了 好吗 好的",
+        "id": "1930192046108917760",
+        "name": "缠猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934612496649965568/ovuv_Qe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 68,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 285
+        },
+        "username": "dachanmiao",
+        "verified": false
+      }
+    ]
+  }
+}

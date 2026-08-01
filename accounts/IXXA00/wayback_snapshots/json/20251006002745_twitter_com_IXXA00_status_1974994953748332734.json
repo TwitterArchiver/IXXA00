@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1974681083540381808",
+    "created_at": "2025-10-06T00:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T01:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974994953748332734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752377147845677057",
+          "start": 0,
+          "username": "tou_luo64023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974994953748332734",
+    "in_reply_to_user_id": "1752377147845677057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974994832792969381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tou_luo64023 你也一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1974681083540381808",
+        "created_at": "2025-10-06T00:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T01:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974994953748332734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752377147845677057",
+              "start": 0,
+              "username": "tou_luo64023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974994953748332734",
+        "in_reply_to_user_id": "1752377147845677057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974994832792969381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou_luo64023 你也一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752377147845677057",
+        "conversation_id": "1974681083540381808",
+        "created_at": "2025-10-06T00:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T01:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974994832792969381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974994832792969381",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974681083540381808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我要看我要看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "暴躁mode，无差别aoe所有人。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 3712,
+          "like_count": 29566,
+          "listed_count": 8,
+          "media_count": 2210,
+          "tweet_count": 29752
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T17:04:15.000Z",
+        "description": "男♂\n异性恋\nQQ：653672492\n二次元，月亮计划的爱好者",
+        "id": "1752377147845677057",
+        "location": "鹦鹉螺号",
+        "name": "藤壶船长——胡椒",
+        "pinned_tweet_id": "1906012377172131848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903497435445665792/yQLPNmsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 197,
+          "like_count": 10895,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7995
+        },
+        "username": "tou_luo64023",
+        "verified": false
+      }
+    ]
+  }
+}

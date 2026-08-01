@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983802419281571960",
+    "created_at": "2025-10-30T10:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983837420916257268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852679674738143232",
+          "start": 0,
+          "username": "163555nts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983837420916257268",
+    "in_reply_to_user_id": "1852679674738143232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983837227894632752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@163555nts 😪晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T10:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983837420916257268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852679674738143232",
+              "start": 0,
+              "username": "163555nts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983837420916257268",
+        "in_reply_to_user_id": "1852679674738143232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983837227894632752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@163555nts 😪晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852679674738143232",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T10:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983837227894632752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983837227894632752",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983802419281571960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你也躺下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5075,
+          "following_count": 4505,
+          "like_count": 31590,
+          "listed_count": 11,
+          "media_count": 2288,
+          "tweet_count": 31362
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T11:50:37.000Z",
+        "description": "普通的一只",
+        "id": "1852679674738143232",
+        "location": "福建海边",
+        "name": "唔姆唔姆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961948775410466816/dgbSaMC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 152,
+          "like_count": 1909,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 329
+        },
+        "username": "163555nts",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941875079442489792",
+    "created_at": "2025-07-06T15:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T16:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941884448028733467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930192046108917760",
+          "start": 0,
+          "username": "dachanmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941884448028733467",
+    "in_reply_to_user_id": "1930192046108917760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941875079442489792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachanmiao 老师你的头像很好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941875079442489792",
+        "created_at": "2025-07-06T15:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941884448028733467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930192046108917760",
+              "start": 0,
+              "username": "dachanmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941884448028733467",
+        "in_reply_to_user_id": "1930192046108917760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941875079442489792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachanmiao 老师你的头像很好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930192046108917760",
+        "conversation_id": "1941875079442489792",
+        "created_at": "2025-07-06T15:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941875079442489792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941875079442489792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长得不够别人漂亮 妆没有别人化的厉害 也没有胆子整容 没有大奶子大屁股沙漏腰 没有大长腿 没有很有品味的穿搭 就是很普通的一个人。感觉不看医生还是不行哈。我又有点想死了。停药一时爽 发作火葬场。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 3138,
+          "like_count": 25242,
+          "listed_count": 7,
+          "media_count": 1851,
+          "tweet_count": 24800
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T09:17:37.000Z",
+        "description": "我有病 不要跟我计较了 好吗 好的",
+        "id": "1930192046108917760",
+        "name": "缠猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934612496649965568/ovuv_Qe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 64,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 271
+        },
+        "username": "dachanmiao",
+        "verified": false
+      }
+    ]
+  }
+}

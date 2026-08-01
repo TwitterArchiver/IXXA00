@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2075539989484736720",
+    "created_at": "2026-07-10T20:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075676544824189152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1000613345265836032",
+          "start": 0,
+          "username": "karasawa9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075676544824189152",
+    "in_reply_to_user_id": "1000613345265836032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075608979141697545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karasawa9527 v(｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2075539989484736720",
+        "created_at": "2026-07-10T20:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075676544824189152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1000613345265836032",
+              "start": 0,
+              "username": "karasawa9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075676544824189152",
+        "in_reply_to_user_id": "1000613345265836032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075608979141697545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karasawa9527 v(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000613345265836032",
+        "conversation_id": "2075539989484736720",
+        "created_at": "2026-07-10T15:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075608979141697545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075608979141697545",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075539989484736720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 🙋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7495,
+          "following_count": 4543,
+          "like_count": 42968,
+          "listed_count": 18,
+          "media_count": 3134,
+          "tweet_count": 42460
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-27T05:43:06.000Z",
+        "description": "青学法2年｜コーヒー好き｜718ケイマンGTS4.0 ｜月月火水木金金｜おっさん",
+        "id": "1000613345265836032",
+        "location": "日本東京都",
+        "name": "ココ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053445101574348800/wJeARsb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 341,
+          "like_count": 3807,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1250
+        },
+        "url": "",
+        "username": "karasawa9527",
+        "verified": true
+      }
+    ]
+  }
+}

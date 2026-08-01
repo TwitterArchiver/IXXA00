@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1889941661729632554",
+    "created_at": "2025-02-13T07:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T08:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889941661729632554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/IXXA00/status/1889895119740084474",
+          "start": 12,
+          "url": "https://t.co/NGXpStRKur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889941661729632554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889895119740084474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耶✌🏿吃肯德基去咯—— https://t.co/NGXpStRKur"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1889941661729632554",
+        "created_at": "2025-02-13T07:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889941661729632554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/IXXA00/status/1889895119740084474",
+              "start": 12,
+              "url": "https://t.co/NGXpStRKur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889941661729632554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889895119740084474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耶✌🏿吃肯德基去咯—— https://t.co/NGXpStRKur"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1889894581510209867",
+        "created_at": "2025-02-13T04:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T05:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889895119740084474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889895119740084474",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889894581510209867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃nm的肯德基吃吃吃真的服了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/聊天机器人/会试着给你一些的爱/文援黄推@IZLA665营业中🔋/本号🚫黄，谢谢。/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "IZLA665"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "私信随意DD但是有正常的人格才能入🚪。",
+        "name": "issa",
+        "pinned_tweet_id": "1888978003830673830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889687262008393728/HE8pTrUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 2497,
+          "like_count": 16095,
+          "listed_count": 6,
+          "media_count": 1126,
+          "tweet_count": 15365
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

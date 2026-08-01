@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926490607834247435",
+    "created_at": "2025-05-25T08:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T09:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926552883832541526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1571534638476296193",
+          "start": 0,
+          "username": "TAMARA_1328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926552883832541526",
+    "in_reply_to_user_id": "1571534638476296193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926490607834247435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAMARA_1328 吃一个番石榴我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926490607834247435].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926490607834247435",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926490607834247435"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926490607834247435",
+        "created_at": "2025-05-25T08:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926552883832541526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1571534638476296193",
+              "start": 0,
+              "username": "TAMARA_1328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926552883832541526",
+        "in_reply_to_user_id": "1571534638476296193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926490607834247435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAMARA_1328 吃一个番石榴我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1926304021137985851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 3020,
+          "like_count": 22144,
+          "listed_count": 7,
+          "media_count": 1595,
+          "tweet_count": 21560
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T16:21:08.000Z",
+        "description": "狐 认真读书 乖乖吃饭 好好活着 每天开心！",
+        "id": "1571534638476296193",
+        "location": "非洲草原骑大象",
+        "name": "阿",
+        "pinned_tweet_id": "1862886144729636932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751900786551107584/BndRkBar_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 106,
+          "like_count": 23241,
+          "listed_count": 1,
+          "media_count": 2959,
+          "tweet_count": 13029
+        },
+        "username": "TAMARA_1328",
+        "verified": false
+      }
+    ]
+  }
+}

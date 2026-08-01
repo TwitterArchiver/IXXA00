@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1909140354382864550",
+    "created_at": "2025-04-07T09:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T10:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909177602910073008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1755186363085783040",
+          "start": 0,
+          "username": "ZephyrTrading"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909177602910073008",
+    "in_reply_to_user_id": "1755186363085783040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909140354382864550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZephyrTrading k线满仓了，梭哈进去50个，周四看结果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_1909140330408239104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gn6hA_Ra4AAoIOT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gn6hA_Ra4AAoIOT.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1909140354382864550",
+        "created_at": "2025-04-07T09:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T10:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909177602910073008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1755186363085783040",
+              "start": 0,
+              "username": "ZephyrTrading"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909177602910073008",
+        "in_reply_to_user_id": "1755186363085783040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909140354382864550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZephyrTrading k线满仓了，梭哈进去50个，周四看结果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1909140330408239104"
+          ]
+        },
+        "author_id": "1755186363085783040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1909140354382864550",
+        "created_at": "2025-04-07T07:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909140354382864550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5PzcpBY6w",
+              "end": 88,
+              "expanded_url": "https://x.com/ZephyrTrading/status/1909140354382864550/photo/1",
+              "media_key": "16_1909140330408239104",
+              "start": 65,
+              "url": "https://t.co/b5PzcpBY6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909140354382864550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 76947,
+          "like_count": 116,
+          "quote_count": 10,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果今晚大盘继续下跌\n\n那么我将对美国经济实施反制裁\n\n下周以及下下周\n\n我将不会出席 KFC的Crazy Thursday活动 https://t.co/b5PzcpBY6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "内含99.5%纽甜，有🚪谢谢。主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "宇宙甜妹isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448305476239360/O3ggHyR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 2890,
+          "like_count": 19642,
+          "listed_count": 7,
+          "media_count": 1359,
+          "tweet_count": 18833
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:07:02.000Z",
+        "description": "▪️ @SigmaHunterSoc｜高中牲加密日记｜Shitposter \n▪️ 师从@CyberPhilos \n▪️ Exploring  Narrative  Dynamics\n▪️ NFA & DYOR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "SigmaHunterSoc"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "CyberPhilos"
+              }
+            ]
+          }
+        },
+        "id": "1755186363085783040",
+        "location": "Crypto World",
+        "name": "Zephyr | Sigma Hunter Σ",
+        "pinned_tweet_id": "1896415049511804969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899134537369796608/2tVB5CKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 264,
+          "like_count": 12506,
+          "listed_count": 53,
+          "media_count": 61,
+          "tweet_count": 1004
+        },
+        "username": "ZephyrTrading",
+        "verified": true
+      }
+    ]
+  }
+}

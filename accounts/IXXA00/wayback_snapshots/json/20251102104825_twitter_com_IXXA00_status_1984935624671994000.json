@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1984231779742650448",
+    "created_at": "2025-11-02T10:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T11:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984935624671994000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1663765469512482816",
+          "start": 0,
+          "username": "heichisdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984935624671994000",
+    "in_reply_to_user_id": "1663765469512482816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984935319205282053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heichisdk 我真的这么长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1984231779742650448",
+        "created_at": "2025-11-02T10:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984935624671994000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1663765469512482816",
+              "start": 0,
+              "username": "heichisdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984935624671994000",
+        "in_reply_to_user_id": "1663765469512482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984935319205282053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heichisdk 我真的这么长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663765469512482816",
+        "conversation_id": "1984231779742650448",
+        "created_at": "2025-11-02T10:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984935319205282053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984935319205282053",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984231779742650448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ？不是哥们，你真这么长？受不了这个地球ol了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5308,
+          "following_count": 4732,
+          "like_count": 32192,
+          "listed_count": 11,
+          "media_count": 2303,
+          "tweet_count": 31693
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T04:33:01.000Z",
+        "description": "你在看什么？\n不",
+        "id": "1663765469512482816",
+        "name": "SDK",
+        "pinned_tweet_id": "1774053207825608953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665749691068469248/KvaIUB4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 394,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 932
+        },
+        "username": "heichisdk",
+        "verified": false
+      }
+    ]
+  }
+}

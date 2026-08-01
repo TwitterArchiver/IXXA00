@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1955832650876510458",
+    "created_at": "2025-08-14T03:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T04:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955832650876510458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689289302507753472",
+          "start": 3,
+          "username": "rou6781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955832650876510458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955307953197813951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rou6781: 永远不要让正在后入的男人摸到手机。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1955832650876510458",
+        "created_at": "2025-08-14T03:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955832650876510458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689289302507753472",
+              "start": 3,
+              "username": "rou6781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955832650876510458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955307953197813951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rou6781: 永远不要让正在后入的男人摸到手机。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689289302507753472",
+        "conversation_id": "1955307953197813951",
+        "created_at": "2025-08-12T16:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955307953197813951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955307953197813951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 477818,
+          "like_count": 1807,
+          "quote_count": 12,
+          "reply_count": 78,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "永远不要让正在后入的男人摸到手机。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1954930100564312101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3842,
+          "following_count": 3258,
+          "like_count": 27169,
+          "listed_count": 5,
+          "media_count": 2020,
+          "tweet_count": 26847
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:55:42.000Z",
+        "description": "🚪66",
+        "id": "1689289302507753472",
+        "name": "晚安迦娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787836462844841984/Pe9bXNjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188367,
+          "following_count": 59,
+          "like_count": 382,
+          "listed_count": 248,
+          "media_count": 183,
+          "tweet_count": 368
+        },
+        "username": "rou6781",
+        "verified": false
+      }
+    ]
+  }
+}

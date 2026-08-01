@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2042581346867122551",
+    "created_at": "2026-04-10T14:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042611763108286488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905471455640649730",
+          "start": 0,
+          "username": "paki_great"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042611763108286488",
+    "in_reply_to_user_id": "1905471455640649730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042609319703908641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paki_great 烫屁股。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2042581346867122551",
+        "created_at": "2026-04-10T14:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042611763108286488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905471455640649730",
+              "start": 0,
+              "username": "paki_great"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042611763108286488",
+        "in_reply_to_user_id": "1905471455640649730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042609319703908641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paki_great 烫屁股。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905471455640649730",
+        "conversation_id": "2042581346867122551",
+        "created_at": "2026-04-10T14:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042609319703908641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042609319703908641",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042581346867122551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 来村里坐炕头吧，最热乎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2041341539889410451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 4419,
+          "like_count": 37200,
+          "listed_count": 16,
+          "media_count": 2706,
+          "tweet_count": 37594
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T04:06:40.000Z",
+        "description": "活着",
+        "id": "1905471455640649730",
+        "location": "随便在哪都好",
+        "name": "21世纪的精神异常者",
+        "pinned_tweet_id": "1940262943167586700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005219268468850688/IcQqd-zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 71,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 642
+        },
+        "username": "paki_great",
+        "verified": false
+      }
+    ]
+  }
+}

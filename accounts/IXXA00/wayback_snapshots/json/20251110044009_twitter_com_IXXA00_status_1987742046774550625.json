@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987725488308339104",
+    "created_at": "2025-11-10T04:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T05:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987742046774550625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1744347762047803392",
+          "start": 0,
+          "username": "YouKiARiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987742046774550625",
+    "in_reply_to_user_id": "1744347762047803392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987741569219461603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouKiARiA 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987725488308339104",
+        "created_at": "2025-11-10T04:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987742046774550625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1744347762047803392",
+              "start": 0,
+              "username": "YouKiARiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987742046774550625",
+        "in_reply_to_user_id": "1744347762047803392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987741569219461603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouKiARiA 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744347762047803392",
+        "conversation_id": "1987725488308339104",
+        "created_at": "2025-11-10T04:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987741569219461603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987741569219461603",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987725488308339104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是的，已经做好每天都看的准备了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "喵喵不乖，打。有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 4543,
+          "like_count": 32773,
+          "listed_count": 11,
+          "media_count": 2334,
+          "tweet_count": 32255
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T13:18:21.000Z",
+        "description": "mtx 穷矮丑的肥猪流长发男\n中文/tiếng Việt",
+        "id": "1744347762047803392",
+        "name": "山と风🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968331931545972736/y4cMjfD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 589,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 158
+        },
+        "username": "YouKiARiA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1914971018596134977",
+    "created_at": "2025-04-23T09:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T10:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914971018596134977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/IXXA00/status/1914967659286085781",
+          "start": 7,
+          "url": "https://t.co/eRjXDuBIgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914971018596134977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914967659286085781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "退了3件，6 https://t.co/eRjXDuBIgA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1914971018596134977",
+        "created_at": "2025-04-23T09:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T10:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914971018596134977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/IXXA00/status/1914967659286085781",
+              "start": 7,
+              "url": "https://t.co/eRjXDuBIgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914971018596134977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914967659286085781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "退了3件，6 https://t.co/eRjXDuBIgA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1914967659286085781",
+        "created_at": "2025-04-23T09:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T10:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914967659286085781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914967659286085781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福了，一口气到了4件衣服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，加了糖，也下了毒。你好，我操你妈。🎺@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1914364203135328383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914587294960644096/GIbUxxih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 2941,
+          "like_count": 20366,
+          "listed_count": 7,
+          "media_count": 1436,
+          "tweet_count": 19686
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

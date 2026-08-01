@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982288236132339866",
+    "created_at": "2025-10-26T13:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T14:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982444666026184765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1903387993463001088",
+          "start": 0,
+          "username": "SYQL1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982444666026184765",
+    "in_reply_to_user_id": "1903387993463001088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982443197872980437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SYQL1314 一点也不胖好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982288236132339866",
+        "created_at": "2025-10-26T13:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982444666026184765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1903387993463001088",
+              "start": 0,
+              "username": "SYQL1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982444666026184765",
+        "in_reply_to_user_id": "1903387993463001088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982443197872980437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SYQL1314 一点也不胖好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903387993463001088",
+        "conversation_id": "1982288236132339866",
+        "created_at": "2025-10-26T13:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982443197872980437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982443197872980437",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982288236132339866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 人形高达"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4639,
+          "following_count": 4111,
+          "like_count": 30636,
+          "listed_count": 10,
+          "media_count": 2265,
+          "tweet_count": 30707
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T10:07:41.000Z",
+        "description": "创造一个世界，里面有着属于自己的星空",
+        "id": "1903387993463001088",
+        "name": "Brownie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903388625410445312/3Ckoes3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 33,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "SYQL1314",
+        "verified": false
+      }
+    ]
+  }
+}

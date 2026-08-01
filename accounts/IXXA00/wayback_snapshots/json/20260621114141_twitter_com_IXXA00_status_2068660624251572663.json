@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2068649388835270821",
+    "created_at": "2026-06-21T11:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068660624251572663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825299898868060160",
+          "start": 0,
+          "username": "mituofo46168"
+        },
+        {
+          "end": 29,
+          "id": "1303335410609790976",
+          "start": 14,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068660624251572663",
+    "in_reply_to_user_id": "1825299898868060160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068652737445994813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mituofo46168 @Rococo90933671 我记得还有人改不过来了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2068649388835270821",
+        "created_at": "2026-06-21T11:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068660624251572663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825299898868060160",
+              "start": 0,
+              "username": "mituofo46168"
+            },
+            {
+              "end": 29,
+              "id": "1303335410609790976",
+              "start": 14,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068660624251572663",
+        "in_reply_to_user_id": "1825299898868060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068652737445994813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mituofo46168 @Rococo90933671 我记得还有人改不过来了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825299898868060160",
+        "conversation_id": "2068649388835270821",
+        "created_at": "2026-06-21T11:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068652737445994813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068652737445994813",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068649388835270821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 记得以前有个鲑鱼事件来着，名字里有“鲑鱼”的免费还是打折吃寿司来着，有人就去改名了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "@islaixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2068342882751349213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 4525,
+          "like_count": 42107,
+          "listed_count": 18,
+          "media_count": 3053,
+          "tweet_count": 41587
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T22:33:12.000Z",
+        "description": "灵魂学/搞点吃的/海运物流\n摄影，料理\n大龄社畜/mtx/天空树\n♓️🌈🏳️‍⚧️🇵🇦❄️",
+        "id": "1825299898868060160",
+        "location": "喵喵光明顶",
+        "name": "❄️陈雪逸❄️🇵🇦",
+        "pinned_tweet_id": "2065982189033193898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973985682218442752/Oe4P4Ncq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 539,
+          "like_count": 3572,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "mituofo46168",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12989,
+          "following_count": 3134,
+          "like_count": 41203,
+          "listed_count": 41,
+          "media_count": 4420,
+          "tweet_count": 22893
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

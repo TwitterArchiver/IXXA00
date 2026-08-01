@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2081159616931742199",
+    "created_at": "2026-07-26T04:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081232015358386301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1538491215695560706",
+          "start": 0,
+          "username": "BecksCon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081232015358386301",
+    "in_reply_to_user_id": "1538491215695560706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081231384417599886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BecksCon 没，单纯因为我是傻逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2081159616931742199",
+        "created_at": "2026-07-26T04:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081232015358386301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1538491215695560706",
+              "start": 0,
+              "username": "BecksCon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081232015358386301",
+        "in_reply_to_user_id": "1538491215695560706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081231384417599886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BecksCon 没，单纯因为我是傻逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538491215695560706",
+        "conversation_id": "2081159616931742199",
+        "created_at": "2026-07-26T04:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081231384417599886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081231384417599886",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081159616931742199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 听起来像是睡迷糊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2079584347494211710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7512,
+          "following_count": 4539,
+          "like_count": 43442,
+          "listed_count": 18,
+          "media_count": 3188,
+          "tweet_count": 43038
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-19T11:58:20.000Z",
+        "description": "",
+        "id": "1538491215695560706",
+        "name": "becks con",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538491368431050753/ifj_fP-h_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 56,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "BecksCon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1961197403278905797",
+    "created_at": "2025-08-29T02:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T03:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961261111724184064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1583020856552620033",
+          "start": 0,
+          "username": "yellowstar210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961261111724184064",
+    "in_reply_to_user_id": "1583020856552620033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961259143056253287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yellowstar210 关！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1961197403278905797",
+        "created_at": "2025-08-29T02:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961261111724184064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1583020856552620033",
+              "start": 0,
+              "username": "yellowstar210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961261111724184064",
+        "in_reply_to_user_id": "1583020856552620033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961259143056253287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yellowstar210 关！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583020856552620033",
+        "conversation_id": "1961197403278905797",
+        "created_at": "2025-08-29T02:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961259143056253287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961259143056253287",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961197403278905797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 互关！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "好想线下……好想谈恋爱……",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1961231827924042106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 3367,
+          "like_count": 27868,
+          "listed_count": 9,
+          "media_count": 2086,
+          "tweet_count": 27803
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T09:03:04.000Z",
+        "description": "bearlish altcoins",
+        "id": "1583020856552620033",
+        "name": "币加锁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961257766406033409/DRoWzW6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 295,
+          "like_count": 106,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 716
+        },
+        "username": "yellowstar210",
+        "verified": false
+      }
+    ]
+  }
+}

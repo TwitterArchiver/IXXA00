@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1961233819073462561",
+    "created_at": "2025-08-29T02:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T03:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961256515358396430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238062693182926851",
+          "start": 0,
+          "username": "xiaoyao01111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961256515358396430",
+    "in_reply_to_user_id": "1238062693182926851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961254315500224555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyao01111 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1961233819073462561",
+        "created_at": "2025-08-29T02:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961256515358396430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238062693182926851",
+              "start": 0,
+              "username": "xiaoyao01111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961256515358396430",
+        "in_reply_to_user_id": "1238062693182926851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961254315500224555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyao01111 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238062693182926851",
+        "conversation_id": "1961233819073462561",
+        "created_at": "2025-08-29T02:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961254315500224555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961254315500224555",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961233819073462561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好好休息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "好想线下……好想谈恋爱……",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1961231827924042106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3924,
+          "following_count": 3366,
+          "like_count": 27867,
+          "listed_count": 9,
+          "media_count": 2086,
+          "tweet_count": 27801
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T11:22:11.000Z",
+        "description": "愿每个人都能找到自己的幸福",
+        "id": "1238062693182926851",
+        "location": "People's Republic of China",
+        "name": "xiaoyao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924449500879360000/6fAVkNZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 31,
+          "like_count": 6912,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1510
+        },
+        "username": "xiaoyao01111",
+        "verified": false
+      }
+    ]
+  }
+}

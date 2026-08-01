@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2001144104256987205",
+    "created_at": "2025-12-17T13:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001287682165510372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593131898976411648",
+          "start": 0,
+          "username": "Acteac_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001287682165510372",
+    "in_reply_to_user_id": "1593131898976411648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001283998601949537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acteac_ 🍉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T13:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001287682165510372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593131898976411648",
+              "start": 0,
+              "username": "Acteac_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001287682165510372",
+        "in_reply_to_user_id": "1593131898976411648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001283998601949537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acteac_ 🍉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593131898976411648",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T13:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001283998601949537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001283998601949537",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001144104256987205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 妈妈我要吃披萨🍕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是isla。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5599,
+          "following_count": 4532,
+          "like_count": 34663,
+          "listed_count": 11,
+          "media_count": 2487,
+          "tweet_count": 34276
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T06:40:31.000Z",
+        "description": "正在努力成为男娘.....",
+        "id": "1593131898976411648",
+        "name": "Acteac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001083064542445568/haGkeOHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 50,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 56
+        },
+        "username": "Acteac_",
+        "verified": false
+      }
+    ]
+  }
+}

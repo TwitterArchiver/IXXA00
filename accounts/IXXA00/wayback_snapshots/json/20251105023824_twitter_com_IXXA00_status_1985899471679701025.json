@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1985735189281325229",
+    "created_at": "2025-11-05T02:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T03:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985899471679701025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796987808063553536",
+          "start": 0,
+          "username": "jing_xue45225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985899471679701025",
+    "in_reply_to_user_id": "1796987808063553536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985890533261394076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing_xue45225 是，我是\n小\n男\n娘\n😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1985735189281325229",
+        "created_at": "2025-11-05T02:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985899471679701025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796987808063553536",
+              "start": 0,
+              "username": "jing_xue45225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985899471679701025",
+        "in_reply_to_user_id": "1796987808063553536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985890533261394076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing_xue45225 是，我是\n小\n男\n娘\n😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796987808063553536",
+        "conversation_id": "1985735189281325229",
+        "created_at": "2025-11-05T02:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985890533261394076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985890533261394076",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985883968928113013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你认真的吗🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猪油)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985548169913253889/u6gaijVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5392,
+          "following_count": 4517,
+          "like_count": 32432,
+          "listed_count": 11,
+          "media_count": 2315,
+          "tweet_count": 31916
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T19:31:26.000Z",
+        "description": "",
+        "id": "1796987808063553536",
+        "name": "薛靓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984487156774260736/PTFnR9E3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 97,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 205
+        },
+        "username": "jing_xue45225",
+        "verified": false
+      }
+    ]
+  }
+}

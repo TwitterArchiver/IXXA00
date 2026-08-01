@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1961375325017006187",
+    "created_at": "2025-08-29T15:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T16:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961456994868658345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477226348741640195",
+          "start": 0,
+          "username": "dalu45533647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961456994868658345",
+    "in_reply_to_user_id": "1477226348741640195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961375325017006187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dalu45533647 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1961375325017006187",
+        "created_at": "2025-08-29T15:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T16:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961456994868658345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477226348741640195",
+              "start": 0,
+              "username": "dalu45533647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961456994868658345",
+        "in_reply_to_user_id": "1477226348741640195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961375325017006187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dalu45533647 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477226348741640195",
+        "conversation_id": "1961375325017006187",
+        "created_at": "2025-08-29T10:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961375325017006187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961375325017006187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理不平衡啊，現在心裏的負能量滿滿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 3373,
+          "like_count": 27938,
+          "listed_count": 9,
+          "media_count": 2089,
+          "tweet_count": 27869
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T10:33:14.000Z",
+        "description": "我的墓碑上寫着“我骨灰種的菜好吃嗎” 我是小孩，喜歡喝巧克力，長大以後就喝摩卡。",
+        "id": "1477226348741640195",
+        "name": "嚴重好色，嚴重暴燥，好轉毛囊炎，需要陽光，曹氏宗親會會員",
+        "pinned_tweet_id": "1911462351142011356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901936108533116928/LvrKqto8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1489,
+          "like_count": 29702,
+          "listed_count": 4,
+          "media_count": 489,
+          "tweet_count": 8449
+        },
+        "username": "dalu45533647",
+        "verified": false
+      }
+    ]
+  }
+}

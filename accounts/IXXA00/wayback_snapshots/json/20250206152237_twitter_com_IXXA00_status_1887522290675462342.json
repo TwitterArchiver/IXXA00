@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1887515195985027224",
+    "created_at": "2025-02-06T15:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T16:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887522290675462342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611192649406615553",
+          "start": 0,
+          "username": "zihan22730371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887522290675462342",
+    "in_reply_to_user_id": "1611192649406615553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887517357192716589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zihan22730371 给你盛1🥣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1887515195985027224",
+        "created_at": "2025-02-06T15:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887522290675462342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611192649406615553",
+              "start": 0,
+              "username": "zihan22730371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887522290675462342",
+        "in_reply_to_user_id": "1611192649406615553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887517357192716589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zihan22730371 给你盛1🥣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611192649406615553",
+        "conversation_id": "1887515195985027224",
+        "created_at": "2025-02-06T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887517357192716589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887517357192716589",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887515195985027224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 能分我两块吗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 2485,
+          "like_count": 15734,
+          "listed_count": 6,
+          "media_count": 1097,
+          "tweet_count": 14994
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T02:47:41.000Z",
+        "description": "友善待人，有时候脑子有坑\n口嗨怪",
+        "id": "1611192649406615553",
+        "name": "zihan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835367749360795648/URlp5gSy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 529,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 272
+        },
+        "username": "zihan22730371",
+        "verified": false
+      }
+    ]
+  }
+}

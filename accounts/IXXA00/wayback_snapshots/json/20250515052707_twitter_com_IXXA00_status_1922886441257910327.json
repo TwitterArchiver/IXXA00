@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1922817689468207577",
+    "created_at": "2025-05-15T05:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T06:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922886441257910327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1493398442991042562",
+          "start": 0,
+          "username": "xiumu77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922886441257910327",
+    "in_reply_to_user_id": "1493398442991042562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922879823375970304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiumu77 我常驻东北哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1922817689468207577",
+        "created_at": "2025-05-15T05:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T06:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922886441257910327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1493398442991042562",
+              "start": 0,
+              "username": "xiumu77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922886441257910327",
+        "in_reply_to_user_id": "1493398442991042562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922879823375970304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiumu77 我常驻东北哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493398442991042562",
+        "conversation_id": "1922817689468207577",
+        "created_at": "2025-05-15T05:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T06:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922879823375970304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922879823375970304",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922879329614131556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 哈尔滨）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "烦死了。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "猫菇isla",
+        "pinned_tweet_id": "1922817689468207577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922471366768656384/7lbVz7px_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 3022,
+          "like_count": 21757,
+          "listed_count": 7,
+          "media_count": 1560,
+          "tweet_count": 21130
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T01:35:54.000Z",
+        "description": "写了也没人在意，我只是互联网内的一粒尘埃。",
+        "id": "1493398442991042562",
+        "name": "朽木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912891281711472640/LWPye8mV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 2225,
+          "like_count": 5391,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1299
+        },
+        "username": "xiumu77",
+        "verified": false
+      }
+    ]
+  }
+}

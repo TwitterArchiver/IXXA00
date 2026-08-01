@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1932669362592534684",
+    "created_at": "2025-06-11T23:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T00:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932949576081944638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1431849737771048961",
+          "start": 0,
+          "username": "Rianbowegg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932949576081944638",
+    "in_reply_to_user_id": "1431849737771048961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932937557295444299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rianbowegg 没听过，不太听日语流行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1932669362592534684",
+        "created_at": "2025-06-11T23:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T00:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932949576081944638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1431849737771048961",
+              "start": 0,
+              "username": "Rianbowegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932949576081944638",
+        "in_reply_to_user_id": "1431849737771048961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932937557295444299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rianbowegg 没听过，不太听日语流行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431849737771048961",
+        "conversation_id": "1932669362592534684",
+        "created_at": "2025-06-11T23:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T00:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932937557295444299"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "小林明子",
+              "probability": 0.9202,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932937557295444299",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932669362592534684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那中岛阿姨和小林明子呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢的食物是对我不能自拔的爱欲。🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 21,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "按摩小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 3089,
+          "like_count": 23493,
+          "listed_count": 7,
+          "media_count": 1723,
+          "tweet_count": 23018
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T05:22:46.000Z",
+        "description": "zzzz",
+        "id": "1431849737771048961",
+        "location": "彼岸花的花丛中",
+        "name": "彩虹色煎蛋",
+        "pinned_tweet_id": "1799079699400061178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792531211631706113/jDXUqXOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 313,
+          "like_count": 7442,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2318
+        },
+        "username": "Rianbowegg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931547217023951315",
+    "created_at": "2025-06-08T04:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T05:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931568035418218561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840057939115323392",
+          "start": 0,
+          "username": "transfvio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931568035418218561",
+    "in_reply_to_user_id": "1840057939115323392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931567654940074160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@transfvio 嗯？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931547217023951315",
+        "created_at": "2025-06-08T04:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T05:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931568035418218561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840057939115323392",
+              "start": 0,
+              "username": "transfvio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931568035418218561",
+        "in_reply_to_user_id": "1840057939115323392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931567654940074160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transfvio 嗯？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840057939115323392",
+        "conversation_id": "1931547217023951315",
+        "created_at": "2025-06-08T04:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T05:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931567654940074160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931567654940074160",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931547217023951315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢吃别人对我无法自拔的爱欲。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3709,
+          "following_count": 3055,
+          "like_count": 23101,
+          "listed_count": 7,
+          "media_count": 1689,
+          "tweet_count": 22634
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:56:31.000Z",
+        "description": "小小股民。",
+        "id": "1840057939115323392",
+        "name": "timer1554",
+        "pinned_tweet_id": "1931430968079827244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931410397870923779/_M3XnC03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 295,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 244
+        },
+        "username": "transfvio",
+        "verified": false
+      }
+    ]
+  }
+}

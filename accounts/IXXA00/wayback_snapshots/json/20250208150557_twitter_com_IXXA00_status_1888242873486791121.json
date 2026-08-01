@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1888159824615215448",
+    "created_at": "2025-02-08T15:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T16:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888242873486791121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1492511040206082048",
+          "start": 0,
+          "username": "G315EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888242873486791121",
+    "in_reply_to_user_id": "1492511040206082048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888214464757203070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G315EX 给你一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1888159824615215448",
+        "created_at": "2025-02-08T15:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T16:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888242873486791121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1492511040206082048",
+              "start": 0,
+              "username": "G315EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888242873486791121",
+        "in_reply_to_user_id": "1492511040206082048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888214464757203070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G315EX 给你一口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492511040206082048",
+        "conversation_id": "1888159824615215448",
+        "created_at": "2025-02-08T13:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T14:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888214464757203070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888214464757203070",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888159824615215448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我靠！味道另说，卖相好棒，分我一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 2506,
+          "like_count": 15841,
+          "listed_count": 6,
+          "media_count": 1108,
+          "tweet_count": 15092
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T14:49:11.000Z",
+        "description": "",
+        "id": "1492511040206082048",
+        "location": "Guangdong",
+        "name": "屎忽魔灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617190738470776833/lfzQOWGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 577,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 206
+        },
+        "username": "G315EX",
+        "verified": false
+      }
+    ]
+  }
+}

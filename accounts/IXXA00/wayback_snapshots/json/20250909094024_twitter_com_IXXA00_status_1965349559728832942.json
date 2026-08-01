@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1965223902940156350",
+    "created_at": "2025-09-09T09:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T10:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965349559728832942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "926124101353091072",
+          "start": 0,
+          "username": "Um10639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965349559728832942",
+    "in_reply_to_user_id": "926124101353091072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965347112662741267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Um10639 不可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1965223902940156350",
+        "created_at": "2025-09-09T09:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965349559728832942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "926124101353091072",
+              "start": 0,
+              "username": "Um10639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965349559728832942",
+        "in_reply_to_user_id": "926124101353091072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965347112662741267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Um10639 不可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "926124101353091072",
+        "conversation_id": "1965223902940156350",
+        "created_at": "2025-09-09T09:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965347112662741267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965347112662741267",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965223902940156350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 可以帮我破处吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1965031563193958524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3974,
+          "following_count": 3436,
+          "like_count": 28461,
+          "listed_count": 8,
+          "media_count": 2122,
+          "tweet_count": 28545
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-02T16:29:27.000Z",
+        "description": "🍔",
+        "id": "926124101353091072",
+        "location": "栃木県",
+        "name": "C82.5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1104617907164594176/Kb1aOf4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2386,
+          "like_count": 106353,
+          "listed_count": 10,
+          "media_count": 332,
+          "tweet_count": 4950
+        },
+        "username": "Um10639",
+        "verified": false
+      }
+    ]
+  }
+}

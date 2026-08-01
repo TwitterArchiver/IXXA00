@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1997968287523873081",
+    "created_at": "2025-12-08T10:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T11:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997973301025730792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1094116537005334533",
+          "start": 0,
+          "username": "eettfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997973301025730792",
+    "in_reply_to_user_id": "1094116537005334533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997968751090885057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eettfox 不是官方店还tm贵了60😡！rnm！退钱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1997968287523873081",
+        "created_at": "2025-12-08T10:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997973301025730792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1094116537005334533",
+              "start": 0,
+              "username": "eettfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997973301025730792",
+        "in_reply_to_user_id": "1094116537005334533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997968751090885057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eettfox 不是官方店还tm贵了60😡！rnm！退钱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094116537005334533",
+        "conversation_id": "1997968287523873081",
+        "created_at": "2025-12-08T09:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997968751090885057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997968751090885057",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997968287523873081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 又不是不能用.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "直播从来不穿裤子。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5616,
+          "following_count": 4546,
+          "like_count": 34396,
+          "listed_count": 11,
+          "media_count": 2454,
+          "tweet_count": 33910
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-09T06:11:24.000Z",
+        "description": "想发什么就发什么/想当一个很好的人/我是好人",
+        "id": "1094116537005334533",
+        "name": "茶泡饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991441645951414277/ehgdzzmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 50,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 292
+        },
+        "username": "eettfox",
+        "verified": false
+      }
+    ]
+  }
+}

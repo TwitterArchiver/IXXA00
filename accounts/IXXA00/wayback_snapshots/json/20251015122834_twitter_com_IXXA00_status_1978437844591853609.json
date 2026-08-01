@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1978410749908172929",
+    "created_at": "2025-10-15T12:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978437844591853609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1957957005081300993",
+          "start": 0,
+          "username": "wisimowu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978437844591853609",
+    "in_reply_to_user_id": "1957957005081300993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978437433277485273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wisimowu 不知道，反正胡萝卜有点焦虑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1978410749908172929",
+        "created_at": "2025-10-15T12:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978437844591853609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1957957005081300993",
+              "start": 0,
+              "username": "wisimowu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978437844591853609",
+        "in_reply_to_user_id": "1957957005081300993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978437433277485273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wisimowu 不知道，反正胡萝卜有点焦虑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957957005081300993",
+        "conversation_id": "1978410749908172929",
+        "created_at": "2025-10-15T12:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978437433277485273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978437433277485273",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978410749908172929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 焦焦的看着好香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "通常你不需要了解我那么多。/有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 3964,
+          "like_count": 30186,
+          "listed_count": 10,
+          "media_count": 2236,
+          "tweet_count": 30221
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T00:05:18.000Z",
+        "description": "铭记我吧",
+        "id": "1957957005081300993",
+        "name": "西瓜酸奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977926813289717760/8F5_LtJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 143,
+          "like_count": 1890,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 44
+        },
+        "username": "wisimowu",
+        "verified": false
+      }
+    ]
+  }
+}

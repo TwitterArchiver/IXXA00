@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1968820566862836182",
+    "created_at": "2025-09-19T00:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T01:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968831356621799463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2280533011",
+          "start": 0,
+          "username": "achmadfirdaus_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968831356621799463",
+    "in_reply_to_user_id": "2280533011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968822554962931976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@achmadfirdaus_ 我也是真人有线下的吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1968820566862836182",
+        "created_at": "2025-09-19T00:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T01:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968831356621799463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2280533011",
+              "start": 0,
+              "username": "achmadfirdaus_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968831356621799463",
+        "in_reply_to_user_id": "2280533011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968822554962931976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@achmadfirdaus_ 我也是真人有线下的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2280533011",
+        "conversation_id": "1968820566862836182",
+        "created_at": "2025-09-18T23:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968822554962931976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968822554962931976",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968820566862836182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我是真人 有线下的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/辣妹培训中心",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967215004098408448/EAzPAMnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 3551,
+          "like_count": 28896,
+          "listed_count": 8,
+          "media_count": 2154,
+          "tweet_count": 29062
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-07T12:29:00.000Z",
+        "description": "找朋友，",
+        "id": "2280533011",
+        "name": "莹莹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968821787132858368/8ULcVW83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 44,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "achmadfirdaus_",
+        "verified": false
+      }
+    ]
+  }
+}

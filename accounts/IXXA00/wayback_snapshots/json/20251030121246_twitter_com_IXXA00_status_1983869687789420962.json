@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983851547508236595",
+    "created_at": "2025-10-30T12:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983869687789420962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771839109394575360",
+          "start": 0,
+          "username": "jjbao130031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983869687789420962",
+    "in_reply_to_user_id": "1771839109394575360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983869389264056743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjbao130031 被打晕了，要休息了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983851547508236595",
+        "created_at": "2025-10-30T12:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983869687789420962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771839109394575360",
+              "start": 0,
+              "username": "jjbao130031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983869687789420962",
+        "in_reply_to_user_id": "1771839109394575360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983869389264056743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjbao130031 被打晕了，要休息了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771839109394575360",
+        "conversation_id": "1983851547508236595",
+        "created_at": "2025-10-30T12:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983869389264056743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983869389264056743",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983851547508236595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我也玩这个一起吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5090,
+          "following_count": 4523,
+          "like_count": 31666,
+          "listed_count": 11,
+          "media_count": 2290,
+          "tweet_count": 31402
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T09:59:09.000Z",
+        "description": "",
+        "id": "1771839109394575360",
+        "location": "日本",
+        "name": "j jbao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771839237169852416/lJmS8MPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "jjbao130031",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2000032232908652794",
+    "created_at": "2025-12-15T03:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T04:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000403440036712782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754023103339094016",
+          "start": 0,
+          "username": "zhangcw04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000403440036712782",
+    "in_reply_to_user_id": "1754023103339094016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000032232908652794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangcw04 发芽土豆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1798,
+        "media_key": "3_2000032223442182144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GKtembIAAxTu1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2000032232908652794",
+        "created_at": "2025-12-15T03:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000403440036712782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754023103339094016",
+              "start": 0,
+              "username": "zhangcw04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000403440036712782",
+        "in_reply_to_user_id": "1754023103339094016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000032232908652794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangcw04 发芽土豆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000032223442182144"
+          ]
+        },
+        "author_id": "1754023103339094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000032232908652794",
+        "created_at": "2025-12-14T02:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000032232908652794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AG2Je9LhkZ",
+              "end": 35,
+              "expanded_url": "https://x.com/zhangcw04/status/2000032232908652794/photo/1",
+              "media_key": "3_2000032223442182144",
+              "start": 12,
+              "url": "https://t.co/AG2Je9LhkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000032232908652794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 74256,
+          "like_count": 222,
+          "quote_count": 2,
+          "reply_count": 115,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "外地人肯定不知道是什么 https://t.co/AG2Je9LhkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是黄推。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1999135329228661013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5610,
+          "following_count": 4532,
+          "like_count": 34536,
+          "listed_count": 11,
+          "media_count": 2480,
+          "tweet_count": 34159
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T06:04:44.000Z",
+        "description": "美食",
+        "id": "1754023103339094016",
+        "name": "白雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754321141446115328/C3N53vHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12352,
+          "following_count": 10964,
+          "like_count": 8607,
+          "listed_count": 32,
+          "media_count": 2369,
+          "tweet_count": 9547
+        },
+        "username": "zhangcw04",
+        "verified": false
+      }
+    ]
+  }
+}

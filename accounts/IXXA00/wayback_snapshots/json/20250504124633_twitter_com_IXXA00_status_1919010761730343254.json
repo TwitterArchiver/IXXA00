@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918991881121489007",
+    "created_at": "2025-05-04T12:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T13:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919010761730343254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845883179238137856",
+          "start": 0,
+          "username": "xhngto129410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919010761730343254",
+    "in_reply_to_user_id": "1845883179238137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919008496764207249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhngto129410 adc是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918991881121489007",
+        "created_at": "2025-05-04T12:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T13:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919010761730343254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845883179238137856",
+              "start": 0,
+              "username": "xhngto129410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919010761730343254",
+        "in_reply_to_user_id": "1845883179238137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919008496764207249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhngto129410 adc是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845883179238137856",
+        "conversation_id": "1918991881121489007",
+        "created_at": "2025-05-04T12:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T13:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919008496764207249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919008496764207249",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918991881121489007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 老板刚走到车边，想想自己的adc号还在cd，点了一根烟，有得吃总比饿着好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1918675574668869802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 2960,
+          "like_count": 21143,
+          "listed_count": 7,
+          "media_count": 1499,
+          "tweet_count": 20462
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T17:44:05.000Z",
+        "description": "",
+        "id": "1845883179238137856",
+        "name": "猫二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913183195677499392/Hb4qa75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 48,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 340
+        },
+        "username": "xhngto129410",
+        "verified": false
+      }
+    ]
+  }
+}

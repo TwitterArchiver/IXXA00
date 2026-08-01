@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2075807407163502994",
+    "created_at": "2026-07-11T11:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075910774418252237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2049498652360515584",
+          "start": 0,
+          "username": "Phanes_42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075910774418252237",
+    "in_reply_to_user_id": "2049498652360515584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075909447160045852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phanes_42 不行啊，我得忍耐呀，我戒了半年烟了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2075807407163502994",
+        "created_at": "2026-07-11T11:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075910774418252237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2049498652360515584",
+              "start": 0,
+              "username": "Phanes_42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075910774418252237",
+        "in_reply_to_user_id": "2049498652360515584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075909447160045852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phanes_42 不行啊，我得忍耐呀，我戒了半年烟了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049498652360515584",
+        "conversation_id": "2075807407163502994",
+        "created_at": "2026-07-11T11:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075909447160045852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075909447160045852",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075807407163502994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 抽炫赫门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7496,
+          "following_count": 4544,
+          "like_count": 42997,
+          "listed_count": 18,
+          "media_count": 3134,
+          "tweet_count": 42502
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-29T14:38:59.000Z",
+        "description": "",
+        "id": "2049498652360515584",
+        "location": "距离你11707km",
+        "name": "Phanes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049502015349559296/1WCYHMqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 41,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "Phanes_42",
+        "verified": false
+      }
+    ]
+  }
+}

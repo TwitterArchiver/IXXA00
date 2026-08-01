@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1942144523884462218",
+    "created_at": "2025-07-07T08:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T09:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942144523884462218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/IXXA00/status/1919976089884975131",
+          "start": 14,
+          "url": "https://t.co/guqiP93kCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942144523884462218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919976089884975131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给你们看双马尾哦，别哭了。 https://t.co/guqiP93kCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919976086936686592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqUgFB8bEAA8wma.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1942144523884462218",
+        "created_at": "2025-07-07T08:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942144523884462218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/IXXA00/status/1919976089884975131",
+              "start": 14,
+              "url": "https://t.co/guqiP93kCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942144523884462218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919976089884975131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给你们看双马尾哦，别哭了。 https://t.co/guqiP93kCb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919976086936686592"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1919976089884975131",
+        "created_at": "2025-05-07T04:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919976089884975131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0bfuK8TmL6",
+              "end": 27,
+              "expanded_url": "https://x.com/IXXA00/status/1919976089884975131/photo/1",
+              "media_key": "3_1919976086936686592",
+              "start": 4,
+              "url": "https://t.co/0bfuK8TmL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919976089884975131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1619,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃。 https://t.co/0bfuK8TmL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "麦小蛋isla🥚",
+        "pinned_tweet_id": "1940417596748410985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 3141,
+          "like_count": 25341,
+          "listed_count": 7,
+          "media_count": 1854,
+          "tweet_count": 24853
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

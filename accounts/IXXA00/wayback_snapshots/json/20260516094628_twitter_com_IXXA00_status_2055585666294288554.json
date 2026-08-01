@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2055585666294288554",
+    "created_at": "2026-05-16T09:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055585666294288554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1767905395299983360",
+          "start": 3,
+          "username": "Kaerigumo1585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055585666294288554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055577604166721593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaerigumo1585: 在饭桌上说话感觉都有点欠图了，吃饭就应该一个字都不许说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2055585666294288554",
+        "created_at": "2026-05-16T09:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055585666294288554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1767905395299983360",
+              "start": 3,
+              "username": "Kaerigumo1585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055585666294288554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055577604166721593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaerigumo1585: 在饭桌上说话感觉都有点欠图了，吃饭就应该一个字都不许说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767905395299983360",
+        "conversation_id": "2055577604166721593",
+        "created_at": "2026-05-16T09:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055577604166721593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055577604166721593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在饭桌上说话感觉都有点欠图了，吃饭就应该一个字都不许说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2055213088782401614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7002,
+          "following_count": 4500,
+          "like_count": 39876,
+          "listed_count": 19,
+          "media_count": 2899,
+          "tweet_count": 39832
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T13:28:08.000Z",
+        "description": "ようこそ ときめく世界へ",
+        "id": "1767905395299983360",
+        "location": "漫长的季节",
+        "name": "内岛氏理🐧",
+        "pinned_tweet_id": "1922927406198948211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922326890892951552/nrq8LDJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 2943,
+          "like_count": 67938,
+          "listed_count": 7,
+          "media_count": 669,
+          "tweet_count": 11261
+        },
+        "username": "Kaerigumo1585",
+        "verified": false
+      }
+    ]
+  }
+}

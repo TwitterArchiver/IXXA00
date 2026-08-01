@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1961379929641177386",
+    "created_at": "2025-08-29T11:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T12:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961385524016660677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1899865750233636864",
+          "start": 0,
+          "username": "selfish070820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961385524016660677",
+    "in_reply_to_user_id": "1899865750233636864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961383396606960046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@selfish070820 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1961379929641177386",
+        "created_at": "2025-08-29T11:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961385524016660677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1899865750233636864",
+              "start": 0,
+              "username": "selfish070820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961385524016660677",
+        "in_reply_to_user_id": "1899865750233636864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961383396606960046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@selfish070820 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899865750233636864",
+        "conversation_id": "1961379929641177386",
+        "created_at": "2025-08-29T11:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961383396606960046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961383396606960046",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961379929641177386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 wow，好随意的要求（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3928,
+          "following_count": 3370,
+          "like_count": 27910,
+          "listed_count": 9,
+          "media_count": 2088,
+          "tweet_count": 27838
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T16:51:18.000Z",
+        "description": "07男生，时不时碎碎念，希望交到好朋友（密码的广告骗子滚啊）",
+        "id": "1899865750233636864",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930999010363654144/sBUU8mOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 247,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 253
+        },
+        "username": "selfish070820",
+        "verified": false
+      }
+    ]
+  }
+}

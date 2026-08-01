@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1978096297757262163",
+    "created_at": "2025-10-14T23:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T00:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978241986097201580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1749493488562135040",
+          "start": 0,
+          "username": "tian_long_ren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978241986097201580",
+    "in_reply_to_user_id": "1749493488562135040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978161661073883334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tian_long_ren 终于没人说我像人偶姐姐了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1978096297757262163",
+        "created_at": "2025-10-14T23:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T00:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978241986097201580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749493488562135040",
+              "start": 0,
+              "username": "tian_long_ren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978241986097201580",
+        "in_reply_to_user_id": "1749493488562135040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978161661073883334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tian_long_ren 终于没人说我像人偶姐姐了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749493488562135040",
+        "conversation_id": "1978096297757262163",
+        "created_at": "2025-10-14T18:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978161661073883334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978161661073883334",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978096297757262163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 有点像桐生战兔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "通常你不需要了解我那么多。/有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4471,
+          "following_count": 3935,
+          "like_count": 30136,
+          "listed_count": 9,
+          "media_count": 2233,
+          "tweet_count": 30156
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T18:05:44.000Z",
+        "description": "",
+        "id": "1749493488562135040",
+        "name": "天龙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964357189289787392/3E4fCvgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 137,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 70
+        },
+        "username": "tian_long_ren",
+        "verified": false
+      }
+    ]
+  }
+}

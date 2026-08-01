@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2051125264353231005",
+    "created_at": "2026-05-04T22:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T23:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051427697407254801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622114910133002241",
+          "start": 0,
+          "username": "xsh19068663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051427697407254801",
+    "in_reply_to_user_id": "1622114910133002241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051125264353231005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsh19068663 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2051125264353231005",
+        "created_at": "2026-05-04T22:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051427697407254801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622114910133002241",
+              "start": 0,
+              "username": "xsh19068663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051427697407254801",
+        "in_reply_to_user_id": "1622114910133002241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051125264353231005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsh19068663 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622114910133002241",
+        "conversation_id": "2051125264353231005",
+        "created_at": "2026-05-04T02:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T03:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051125264353231005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051125264353231005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10160,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会平等视奸每个关注我的人的主页。有个刚才关注我的男的几把好丑，你自己对号入座一下。怎么好意思打男菩萨标签的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2051269951366017407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6996,
+          "following_count": 4495,
+          "like_count": 39319,
+          "listed_count": 19,
+          "media_count": 2841,
+          "tweet_count": 39317
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "凡事发生皆有利于我",
+        "id": "1622114910133002241",
+        "location": "2.4km",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2025389471706050656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 259,
+          "like_count": 853,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 920
+        },
+        "username": "xsh19068663",
+        "verified": false
+      }
+    ]
+  }
+}

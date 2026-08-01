@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1946815055649198192",
+    "created_at": "2025-07-20T10:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946883151483343172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1255868748692549632",
+          "start": 0,
+          "username": "everythwillbok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946883151483343172",
+    "in_reply_to_user_id": "1255868748692549632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946875346432987555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@everythwillbok 放了葱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1946815055649198192",
+        "created_at": "2025-07-20T10:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946883151483343172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1255868748692549632",
+              "start": 0,
+              "username": "everythwillbok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946883151483343172",
+        "in_reply_to_user_id": "1255868748692549632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946875346432987555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@everythwillbok 放了葱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1255868748692549632",
+        "conversation_id": "1946815055649198192",
+        "created_at": "2025-07-20T10:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946875346432987555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946875346432987555",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946815055649198192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 无敌丸子，放菜了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3741,
+          "following_count": 3145,
+          "like_count": 26139,
+          "listed_count": 6,
+          "media_count": 1917,
+          "tweet_count": 25634
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-30T14:37:06.000Z",
+        "description": "0412，喜欢钓鱼的可以一起，拒绝gay。",
+        "id": "1255868748692549632",
+        "location": "鞍山",
+        "name": "lure",
+        "pinned_tweet_id": "1920414003555147887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735955248982753280/wvQYmIx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 35,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 203
+        },
+        "username": "everythwillbok",
+        "verified": false
+      }
+    ]
+  }
+}

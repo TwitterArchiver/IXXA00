@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1896008980742488172",
+    "created_at": "2025-03-02T01:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T02:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896009494586671352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896009494586671352",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896008980742488172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 老师这就是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1896008980742488172",
+        "created_at": "2025-03-02T01:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T02:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896009494586671352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896009494586671352",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896008980742488172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 老师这就是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1896008980742488172",
+        "created_at": "2025-03-02T01:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T02:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896008980742488172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ixxa00/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ixxa00/status/1895725359909519676",
+              "start": 7,
+              "url": "https://t.co/3YvhyGpTMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896008980742488172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895725359909519676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他妈就是我 https://t.co/3YvhyGpTMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这个人什么也不会，只会爱你。",
+        "id": "1739391734491086848",
+        "location": "还会收款。",
+        "name": "islafragmentized",
+        "pinned_tweet_id": "1895683343162958170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894112531394048000/SwC8VagU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3343,
+          "following_count": 2573,
+          "like_count": 17046,
+          "listed_count": 6,
+          "media_count": 1203,
+          "tweet_count": 16285
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4768,
+          "following_count": 888,
+          "like_count": 9666,
+          "listed_count": 4,
+          "media_count": 503,
+          "tweet_count": 7496
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

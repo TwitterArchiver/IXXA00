@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1985147449980113090",
+    "created_at": "2025-11-03T14:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985360923373302159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1456573029614374918",
+          "start": 0,
+          "username": "jyunikx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985360923373302159",
+    "in_reply_to_user_id": "1456573029614374918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985359597876715977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jyunikx 对啊就是抽象大吧唧啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1985147449980113090",
+        "created_at": "2025-11-03T14:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985360923373302159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1456573029614374918",
+              "start": 0,
+              "username": "jyunikx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985360923373302159",
+        "in_reply_to_user_id": "1456573029614374918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985359597876715977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jyunikx 对啊就是抽象大吧唧啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456573029614374918",
+        "conversation_id": "1985147449980113090",
+        "created_at": "2025-11-03T14:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985359597876715977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985359597876715977",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985147449980113090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 差点看成抽象大吧唧😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5341,
+          "following_count": 4763,
+          "like_count": 32320,
+          "listed_count": 10,
+          "media_count": 2309,
+          "tweet_count": 31823
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T10:44:21.000Z",
+        "description": "推广自辨⚠️⚠️",
+        "id": "1456573029614374918",
+        "name": "L",
+        "pinned_tweet_id": "1960957370336731534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807470663248363520/9dLzXy8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24119,
+          "following_count": 94,
+          "like_count": 2354,
+          "listed_count": 71,
+          "media_count": 25,
+          "tweet_count": 61
+        },
+        "username": "jyunikx",
+        "verified": false
+      }
+    ]
+  }
+}

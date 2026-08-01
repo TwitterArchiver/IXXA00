@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2082698735872885064",
+    "created_at": "2026-07-30T05:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082698735872885064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054930509030182912",
+          "start": 3,
+          "username": "IslaIxxa00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082698735872885064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082698677542654321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IslaIxxa00: 我想擦眼泪，但是擦下来的全是胭脂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2082698735872885064",
+        "created_at": "2026-07-30T05:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082698735872885064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054930509030182912",
+              "start": 3,
+              "username": "IslaIxxa00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082698735872885064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082698677542654321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IslaIxxa00: 我想擦眼泪，但是擦下来的全是胭脂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054930509030182912",
+        "conversation_id": "2082698677542654321",
+        "created_at": "2026-07-30T05:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082698677542654321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082698677542654321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想擦眼泪，但是擦下来的全是胭脂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7530,
+          "following_count": 4533,
+          "like_count": 43625,
+          "listed_count": 17,
+          "media_count": 3205,
+          "tweet_count": 43228
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T14:23:53.000Z",
+        "description": "平等的晒伤每一个人。",
+        "id": "2054930509030182912",
+        "name": "Gray silver line",
+        "pinned_tweet_id": "2080096022597173703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074586474167824384/wlcrdmWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 0,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "IslaIxxa00",
+        "verified": false
+      }
+    ]
+  }
+}

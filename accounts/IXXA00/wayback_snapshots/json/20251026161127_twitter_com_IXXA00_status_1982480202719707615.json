@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982293281129308412",
+    "created_at": "2025-10-26T16:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982480202719707615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512296448523583491",
+          "start": 0,
+          "username": "Helm_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982480202719707615",
+    "in_reply_to_user_id": "1512296448523583491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982478141286433094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Helm_Official 哪来的老吃家"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982478141286433094].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982478141286433094",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982478141286433094"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-26T16:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982480202719707615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512296448523583491",
+              "start": 0,
+              "username": "Helm_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982480202719707615",
+        "in_reply_to_user_id": "1512296448523583491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982478141286433094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Helm_Official 哪来的老吃家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4674,
+          "following_count": 4146,
+          "like_count": 30695,
+          "listed_count": 10,
+          "media_count": 2266,
+          "tweet_count": 30743
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T05:09:17.000Z",
+        "description": "算了，人类毁灭吧\n以帝国之名，地鸣！\n游戏玩家抵抗组织理事长\n我要我的毛绒绒的小……小红酱ᕕ(◠ڼ◠)ᕗ@_ZeroZeroTwo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "_ZeroZeroTwo_"
+              }
+            ]
+          }
+        },
+        "id": "1512296448523583491",
+        "location": "小红酱床上/神圣大东亚帝国",
+        "name": "爪牙の王🇯🇵🇰🇷毘沙门家织女屠宰有限公司董事长",
+        "pinned_tweet_id": "1980619803086959026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881842112230268928/KFD-qt-Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 1251,
+          "like_count": 31337,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 21824
+        },
+        "username": "Helm_Official",
+        "verified": false
+      }
+    ]
+  }
+}

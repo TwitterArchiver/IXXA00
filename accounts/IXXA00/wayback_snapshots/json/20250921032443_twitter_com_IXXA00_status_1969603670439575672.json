@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1969603670439575672",
+    "created_at": "2025-09-21T03:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T04:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969603670439575672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konoGuanine/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/konoGuanine/status/1969601846865248472",
+          "start": 9,
+          "url": "https://t.co/B804jQMJTP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969603670439575672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969601846865248472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算吗？不算吧…… https://t.co/B804jQMJTP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1969603670439575672",
+        "created_at": "2025-09-21T03:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T04:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969603670439575672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konoGuanine/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/konoGuanine/status/1969601846865248472",
+              "start": 9,
+              "url": "https://t.co/B804jQMJTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969603670439575672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969601846865248472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算吗？不算吧…… https://t.co/B804jQMJTP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1338048339930071040",
+        "conversation_id": "1969589755970273536",
+        "created_at": "2025-09-21T03:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T04:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969601846865248472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969601846865248472",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969589755970273536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 喜欢isla老师算不算炼铜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/有🚪谢谢",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969594297147408386/smq59m_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 3558,
+          "like_count": 28944,
+          "listed_count": 8,
+          "media_count": 2158,
+          "tweet_count": 29118
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-13T09:09:29.000Z",
+        "description": "Ich dien|\na failed pharmacist ｜EN,CN,Cantonese",
+        "id": "1338048339930071040",
+        "location": "Macao",
+        "name": "roseae",
+        "pinned_tweet_id": "1497453314107064322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766750498974302208/VdL3gW9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 1093,
+          "like_count": 30822,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 4547
+        },
+        "username": "konoGuanine",
+        "verified": false
+      }
+    ]
+  }
+}

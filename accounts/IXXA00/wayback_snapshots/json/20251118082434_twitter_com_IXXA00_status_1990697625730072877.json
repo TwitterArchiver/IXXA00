@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1990253555916415138",
+    "created_at": "2025-11-18T08:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990697625730072877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2375047140",
+          "start": 0,
+          "username": "leeloocat666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990697625730072877",
+    "in_reply_to_user_id": "2375047140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990694887201636775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leeloocat666 没出息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-18T08:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990697625730072877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2375047140",
+              "start": 0,
+              "username": "leeloocat666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990697625730072877",
+        "in_reply_to_user_id": "2375047140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990694887201636775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leeloocat666 没出息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2375047140",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-18T08:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990694887201636775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990694887201636775",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990253555916415138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我是蹭侄子的钢琴，就会两首，还磕磕绊绊连滚带爬，算不算。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5490,
+          "following_count": 4551,
+          "like_count": 33341,
+          "listed_count": 11,
+          "media_count": 2369,
+          "tweet_count": 32744
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-06T08:42:52.000Z",
+        "description": "",
+        "id": "2375047140",
+        "name": "Abby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912040439714050048/-bPnp0Q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 156,
+          "like_count": 6975,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 4297
+        },
+        "username": "leeloocat666",
+        "verified": false
+      }
+    ]
+  }
+}

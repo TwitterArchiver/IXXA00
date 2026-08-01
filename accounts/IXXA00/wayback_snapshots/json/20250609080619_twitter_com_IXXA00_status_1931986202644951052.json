@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1931658245355213301",
+    "created_at": "2025-06-09T08:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T09:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931986202644951052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "981495576410800129",
+          "start": 0,
+          "username": "311EvanX_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931986202644951052",
+    "in_reply_to_user_id": "981495576410800129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931984397504258488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@311EvanX_X 谢谢我不抽烟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1931658245355213301",
+        "created_at": "2025-06-09T08:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T09:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931986202644951052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "981495576410800129",
+              "start": 0,
+              "username": "311EvanX_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931986202644951052",
+        "in_reply_to_user_id": "981495576410800129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931984397504258488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@311EvanX_X 谢谢我不抽烟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "981495576410800129",
+        "conversation_id": "1931658245355213301",
+        "created_at": "2025-06-09T07:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T08:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931984397504258488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931984397504258488",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931658245355213301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不摸怎么知道要不要聊下去，否则费劲心思获得二两雨润小香肠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢吃别人对我无法自拔的爱欲。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "卖货小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 3076,
+          "like_count": 23195,
+          "listed_count": 7,
+          "media_count": 1697,
+          "tweet_count": 22704
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T11:35:55.000Z",
+        "description": "",
+        "id": "981495576410800129",
+        "name": "Evan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549020733267144704/xcz3x4Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 22,
+          "like_count": 3511,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 152
+        },
+        "username": "311EvanX_X",
+        "verified": false
+      }
+    ]
+  }
+}

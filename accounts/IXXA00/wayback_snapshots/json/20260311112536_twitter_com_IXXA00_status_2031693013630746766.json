@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2031530122864636192",
+    "created_at": "2026-03-11T11:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T12:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031693013630746766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2029221533273509889",
+          "start": 0,
+          "username": "Jomkiky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031693013630746766",
+    "in_reply_to_user_id": "2029221533273509889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031692077529006155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jomkiky 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2031530122864636192",
+        "created_at": "2026-03-11T11:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031693013630746766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2029221533273509889",
+              "start": 0,
+              "username": "Jomkiky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031693013630746766",
+        "in_reply_to_user_id": "2029221533273509889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031692077529006155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jomkiky 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029221533273509889",
+        "conversation_id": "2031530122864636192",
+        "created_at": "2026-03-11T11:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031692077529006155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031692077529006155",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031690185428418957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 点了，很反感用刻板印象和标签攻击别人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "主包很可爱。/gender irrelevant/non-binary-ish/post-label",
+        "id": "1739391734491086848",
+        "location": "isla滞销，帮帮我们😭",
+        "name": "客服小i",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027493703355666436/vIFrlKZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 4470,
+          "like_count": 36081,
+          "listed_count": 13,
+          "media_count": 2640,
+          "tweet_count": 36446
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T15:47:32.000Z",
+        "description": "",
+        "id": "2029221533273509889",
+        "name": "不予春怨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029222702058266624/kJ5j88dR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 267
+        },
+        "username": "Jomkiky",
+        "verified": false
+      }
+    ]
+  }
+}

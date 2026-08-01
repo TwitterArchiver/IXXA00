@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1967041526544167168",
+    "created_at": "2025-09-14T04:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967078443713261853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1854099041396899840",
+          "start": 0,
+          "username": "4698pjxbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967078443713261853",
+    "in_reply_to_user_id": "1854099041396899840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967061149326938359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4698pjxbs 耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1967041526544167168",
+        "created_at": "2025-09-14T04:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967078443713261853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1854099041396899840",
+              "start": 0,
+              "username": "4698pjxbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967078443713261853",
+        "in_reply_to_user_id": "1854099041396899840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967061149326938359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4698pjxbs 耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854099041396899840",
+        "conversation_id": "1967041526544167168",
+        "created_at": "2025-09-14T03:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967061149326938359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967061149326938359",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967041526544167168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 3484,
+          "like_count": 28660,
+          "listed_count": 8,
+          "media_count": 2140,
+          "tweet_count": 28793
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "🚪114514",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇺🇦",
+        "pinned_tweet_id": "1907479132423757864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959394993245933568/NbWhUF2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 728,
+          "like_count": 9573,
+          "listed_count": 9,
+          "media_count": 155,
+          "tweet_count": 5121
+        },
+        "username": "4698pjxbs",
+        "verified": false
+      }
+    ]
+  }
+}

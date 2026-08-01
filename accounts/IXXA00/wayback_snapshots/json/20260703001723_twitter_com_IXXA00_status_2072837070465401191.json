@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2072224968159772877",
+    "created_at": "2026-07-03T00:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072837070465401191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1612770292572749824",
+          "start": 0,
+          "username": "zeusemeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072837070465401191",
+    "in_reply_to_user_id": "1612770292572749824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072830921859006553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeusemeo 你盗不到我身上，因为我这张图也是盗的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2072224968159772877",
+        "created_at": "2026-07-03T00:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072837070465401191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1612770292572749824",
+              "start": 0,
+              "username": "zeusemeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072837070465401191",
+        "in_reply_to_user_id": "1612770292572749824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072830921859006553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeusemeo 你盗不到我身上，因为我这张图也是盗的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612770292572749824",
+        "conversation_id": "2072224968159772877",
+        "created_at": "2026-07-02T23:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072830921859006553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072830921859006553",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072224968159772877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 已盗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072661392608632832/wRz_f6jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7393,
+          "following_count": 4521,
+          "like_count": 42587,
+          "listed_count": 18,
+          "media_count": 3102,
+          "tweet_count": 42069
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-10T11:16:39.000Z",
+        "description": "",
+        "id": "1612770292572749824",
+        "name": "妖怪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612770390920814592/BOgXx9CP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 448,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 751
+        },
+        "url": "",
+        "username": "zeusemeo",
+        "verified": false
+      }
+    ]
+  }
+}

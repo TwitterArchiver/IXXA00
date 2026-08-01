@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1956019297794580483"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1956019334838673655",
+    "created_at": "2025-08-14T15:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956019334838673655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rkk16fzDcI",
+          "end": 44,
+          "expanded_url": "https://x.com/IXXA00/status/1956019334838673655/video/1",
+          "media_key": "7_1956019297794580483",
+          "start": 21,
+          "url": "https://t.co/rkk16fzDcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956019334838673655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "数值怪动两下感觉自己老有操作了。(不是) https://t.co/rkk16fzDcI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17100,
+        "height": 1280,
+        "media_key": "7_1956019297794580483",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1956019297794580483/pu/img/omb6N2eWsPaSjzy2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956019297794580483/pu/vid/avc1/320x568/VqEzm-VB2Aj83ipm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956019297794580483/pu/vid/avc1/480x852/lzC21QqzypjpoJKv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956019297794580483/pu/vid/avc1/720x1280/RZ0DaKphPwE-OfKw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1956019297794580483/pu/pl/v8_t2PQlnupxglfF.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1956019297794580483"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1956019334838673655",
+        "created_at": "2025-08-14T15:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956019334838673655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkk16fzDcI",
+              "end": 44,
+              "expanded_url": "https://x.com/IXXA00/status/1956019334838673655/video/1",
+              "media_key": "7_1956019297794580483",
+              "start": 21,
+              "url": "https://t.co/rkk16fzDcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956019334838673655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "数值怪动两下感觉自己老有操作了。(不是) https://t.co/rkk16fzDcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1955832918028509253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3842,
+          "following_count": 3263,
+          "like_count": 27215,
+          "listed_count": 5,
+          "media_count": 2025,
+          "tweet_count": 26905
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

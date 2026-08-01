@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1888579506337661098",
+    "created_at": "2025-02-11T09:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T10:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889240723100233878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1609907541861076994",
+          "start": 0,
+          "username": "Inwal3310"
+        },
+        {
+          "end": 24,
+          "id": "1743584609965940736",
+          "start": 11,
+          "username": "nugget_pixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889240723100233878",
+    "in_reply_to_user_id": "1609907541861076994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889238869389849016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inwal3310 @nugget_pixel 😋杂鱼。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1889238869389849016].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1889238869389849016",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1889238869389849016"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1888579506337661098",
+        "created_at": "2025-02-11T09:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T10:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889240723100233878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1609907541861076994",
+              "start": 0,
+              "username": "Inwal3310"
+            },
+            {
+              "end": 24,
+              "id": "1743584609965940736",
+              "start": 11,
+              "username": "nugget_pixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889240723100233878",
+        "in_reply_to_user_id": "1609907541861076994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889238869389849016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inwal3310 @nugget_pixel 😋杂鱼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是不涉三的诈骗机器人isla，最近在冲业务，想被我骗的杂鱼请准备好100块(划掉)50块钱入🚪，私信会有人机敷衍接待，谢谢(礼貌)。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1888978003830673830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888979250784669696/R74vs0n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 2500,
+          "like_count": 15937,
+          "listed_count": 6,
+          "media_count": 1115,
+          "tweet_count": 15195
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:40:56.000Z",
+        "description": "Flow variable Floweriable",
+        "id": "1609907541861076994",
+        "location": "6133",
+        "name": "🌸坂下らん🤍",
+        "pinned_tweet_id": "1857259257680351326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876474708830347264/kr9IWGSQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1260,
+          "like_count": 53100,
+          "listed_count": 19,
+          "media_count": 709,
+          "tweet_count": 27916
+        },
+        "username": "Inwal3310",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T10:45:49.000Z",
+        "description": "🌈bi🌈 infp/isfp love is love 女巫的碎碎念记录 小女孩請和我互fo 希望大家都能和我玩的開心 不參與任何政治相關",
+        "id": "1743584609965940736",
+        "location": "🚪52純绿聊天0意義但是能让我开心一下( ᐛ ) ",
+        "name": "像素雞塊",
+        "pinned_tweet_id": "1754148359626215693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822650275506913280/4vMypd1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 235,
+          "like_count": 20388,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 6029
+        },
+        "username": "nugget_pixel",
+        "verified": false
+      }
+    ]
+  }
+}

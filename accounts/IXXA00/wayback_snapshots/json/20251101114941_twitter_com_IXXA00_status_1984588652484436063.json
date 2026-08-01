@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1981328318218801404",
+    "created_at": "2025-11-01T11:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984588652484436063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        },
+        {
+          "end": 23,
+          "id": "1707057523348406272",
+          "start": 7,
+          "username": "luckmonster2182"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984588652484436063",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981328318218801404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 @luckmonster2182 你怎么这样啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_1981328292574638081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38XlaZXsAE3c68.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1981328318218801404",
+        "created_at": "2025-11-01T11:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984588652484436063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            },
+            {
+              "end": 23,
+              "id": "1707057523348406272",
+              "start": 7,
+              "username": "luckmonster2182"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984588652484436063",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981328318218801404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 @luckmonster2182 你怎么这样啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981328292574638081"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1981328318218801404",
+        "created_at": "2025-10-23T11:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981328318218801404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVfFOXyX9u",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds0/status/1981328318218801404/photo/1",
+              "media_key": "3_1981328292574638081",
+              "start": 12,
+              "url": "https://t.co/OVfFOXyX9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981328318218801404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 346247,
+          "like_count": 2209,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "我对别人好就是这个下场 https://t.co/OVfFOXyX9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5268,
+          "following_count": 4687,
+          "like_count": 32155,
+          "listed_count": 11,
+          "media_count": 2301,
+          "tweet_count": 31647
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1984176913771061659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93163,
+          "following_count": 2759,
+          "like_count": 43155,
+          "listed_count": 126,
+          "media_count": 2945,
+          "tweet_count": 7256
+        },
+        "username": "hgds0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-27T15:40:16.000Z",
+        "description": "烂泥一滩\n爱看福瑞\n喜欢画点垃圾儿童画\nut粉",
+        "id": "1707057523348406272",
+        "location": "反正就是，呃，很远",
+        "name": "luck怪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977046197149061120/3uX3NeEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 1326,
+          "like_count": 9786,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 646
+        },
+        "username": "luckmonster2182",
+        "verified": false
+      }
+    ]
+  }
+}

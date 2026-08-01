@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1982293281129308412",
+    "created_at": "2025-10-27T03:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982651923254870178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "269116603",
+          "start": 0,
+          "username": "china_shw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982651923254870178",
+    "in_reply_to_user_id": "269116603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982651871354671236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@china_shw 我只是想做自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-27T03:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982651923254870178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "269116603",
+              "start": 0,
+              "username": "china_shw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982651923254870178",
+        "in_reply_to_user_id": "269116603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982651871354671236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china_shw 我只是想做自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "269116603",
+        "conversation_id": "1982293281129308412",
+        "created_at": "2025-10-27T03:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982651871354671236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982651871354671236",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982293281129308412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是不是可以理解你想被肛？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4741,
+          "following_count": 4202,
+          "like_count": 30761,
+          "listed_count": 10,
+          "media_count": 2268,
+          "tweet_count": 30789
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-20T03:57:10.000Z",
+        "description": "一个互联网民工。干点民工的活。挣点民工的钱。悲催的游走在冲塔的边缘。",
+        "id": "269116603",
+        "name": "避免麻烦换个名字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/688063349884452864/XG2rgRvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 224,
+          "like_count": 127,
+          "listed_count": 14,
+          "media_count": 336,
+          "tweet_count": 14903
+        },
+        "username": "china_shw",
+        "verified": false
+      }
+    ]
+  }
+}

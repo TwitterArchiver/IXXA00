@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051108823675580416"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2051108843565006887",
+    "created_at": "2026-05-04T01:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051108843565006887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ImZhYiicdi",
+          "end": 45,
+          "expanded_url": "https://x.com/IXXA00/status/2051108843565006887/video/1",
+          "media_key": "7_2051108823675580416",
+          "start": 22,
+          "url": "https://t.co/ImZhYiicdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051108843565006887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了我还要再发一遍这个人到底tm在干嘛 https://t.co/ImZhYiicdi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20201,
+        "height": 1280,
+        "media_key": "7_2051108823675580416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051108823675580416/pu/img/9ovpfKvGISeSbVuu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051108823675580416/pu/vid/avc1/320x568/JASGWtXT0GsUzKCR.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051108823675580416/pu/vid/avc1/480x852/jVhXhIXL0XzRQV2C.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051108823675580416/pu/vid/avc1/720x1280/3402J8eceURuULnC.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051108823675580416/pu/pl/OtN3DjtWa1deBdNj.m3u8?tag=25"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051108823675580416"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2051108843565006887",
+        "created_at": "2026-05-04T01:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051108843565006887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ImZhYiicdi",
+              "end": 45,
+              "expanded_url": "https://x.com/IXXA00/status/2051108843565006887/video/1",
+              "media_key": "7_2051108823675580416",
+              "start": 22,
+              "url": "https://t.co/ImZhYiicdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051108843565006887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了我还要再发一遍这个人到底tm在干嘛 https://t.co/ImZhYiicdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6999,
+          "following_count": 4494,
+          "like_count": 39275,
+          "listed_count": 19,
+          "media_count": 2832,
+          "tweet_count": 39271
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

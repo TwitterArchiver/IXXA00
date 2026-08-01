@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987113898932363755",
+    "created_at": "2025-11-08T11:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T12:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987118196638556360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2565032286",
+          "start": 0,
+          "username": "jackzhulinjie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987118196638556360",
+    "in_reply_to_user_id": "2565032286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987114407491739797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackzhulinjie 有的，但是很多人没天时地利。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987113898932363755",
+        "created_at": "2025-11-08T11:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987118196638556360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2565032286",
+              "start": 0,
+              "username": "jackzhulinjie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987118196638556360",
+        "in_reply_to_user_id": "2565032286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987114407491739797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackzhulinjie 有的，但是很多人没天时地利。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2565032286",
+        "conversation_id": "1987113898932363755",
+        "created_at": "2025-11-08T11:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987114407491739797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987114407491739797",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987113898932363755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 有人要和主包约会吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla(猫菇)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986977084263354368/3gtkdMmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 4549,
+          "like_count": 32690,
+          "listed_count": 11,
+          "media_count": 2325,
+          "tweet_count": 32139
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-13T10:17:46.000Z",
+        "description": "",
+        "id": "2565032286",
+        "location": "People's Republic of China",
+        "name": "Z-青袖辞久",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/930633921049518081/jAiHmPCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1291,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "jackzhulinjie",
+        "verified": false
+      }
+    ]
+  }
+}

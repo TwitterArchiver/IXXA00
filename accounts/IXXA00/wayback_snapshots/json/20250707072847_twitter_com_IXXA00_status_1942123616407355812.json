@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1941809832262340904",
+    "created_at": "2025-07-07T07:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T08:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942123616407355812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1083783594231848960",
+          "start": 0,
+          "username": "LordIrons"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942123616407355812",
+    "in_reply_to_user_id": "1083783594231848960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942089979217535478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LordIrons 那怎么办呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-07-07T07:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T08:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942123616407355812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1083783594231848960",
+              "start": 0,
+              "username": "LordIrons"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942123616407355812",
+        "in_reply_to_user_id": "1083783594231848960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942089979217535478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LordIrons 那怎么办呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1083783594231848960",
+        "conversation_id": "1941809832262340904",
+        "created_at": "2025-07-07T05:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942089979217535478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942089979217535478",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941809832262340904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 麦晓雯这个设定给了多少男娘发挥的空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "name": "麦小蛋isla🥚",
+        "pinned_tweet_id": "1940417596748410985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 3140,
+          "like_count": 25333,
+          "listed_count": 7,
+          "media_count": 1855,
+          "tweet_count": 24843
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T17:51:59.000Z",
+        "description": "坐标北京，十年经验，长期收奴，男/跨勿扰",
+        "id": "1083783594231848960",
+        "name": "京教办主任",
+        "pinned_tweet_id": "1934116774360092909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909985843777019904/WFeEfHLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14868,
+          "following_count": 1422,
+          "like_count": 23120,
+          "listed_count": 72,
+          "media_count": 4445,
+          "tweet_count": 35785
+        },
+        "username": "LordIrons",
+        "verified": false
+      }
+    ]
+  }
+}

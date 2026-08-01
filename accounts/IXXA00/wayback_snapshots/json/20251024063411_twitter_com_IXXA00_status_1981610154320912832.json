@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1981562264848412728",
+    "created_at": "2025-10-24T06:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981610154320912832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892152061653028866",
+          "start": 0,
+          "username": "SuperShrimp9000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981610154320912832",
+    "in_reply_to_user_id": "1892152061653028866",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981598502909333929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuperShrimp9000 hala"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_1981598496026234880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ANVUsXkAAYW0E.jpg",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1981562264848412728",
+        "created_at": "2025-10-24T06:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981610154320912832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892152061653028866",
+              "start": 0,
+              "username": "SuperShrimp9000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981610154320912832",
+        "in_reply_to_user_id": "1892152061653028866",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981598502909333929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuperShrimp9000 hala"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981598496026234880"
+          ]
+        },
+        "author_id": "1892152061653028866",
+        "conversation_id": "1981562264848412728",
+        "created_at": "2025-10-24T05:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981598502909333929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPnUGkyJoT",
+              "end": 31,
+              "expanded_url": "https://x.com/SuperShrimp9000/status/1981598502909333929/photo/1",
+              "media_key": "3_1981598496026234880",
+              "start": 8,
+              "url": "https://t.co/jPnUGkyJoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981598502909333929",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981587384023359994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 https://t.co/jPnUGkyJoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 4088,
+          "like_count": 30495,
+          "listed_count": 10,
+          "media_count": 2258,
+          "tweet_count": 30564
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T10:00:03.000Z",
+        "description": "進化した最強エビ、君の老北京美食、グラ姫のお菓子\nMega Ebi bigger then big, Your traditional Yuyan meal, Gura's snack\n前菜/Appetiser: @BigFreshShrimp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "BigFreshShrimp"
+              }
+            ]
+          }
+        },
+        "id": "1892152061653028866",
+        "name": "SuperShrimp9000+",
+        "pinned_tweet_id": "1892161554013093935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912398191841988608/UcPyhO0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 719,
+          "like_count": 57283,
+          "listed_count": 3,
+          "media_count": 3260,
+          "tweet_count": 9199
+        },
+        "username": "SuperShrimp9000",
+        "verified": false
+      }
+    ]
+  }
+}

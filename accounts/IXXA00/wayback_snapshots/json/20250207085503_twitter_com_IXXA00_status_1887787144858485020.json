@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1887786544758415790",
+    "created_at": "2025-02-07T08:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T09:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887787144858485020"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887787144858485020",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887786544758415790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幻肢疼了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1887786544758415790",
+        "created_at": "2025-02-07T08:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T09:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887787144858485020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887787144858485020",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887786544758415790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幻肢疼了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887786484691771392",
+            "3_1887786497643847680"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887786544758415790",
+        "created_at": "2025-02-07T08:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T09:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887786544758415790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irFoKuHjKs",
+              "end": 27,
+              "expanded_url": "https://x.com/IXXA00/status/1887786544758415790/photo/1",
+              "media_key": "3_1887786484691771392",
+              "start": 4,
+              "url": "https://t.co/irFoKuHjKs"
+            },
+            {
+              "display_url": "pic.x.com/irFoKuHjKs",
+              "end": 27,
+              "expanded_url": "https://x.com/IXXA00/status/1887786544758415790/photo/1",
+              "media_key": "3_1887786497643847680",
+              "start": 4,
+              "url": "https://t.co/irFoKuHjKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887786544758415790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "切了。 https://t.co/irFoKuHjKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885950217218146304/RuXjecKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3288,
+          "following_count": 2485,
+          "like_count": 15767,
+          "listed_count": 6,
+          "media_count": 1098,
+          "tweet_count": 15032
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

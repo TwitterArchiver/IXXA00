@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1919579148730994688"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1919579160705470480",
+    "created_at": "2025-05-06T02:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T03:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919579160705470480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9FTrA3JdBb",
+          "end": 42,
+          "expanded_url": "https://x.com/IXXA00/status/1919579160705470480/video/1",
+          "media_key": "7_1919579148730994688",
+          "start": 19,
+          "url": "https://t.co/9FTrA3JdBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919579160705470480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每天做的事情：\n把自己变成弹力小猫 https://t.co/9FTrA3JdBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3773,
+        "height": 1280,
+        "media_key": "7_1919579148730994688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919579148730994688/pu/img/hx14ePGuS1j_jSAd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919579148730994688/pu/vid/avc1/320x710/m5GEwttJh9bf2SZN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919579148730994688/pu/vid/avc1/480x1066/7anF3sLkmrqtzEy1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919579148730994688/pu/vid/avc1/576x1280/s3paUnOmEMDlK5hB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919579148730994688/pu/pl/n-tu1f28U6seuBCF.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919579148730994688"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1919579160705470480",
+        "created_at": "2025-05-06T02:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T03:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919579160705470480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FTrA3JdBb",
+              "end": 42,
+              "expanded_url": "https://x.com/IXXA00/status/1919579160705470480/video/1",
+              "media_key": "7_1919579148730994688",
+              "start": 19,
+              "url": "https://t.co/9FTrA3JdBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919579160705470480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天做的事情：\n把自己变成弹力小猫 https://t.co/9FTrA3JdBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1918675574668869802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 2959,
+          "like_count": 21209,
+          "listed_count": 7,
+          "media_count": 1505,
+          "tweet_count": 20523
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

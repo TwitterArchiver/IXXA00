@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1930133802350936482",
+    "created_at": "2025-06-04T07:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T08:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930164558972498192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777247271689838592",
+          "start": 0,
+          "username": "Catniptac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930164558972498192",
+    "in_reply_to_user_id": "1777247271689838592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930161777179808250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Catniptac 耶，我很可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1930133802350936482",
+        "created_at": "2025-06-04T07:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T08:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930164558972498192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777247271689838592",
+              "start": 0,
+              "username": "Catniptac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930164558972498192",
+        "in_reply_to_user_id": "1777247271689838592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930161777179808250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Catniptac 耶，我很可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777247271689838592",
+        "conversation_id": "1930133802350936482",
+        "created_at": "2025-06-04T07:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T08:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930161777179808250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930161777179808250",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930133802350936482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我喜欢你，你很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 3047,
+          "like_count": 22771,
+          "listed_count": 7,
+          "media_count": 1645,
+          "tweet_count": 22259
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T08:09:28.000Z",
+        "description": "是猫草，会照顾好自己，请勿对猫过量使用以免耐受度上升。点赞bot。",
+        "id": "1777247271689838592",
+        "location": "在你旁边",
+        "name": "Catnip🌱猫草草草",
+        "pinned_tweet_id": "1904801030946381983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777256073906548736/sGIWi4LL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 89,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 457
+        },
+        "username": "Catniptac",
+        "verified": false
+      }
+    ]
+  }
+}

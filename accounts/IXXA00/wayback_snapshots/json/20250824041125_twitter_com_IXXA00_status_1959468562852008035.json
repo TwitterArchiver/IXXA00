@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1959468562852008035",
+    "created_at": "2025-08-24T04:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T05:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959468562852008035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/how_o_o/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/how_o_o/status/1959461681119035779",
+          "start": 3,
+          "url": "https://t.co/fbElRIeQD2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959468562852008035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959461681119035779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真理 https://t.co/fbElRIeQD2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1959468562852008035",
+        "created_at": "2025-08-24T04:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T05:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959468562852008035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/how_o_o/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/how_o_o/status/1959461681119035779",
+              "start": 3,
+              "url": "https://t.co/fbElRIeQD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959468562852008035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959461681119035779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真理 https://t.co/fbElRIeQD2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163256272390709248",
+        "conversation_id": "1959456162178552144",
+        "created_at": "2025-08-24T03:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959461681119035779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959461681119035779",
+        "in_reply_to_user_id": "1163256272390709248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959456162178552144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后再警告一次，擅自影响别人的生活轨迹是极大的错误行为。来一巴掌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不可爱，很坏/团子外卖/🚪：随便。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3907,
+          "following_count": 3339,
+          "like_count": 27648,
+          "listed_count": 7,
+          "media_count": 2068,
+          "tweet_count": 27491
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T01:08:12.000Z",
+        "description": "一只狗",
+        "id": "1163256272390709248",
+        "location": "Montréal, Québec",
+        "name": "AAH",
+        "pinned_tweet_id": "1959461681119035779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950035126223511553/xmC5V849_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 126,
+          "like_count": 11509,
+          "listed_count": 1,
+          "media_count": 671,
+          "tweet_count": 9322
+        },
+        "username": "how_o_o",
+        "verified": false
+      }
+    ]
+  }
+}

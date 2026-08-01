@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896464653212913664"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896464666592968904",
+    "created_at": "2025-03-03T07:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T08:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896464666592968904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/voddJcykaO",
+          "end": 31,
+          "expanded_url": "https://x.com/IXXA00/status/1896464666592968904/photo/1",
+          "media_key": "3_1896464653212913664",
+          "start": 8,
+          "url": "https://t.co/voddJcykaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896464666592968904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开始手搓火箭。 https://t.co/voddJcykaO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2127,
+        "media_key": "3_1896464653212913664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlGYjd_XEAAwv7W.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896464653212913664"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896464666592968904",
+        "created_at": "2025-03-03T07:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T08:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896464666592968904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/voddJcykaO",
+              "end": 31,
+              "expanded_url": "https://x.com/IXXA00/status/1896464666592968904/photo/1",
+              "media_key": "3_1896464653212913664",
+              "start": 8,
+              "url": "https://t.co/voddJcykaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896464666592968904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始手搓火箭。 https://t.co/voddJcykaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "这个人什么也不会，只会爱你。/主号@GNMB00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "GNMB00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "别看了我是男",
+        "name": "isla",
+        "pinned_tweet_id": "1895683343162958170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894112531394048000/SwC8VagU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 2593,
+          "like_count": 17124,
+          "listed_count": 6,
+          "media_count": 1203,
+          "tweet_count": 16369
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

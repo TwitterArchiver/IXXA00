@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2072853266300641574",
+    "created_at": "2026-07-03T16:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073082406232625431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1085493381478797312",
+          "start": 0,
+          "username": "Hello_Motorsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073082406232625431",
+    "in_reply_to_user_id": "1085493381478797312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073078511817118185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hello_Motorsss 我是真没招啦🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2072853266300641574",
+        "created_at": "2026-07-03T16:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073082406232625431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1085493381478797312",
+              "start": 0,
+              "username": "Hello_Motorsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073082406232625431",
+        "in_reply_to_user_id": "1085493381478797312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073078511817118185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hello_Motorsss 我是真没招啦🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085493381478797312",
+        "conversation_id": "2072853266300641574",
+        "created_at": "2026-07-03T16:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073078511817118185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073078511817118185",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072853266300641574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这风格怎么有点像ayano🧐，不管了，都是美女我舔了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072661392608632832/wRz_f6jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7444,
+          "following_count": 4532,
+          "like_count": 42647,
+          "listed_count": 18,
+          "media_count": 3104,
+          "tweet_count": 42118
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-16T11:06:04.000Z",
+        "description": "大龄擦边异装癖屌丝国男",
+        "id": "1085493381478797312",
+        "location": "Pluto",
+        "name": "ColaMoto",
+        "pinned_tweet_id": "2024865779594953103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068366418488569856/XjYWk6Nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6876,
+          "following_count": 836,
+          "like_count": 5458,
+          "listed_count": 23,
+          "media_count": 322,
+          "tweet_count": 2974
+        },
+        "url": "",
+        "username": "Hello_Motorsss",
+        "verified": false
+      }
+    ]
+  }
+}

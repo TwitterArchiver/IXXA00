@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2001144104256987205",
+    "created_at": "2025-12-17T06:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001184588732006903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1625012254977724416",
+          "start": 0,
+          "username": "LeviCra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001184588732006903",
+    "in_reply_to_user_id": "1625012254977724416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001173018400448614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeviCra 你是隔壁小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T06:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001184588732006903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1625012254977724416",
+              "start": 0,
+              "username": "LeviCra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001184588732006903",
+        "in_reply_to_user_id": "1625012254977724416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001173018400448614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeviCra 你是隔壁小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625012254977724416",
+        "conversation_id": "2001144104256987205",
+        "created_at": "2025-12-17T06:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001173018400448614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001173018400448614",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001144104256987205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 馋哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "是isla。有🚪",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2000410010237665413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5603,
+          "following_count": 4534,
+          "like_count": 34646,
+          "listed_count": 11,
+          "media_count": 2486,
+          "tweet_count": 34258
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T06:01:40.000Z",
+        "description": "",
+        "id": "1625012254977724416",
+        "location": "Wisconsin, USA",
+        "name": "Laspasaty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625154310962319366/CgDr4YHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 281,
+          "like_count": 4472,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 328
+        },
+        "username": "LeviCra",
+        "verified": false
+      }
+    ]
+  }
+}

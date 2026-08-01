@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1990253555916415138",
+    "created_at": "2025-11-18T04:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T05:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990643953721627048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "18932560",
+          "start": 0,
+          "username": "paulism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990643953721627048",
+    "in_reply_to_user_id": "18932560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990640662627418315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paulism 厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-18T04:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990643953721627048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "18932560",
+              "start": 0,
+              "username": "paulism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990643953721627048",
+        "in_reply_to_user_id": "18932560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990640662627418315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paulism 厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18932560",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-18T04:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990640662627418315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990640662627418315",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990253555916415138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我会弹吉他+钢琴，都是大学毕业后学的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5490,
+          "following_count": 4553,
+          "like_count": 33288,
+          "listed_count": 11,
+          "media_count": 2369,
+          "tweet_count": 32738
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-13T07:55:23.000Z",
+        "description": "",
+        "id": "18932560",
+        "location": "Chengdu, China",
+        "name": "保罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557164202724192258/lhZKvFdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 199,
+          "like_count": 2998,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2835
+        },
+        "username": "paulism",
+        "verified": true
+      }
+    ]
+  }
+}

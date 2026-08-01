@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1901466477347127569",
+    "created_at": "2025-03-17T03:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T04:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901476691400139184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697787133527048192",
+          "start": 0,
+          "username": "lizimu11189564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901476691400139184",
+    "in_reply_to_user_id": "1697787133527048192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901476477151170633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizimu11189564 睡觉大王老师总是能想到最抽象的办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1901466477347127569",
+        "created_at": "2025-03-17T03:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T04:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901476691400139184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697787133527048192",
+              "start": 0,
+              "username": "lizimu11189564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901476691400139184",
+        "in_reply_to_user_id": "1697787133527048192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901476477151170633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizimu11189564 睡觉大王老师总是能想到最抽象的办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697787133527048192",
+        "conversation_id": "1901466477347127569",
+        "created_at": "2025-03-17T03:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T04:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901476477151170633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901476477151170633",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901466477347127569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 感觉可以开发一款卫生纸外形的杯子😎☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "The ISLA is made up of volcanic ash.",
+        "id": "1739391734491086848",
+        "location": "有q和v",
+        "name": "火山积灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901429421829173248/2hNrFo2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 2658,
+          "like_count": 18243,
+          "listed_count": 6,
+          "media_count": 1243,
+          "tweet_count": 17271
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T01:42:59.000Z",
+        "description": "我将盛开",
+        "id": "1697787133527048192",
+        "location": "被子里",
+        "name": "睡觉大王",
+        "pinned_tweet_id": "1898924282358763618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898520950280536065/qapZgNiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 1748,
+          "like_count": 10206,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1758
+        },
+        "username": "lizimu11189564",
+        "verified": false
+      }
+    ]
+  }
+}

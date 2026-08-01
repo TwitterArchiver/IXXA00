@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1974745193028214805",
+    "created_at": "2025-10-06T00:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T01:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974988350160576896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883228966112391168",
+          "start": 0,
+          "username": "KaoruAsakusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974988350160576896",
+    "in_reply_to_user_id": "1883228966112391168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974912918899847377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaoruAsakusa 也要分人，这个事情的问题是他的行为，而并非他是什么人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1974745193028214805",
+        "created_at": "2025-10-06T00:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T01:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974988350160576896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883228966112391168",
+              "start": 0,
+              "username": "KaoruAsakusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974988350160576896",
+        "in_reply_to_user_id": "1883228966112391168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974912918899847377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaoruAsakusa 也要分人，这个事情的问题是他的行为，而并非他是什么人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883228966112391168",
+        "conversation_id": "1974745193028214805",
+        "created_at": "2025-10-05T19:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974912918899847377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974912918899847377",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974745193028214805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 人妖欠杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "暴躁mode，无差别aoe所有人。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 3712,
+          "like_count": 29554,
+          "listed_count": 8,
+          "media_count": 2210,
+          "tweet_count": 29744
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T19:03:02.000Z",
+        "description": "直至永远。",
+        "id": "1883228966112391168",
+        "name": "あさくさかおる",
+        "pinned_tweet_id": "1974291245532164289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943694577636098048/jHFEWO7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 78,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 319
+        },
+        "username": "KaoruAsakusa",
+        "verified": false
+      }
+    ]
+  }
+}

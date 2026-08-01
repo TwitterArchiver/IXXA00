@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1955914139370709288",
+    "created_at": "2025-08-14T09:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T10:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955922626926567591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741878236139909120",
+          "start": 0,
+          "username": "MuzA23400157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955922626926567591",
+    "in_reply_to_user_id": "1741878236139909120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955915058044920169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuzA23400157 给你吃个脆骨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1955914139370709288",
+        "created_at": "2025-08-14T09:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955922626926567591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741878236139909120",
+              "start": 0,
+              "username": "MuzA23400157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955922626926567591",
+        "in_reply_to_user_id": "1741878236139909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955915058044920169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuzA23400157 给你吃个脆骨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741878236139909120",
+        "conversation_id": "1955914139370709288",
+        "created_at": "2025-08-14T08:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955915058044920169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955915058044920169",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955914139370709288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好想吃，好想吃😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "团子外卖，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "pinned_tweet_id": "1955832918028509253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839,
+          "following_count": 3263,
+          "like_count": 27181,
+          "listed_count": 5,
+          "media_count": 2024,
+          "tweet_count": 26870
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:45:17.000Z",
+        "description": "最爱@HeronMocki了，愿望是和爱的人温和地从容地生活。观测者花组。🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "HeronMocki"
+              }
+            ]
+          }
+        },
+        "id": "1741878236139909120",
+        "name": "可兮去学数理统计了|x-x'|≤ξ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933336147926949888/p7bsP0-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 441,
+          "like_count": 5818,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 7125
+        },
+        "username": "MuzA23400157",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1892469086010970357",
+    "created_at": "2025-02-20T07:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T08:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892479183030272161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1070574153026007041",
+          "start": 0,
+          "username": "tongzizipper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892479183030272161",
+    "in_reply_to_user_id": "1070574153026007041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892476322825273676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongzizipper 坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1892469086010970357",
+        "created_at": "2025-02-20T07:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T08:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892479183030272161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1070574153026007041",
+              "start": 0,
+              "username": "tongzizipper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892479183030272161",
+        "in_reply_to_user_id": "1070574153026007041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892476322825273676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongzizipper 坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070574153026007041",
+        "conversation_id": "1892469086010970357",
+        "created_at": "2025-02-20T07:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T08:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892476322825273676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892476322825273676",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892469086010970357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 太坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/欢迎私信",
+        "id": "1739391734491086848",
+        "location": "有🚪",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1805101994471829835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891814168983986176/LYb5LBRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 2520,
+          "like_count": 16575,
+          "listed_count": 6,
+          "media_count": 1161,
+          "tweet_count": 15801
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-06T07:02:23.000Z",
+        "description": "寒风终刺骨",
+        "id": "1070574153026007041",
+        "location": "Santa Clara, CA",
+        "name": "Cyuang",
+        "pinned_tweet_id": "1892239828709703849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890176132395540480/sdtBv5F0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 397,
+          "like_count": 14974,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 7101
+        },
+        "username": "tongzizipper",
+        "verified": false
+      }
+    ]
+  }
+}

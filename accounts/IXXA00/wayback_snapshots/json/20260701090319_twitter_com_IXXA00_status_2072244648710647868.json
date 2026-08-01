@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2072224968159772877",
+    "created_at": "2026-07-01T09:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072244648710647868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356145157226196999",
+          "start": 0,
+          "username": "mary_sauce_22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072244648710647868",
+    "in_reply_to_user_id": "1356145157226196999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072243951583543507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mary_sauce_22 我以为你们都能看出来呢，结果一个人都没认出来（宕机）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2072224968159772877",
+        "created_at": "2026-07-01T09:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072244648710647868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356145157226196999",
+              "start": 0,
+              "username": "mary_sauce_22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072244648710647868",
+        "in_reply_to_user_id": "1356145157226196999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072243951583543507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mary_sauce_22 我以为你们都能看出来呢，结果一个人都没认出来（宕机）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356145157226196999",
+        "conversation_id": "2072224968159772877",
+        "created_at": "2026-07-01T09:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072243951583543507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072243951583543507",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072241614337319129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 草（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫，映镜明本，坐悟洞心。/160原石抽的：@ayn_kitkia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "ayn_kitkia"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7373,
+          "following_count": 4516,
+          "like_count": 42506,
+          "listed_count": 18,
+          "media_count": 3099,
+          "tweet_count": 41988
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-01T07:39:43.000Z",
+        "description": "呼噜呼噜～睡大觉～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mary_sauce_22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mary_sauce_22",
+                "start": 0,
+                "url": "https://t.co/yLjevbj9Bm"
+              }
+            ]
+          }
+        },
+        "id": "1356145157226196999",
+        "location": "银河系～",
+        "name": "某只玛莉w",
+        "pinned_tweet_id": "2049977920651719133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070824015229284352/g-WQ5mVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7239,
+          "following_count": 6825,
+          "like_count": 109710,
+          "listed_count": 44,
+          "media_count": 179,
+          "tweet_count": 15355
+        },
+        "url": "https://t.co/yLjevbj9Bm",
+        "username": "mary_sauce_22",
+        "verified": true
+      }
+    ]
+  }
+}

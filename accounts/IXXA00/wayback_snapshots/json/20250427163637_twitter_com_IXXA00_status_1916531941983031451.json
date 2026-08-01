@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1916496794546233750",
+    "created_at": "2025-04-27T16:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T17:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916531941983031451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "725678091205378050",
+          "start": 0,
+          "username": "Darkness8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916531941983031451",
+    "in_reply_to_user_id": "725678091205378050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916526795479777642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Darkness8192 好的！我每天10点左右都会播。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1916496794546233750",
+        "created_at": "2025-04-27T16:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916531941983031451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "725678091205378050",
+              "start": 0,
+              "username": "Darkness8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916531941983031451",
+        "in_reply_to_user_id": "725678091205378050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916526795479777642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Darkness8192 好的！我每天10点左右都会播。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "725678091205378050",
+        "conversation_id": "1916496794546233750",
+        "created_at": "2025-04-27T16:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916526795479777642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916526795479777642",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916496794546233750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 睡觉了　楽しかった　ありがとう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "常温，加了糖，也下了毒。门槛188/520/1314过门问价可接线下",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla✟₊",
+        "pinned_tweet_id": "1915215627545162231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914587294960644096/GIbUxxih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 2950,
+          "like_count": 20631,
+          "listed_count": 7,
+          "media_count": 1466,
+          "tweet_count": 19970
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-28T13:28:34.000Z",
+        "description": "",
+        "id": "725678091205378050",
+        "name": "小黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874523766262517760/R_2FsMv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 86,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Darkness8192",
+        "verified": false
+      }
+    ]
+  }
+}

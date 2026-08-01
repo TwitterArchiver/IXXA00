@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049016064026271754",
+    "created_at": "2026-04-28T18:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049201696581329319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952888080131903488",
+          "start": 0,
+          "username": "linyanqiuttkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049201696581329319",
+    "in_reply_to_user_id": "1952888080131903488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049185817046990892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyanqiuttkx 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049016064026271754",
+        "created_at": "2026-04-28T18:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049201696581329319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952888080131903488",
+              "start": 0,
+              "username": "linyanqiuttkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049201696581329319",
+        "in_reply_to_user_id": "1952888080131903488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049185817046990892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyanqiuttkx 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952888080131903488",
+        "conversation_id": "2049016064026271754",
+        "created_at": "2026-04-28T17:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049185817046990892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049185817046990892",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049016064026271754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 那你可能需要找一个能够理解你的搭子或者是另一半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6997,
+          "following_count": 4484,
+          "like_count": 38883,
+          "listed_count": 19,
+          "media_count": 2796,
+          "tweet_count": 38915
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-06T00:23:28.000Z",
+        "description": "一位学者",
+        "id": "1952888080131903488",
+        "location": "蒙古肯特省温都尔汗",
+        "name": "沪上安宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038291855239172096/inqwft2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 101,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "linyanqiuttkx",
+        "verified": false
+      }
+    ]
+  }
+}

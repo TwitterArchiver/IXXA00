@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2064163943594197116",
+    "created_at": "2026-06-09T02:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064165783983530315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885927801435611136",
+          "start": 0,
+          "username": "qixiaogonyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064165783983530315",
+    "in_reply_to_user_id": "1885927801435611136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064164803363717209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qixiaogonyiyi 我好菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2064163943594197116",
+        "created_at": "2026-06-09T02:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064165783983530315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885927801435611136",
+              "start": 0,
+              "username": "qixiaogonyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064165783983530315",
+        "in_reply_to_user_id": "1885927801435611136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064164803363717209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qixiaogonyiyi 我好菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885927801435611136",
+        "conversation_id": "2064163943594197116",
+        "created_at": "2026-06-09T01:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064164803363717209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064164803363717209",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064163943594197116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我是坏孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/主播的麻袋里现在：1个人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7324,
+          "following_count": 4520,
+          "like_count": 41507,
+          "listed_count": 18,
+          "media_count": 3016,
+          "tweet_count": 41098
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T05:46:50.000Z",
+        "description": "这里乙刃绘，可以叫我乙乙，11。🏳️‍⚧️。原账号登不上了这个是新号。主要在推上分享自己喜欢的东西和碎碎念。",
+        "id": "1885927801435611136",
+        "location": "小酒馆",
+        "name": "乙乙小姐的复仇大计😈",
+        "pinned_tweet_id": "1945888889995968799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932763510796431360/8B7dfvLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 725,
+          "like_count": 51050,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 4273
+        },
+        "username": "qixiaogonyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

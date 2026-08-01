@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1918991881121489007",
+    "created_at": "2025-05-04T11:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T12:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918995906533241215"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1918995906533241215",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918991881121489007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我玩抽象呢现在已经在酒店洗澡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918991881121489007",
+        "created_at": "2025-05-04T11:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T12:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918995906533241215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918995906533241215",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918991881121489007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我玩抽象呢现在已经在酒店洗澡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1918991881121489007",
+        "created_at": "2025-05-04T11:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T12:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918991881121489007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ElkApolloon/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/ElkApolloon/status/1918880859635003669",
+              "start": 56,
+              "url": "https://t.co/pCXXTWEB8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918991881121489007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918880859635003669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天面基，坐了3个小时高铁到了火车站奔现，感觉金主看到我之后，也不管三七21接个闹钟就走了，晾我一个人在原地。 https://t.co/pCXXTWEB8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla",
+        "pinned_tweet_id": "1918675574668869802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 2960,
+          "like_count": 21139,
+          "listed_count": 7,
+          "media_count": 1499,
+          "tweet_count": 20459
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

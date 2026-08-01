@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1981723397294850049"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1981723440596799628",
+    "created_at": "2025-10-24T14:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T15:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981723440596799628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cVn6nFTHgP",
+          "end": 27,
+          "expanded_url": "https://x.com/IXXA00/status/1981723440596799628/video/1",
+          "media_key": "7_1981723397294850049",
+          "start": 4,
+          "url": "https://t.co/cVn6nFTHgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981723440596799628",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好猫？ https://t.co/cVn6nFTHgP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23239,
+        "height": 960,
+        "media_key": "7_1981723397294850049",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981723397294850049/pu/img/VLp_ku-yBjBHU55y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981723397294850049/pu/vid/avc1/320x568/ZERw85bqQDEAmsA5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981723397294850049/pu/vid/avc1/480x852/CoksPBNsaGpjAEEU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981723397294850049/pu/vid/avc1/540x960/diqZBgQ7PYcGI5FS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981723397294850049/pu/pl/uqGKO5D9MeQdbTuz.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981723397294850049"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1981723440596799628",
+        "created_at": "2025-10-24T14:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981723440596799628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVn6nFTHgP",
+              "end": 27,
+              "expanded_url": "https://x.com/IXXA00/status/1981723440596799628/video/1",
+              "media_key": "7_1981723397294850049",
+              "start": 4,
+              "url": "https://t.co/cVn6nFTHgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981723440596799628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好猫？ https://t.co/cVn6nFTHgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 4087,
+          "like_count": 30528,
+          "listed_count": 10,
+          "media_count": 2261,
+          "tweet_count": 30597
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

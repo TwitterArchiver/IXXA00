@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1983802419281571960",
+    "created_at": "2025-10-30T13:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983896642039509402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2150065381",
+          "start": 0,
+          "username": "amerigranite1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983896642039509402",
+    "in_reply_to_user_id": "2150065381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983894280600170673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amerigranite1 😰干嘛……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T13:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983896642039509402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2150065381",
+              "start": 0,
+              "username": "amerigranite1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983896642039509402",
+        "in_reply_to_user_id": "2150065381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983894280600170673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amerigranite1 😰干嘛……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2150065381",
+        "conversation_id": "1983802419281571960",
+        "created_at": "2025-10-30T13:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983894280600170673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983894280600170673",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983802419281571960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 照片也拍了。朋友圈也发了。走吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5114,
+          "following_count": 4545,
+          "like_count": 31714,
+          "listed_count": 11,
+          "media_count": 2290,
+          "tweet_count": 31426
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-23T02:09:00.000Z",
+        "description": "",
+        "id": "2150065381",
+        "name": "ameri granite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428043836442517504/JSBWsSPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 3682,
+          "like_count": 61432,
+          "listed_count": 6,
+          "media_count": 82,
+          "tweet_count": 26761
+        },
+        "username": "amerigranite1",
+        "verified": true
+      }
+    ]
+  }
+}

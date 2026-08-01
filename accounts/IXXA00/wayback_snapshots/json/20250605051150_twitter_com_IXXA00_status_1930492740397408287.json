@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1930477237767442536",
+    "created_at": "2025-06-05T05:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T06:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930492740397408287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1572438642471337984",
+          "start": 0,
+          "username": "cy72726040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930492740397408287",
+    "in_reply_to_user_id": "1572438642471337984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930487374112587811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cy72726040 在这下面喜欢那可就是真的喜欢了哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1930477237767442536",
+        "created_at": "2025-06-05T05:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T06:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930492740397408287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1572438642471337984",
+              "start": 0,
+              "username": "cy72726040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930492740397408287",
+        "in_reply_to_user_id": "1572438642471337984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930487374112587811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cy72726040 在这下面喜欢那可就是真的喜欢了哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572438642471337984",
+        "conversation_id": "1930477237767442536",
+        "created_at": "2025-06-05T04:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T05:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930487374112587811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930487374112587811",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930477237767442536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1930121860882280625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 3050,
+          "like_count": 22844,
+          "listed_count": 7,
+          "media_count": 1656,
+          "tweet_count": 22351
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T04:12:53.000Z",
+        "description": "二次元/会转很多素晴日和miku的内容",
+        "id": "1572438642471337984",
+        "location": "你心里",
+        "name": "Cocona",
+        "pinned_tweet_id": "1927692862839275895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917559204568784899/gDcvDvvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 321,
+          "like_count": 67934,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2552
+        },
+        "username": "cy72726040",
+        "verified": false
+      }
+    ]
+  }
+}

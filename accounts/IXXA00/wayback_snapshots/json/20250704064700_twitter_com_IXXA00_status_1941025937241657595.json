@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1940983498476867658",
+    "created_at": "2025-07-04T06:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T07:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941025937241657595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1328922423438303234",
+          "start": 0,
+          "username": "SeiunSky8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941025937241657595",
+    "in_reply_to_user_id": "1328922423438303234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941019239135301816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeiunSky8964 叫声妈妈听听"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1941019239135301816].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1941019239135301816",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1941019239135301816"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1940983498476867658",
+        "created_at": "2025-07-04T06:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T07:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941025937241657595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1328922423438303234",
+              "start": 0,
+              "username": "SeiunSky8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941025937241657595",
+        "in_reply_to_user_id": "1328922423438303234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941019239135301816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeiunSky8964 叫声妈妈听听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我准备好了你珍爱的一切，随你去挥霍。/我完全收不到🚪了。/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 29,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3746,
+          "following_count": 3139,
+          "like_count": 25108,
+          "listed_count": 7,
+          "media_count": 1847,
+          "tweet_count": 24661
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T04:46:19.000Z",
+        "description": "我是魔法少女Sweepy！/友跨🏳️‍⚧️/普瑞赛斯单推人/政委@ziyue8964/超可爱的笨蛋陌小语@charming_xiaoyu/牢猫大人@Paranoia23334/ 地址⬇️是兄弟就来砍我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "ziyue8964"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Paranoia23334"
+              }
+            ]
+          }
+        },
+        "id": "1328922423438303234",
+        "location": "北京市西城区西华门大街28号",
+        "name": "SeiunSky",
+        "pinned_tweet_id": "1786280436278435906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934253009837678592/L4ZLfFie_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 262,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2197
+        },
+        "username": "SeiunSky8964",
+        "verified": false
+      }
+    ]
+  }
+}

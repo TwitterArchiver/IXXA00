@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1993270933965201686",
+    "created_at": "2025-11-25T14:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993319457457147994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728047202315153408",
+          "start": 0,
+          "username": "Ayame01122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993319457457147994",
+    "in_reply_to_user_id": "1728047202315153408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993314592437813474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayame01122 大家不是都有电锯吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1993270933965201686",
+        "created_at": "2025-11-25T14:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993319457457147994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728047202315153408",
+              "start": 0,
+              "username": "Ayame01122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993319457457147994",
+        "in_reply_to_user_id": "1728047202315153408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993314592437813474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayame01122 大家不是都有电锯吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728047202315153408",
+        "conversation_id": "1993270933965201686",
+        "created_at": "2025-11-25T13:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993314592437813474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993314592437813474",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993270933965201686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 答应我你说你是电锯人而不是你要用电锯砍人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "很坏，有🚪(限时半绿聊天/纯绿线下)。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1991518685350203876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993039904717389824/opWmNY0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 4557,
+          "like_count": 33726,
+          "listed_count": 11,
+          "media_count": 2410,
+          "tweet_count": 33282
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T13:45:40.000Z",
+        "description": "",
+        "id": "1728047202315153408",
+        "name": "爱笑鬼神あやめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914346856827752448/XIQYa69i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 509,
+          "like_count": 48588,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 8531
+        },
+        "username": "Ayame01122",
+        "verified": false
+      }
+    ]
+  }
+}

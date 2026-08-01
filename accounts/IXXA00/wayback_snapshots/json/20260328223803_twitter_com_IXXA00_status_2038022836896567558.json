@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2037752118174789893",
+    "created_at": "2026-03-28T22:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T23:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038022836896567558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872328362397696000",
+          "start": 0,
+          "username": "Foxxyhead0400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038022836896567558",
+    "in_reply_to_user_id": "1872328362397696000",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037931794339905905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Foxxyhead0400 no"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2037752118174789893",
+        "created_at": "2026-03-28T22:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038022836896567558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872328362397696000",
+              "start": 0,
+              "username": "Foxxyhead0400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038022836896567558",
+        "in_reply_to_user_id": "1872328362397696000",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037931794339905905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Foxxyhead0400 no"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872328362397696000",
+        "conversation_id": "2037752118174789893",
+        "created_at": "2026-03-28T16:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037931794339905905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037931794339905905",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037752118174789893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 要不抱抱你？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "驻波偶尔会在抖子直播43707218480",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6396,
+          "following_count": 4469,
+          "like_count": 36740,
+          "listed_count": 16,
+          "media_count": 2680,
+          "tweet_count": 37128
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T17:07:43.000Z",
+        "description": "",
+        "id": "1872328362397696000",
+        "name": "Foxxyhead0400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910231865975549952/2hbsIsKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 44,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 235
+        },
+        "username": "Foxxyhead0400",
+        "verified": false
+      }
+    ]
+  }
+}

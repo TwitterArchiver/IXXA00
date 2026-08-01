@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928653998434955269"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928654001664356451",
+    "created_at": "2025-05-31T03:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928654001664356451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WnwG4QEXJl",
+          "end": 32,
+          "expanded_url": "https://x.com/IXXA00/status/1928654001664356451/photo/1",
+          "media_key": "3_1928653998434955269",
+          "start": 9,
+          "url": "https://t.co/WnwG4QEXJl"
+        },
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/IXXA00/status/1928652950273937814",
+          "start": 33,
+          "url": "https://t.co/MljwXb6u3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928654001664356451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928652950273937814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊搞毛啊 https://t.co/WnwG4QEXJl https://t.co/MljwXb6u3d"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928654001664356451].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928654001664356451",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928654001664356451"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1928652950273937814].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928652950273937814",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928652950273937814"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_1928653998434955269",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsP0l9daMAUlm4_.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 3028,
+          "like_count": 22447,
+          "listed_count": 7,
+          "media_count": 1621,
+          "tweet_count": 21921
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2048292330248306964",
+    "created_at": "2026-04-26T14:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048411730477494669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1731954350271107073",
+          "start": 0,
+          "username": "silan420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048411730477494669",
+    "in_reply_to_user_id": "1731954350271107073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048409078645592228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silan420 拍拍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2048292330248306964",
+        "created_at": "2026-04-26T14:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048411730477494669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731954350271107073",
+              "start": 0,
+              "username": "silan420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048411730477494669",
+        "in_reply_to_user_id": "1731954350271107073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048409078645592228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silan420 拍拍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731954350271107073",
+        "conversation_id": "2048292330248306964",
+        "created_at": "2026-04-26T14:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048409078645592228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048409078645592228",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048292330248306964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 🤔\n☝🏻🤓\nisla小姐我喜欢你呀！😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 0,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6837,
+          "following_count": 4449,
+          "like_count": 38708,
+          "listed_count": 18,
+          "media_count": 2787,
+          "tweet_count": 38776
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-05T08:31:31.000Z",
+        "description": "尔曹身与名俱灭，不废江河万古流",
+        "id": "1731954350271107073",
+        "location": "南极",
+        "name": "Brush",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890678782060556288/TwFXUhbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 303
+        },
+        "username": "silan420",
+        "verified": false
+      }
+    ]
+  }
+}

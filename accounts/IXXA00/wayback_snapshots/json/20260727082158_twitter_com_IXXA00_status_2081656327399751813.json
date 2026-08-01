@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2081316971916984320",
+    "created_at": "2026-07-27T08:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081656327399751813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002873553792966658",
+          "start": 0,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081656327399751813",
+    "in_reply_to_user_id": "2002873553792966658",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081650672198709315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenophile080 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2081316971916984320",
+        "created_at": "2026-07-27T08:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081656327399751813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002873553792966658",
+              "start": 0,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081656327399751813",
+        "in_reply_to_user_id": "2002873553792966658",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081650672198709315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenophile080 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002873553792966658",
+        "conversation_id": "2081316971916984320",
+        "created_at": "2026-07-27T07:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081650672198709315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081650672198709315",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081316971916984320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 还撞衫了哈哈😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "本质上是个16～24岁的小女孩",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2079584347494211710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7519,
+          "following_count": 4536,
+          "like_count": 43522,
+          "listed_count": 18,
+          "media_count": 3194,
+          "tweet_count": 43111
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "HRT自2024.8.4\n@FrostyStrings讨厌你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "辛西娅🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081468094476947733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076592113878441985/fklIDCLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 173,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

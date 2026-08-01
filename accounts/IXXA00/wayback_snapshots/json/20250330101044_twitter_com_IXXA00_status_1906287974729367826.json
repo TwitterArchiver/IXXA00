@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906287972103655424"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1906287974729367826",
+    "created_at": "2025-03-30T10:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T11:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906287974729367826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGTNX4BlVR",
+          "end": 30,
+          "expanded_url": "https://x.com/IXXA00/status/1906287974729367826/photo/1",
+          "media_key": "3_1906287972103655424",
+          "start": 7,
+          "url": "https://t.co/MGTNX4BlVR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906287974729367826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吃三文鱼。 https://t.co/MGTNX4BlVR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_1906287972103655424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnR-z4jWkAAY7Hn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906287972103655424"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1906287974729367826",
+        "created_at": "2025-03-30T10:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T11:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906287974729367826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGTNX4BlVR",
+              "end": 30,
+              "expanded_url": "https://x.com/IXXA00/status/1906287974729367826/photo/1",
+              "media_key": "3_1906287972103655424",
+              "start": 7,
+              "url": "https://t.co/MGTNX4BlVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906287974729367826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃三文鱼。 https://t.co/MGTNX4BlVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "一辈子只能租房子住的女孩，就算把房子刷成粉色也不行。更现实的DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有门槛",
+        "name": "isla",
+        "pinned_tweet_id": "1905990906085617861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383772817948674/JwQKagEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 2805,
+          "like_count": 19329,
+          "listed_count": 6,
+          "media_count": 1318,
+          "tweet_count": 18422
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

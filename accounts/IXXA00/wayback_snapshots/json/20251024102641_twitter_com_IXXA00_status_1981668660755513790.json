@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1981345012240830654",
+    "created_at": "2025-10-24T10:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981668660755513790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974109464593903618",
+          "start": 0,
+          "username": "Trash_ich_bin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981668660755513790",
+    "in_reply_to_user_id": "1974109464593903618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981665827771609244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trash_ich_bin 不好看怎么当门槛妹呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1981345012240830654",
+        "created_at": "2025-10-24T10:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981668660755513790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974109464593903618",
+              "start": 0,
+              "username": "Trash_ich_bin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981668660755513790",
+        "in_reply_to_user_id": "1974109464593903618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981665827771609244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trash_ich_bin 不好看怎么当门槛妹呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974109464593903618",
+        "conversation_id": "1981345012240830654",
+        "created_at": "2025-10-24T10:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981665827771609244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981665827771609244",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981661185331388599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不影响你好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "附近的来人救一下，谢谢。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 4087,
+          "like_count": 30516,
+          "listed_count": 10,
+          "media_count": 2258,
+          "tweet_count": 30588
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T13:49:15.000Z",
+        "description": "我不需要被关心，因为我只是一袋垃圾。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trash.com",
+                "end": 23,
+                "expanded_url": "http://www.trash.com",
+                "start": 0,
+                "url": "https://t.co/GZsvNBVldS"
+              }
+            ]
+          }
+        },
+        "id": "1974109464593903618",
+        "location": "垃圾桶",
+        "name": "一袋垃圾",
+        "pinned_tweet_id": "1974892544162152514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980699988314251264/gAIlfmkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 159,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/GZsvNBVldS",
+        "username": "Trash_ich_bin",
+        "verified": false
+      }
+    ]
+  }
+}

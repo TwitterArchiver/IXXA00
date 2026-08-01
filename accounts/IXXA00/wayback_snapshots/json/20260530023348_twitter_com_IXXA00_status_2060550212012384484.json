@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      }
+    ],
+    "conversation_id": "2060550212012384484",
+    "created_at": "2026-05-30T02:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060550212012384484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuipi_beauty7/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/yuipi_beauty7/status/2056698061762838765",
+          "start": 16,
+          "url": "https://t.co/NhmfIGRYCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060550212012384484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056698061762838765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇主包在用同款的爱斯特兰面霜😍 https://t.co/NhmfIGRYCi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2056697958125666304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrb5WRaAAA8Q7z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2056697995434086400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrb7hQbUAA67jT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2060550212012384484",
+        "created_at": "2026-05-30T02:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060550212012384484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuipi_beauty7/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yuipi_beauty7/status/2056698061762838765",
+              "start": 16,
+              "url": "https://t.co/NhmfIGRYCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060550212012384484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056698061762838765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇主包在用同款的爱斯特兰面霜😍 https://t.co/NhmfIGRYCi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056697958125666304",
+            "3_2056697995434086400"
+          ]
+        },
+        "author_id": "41560295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2056698061762838765",
+        "created_at": "2026-05-19T11:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056698061762838765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ya3a1gLdFe",
+              "end": 133,
+              "expanded_url": "https://x.com/yuipi_beauty7/status/2056698061762838765/photo/1",
+              "media_key": "3_2056697958125666304",
+              "start": 110,
+              "url": "https://t.co/Ya3a1gLdFe"
+            },
+            {
+              "display_url": "pic.x.com/Ya3a1gLdFe",
+              "end": 133,
+              "expanded_url": "https://x.com/yuipi_beauty7/status/2056698061762838765/photo/1",
+              "media_key": "3_2056697995434086400",
+              "start": 110,
+              "url": "https://t.co/Ya3a1gLdFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056698061762838765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 1651530,
+          "like_count": 1347,
+          "quote_count": 29,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "LE SSERAFIMの宮脇咲良ちゃんが\n綺麗に透き通ったツヤ肌な理由納得した🥹🫧\n\n保湿や毛穴､キメを整えてくれるものをいっぱい使ってる！\nそれに化粧水とかパックとかちゃんと大事なものにはお金かけててさすがすぎる✨️ https://t.co/Ya3a1gLdFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2060353959597121691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7116,
+          "following_count": 4506,
+          "like_count": 40757,
+          "listed_count": 19,
+          "media_count": 2978,
+          "tweet_count": 40542
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-21T09:57:57.000Z",
+        "description": "美容大好き20代🫧 | スキンケア&コスメの神商品まとめ | 美容系OL👩‍💼 | INFJ |人生は美容で絶対に変えれる🥲🔥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/shop/yu_san_be…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/shop/yu_san_beauty6",
+                "start": 0,
+                "url": "https://t.co/cR8gwmfNk5"
+              }
+            ]
+          }
+        },
+        "id": "41560295",
+        "location": "ご依頼はDMにお願いします🥺🫧",
+        "name": "ゆーちゃん / 美容 スキンケア",
+        "pinned_tweet_id": "2060272402924494871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986081747415744512/PfB5CB_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114219,
+          "following_count": 126,
+          "like_count": 1224,
+          "listed_count": 114,
+          "media_count": 748,
+          "tweet_count": 17910
+        },
+        "url": "https://t.co/cR8gwmfNk5",
+        "username": "yuipi_beauty7",
+        "verified": true
+      }
+    ]
+  }
+}

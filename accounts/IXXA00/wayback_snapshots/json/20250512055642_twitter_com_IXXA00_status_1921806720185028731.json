@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1921756889857114611",
+    "created_at": "2025-05-12T05:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T06:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921806720185028731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1659929871504777217",
+          "start": 0,
+          "username": "jia_pa16244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921806720185028731",
+    "in_reply_to_user_id": "1659929871504777217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921806139747934358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jia_pa16244 我能怎么办？力拔山气气盖世。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1921756889857114611",
+        "created_at": "2025-05-12T05:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T06:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921806720185028731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1659929871504777217",
+              "start": 0,
+              "username": "jia_pa16244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921806720185028731",
+        "in_reply_to_user_id": "1659929871504777217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921806139747934358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jia_pa16244 我能怎么办？力拔山气气盖世。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659929871504777217",
+        "conversation_id": "1921756889857114611",
+        "created_at": "2025-05-12T05:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T06:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921806139747934358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921806139747934358",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921756889857114611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 現在還粘著嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不好吃🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "绒布球isla",
+        "pinned_tweet_id": "1921597493214609675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921254080334491650/T6AK4pIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 3008,
+          "like_count": 21638,
+          "listed_count": 7,
+          "media_count": 1541,
+          "tweet_count": 20947
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T14:31:44.000Z",
+        "description": "生如涅槃 死如槍花",
+        "id": "1659929871504777217",
+        "name": "一起看夕陽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918605793106235392/AUPM4aPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 567,
+          "like_count": 2823,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 353
+        },
+        "username": "jia_pa16244",
+        "verified": false
+      }
+    ]
+  }
+}

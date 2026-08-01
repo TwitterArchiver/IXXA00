@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1891743190480269393",
+    "created_at": "2025-02-18T13:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T14:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891836775645008296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1881360016785227776",
+          "start": 0,
+          "username": "hnairuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891836775645008296",
+    "in_reply_to_user_id": "1881360016785227776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891836420563533915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnairuo 你不都看过了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1891743190480269393",
+        "created_at": "2025-02-18T13:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T14:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891836775645008296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1881360016785227776",
+              "start": 0,
+              "username": "hnairuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891836775645008296",
+        "in_reply_to_user_id": "1881360016785227776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891836420563533915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnairuo 你不都看过了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891836417501954050"
+          ]
+        },
+        "author_id": "1881360016785227776",
+        "conversation_id": "1891743190480269393",
+        "created_at": "2025-02-18T13:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T14:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891836420563533915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/958tz1bTnF",
+              "end": 35,
+              "expanded_url": "https://x.com/hnairuo/status/1891836420563533915/photo/1",
+              "media_key": "3_1891836417501954050",
+              "start": 12,
+              "url": "https://t.co/958tz1bTnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891836420563533915",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891743190480269393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 想看呢 https://t.co/958tz1bTnF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/聊天机器人/想把你的心里加满爱/偶尔文援黄推@IZLA665关门了🪫/本号🚫黄，谢谢。/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "IZLA665"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "有🚪",
+        "name": "isla(R24)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891814168983986176/LYb5LBRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 2521,
+          "like_count": 16441,
+          "listed_count": 6,
+          "media_count": 1148,
+          "tweet_count": 15673
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:16:08.000Z",
+        "description": "",
+        "id": "1881360016785227776",
+        "name": "1+1=-1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890824288422572032/iNsQ93HP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 55,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 223
+        },
+        "username": "hnairuo",
+        "verified": false
+      }
+    ]
+  }
+}

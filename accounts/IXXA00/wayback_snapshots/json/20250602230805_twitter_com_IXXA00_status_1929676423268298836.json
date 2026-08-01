@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1929579560548377033",
+    "created_at": "2025-06-02T23:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T00:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929676423268298836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711725523938766848",
+          "start": 0,
+          "username": "LuciferKni38077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929676423268298836",
+    "in_reply_to_user_id": "1711725523938766848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929598724738896029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuciferKni38077 你好，裙子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1929579560548377033",
+        "created_at": "2025-06-02T23:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T00:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929676423268298836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711725523938766848",
+              "start": 0,
+              "username": "LuciferKni38077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929676423268298836",
+        "in_reply_to_user_id": "1711725523938766848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929598724738896029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuciferKni38077 你好，裙子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711725523938766848",
+        "conversation_id": "1929579560548377033",
+        "created_at": "2025-06-02T17:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T18:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929598724738896029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929598724738896029",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929579560548377033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。有门槛。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "pinned_tweet_id": "1929346939696365664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3045,
+          "like_count": 22597,
+          "listed_count": 7,
+          "media_count": 1633,
+          "tweet_count": 22118
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T12:49:10.000Z",
+        "description": "近期过忙，回复会有延迟。 装外宾的一律拉黑😅",
+        "id": "1711725523938766848",
+        "name": "Lucifer_Knightmare",
+        "pinned_tweet_id": "1887348905643549162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755470087010881536/LtZPt3Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1005,
+          "like_count": 36069,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 13216
+        },
+        "username": "LuciferKni38077",
+        "verified": false
+      }
+    ]
+  }
+}

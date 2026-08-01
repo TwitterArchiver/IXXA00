@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043987339052233165",
+    "created_at": "2026-04-14T10:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044006594112041294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1469665357908824064",
+          "start": 0,
+          "username": "Takagi_0620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044006594112041294",
+    "in_reply_to_user_id": "1469665357908824064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044003489756655750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takagi_0620 谢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043987339052233165",
+        "created_at": "2026-04-14T10:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044006594112041294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1469665357908824064",
+              "start": 0,
+              "username": "Takagi_0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044006594112041294",
+        "in_reply_to_user_id": "1469665357908824064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044003489756655750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takagi_0620 谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469665357908824064",
+        "conversation_id": "2043987339052233165",
+        "created_at": "2026-04-14T10:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044003489756655750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044003489756655750",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043987696465674550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 很好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6370,
+          "following_count": 4395,
+          "like_count": 37641,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37881
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T13:48:41.000Z",
+        "description": "星巡大小姐想让你数学分析😠",
+        "id": "1469665357908824064",
+        "location": "Union of Britain ",
+        "name": "高木星巡",
+        "pinned_tweet_id": "1959652316950450180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043185897064329216/v0H1gToN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17579,
+          "following_count": 363,
+          "like_count": 11884,
+          "listed_count": 16,
+          "media_count": 51,
+          "tweet_count": 1021
+        },
+        "username": "Takagi_0620",
+        "verified": false
+      }
+    ]
+  }
+}

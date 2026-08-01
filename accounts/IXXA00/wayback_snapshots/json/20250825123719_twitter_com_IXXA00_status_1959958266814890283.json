@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1959958254005710848"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1959958266814890283",
+    "created_at": "2025-08-25T12:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T13:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959958266814890283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zP18hCfgye",
+          "end": 32,
+          "expanded_url": "https://x.com/IXXA00/status/1959958266814890283/video/1",
+          "media_key": "7_1959958254005710848",
+          "start": 9,
+          "url": "https://t.co/zP18hCfgye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959958266814890283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天骑了80分钟 https://t.co/zP18hCfgye"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4162,
+        "height": 1280,
+        "media_key": "7_1959958254005710848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959958254005710848/pu/img/8Wj_XUtC0b2ziFei.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959958254005710848/pu/vid/avc1/320x708/-UGuS84_LGrnf7wo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959958254005710848/pu/vid/avc1/480x1062/a5tFIJTsrw9ccWTy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959958254005710848/pu/vid/avc1/578x1280/1LPNSEdfqYIL999n.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959958254005710848/pu/pl/sIqwGt5wBlwA_2oz.m3u8?tag=12"
+          }
+        ],
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959958254005710848"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1959958266814890283",
+        "created_at": "2025-08-25T12:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959958266814890283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zP18hCfgye",
+              "end": 32,
+              "expanded_url": "https://x.com/IXXA00/status/1959958266814890283/video/1",
+              "media_key": "7_1959958254005710848",
+              "start": 9,
+              "url": "https://t.co/zP18hCfgye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959958266814890283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天骑了80分钟 https://t.co/zP18hCfgye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "容貌焦虑，非常痛苦。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "pinned_tweet_id": "1959656864612024676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 3352,
+          "like_count": 27706,
+          "listed_count": 8,
+          "media_count": 2075,
+          "tweet_count": 27566
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

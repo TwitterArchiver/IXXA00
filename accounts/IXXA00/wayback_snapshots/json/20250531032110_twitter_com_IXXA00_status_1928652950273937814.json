@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928652947182989314"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1928652950273937814",
+    "created_at": "2025-05-31T03:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928652950273937814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IrF3hkUTQM",
+          "end": 34,
+          "expanded_url": "https://x.com/IXXA00/status/1928652950273937814/photo/1",
+          "media_key": "3_1928652947182989314",
+          "start": 11,
+          "url": "https://t.co/IrF3hkUTQM"
+        },
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/IXXA00/status/1928650996164510010",
+          "start": 35,
+          "url": "https://t.co/qA3HaSql4C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928652950273937814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928650996164510010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晕了……怎么这样…… https://t.co/IrF3hkUTQM https://t.co/qA3HaSql4C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928652950273937814].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928652950273937814",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928652950273937814"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_1928652947182989314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsPzoxPaMAI_B4q.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928650996164510010",
+        "created_at": "2025-05-31T03:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928650996164510010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/IXXA00/status/1928650081164747138",
+              "start": 14,
+              "url": "https://t.co/LfoHthRTSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928650996164510010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928650081164747138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别闹了啊啊啊啊啊别脱我鞋啊 https://t.co/LfoHthRTSY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 3028,
+          "like_count": 22447,
+          "listed_count": 7,
+          "media_count": 1620,
+          "tweet_count": 21920
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1895463020832391560",
+    "created_at": "2025-02-28T15:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T16:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895495798017900926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490157583667245060",
+          "start": 0,
+          "username": "nainairuohe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895495798017900926",
+    "in_reply_to_user_id": "1490157583667245060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895493517780320650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nainairuohe 很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1895463020832391560",
+        "created_at": "2025-02-28T15:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895495798017900926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490157583667245060",
+              "start": 0,
+              "username": "nainairuohe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895495798017900926",
+        "in_reply_to_user_id": "1490157583667245060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895493517780320650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nainairuohe 很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490157583667245060",
+        "conversation_id": "1895463020832391560",
+        "created_at": "2025-02-28T15:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895493517780320650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895493517780320650",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895463020832391560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好可爱~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我什么也不会，只会爱你。",
+        "id": "1739391734491086848",
+        "location": "还会收款。",
+        "name": "isla(R24)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894112531394048000/SwC8VagU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 2548,
+          "like_count": 16985,
+          "listed_count": 6,
+          "media_count": 1196,
+          "tweet_count": 16200
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T02:57:16.000Z",
+        "description": "下雨天~哼哼~好舒服~哼哼~",
+        "id": "1490157583667245060",
+        "name": "一条拉链",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877812248129011712/z60rMlFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 28,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 252
+        },
+        "username": "nainairuohe",
+        "verified": false
+      }
+    ]
+  }
+}

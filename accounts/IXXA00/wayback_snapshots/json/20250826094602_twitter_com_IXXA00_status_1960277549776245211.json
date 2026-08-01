@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1960277549776245211",
+    "created_at": "2025-08-26T09:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T10:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960277549776245211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1835632340388950016",
+          "start": 3,
+          "username": "Stupid_yao112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960277549776245211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960258136679330207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stupid_yao112: 推特是我最后悔接触的平台，在这里我什么都没能找到，太虚假了，这里的所有东西都是假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1960277549776245211",
+        "created_at": "2025-08-26T09:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960277549776245211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1835632340388950016",
+              "start": 3,
+              "username": "Stupid_yao112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960277549776245211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960258136679330207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stupid_yao112: 推特是我最后悔接触的平台，在这里我什么都没能找到，太虚假了，这里的所有东西都是假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835632340388950016",
+        "conversation_id": "1960258136679330207",
+        "created_at": "2025-08-26T08:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960258136679330207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960258136679330207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特是我最后悔接触的平台，在这里我什么都没能找到，太虚假了，这里的所有东西都是假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "容貌焦虑，非常痛苦。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla(好吃)",
+        "pinned_tweet_id": "1959656864612024676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958165777179344896/WtQYQYmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3924,
+          "following_count": 3361,
+          "like_count": 27748,
+          "listed_count": 9,
+          "media_count": 2079,
+          "tweet_count": 27615
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T10:50:40.000Z",
+        "description": "和我交流➡️知道了我为什么没朋友",
+        "id": "1835632340388950016",
+        "location": "Tokyo-to, Japan",
+        "name": "Stupid_YAO",
+        "pinned_tweet_id": "1958247399178297623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948551460234690563/M8dzOUrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 327,
+          "like_count": 4728,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1736
+        },
+        "username": "Stupid_yao112",
+        "verified": false
+      }
+    ]
+  }
+}

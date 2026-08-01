@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1962319575607067058",
+    "created_at": "2025-09-01T01:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T02:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962319575607067058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GNMB00/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/GNMB00/status/1962316689162506594",
+          "start": 3,
+          "url": "https://t.co/xJ4kQZP7XG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962319575607067058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962316689162506594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁懂 https://t.co/xJ4kQZP7XG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1962319575607067058",
+        "created_at": "2025-09-01T01:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T02:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962319575607067058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GNMB00/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/GNMB00/status/1962316689162506594",
+              "start": 3,
+              "url": "https://t.co/xJ4kQZP7XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962319575607067058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962316689162506594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂 https://t.co/xJ4kQZP7XG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644164334573027329",
+        "conversation_id": "1962300588844359788",
+        "created_at": "2025-09-01T00:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T01:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962316689162506594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962316689162506594",
+        "in_reply_to_user_id": "1644164334573027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962300588844359788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂这人昨晚还是黑丝妹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1961771229775601717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3954,
+          "following_count": 3394,
+          "like_count": 28134,
+          "listed_count": 9,
+          "media_count": 2097,
+          "tweet_count": 28094
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T02:25:26.000Z",
+        "description": "普通路过小猫。",
+        "id": "1644164334573027329",
+        "name": "小猫本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945528554155913216/H2ppaeZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 119,
+          "like_count": 13636,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 11431
+        },
+        "username": "GNMB00",
+        "verified": false
+      }
+    ]
+  }
+}

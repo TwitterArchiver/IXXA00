@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1974745193028214805",
+    "created_at": "2025-10-06T00:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T01:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974988972712665336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650019618516533250",
+          "start": 0,
+          "username": "zhoyyo292291"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974988972712665336",
+    "in_reply_to_user_id": "1650019618516533250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974978556431339835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoyyo292291 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1974745193028214805",
+        "created_at": "2025-10-06T00:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T01:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974988972712665336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650019618516533250",
+              "start": 0,
+              "username": "zhoyyo292291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974988972712665336",
+        "in_reply_to_user_id": "1650019618516533250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974978556431339835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoyyo292291 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650019618516533250",
+        "conversation_id": "1974745193028214805",
+        "created_at": "2025-10-05T23:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T00:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974978556431339835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974978556431339835",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974745193028214805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 骂的好，下次别骂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "暴躁mode，无差别aoe所有人。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 3712,
+          "like_count": 29565,
+          "listed_count": 8,
+          "media_count": 2210,
+          "tweet_count": 29749
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T06:12:42.000Z",
+        "description": "01/疯批/混乱中立/男的恶心\n情绪十分不稳定\n极饿        ISTP\n 撕皮皮套人——",
+        "id": "1650019618516533250",
+        "location": "烟草漩涡",
+        "name": "秋月汐里",
+        "pinned_tweet_id": "1895997250347929741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739049957196521472/9GSz7ZI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 148,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 465
+        },
+        "username": "zhoyyo292291",
+        "verified": false
+      }
+    ]
+  }
+}

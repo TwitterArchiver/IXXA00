@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2062160045517996166",
+    "created_at": "2026-06-03T19:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T20:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062261971026907471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "716814435105374210",
+          "start": 0,
+          "username": "hhwandyjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062261971026907471",
+    "in_reply_to_user_id": "716814435105374210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062197437520028068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhwandyjj 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2062160045517996166",
+        "created_at": "2026-06-03T19:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062261971026907471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "716814435105374210",
+              "start": 0,
+              "username": "hhwandyjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062261971026907471",
+        "in_reply_to_user_id": "716814435105374210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062197437520028068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhwandyjj 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "716814435105374210",
+        "conversation_id": "2062160045517996166",
+        "created_at": "2026-06-03T15:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062197437520028068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062197437520028068",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062160045517996166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 是真的漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7227,
+          "following_count": 4517,
+          "like_count": 41156,
+          "listed_count": 18,
+          "media_count": 2992,
+          "tweet_count": 40837
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-04T02:27:33.000Z",
+        "description": "entp  新教  政治中立 略微偏左 喜欢交朋友 听故事。",
+        "id": "716814435105374210",
+        "name": "一个好人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725019981094768640/lnIXUL5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 96,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2698
+        },
+        "username": "hhwandyjj",
+        "verified": false
+      }
+    ]
+  }
+}

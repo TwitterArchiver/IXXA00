@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2038536632190775346",
+    "created_at": "2026-03-30T08:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038536632190775346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/everycamolla/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/everycamolla/status/2038507307395645739",
+          "start": 11,
+          "url": "https://t.co/SQ6w0HMPWs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038536632190775346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038507307395645739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道，谁和主包试试 https://t.co/SQ6w0HMPWs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2038536632190775346",
+        "created_at": "2026-03-30T08:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038536632190775346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/everycamolla/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/everycamolla/status/2038507307395645739",
+              "start": 11,
+              "url": "https://t.co/SQ6w0HMPWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038536632190775346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038507307395645739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道，谁和主包试试 https://t.co/SQ6w0HMPWs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956622401866964993",
+        "conversation_id": "2038507307395645739",
+        "created_at": "2026-03-30T06:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038507307395645739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038507307395645739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5486,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手冲能减肥吗 做爱能减肥吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "驻波偶尔会在抖子直播43707218480/",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6390,
+          "following_count": 4469,
+          "like_count": 36784,
+          "listed_count": 16,
+          "media_count": 2681,
+          "tweet_count": 37171
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T07:41:54.000Z",
+        "description": "简言慎行的小c2.0 我话巨多请谨慎关注 取关随意 @eggkilller",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "eggkilller"
+              }
+            ]
+          }
+        },
+        "id": "1956622401866964993",
+        "name": "everyc",
+        "pinned_tweet_id": "1961702750900965876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956684226058964992/vgRZv20c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 371,
+          "like_count": 37516,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 26614
+        },
+        "username": "everycamolla",
+        "verified": false
+      }
+    ]
+  }
+}

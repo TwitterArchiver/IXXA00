@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1954565219029795217",
+    "created_at": "2025-08-10T23:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T00:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954685140854325398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1090219994502197248",
+          "start": 0,
+          "username": "InvasionRabbit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954685140854325398",
+    "in_reply_to_user_id": "1090219994502197248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954592584040694220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InvasionRabbit 我是男的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1954565219029795217",
+        "created_at": "2025-08-10T23:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T00:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954685140854325398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1090219994502197248",
+              "start": 0,
+              "username": "InvasionRabbit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954685140854325398",
+        "in_reply_to_user_id": "1090219994502197248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954592584040694220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InvasionRabbit 我是男的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090219994502197248",
+        "conversation_id": "1954565219029795217",
+        "created_at": "2025-08-10T17:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T18:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954592584040694220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954592584040694220",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954565219029795217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 大数据统计，多数男性的脚形状更好看，该害怕的是男娘罢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "pinned_tweet_id": "1954563649172848722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 3247,
+          "like_count": 27064,
+          "listed_count": 5,
+          "media_count": 2006,
+          "tweet_count": 26694
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T12:07:56.000Z",
+        "description": "",
+        "id": "1090219994502197248",
+        "name": "兔子入侵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090220784918790144/pac4A3xJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 184,
+          "like_count": 3732,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 137
+        },
+        "username": "InvasionRabbit",
+        "verified": false
+      }
+    ]
+  }
+}

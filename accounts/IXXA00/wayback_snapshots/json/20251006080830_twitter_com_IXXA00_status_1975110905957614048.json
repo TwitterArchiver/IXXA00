@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1975030696948441493",
+    "created_at": "2025-10-06T08:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975110905957614048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1563386955437871104",
+          "start": 0,
+          "username": "xiannadu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975110905957614048",
+    "in_reply_to_user_id": "1563386955437871104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975092201349935374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiannadu 我劳保"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1975030696948441493",
+        "created_at": "2025-10-06T08:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975110905957614048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1563386955437871104",
+              "start": 0,
+              "username": "xiannadu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975110905957614048",
+        "in_reply_to_user_id": "1563386955437871104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975092201349935374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiannadu 我劳保"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563386955437871104",
+        "conversation_id": "1975030696948441493",
+        "created_at": "2025-10-06T06:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975092201349935374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975092201349935374",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975030696948441493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 这个指数，数值越高越保守"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4261,
+          "following_count": 3733,
+          "like_count": 29606,
+          "listed_count": 9,
+          "media_count": 2213,
+          "tweet_count": 29772
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T04:44:40.000Z",
+        "description": "多喝热水",
+        "id": "1563386955437871104",
+        "name": "仙那渡",
+        "pinned_tweet_id": "1952537057383129475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887867198351495169/f47l7UIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 62,
+          "like_count": 36710,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3491
+        },
+        "username": "xiannadu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2068003145641570643",
+    "created_at": "2026-06-19T22:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T23:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068101363104669756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005831710030905344",
+          "start": 0,
+          "username": "rei_quq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068101363104669756",
+    "in_reply_to_user_id": "2005831710030905344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068051263959216459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei_quq ✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2068003145641570643",
+        "created_at": "2026-06-19T22:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068101363104669756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005831710030905344",
+              "start": 0,
+              "username": "rei_quq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068101363104669756",
+        "in_reply_to_user_id": "2005831710030905344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068051263959216459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei_quq ✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005831710030905344",
+        "conversation_id": "2068003145641570643",
+        "created_at": "2026-06-19T19:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068051263959216459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068051263959216459",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068003145641570643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你应该惧怕我，我是你的破壁人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 4524,
+          "like_count": 42065,
+          "listed_count": 18,
+          "media_count": 3046,
+          "tweet_count": 41546
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-30T02:42:14.000Z",
+        "description": "Im ok.",
+        "id": "2005831710030905344",
+        "location": "Manhattan, NY",
+        "name": "rei💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049885873848655873/hxZEfx7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 17,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "rei_quq",
+        "verified": false
+      }
+    ]
+  }
+}

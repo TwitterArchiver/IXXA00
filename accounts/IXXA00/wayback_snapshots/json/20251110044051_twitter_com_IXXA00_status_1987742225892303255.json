@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1987725488308339104",
+    "created_at": "2025-11-10T04:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T05:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987742225892303255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1122806771075018752",
+          "start": 0,
+          "username": "2e4dee6132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987742225892303255",
+    "in_reply_to_user_id": "1122806771075018752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987742018815103346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2e4dee6132 好的老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987725488308339104",
+        "created_at": "2025-11-10T04:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987742225892303255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1122806771075018752",
+              "start": 0,
+              "username": "2e4dee6132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987742225892303255",
+        "in_reply_to_user_id": "1122806771075018752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987742018815103346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2e4dee6132 好的老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122806771075018752",
+        "conversation_id": "1987725488308339104",
+        "created_at": "2025-11-10T04:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987742018815103346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987742018815103346",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987725488308339104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主播你别乱动脑袋行吗? 撸网贷人脸识别一直过不了提示别乱动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "喵喵不乖，打。有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 4543,
+          "like_count": 32774,
+          "listed_count": 11,
+          "media_count": 2334,
+          "tweet_count": 32258
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-29T10:16:09.000Z",
+        "description": "赤条条来去无牵挂/那里讨烟蓑雨笠卷单行/一任俺芒鞋破钵随缘化",
+        "id": "1122806771075018752",
+        "name": "阿廖沙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866458408037302272/A7jGvAp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 535,
+          "like_count": 12654,
+          "listed_count": 7,
+          "media_count": 526,
+          "tweet_count": 8819
+        },
+        "username": "2e4dee6132",
+        "verified": true
+      }
+    ]
+  }
+}

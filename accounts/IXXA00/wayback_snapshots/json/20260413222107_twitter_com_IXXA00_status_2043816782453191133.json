@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043816782453191133",
+    "created_at": "2026-04-13T22:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T23:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043816782453191133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804267906802302976",
+          "start": 3,
+          "username": "kukushui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043816782453191133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043682099417256443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kukushui: “沉溺于被别人喜欢，是种精神疾病。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043816782453191133",
+        "created_at": "2026-04-13T22:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043816782453191133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804267906802302976",
+              "start": 3,
+              "username": "kukushui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043816782453191133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043682099417256443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kukushui: “沉溺于被别人喜欢，是种精神疾病。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804267906802302976",
+        "conversation_id": "2043682099417256443",
+        "created_at": "2026-04-13T13:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043682099417256443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043682099417256443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 951,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“沉溺于被别人喜欢，是种精神疾病。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6224,
+          "following_count": 4391,
+          "like_count": 37298,
+          "listed_count": 16,
+          "media_count": 2714,
+          "tweet_count": 37698
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T21:39:33.000Z",
+        "description": "",
+        "id": "1804267906802302976",
+        "name": "404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004375312830734336/eJ8HaFa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 25,
+          "like_count": 653,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 882
+        },
+        "username": "kukushui",
+        "verified": false
+      }
+    ]
+  }
+}

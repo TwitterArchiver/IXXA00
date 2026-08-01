@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1888978003830673830",
+    "created_at": "2025-02-10T15:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T16:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888979563155505644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1872601118548860928",
+          "start": 0,
+          "username": "ouduin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888979563155505644",
+    "in_reply_to_user_id": "1872601118548860928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888979031711973615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouduin 一个月不在推上骗个200块钱都对不起我的人格。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1888978003830673830",
+        "created_at": "2025-02-10T15:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T16:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888979563155505644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1872601118548860928",
+              "start": 0,
+              "username": "ouduin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888979563155505644",
+        "in_reply_to_user_id": "1872601118548860928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888979031711973615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouduin 一个月不在推上骗个200块钱都对不起我的人格。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872601118548860928",
+        "conversation_id": "1888978003830673830",
+        "created_at": "2025-02-10T15:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T16:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888979031711973615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888979031711973615",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888978003830673830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 对呀，不就是你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "耶✌🏿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "issa",
+        "pinned_tweet_id": "1880590308427309300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888979250784669696/R74vs0n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 2505,
+          "like_count": 15923,
+          "listed_count": 6,
+          "media_count": 1114,
+          "tweet_count": 15167
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T11:12:06.000Z",
+        "description": "0411。",
+        "id": "1872601118548860928",
+        "location": "大连市",
+        "name": "The exiled",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877334042095529994/JjYnETwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 122,
+          "like_count": 848,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 731
+        },
+        "username": "ouduin",
+        "verified": false
+      }
+    ]
+  }
+}

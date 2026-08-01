@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2071181910425137207",
+    "created_at": "2026-06-30T05:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071825530203328598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823737238796296195",
+          "start": 0,
+          "username": "Trkiller10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071825530203328598",
+    "in_reply_to_user_id": "1823737238796296195",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071824889150046354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trkiller10086 🀄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2071181910425137207",
+        "created_at": "2026-06-30T05:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071825530203328598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823737238796296195",
+              "start": 0,
+              "username": "Trkiller10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071825530203328598",
+        "in_reply_to_user_id": "1823737238796296195",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071824889150046354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trkiller10086 🀄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823737238796296195",
+        "conversation_id": "2071181910425137207",
+        "created_at": "2026-06-30T05:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071824889150046354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071824889150046354",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071181910425137207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 写的不赖，给你一个大豫通宝币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期六重。/映镜明本，坐悟洞心。",
+        "id": "1739391734491086848",
+        "location": "辽宁省 鞍山市",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7374,
+          "following_count": 4516,
+          "like_count": 42444,
+          "listed_count": 18,
+          "media_count": 3093,
+          "tweet_count": 41930
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-14T15:03:44.000Z",
+        "description": "看看你的",
+        "id": "1823737238796296195",
+        "name": "一眼顶针人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059530726484414464/2wyN2CmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "Trkiller10086",
+        "verified": false
+      }
+    ]
+  }
+}

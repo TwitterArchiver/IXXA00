@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1926239536696213871",
+    "created_at": "2025-05-25T00:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T01:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926440724985229422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1362694546023350272",
+          "start": 0,
+          "username": "ig_txws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926440724985229422",
+    "in_reply_to_user_id": "1362694546023350272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926437609250709725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ig_txws 耶✌🏿🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1926239536696213871",
+        "created_at": "2025-05-25T00:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T01:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926440724985229422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1362694546023350272",
+              "start": 0,
+              "username": "ig_txws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926440724985229422",
+        "in_reply_to_user_id": "1362694546023350272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926437609250709725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ig_txws 耶✌🏿🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362694546023350272",
+        "conversation_id": "1926239536696213871",
+        "created_at": "2025-05-25T00:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T01:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926437609250709725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926437609250709725",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926239536696213871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我也喜欢你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可能和你想的不一样。/有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1925842594208023028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925841676259438593/w3zzWeXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 3021,
+          "like_count": 22122,
+          "listed_count": 7,
+          "media_count": 1592,
+          "tweet_count": 21542
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T09:24:42.000Z",
+        "description": "永远的果果，欢迎可爱小南娘扩列",
+        "id": "1362694546023350272",
+        "location": "广州",
+        "name": "似水果果",
+        "pinned_tweet_id": "1439411095106568192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813249536632233989/7Nd8vI4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 432,
+          "like_count": 3486,
+          "listed_count": 3,
+          "media_count": 839,
+          "tweet_count": 6155
+        },
+        "username": "ig_txws",
+        "verified": false
+      }
+    ]
+  }
+}

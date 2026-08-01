@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1932299179046658225",
+    "created_at": "2025-06-10T12:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T13:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932413965889663392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735938952731693056",
+          "start": 0,
+          "username": "IWantMyLilDoggy"
+        },
+        {
+          "end": 33,
+          "id": "1520156802368753664",
+          "start": 17,
+          "username": "sisiisablackcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932413965889663392",
+    "in_reply_to_user_id": "1735938952731693056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932409112207491270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IWantMyLilDoggy @sisiisablackcat 你好-2147483648按猫技师为您服务"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932409112207491270].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932409112207491270",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932409112207491270"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1932299179046658225",
+        "created_at": "2025-06-10T12:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932413965889663392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735938952731693056",
+              "start": 0,
+              "username": "IWantMyLilDoggy"
+            },
+            {
+              "end": 33,
+              "id": "1520156802368753664",
+              "start": 17,
+              "username": "sisiisablackcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932413965889663392",
+        "in_reply_to_user_id": "1735938952731693056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932409112207491270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IWantMyLilDoggy @sisiisablackcat 你好-2147483648按猫技师为您服务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "最喜欢的食物是对我不能自拔的爱欲。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "按摩小妹isla",
+        "pinned_tweet_id": "1931152726496616745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 3078,
+          "like_count": 23316,
+          "listed_count": 7,
+          "media_count": 1709,
+          "tweet_count": 22834
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T08:24:56.000Z",
+        "description": "但是我不爱我自己。 会在某天突然变成悲叹之种 这个号含有：#drugstwt #drugtwt #shtwt 有些时候会发不开评论的自言自语负能推 但请来和我交朋友求你了🥺🥺🥺 我从未试图隐藏我自己。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 29,
+                "tag": "drugstwt"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1735938952731693056",
+        "name": "🏳️‍⚧️魔法少猫饭团喵🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 350,
+          "like_count": 3817,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 2013
+        },
+        "username": "IWantMyLilDoggy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929816592902418432/BVj7wg8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 312,
+          "like_count": 19153,
+          "listed_count": 6,
+          "media_count": 4885,
+          "tweet_count": 14780
+        },
+        "username": "sisiisablackcat",
+        "verified": false
+      }
+    ]
+  }
+}

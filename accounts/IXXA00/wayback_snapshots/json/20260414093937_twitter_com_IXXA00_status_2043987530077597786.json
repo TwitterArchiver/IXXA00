@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043859359248355590",
+    "created_at": "2026-04-14T09:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043987530077597786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1709231473805639680",
+          "start": 0,
+          "username": "QianYe0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043987530077597786",
+    "in_reply_to_user_id": "1709231473805639680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043987246257451515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianYe0715 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T09:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043987530077597786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1709231473805639680",
+              "start": 0,
+              "username": "QianYe0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043987530077597786",
+        "in_reply_to_user_id": "1709231473805639680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043987246257451515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianYe0715 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709231473805639680",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T09:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043987246257451515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043987246257451515",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 很好的推文使我的大脑宕机，爱来自瓷器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6358,
+          "following_count": 4395,
+          "like_count": 37601,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37864
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T15:38:52.000Z",
+        "description": "Hello hello，中国から参りました。ヘビーゲーマーで、War ThunderとVRChatが大好きです。",
+        "id": "1709231473805639680",
+        "location": "Tokyo-to, Japan",
+        "name": "v芙芙v=Cute",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041041494270976000/6vPj6WDr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 247
+        },
+        "username": "QianYe0715",
+        "verified": false
+      }
+    ]
+  }
+}

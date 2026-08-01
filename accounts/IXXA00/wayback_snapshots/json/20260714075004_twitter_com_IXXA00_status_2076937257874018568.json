@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2076872218324430869",
+    "created_at": "2026-07-14T07:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076937257874018568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504273495605198855",
+          "start": 0,
+          "username": "cfgzb123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076937257874018568",
+    "in_reply_to_user_id": "1504273495605198855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076927560311836827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cfgzb123 还行吧，有钱就行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2076872218324430869",
+        "created_at": "2026-07-14T07:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076937257874018568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504273495605198855",
+              "start": 0,
+              "username": "cfgzb123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076937257874018568",
+        "in_reply_to_user_id": "1504273495605198855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076927560311836827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cfgzb123 还行吧，有钱就行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504273495605198855",
+        "conversation_id": "2076872218324430869",
+        "created_at": "2026-07-14T07:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076927560311836827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076927560311836827",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076872218324430869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 做医美方便吗？像我这种的雄哥布林能做吗？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7501,
+          "following_count": 4543,
+          "like_count": 43102,
+          "listed_count": 18,
+          "media_count": 3148,
+          "tweet_count": 42605
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-17T01:48:55.000Z",
+        "description": "",
+        "id": "1504273495605198855",
+        "location": "Jakarta, Indonesia🌏",
+        "name": "拔累拔累",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895123931973197824/u3OgXbat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 66,
+          "like_count": 9683,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "cfgzb123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1935285967755292794",
+    "created_at": "2025-06-18T10:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T11:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935290099572556029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675867625656840192",
+          "start": 0,
+          "username": "rinkawa_sakurai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935290099572556029",
+    "in_reply_to_user_id": "1675867625656840192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935285967755292794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinkawa_sakurai 有人说我们长得像老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935285965188128768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuEVO3WYAAUdWp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1935285967755292794",
+        "created_at": "2025-06-18T10:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935290099572556029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675867625656840192",
+              "start": 0,
+              "username": "rinkawa_sakurai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935290099572556029",
+        "in_reply_to_user_id": "1675867625656840192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935285967755292794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinkawa_sakurai 有人说我们长得像老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935285965188128768"
+          ]
+        },
+        "author_id": "1675867625656840192",
+        "conversation_id": "1935285967755292794",
+        "created_at": "2025-06-18T10:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935285967755292794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxwkURZl0M",
+              "end": 31,
+              "expanded_url": "https://x.com/rinkawa_sakurai/status/1935285967755292794/photo/1",
+              "media_key": "3_1935285965188128768",
+              "start": 8,
+              "url": "https://t.co/wxwkURZl0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935285967755292794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是科学怪人🤓 https://t.co/wxwkURZl0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "面目全非。🚪52/https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 9,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🥑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 3102,
+          "like_count": 23964,
+          "listed_count": 7,
+          "media_count": 1762,
+          "tweet_count": 23558
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T14:02:33.000Z",
+        "description": "06/上海/赛博百合mtx/INFP/后现代精神病/ADHD/CS广东在读/中文.日本語.ENG/整活@HSBC_HK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "HSBC_HK"
+              }
+            ]
+          }
+        },
+        "id": "1675867625656840192",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "桜井かすみ Ver.4.1",
+        "pinned_tweet_id": "1930959307060760715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911023633209626624/JR4fDWFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 630,
+          "like_count": 11404,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 4119
+        },
+        "username": "rinkawa_sakurai",
+        "verified": false
+      }
+    ]
+  }
+}

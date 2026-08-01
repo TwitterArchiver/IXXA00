@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2059849303968076148",
+    "created_at": "2026-05-28T20:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060103329401958493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044635496664485888",
+          "start": 0,
+          "username": "ctrine96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060103329401958493",
+    "in_reply_to_user_id": "2044635496664485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059849303968076148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctrine96 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059849303968076148",
+        "created_at": "2026-05-28T20:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060103329401958493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044635496664485888",
+              "start": 0,
+              "username": "ctrine96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060103329401958493",
+        "in_reply_to_user_id": "2044635496664485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059849303968076148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctrine96 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044635496664485888",
+        "conversation_id": "2059849303968076148",
+        "created_at": "2026-05-28T04:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059849303968076148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059849303968076148",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23265,
+          "like_count": 246,
+          "quote_count": 7,
+          "reply_count": 189,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "솔직히 3천명 넘는 대형계는 팔로우하기에 손이 안감\n\n딱히 나랑 소통할 것 같지도 않고\n걍 소소하게 중소형계 몇명이랑만 소통하는게 나아보임"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7113,
+          "following_count": 4505,
+          "like_count": 40603,
+          "listed_count": 18,
+          "media_count": 2971,
+          "tweet_count": 40450
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T04:34:34.000Z",
+        "description": "각종 한국/일본 뉴스, 이슈, 지식, 유머, 연예",
+        "id": "2044635496664485888",
+        "name": "시트린(CT)",
+        "pinned_tweet_id": "2059980565529710923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052582955613306880/EXTUVFU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1199,
+          "like_count": 9766,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 6031
+        },
+        "username": "ctrine96",
+        "verified": true
+      }
+    ]
+  }
+}

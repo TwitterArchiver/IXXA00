@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2034971224007413805",
+    "created_at": "2026-03-20T14:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034996112185335952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2011344877993541634",
+          "start": 0,
+          "username": "QCjifDGWx713355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034996112185335952",
+    "in_reply_to_user_id": "2011344877993541634",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034975089612267941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QCjifDGWx713355 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2034971224007413805",
+        "created_at": "2026-03-20T14:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034996112185335952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2011344877993541634",
+              "start": 0,
+              "username": "QCjifDGWx713355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034996112185335952",
+        "in_reply_to_user_id": "2011344877993541634",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034975089612267941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QCjifDGWx713355 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011344877993541634",
+        "conversation_id": "2034971224007413805",
+        "created_at": "2026-03-20T12:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034975089612267941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034975089612267941",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034971224007413805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 猪波😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "抽象主包。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033412524172005376/N5aeDrNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6277,
+          "following_count": 4473,
+          "like_count": 36384,
+          "listed_count": 15,
+          "media_count": 2657,
+          "tweet_count": 36770
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T07:49:38.000Z",
+        "description": "你怎麼在這裏？",
+        "id": "2011344877993541634",
+        "location": "光年之外",
+        "name": "巨大克里夫蘭多喝水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011359589049257984/V6hlbbG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 215,
+          "like_count": 2495,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 417
+        },
+        "username": "QCjifDGWx713355",
+        "verified": false
+      }
+    ]
+  }
+}

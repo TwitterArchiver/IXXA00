@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1908547495355093257",
+    "created_at": "2025-04-05T15:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T16:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908547495355093257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Note473640/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Note473640/status/1908544724790894870",
+          "start": 10,
+          "url": "https://t.co/oEdmwIT5mn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908547495355093257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908544724790894870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "饿了吃饭还得嚼呢。 https://t.co/oEdmwIT5mn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1908547495355093257",
+        "created_at": "2025-04-05T15:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T16:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908547495355093257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Note473640/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Note473640/status/1908544724790894870",
+              "start": 10,
+              "url": "https://t.co/oEdmwIT5mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908547495355093257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908544724790894870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "饿了吃饭还得嚼呢。 https://t.co/oEdmwIT5mn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766388563627905024",
+        "conversation_id": "1908481440981147666",
+        "created_at": "2025-04-05T15:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T16:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908544724790894870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908544724790894870",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908508001989992755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 …？悬而未决 不就是 吊 嘛\n答应了实则只是顾及表层的安慰而非付出内心，这必定只是表层的，看似同意实则摇摆不定，故而 悬而未决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "偶尔会高潮给你看，有🚪谢谢。主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "清纯女高isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448305476239360/O3ggHyR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3552,
+          "following_count": 2839,
+          "like_count": 19531,
+          "listed_count": 6,
+          "media_count": 1352,
+          "tweet_count": 18736
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T09:00:35.000Z",
+        "description": "",
+        "id": "1766388563627905024",
+        "name": "Note",
+        "pinned_tweet_id": "1867578789687177668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852957917034815488/RA1pxzhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 2034,
+          "like_count": 2852,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 5691
+        },
+        "username": "Note473640",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2049014293023351049",
+    "created_at": "2026-04-28T19:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049202152292413937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916906033030524929",
+          "start": 0,
+          "username": "444xibiwxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049202152292413937",
+    "in_reply_to_user_id": "1916906033030524929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049126801998250194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@444xibiwxx 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2049014293023351049",
+        "created_at": "2026-04-28T19:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049202152292413937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916906033030524929",
+              "start": 0,
+              "username": "444xibiwxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049202152292413937",
+        "in_reply_to_user_id": "1916906033030524929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049126801998250194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@444xibiwxx 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916906033030524929",
+        "conversation_id": "2049014293023351049",
+        "created_at": "2026-04-28T14:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049126801998250194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049126801998250194",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049014293023351049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 接住你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "重女/病娇。",
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2049009363436839185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6997,
+          "following_count": 4484,
+          "like_count": 38890,
+          "listed_count": 19,
+          "media_count": 2796,
+          "tweet_count": 38919
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T17:23:20.000Z",
+        "description": "人生仇恨何能免，销魂独我情何限",
+        "id": "1916906033030524929",
+        "location": "Canada",
+        "name": "444xibiwxx",
+        "pinned_tweet_id": "2043429858827542925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041302456114577409/ZxVHUJas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 173,
+          "like_count": 6037,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 839
+        },
+        "username": "444xibiwxx",
+        "verified": false
+      }
+    ]
+  }
+}

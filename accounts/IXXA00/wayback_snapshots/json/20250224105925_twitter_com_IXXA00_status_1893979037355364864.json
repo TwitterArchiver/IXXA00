@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1893892506674192724",
+    "created_at": "2025-02-24T10:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T11:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893979037355364864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1857252227234312192",
+          "start": 0,
+          "username": "tujidanm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893979037355364864",
+    "in_reply_to_user_id": "1857252227234312192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893978057624399898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tujidanm 你确实没有脑子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1893892506674192724",
+        "created_at": "2025-02-24T10:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893979037355364864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1857252227234312192",
+              "start": 0,
+              "username": "tujidanm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893979037355364864",
+        "in_reply_to_user_id": "1857252227234312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893978057624399898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tujidanm 你确实没有脑子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857252227234312192",
+        "conversation_id": "1893892506674192724",
+        "created_at": "2025-02-24T10:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893978057624399898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893978057624399898",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893892506674192724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你没这么好看😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/欢迎私信",
+        "id": "1739391734491086848",
+        "location": "有🚪",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1893657454941962665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893657761365495808/02YFGOmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3296,
+          "following_count": 2522,
+          "like_count": 16824,
+          "listed_count": 6,
+          "media_count": 1186,
+          "tweet_count": 16009
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T02:40:19.000Z",
+        "description": "请我🍽️麦当劳",
+        "id": "1857252227234312192",
+        "location": "6.66",
+        "name": "没有脑袋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861981246949298176/BzRaWTjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "tujidanm",
+        "verified": false
+      }
+    ]
+  }
+}

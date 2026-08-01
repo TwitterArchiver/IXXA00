@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2056554623734014262",
+    "created_at": "2026-05-19T01:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056554623734014262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/fadai202202/status/2056338908045258873",
+          "start": 4,
+          "url": "https://t.co/gX6vbNTsj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056554623734014262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056338908045258873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人 https://t.co/gX6vbNTsj1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2056554623734014262",
+        "created_at": "2026-05-19T01:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056554623734014262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/fadai202202/status/2056338908045258873",
+              "start": 4,
+              "url": "https://t.co/gX6vbNTsj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056554623734014262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056338908045258873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人 https://t.co/gX6vbNTsj1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2056338908045258873",
+        "created_at": "2026-05-18T11:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056338908045258873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056338908045258873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11544,
+          "like_count": 129,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉那种很美的女生一定没有啥坏心眼每天都在研究怎么变美哪有时间和你玩心眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/188，高情绪能量和爱/塔罗牌简单咨询：25r/张/",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2055213088782401614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7012,
+          "following_count": 4504,
+          "like_count": 40024,
+          "listed_count": 18,
+          "media_count": 2916,
+          "tweet_count": 39967
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13793,
+          "following_count": 1,
+          "like_count": 896,
+          "listed_count": 13,
+          "media_count": 123,
+          "tweet_count": 853
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2048301692299706789",
+    "created_at": "2026-04-27T05:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048631690806087988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1535929062706663424",
+          "start": 0,
+          "username": "azithr_O_mycin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048631690806087988",
+    "in_reply_to_user_id": "1535929062706663424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048631044736487486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azithr_O_mycin 有点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2048301692299706789",
+        "created_at": "2026-04-27T05:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048631690806087988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1535929062706663424",
+              "start": 0,
+              "username": "azithr_O_mycin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048631690806087988",
+        "in_reply_to_user_id": "1535929062706663424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048631044736487486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azithr_O_mycin 有点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535929062706663424",
+        "conversation_id": "2048301692299706789",
+        "created_at": "2026-04-27T05:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048631044736487486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048631044736487486",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048301692299706789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 感觉煮出来后很像福建的肉燕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "https://t.co/UDk836ufY8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixxa00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixxa00",
+                "start": 0,
+                "url": "https://t.co/UDk836ufY8"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6892,
+          "following_count": 4467,
+          "like_count": 38753,
+          "listed_count": 18,
+          "media_count": 2788,
+          "tweet_count": 38812
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-12T10:16:45.000Z",
+        "description": "nya~",
+        "id": "1535929062706663424",
+        "location": "Mars",
+        "name": "阿奇霉素😖泡腾片🇦🇶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622056273473851392/9MB9y44D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 59,
+          "like_count": 2527,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 144
+        },
+        "username": "azithr_O_mycin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2052939459214414074",
+    "created_at": "2026-05-10T00:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053272387941229026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773879087049887744",
+          "start": 0,
+          "username": "leo1637769"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053272387941229026",
+    "in_reply_to_user_id": "1773879087049887744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053262330256142756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leo1637769 就是这"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2052939459214414074",
+        "created_at": "2026-05-10T00:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053272387941229026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773879087049887744",
+              "start": 0,
+              "username": "leo1637769"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053272387941229026",
+        "in_reply_to_user_id": "1773879087049887744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053262330256142756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leo1637769 就是这"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773879087049887744",
+        "conversation_id": "2052939459214414074",
+        "created_at": "2026-05-09T23:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053262330256142756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053262330256142756",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052939459214414074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 啊这？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "只是安静的在这里。/目前业务🚪：52/18/塔罗牌简单咨询：25r/张/线下",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2052824142580506690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7004,
+          "following_count": 4497,
+          "like_count": 39651,
+          "listed_count": 19,
+          "media_count": 2869,
+          "tweet_count": 39567
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-30T01:05:12.000Z",
+        "description": "究极ESTJ，天秤座♎️，颜控，伪娘俗称就是男的，口嗨坐标鞍山海城，qq.1812504173",
+        "id": "1773879087049887744",
+        "location": "海城",
+        "name": "东北赵露思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046972698048532480/yKP9MN5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 165,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 188
+        },
+        "username": "leo1637769",
+        "verified": false
+      }
+    ]
+  }
+}

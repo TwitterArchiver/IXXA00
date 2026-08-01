@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1947250896406036822",
+    "created_at": "2025-07-23T06:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T07:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947911165180580310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803116552633610240",
+          "start": 0,
+          "username": "friendloveL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947911165180580310",
+    "in_reply_to_user_id": "1803116552633610240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947900969892909253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friendloveL 最低30级"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1947250896406036822",
+        "created_at": "2025-07-23T06:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T07:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947911165180580310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803116552633610240",
+              "start": 0,
+              "username": "friendloveL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947911165180580310",
+        "in_reply_to_user_id": "1803116552633610240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947900969892909253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friendloveL 最低30级"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803116552633610240",
+        "conversation_id": "1947250896406036822",
+        "created_at": "2025-07-23T06:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T07:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947900969892909253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947900969892909253",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947250896406036822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 最低不是18级吗，我玩的腾讯围棋😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "东百",
+        "name": "isla",
+        "pinned_tweet_id": "1947452455912149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 3154,
+          "like_count": 26297,
+          "listed_count": 5,
+          "media_count": 1931,
+          "tweet_count": 25809
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T17:24:29.000Z",
+        "description": "我想成为一个什么样的人呢",
+        "id": "1803116552633610240",
+        "name": "主旋律是悲欢离合",
+        "pinned_tweet_id": "1855509672297648393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803116893127188483/wQE4eXfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 54,
+          "like_count": 1966,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1111
+        },
+        "username": "friendloveL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1968130565229670849",
+    "created_at": "2025-09-17T11:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968274234956013686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1638012246038302721",
+          "start": 0,
+          "username": "zxzyyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968274234956013686",
+    "in_reply_to_user_id": "1638012246038302721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968273920362156080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxzyyou 特指男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-17T11:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968274234956013686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1638012246038302721",
+              "start": 0,
+              "username": "zxzyyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968274234956013686",
+        "in_reply_to_user_id": "1638012246038302721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968273920362156080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxzyyou 特指男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638012246038302721",
+        "conversation_id": "1968130565229670849",
+        "created_at": "2025-09-17T11:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968273920362156080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968273920362156080",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968130565229670849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 而且不限性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神病小妹儿/辣妹培训中心",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1967617644619776294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967215004098408448/EAzPAMnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4045,
+          "following_count": 3519,
+          "like_count": 28822,
+          "listed_count": 8,
+          "media_count": 2152,
+          "tweet_count": 28997
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T02:59:09.000Z",
+        "description": "分享花",
+        "id": "1638012246038302721",
+        "name": "阿友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883399740009922561/TbXq3Ayi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 88,
+          "like_count": 1864,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1987
+        },
+        "username": "zxzyyou",
+        "verified": false
+      }
+    ]
+  }
+}

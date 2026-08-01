@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1985124102177276224",
+    "created_at": "2025-11-03T08:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T09:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985261234002825246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924017998639382528",
+          "start": 0,
+          "username": "Odette0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985261234002825246",
+    "in_reply_to_user_id": "1924017998639382528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985248797430305149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Odette0521 接一个全身镜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1985124102177276224",
+        "created_at": "2025-11-03T08:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985261234002825246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924017998639382528",
+              "start": 0,
+              "username": "Odette0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985261234002825246",
+        "in_reply_to_user_id": "1924017998639382528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985248797430305149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Odette0521 接一个全身镜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924017998639382528",
+        "conversation_id": "1985124102177276224",
+        "created_at": "2025-11-03T07:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985248797430305149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985248797430305149",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985124102177276224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我也需要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5318,
+          "following_count": 4735,
+          "like_count": 32262,
+          "listed_count": 11,
+          "media_count": 2306,
+          "tweet_count": 31767
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T08:23:58.000Z",
+        "description": "00小护士一枚，每天碎碎念在线陪聊你的电子女友）🚪99/199",
+        "id": "1924017998639382528",
+        "name": "实习生小柚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984454476133285888/RYrshlfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1128,
+          "like_count": 1685,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1246
+        },
+        "username": "Odette0521",
+        "verified": false
+      }
+    ]
+  }
+}

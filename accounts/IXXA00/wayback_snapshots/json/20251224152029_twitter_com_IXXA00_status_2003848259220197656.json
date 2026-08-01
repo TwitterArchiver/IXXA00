@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2003787272404267299",
+    "created_at": "2025-12-24T15:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T16:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003848259220197656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1730150687865196544",
+          "start": 0,
+          "username": "ztilyzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003848259220197656",
+    "in_reply_to_user_id": "1730150687865196544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003839377999581451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ztilyzz 你们的尾号都是9527，怎么是工厂一批次吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2003787272404267299",
+        "created_at": "2025-12-24T15:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003848259220197656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1730150687865196544",
+              "start": 0,
+              "username": "ztilyzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003848259220197656",
+        "in_reply_to_user_id": "1730150687865196544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003839377999581451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ztilyzz 你们的尾号都是9527，怎么是工厂一批次吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730150687865196544",
+        "conversation_id": "2003787272404267299",
+        "created_at": "2025-12-24T14:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003839377999581451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003839377999581451",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003787272404267299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 9527"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "pinned_tweet_id": "2003145796611654028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5646,
+          "following_count": 4538,
+          "like_count": 35045,
+          "listed_count": 12,
+          "media_count": 2514,
+          "tweet_count": 34576
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T09:04:15.000Z",
+        "description": "将这里与现实切割",
+        "id": "1730150687865196544",
+        "name": "z z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003530972256735232/MGGXZIpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 95
+        },
+        "username": "ztilyzz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1921002693155340564",
+    "created_at": "2025-05-10T02:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T03:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921028989197373552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "buwuwu11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921028989197373552",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921002693155340564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwuwu11 恋爱dd 看上了直接私信不要做胆小鬼哦 30以上小哥哥来 不喜欢比我小的 不是三分钟热度 有了男朋友会和身边的异性保持距离给你安全感 我对另一半的要求是 对我好 愿意陪我 行为举止大方 不能冷暴力 就这样 我对长相没什么要求 不要长太过分就好啦 我愿意远嫁 距离不是问题 如果合适的话可以结婚"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1921002693155340564].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1921002693155340564",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1921002693155340564"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1921002693155340564",
+        "created_at": "2025-05-10T02:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T03:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921028989197373552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "buwuwu11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921028989197373552",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921002693155340564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buwuwu11 恋爱dd 看上了直接私信不要做胆小鬼哦 30以上小哥哥来 不喜欢比我小的 不是三分钟热度 有了男朋友会和身边的异性保持距离给你安全感 我对另一半的要求是 对我好 愿意陪我 行为举止大方 不能冷暴力 就这样 我对长相没什么要求 不要长太过分就好啦 我愿意远嫁 距离不是问题 如果合适的话可以结婚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老公死了。🚪52/188/其他",
+        "id": "1739391734491086848",
+        "location": "距离你 1.8km",
+        "name": "很好吃isla",
+        "pinned_tweet_id": "1920288105405558851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917568646207135745/GFbJroeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3658,
+          "following_count": 2994,
+          "like_count": 21525,
+          "listed_count": 7,
+          "media_count": 1528,
+          "tweet_count": 20798
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "猎奇嘴臭邪恶生物但是很可爱",
+        "id": "1261344091075260416",
+        "name": "家庭全自动造屎机",
+        "pinned_tweet_id": "1916444897793769809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920372556969693184/u_hVk37x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 713,
+          "like_count": 24283,
+          "listed_count": 0,
+          "media_count": 1659,
+          "tweet_count": 15321
+        },
+        "username": "buwuwu11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2043987339052233165",
+    "created_at": "2026-04-14T16:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044089891135598931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029543405051899905",
+          "start": 0,
+          "username": "lu_xiao60839"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044089891135598931",
+    "in_reply_to_user_id": "2029543405051899905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044059363359502802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu_xiao60839 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043987339052233165",
+        "created_at": "2026-04-14T16:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044089891135598931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029543405051899905",
+              "start": 0,
+              "username": "lu_xiao60839"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044089891135598931",
+        "in_reply_to_user_id": "2029543405051899905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044059363359502802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_xiao60839 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029543405051899905",
+        "conversation_id": "2043987339052233165",
+        "created_at": "2026-04-14T14:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044059363359502802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044059363359502802",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044059008718582059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 您很好看的！！！(｡･∀･)ﾉﾞ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6406,
+          "following_count": 4398,
+          "like_count": 37750,
+          "listed_count": 17,
+          "media_count": 2717,
+          "tweet_count": 37915
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T13:04:07.000Z",
+        "description": "苦命的國中生，特長是畫畫.鋼琴\n高雄人(｡･∀･)ﾉﾞ",
+        "id": "2029543405051899905",
+        "location": "高雄市",
+        "name": "817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033521342138781696/I2DIRQtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 13,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 141
+        },
+        "username": "lu_xiao60839",
+        "verified": false
+      }
+    ]
+  }
+}

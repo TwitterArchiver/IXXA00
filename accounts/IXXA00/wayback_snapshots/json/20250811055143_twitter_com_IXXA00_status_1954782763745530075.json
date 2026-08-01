@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1954782743440900096"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "1954782763745530075",
+    "created_at": "2025-08-11T05:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T06:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954782763745530075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SnIosPI8lz",
+          "end": 30,
+          "expanded_url": "https://x.com/IXXA00/status/1954782763745530075/video/1",
+          "media_key": "7_1954782743440900096",
+          "start": 7,
+          "url": "https://t.co/SnIosPI8lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954782763745530075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发裸照😋😋 https://t.co/SnIosPI8lz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954782763745530075].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954782763745530075",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954782763745530075"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8405,
+        "height": 1072,
+        "media_key": "7_1954782743440900096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954782743440900096/pu/img/3NevN6tsq-iLkU5g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954782743440900096/pu/vid/avc1/320x476/rFJm5Db1NYf05x53.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954782743440900096/pu/vid/avc1/480x714/6En9s1scKJmcdXUn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954782743440900096/pu/vid/avc1/720x1072/p4CSc_yFLgz9MOg7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954782743440900096/pu/pl/7g2-Ysli73P9Nqe0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "isla/团子外卖/可爱小妞，有🚪",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "林晓晓",
+        "pinned_tweet_id": "1954563649172848722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951094708098441220/fvaECUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 3247,
+          "like_count": 27077,
+          "listed_count": 5,
+          "media_count": 2011,
+          "tweet_count": 26727
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

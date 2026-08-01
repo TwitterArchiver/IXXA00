@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1908829451623743575",
+    "created_at": "2025-04-06T10:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908836301937500580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1543852749238202368",
+          "start": 0,
+          "username": "sostuanyuan1513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908836301937500580",
+    "in_reply_to_user_id": "1543852749238202368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908829451623743575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sostuanyuan1513 皇上写的。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908829451623743575].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1908829451623743575",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1908829451623743575"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1908829451623743575",
+        "created_at": "2025-04-06T10:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908836301937500580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543852749238202368",
+              "start": 0,
+              "username": "sostuanyuan1513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908836301937500580",
+        "in_reply_to_user_id": "1543852749238202368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908829451623743575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sostuanyuan1513 皇上写的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "内含99.5%纽甜，有🚪谢谢。主包照片DLC：@Phryne_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Phryne_0"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "name": "宇宙甜妹isla",
+        "pinned_tweet_id": "1906546470620479937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448305476239360/O3ggHyR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 2878,
+          "like_count": 19578,
+          "listed_count": 6,
+          "media_count": 1359,
+          "tweet_count": 18781
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T07:02:45.000Z",
+        "description": "•ᴗ•💧( ˙꒳​˙ )???",
+        "id": "1543852749238202368",
+        "name": "YUUUU=͟͟͞͞(꒪ᗜ꒪ ‧̣̥̇)🍍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619616319367950336/1F1BbZ-5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 280,
+          "like_count": 15901,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 9855
+        },
+        "username": "sostuanyuan1513",
+        "verified": false
+      }
+    ]
+  }
+}

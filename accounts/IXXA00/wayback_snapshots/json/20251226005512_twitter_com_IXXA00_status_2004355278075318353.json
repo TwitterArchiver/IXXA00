@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2004122696314245346",
+    "created_at": "2025-12-26T00:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T01:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004355278075318353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1552966524851339266",
+          "start": 0,
+          "username": "bominouca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004355278075318353",
+    "in_reply_to_user_id": "1552966524851339266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004122696314245346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bominouca 我看到两个小猫在一起玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21200,
+        "height": 848,
+        "media_key": "13_1996154607047688192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996154607047688192/img/v12E6v5OpInghUsn.jpg",
+        "public_metrics": {
+          "view_count": 61295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996154607047688192/vid/avc1/320x412/f3QOD2gU-5UlNoK_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996154607047688192/vid/avc1/480x620/P1oj8pJ-b_zHX995.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996154607047688192/vid/avc1/656x848/naZKUc5P-TVezgyn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996154607047688192/pl/FQLcvsBkL5HcXrdz.m3u8?v=cfc"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2004122696314245346",
+        "created_at": "2025-12-26T00:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T01:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004355278075318353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1552966524851339266",
+              "start": 0,
+              "username": "bominouca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004355278075318353",
+        "in_reply_to_user_id": "1552966524851339266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004122696314245346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bominouca 我看到两个小猫在一起玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996154607047688192"
+          ]
+        },
+        "author_id": "1552966524851339266",
+        "conversation_id": "2004122696314245346",
+        "created_at": "2025-12-25T09:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004122696314245346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djqIdNR2g5",
+              "end": 23,
+              "expanded_url": "https://x.com/bominouca/status/2004122696314245346/video/1",
+              "media_key": "13_1996154607047688192",
+              "start": 0,
+              "url": "https://t.co/djqIdNR2g5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004122696314245346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 128491,
+          "like_count": 4463,
+          "quote_count": 43,
+          "reply_count": 9,
+          "retweet_count": 861
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/djqIdNR2g5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不是本人。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 4536,
+          "like_count": 35085,
+          "listed_count": 12,
+          "media_count": 2520,
+          "tweet_count": 34614
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T10:39:55.000Z",
+        "description": "Cats, dogs, pets, animals 🐱🐶 Humor, beauty of nature🌴 Enjoy, relax and have fun🌺🌞",
+        "id": "1552966524851339266",
+        "name": "Sotic",
+        "pinned_tweet_id": "2003422274922381659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934958833798991872/koEmCoqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25521,
+          "following_count": 1548,
+          "like_count": 1960,
+          "listed_count": 104,
+          "media_count": 6502,
+          "tweet_count": 10788
+        },
+        "username": "bominouca",
+        "verified": true
+      }
+    ]
+  }
+}
