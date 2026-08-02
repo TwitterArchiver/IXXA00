@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "1965223902940156350",
+    "created_at": "2025-09-09T12:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T13:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965392577735377022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "886568576013946880",
+          "start": 0,
+          "username": "Super_home6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965392577735377022",
+    "in_reply_to_user_id": "886568576013946880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965391138103398445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Super_home6 有一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1965223902940156350",
+        "created_at": "2025-09-09T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965392577735377022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "886568576013946880",
+              "start": 0,
+              "username": "Super_home6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965392577735377022",
+        "in_reply_to_user_id": "886568576013946880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965391138103398445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Super_home6 有一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886568576013946880",
+        "conversation_id": "1965223902940156350",
+        "created_at": "2025-09-09T12:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965391138103398445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965391138103398445",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965223902940156350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 翻译：有一些甜狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过精神小妹儿",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1965073573254738170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 3438,
+          "like_count": 28465,
+          "listed_count": 8,
+          "media_count": 2122,
+          "tweet_count": 28553
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T12:49:54.000Z",
+        "description": "ハロ〜",
+        "id": "886568576013946880",
+        "location": "中国",
+        "name": "Super",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353840360313634817/IoIbug8V_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 69,
+          "like_count": 3908,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 3392
+        },
+        "username": "Super_home6",
+        "verified": false
+      }
+    ]
+  }
+}
