@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2083365553314648147",
+    "created_at": "2026-08-01T07:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083452207853154813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1098507147720110080",
+          "start": 0,
+          "username": "Leader__Gallery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083452207853154813",
+    "in_reply_to_user_id": "1098507147720110080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083449840349131169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leader__Gallery 张家村人出不出来砍人不知道，我现在想出来砍人了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2083365553314648147",
+        "created_at": "2026-08-01T07:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083452207853154813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1098507147720110080",
+              "start": 0,
+              "username": "Leader__Gallery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083452207853154813",
+        "in_reply_to_user_id": "1098507147720110080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083449840349131169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leader__Gallery 张家村人出不出来砍人不知道，我现在想出来砍人了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1098507147720110080",
+        "conversation_id": "2083365553314648147",
+        "created_at": "2026-08-01T07:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083449840349131169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083449840349131169",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083365553314648147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 张家村要出来砍人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7527,
+          "following_count": 4532,
+          "like_count": 43697,
+          "listed_count": 17,
+          "media_count": 3211,
+          "tweet_count": 43301
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-21T08:58:08.000Z",
+        "description": "Nothing, but  coming soon.",
+        "id": "1098507147720110080",
+        "name": "LeaderGallery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441710443593023488/t9J1_0uy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 2391,
+          "like_count": 29990,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 7975
+        },
+        "url": "",
+        "username": "Leader__Gallery",
+        "verified": false
+      }
+    ]
+  }
+}

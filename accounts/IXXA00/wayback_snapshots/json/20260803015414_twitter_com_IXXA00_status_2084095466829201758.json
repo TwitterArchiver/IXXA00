@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2084069774255067399",
+    "created_at": "2026-08-03T01:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084095466829201758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1643149234517209088",
+          "start": 0,
+          "username": "J1angyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084095466829201758",
+    "in_reply_to_user_id": "1643149234517209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084087292151705948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1angyl 让你飞起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2084069774255067399",
+        "created_at": "2026-08-03T01:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084095466829201758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1643149234517209088",
+              "start": 0,
+              "username": "J1angyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084095466829201758",
+        "in_reply_to_user_id": "1643149234517209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084087292151705948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1angyl 让你飞起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643149234517209088",
+        "conversation_id": "2084069774255067399",
+        "created_at": "2026-08-03T01:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084087292151705948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084087292151705948",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084069774255067399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 讲中文就飞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级/不太熟：",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7522,
+          "following_count": 4528,
+          "like_count": 43742,
+          "listed_count": 17,
+          "media_count": 3213,
+          "tweet_count": 43333
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-04T07:11:32.000Z",
+        "description": "努力写作",
+        "id": "1643149234517209088",
+        "name": "yi",
+        "pinned_tweet_id": "1863304162055696555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907833959255588864/MPnyEYC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "J1angyl",
+        "verified": false
+      }
+    ]
+  }
+}

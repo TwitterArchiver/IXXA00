@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2083544220200304797",
+    "created_at": "2026-08-02T09:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083852064158019730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009432900274671616",
+          "start": 0,
+          "username": "h_chris233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083852064158019730",
+    "in_reply_to_user_id": "2009432900274671616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083836852448969028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h_chris233 是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2083544220200304797",
+        "created_at": "2026-08-02T09:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083852064158019730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009432900274671616",
+              "start": 0,
+              "username": "h_chris233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083852064158019730",
+        "in_reply_to_user_id": "2009432900274671616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083836852448969028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h_chris233 是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009432900274671616",
+        "conversation_id": "2083544220200304797",
+        "created_at": "2026-08-02T08:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083836852448969028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083836852448969028",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083544220200304797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 非常美丽其实是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级/心里有人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7524,
+          "following_count": 4530,
+          "like_count": 43718,
+          "listed_count": 17,
+          "media_count": 3213,
+          "tweet_count": 43317
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T01:12:09.000Z",
+        "description": "",
+        "id": "2009432900274671616",
+        "name": "Chris Harris (Chris233)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009432977823158276/vbo-EC_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 7188,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "h_chris233",
+        "verified": false
+      }
+    ]
+  }
+}

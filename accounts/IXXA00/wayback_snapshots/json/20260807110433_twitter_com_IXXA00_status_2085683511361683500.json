@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2085681099125178869",
+    "created_at": "2026-08-07T11:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085683511361683500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468927749691568128",
+          "start": 0,
+          "username": "RoyNguyen84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085683511361683500",
+    "in_reply_to_user_id": "1468927749691568128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085681305895969190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoyNguyen84 是的，保护的很好，非常好。\n但是呢，孤独感。这就是代价。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2085681099125178869",
+        "created_at": "2026-08-07T11:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085683511361683500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468927749691568128",
+              "start": 0,
+              "username": "RoyNguyen84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085683511361683500",
+        "in_reply_to_user_id": "1468927749691568128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085681305895969190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoyNguyen84 是的，保护的很好，非常好。\n但是呢，孤独感。这就是代价。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468927749691568128",
+        "conversation_id": "2085681099125178869",
+        "created_at": "2026-08-07T10:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085681305895969190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085681305895969190",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085681099125178869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 太懂这种自我保护了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "初中2年级/有一个值得爱的人。/略懂三式👌的赛博巫女，能掐会算。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2064636090028642563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7545,
+          "following_count": 4517,
+          "like_count": 43850,
+          "listed_count": 17,
+          "media_count": 3235,
+          "tweet_count": 43504
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-09T12:57:36.000Z",
+        "description": "强烈推荐大家提前准备一个稳定VPN，有备无患真的很重要👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/kHMqtwGWv2"
+              }
+            ]
+          }
+        },
+        "id": "1468927749691568128",
+        "name": "阿梅安利高速梯子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084740091092897792/kqp0r9j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 975,
+          "like_count": 701,
+          "listed_count": 6,
+          "media_count": 2,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/kHMqtwGWv2",
+        "username": "RoyNguyen84",
+        "verified": false
+      }
+    ]
+  }
+}

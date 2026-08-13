@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2084986904735535336",
+    "created_at": "2026-08-05T13:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084993952118350206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1295640838182060033",
+          "start": 0,
+          "username": "pv_wen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084993952118350206",
+    "in_reply_to_user_id": "1295640838182060033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084992167840551074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pv_wen 我也喜欢薄荷。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2084986904735535336",
+        "created_at": "2026-08-05T13:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084993952118350206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1295640838182060033",
+              "start": 0,
+              "username": "pv_wen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084993952118350206",
+        "in_reply_to_user_id": "1295640838182060033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084992167840551074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pv_wen 我也喜欢薄荷。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295640838182060033",
+        "conversation_id": "2084986904735535336",
+        "created_at": "2026-08-05T13:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084992167840551074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084992167840551074",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084986904735535336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 薄荷suki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "初中2年级/有一个值得爱的人。/巫女，能掐会算。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2064636090028642563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7544,
+          "following_count": 4522,
+          "like_count": 43811,
+          "listed_count": 17,
+          "media_count": 3222,
+          "tweet_count": 43432
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-18T08:37:09.000Z",
+        "description": "恨也迷人",
+        "id": "1295640838182060033",
+        "name": "今天也要加油努力",
+        "pinned_tweet_id": "2076568468820758604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837119933827928066/LUG9v1wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 3841,
+          "like_count": 16348,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 2747
+        },
+        "url": "",
+        "username": "pv_wen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084817244937396224"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2084710055430205571",
+    "created_at": "2026-08-05T01:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084817255477682462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NsokEiGUkg",
+          "end": 42,
+          "expanded_url": "https://x.com/IXXA00/status/2084817255477682462/photo/1",
+          "media_key": "3_2084817244937396224",
+          "start": 19,
+          "url": "https://t.co/NsokEiGUkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084817255477682462",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084710055430205571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 我俩竟然一样 https://t.co/NsokEiGUkg"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084710055430205571].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084710055430205571",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084710055430205571"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2084817244937396224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7CPQoaIAAU8B_.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084817244937396224"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2084710055430205571",
+        "created_at": "2026-08-05T01:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084817255477682462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsokEiGUkg",
+              "end": 42,
+              "expanded_url": "https://x.com/IXXA00/status/2084817255477682462/photo/1",
+              "media_key": "3_2084817244937396224",
+              "start": 19,
+              "url": "https://t.co/NsokEiGUkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084817255477682462",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084710055430205571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 我俩竟然一样 https://t.co/NsokEiGUkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "初中2年级/有一个值得爱的人。/巫女，能掐会算。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2064636090028642563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7532,
+          "following_count": 4522,
+          "like_count": 43776,
+          "listed_count": 17,
+          "media_count": 3221,
+          "tweet_count": 43395
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "世界上最坏的鸟类",
+        "id": "1657055349982244865",
+        "name": "嘎嘎鸟",
+        "pinned_tweet_id": "2013048657990312418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077978402968268800/T-eyNPN5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 1067,
+          "like_count": 88471,
+          "listed_count": 7,
+          "media_count": 2500,
+          "tweet_count": 29411
+        },
+        "url": "",
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}
