@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2095680408558227540",
+    "created_at": "2026-09-04T21:58:24.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095994917025935864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095994917025935864",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095994006660686106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya 我不洗澡就上床睡觉。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095994006660686106].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095994006660686106",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095994006660686106"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2095680408558227540",
+        "created_at": "2026-09-04T21:58:24.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095994917025935864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095994917025935864",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095994006660686106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya 我不洗澡就上床睡觉。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "情绪上瘾。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2095994917025935864",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2095145593903682027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7893,
+          "following_count": 4471,
+          "like_count": 45724,
+          "listed_count": 19,
+          "media_count": 3382,
+          "tweet_count": 45400
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "要与他人解耦，要独立，要自由",
+        "id": "1263250188757426176",
+        "is_identity_verified": false,
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "most_recent_tweet_id": "2060666855715672556",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263250188757426176/1743599290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079902228031340544/ms-bru8q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1604,
+          "like_count": 173653,
+          "listed_count": 5,
+          "media_count": 995,
+          "tweet_count": 12704
+        },
+        "url": "",
+        "username": "yunyunyunnya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

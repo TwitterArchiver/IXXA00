@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2091014654604832832",
+    "created_at": "2026-08-22T04:19:39.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091017431800274981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1143809352773582849",
+          "start": 0,
+          "username": "NyaRlP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091017431800274981",
+    "in_reply_to_user_id": "1143809352773582849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091016481274523736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaRlP 是的。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091016481274523736].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091016481274523736",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091016481274523736"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2091014654604832832",
+        "created_at": "2026-08-22T04:19:39.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091017431800274981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1143809352773582849",
+              "start": 0,
+              "username": "NyaRlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091017431800274981",
+        "in_reply_to_user_id": "1143809352773582849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091016481274523736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaRlP 是的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "The passing years teach us serenity and self-love.",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2091017431800274981",
+        "name": "𝑳𝒂³",
+        "pinned_tweet_id": "2090975904680067140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7859,
+          "following_count": 4510,
+          "like_count": 44791,
+          "listed_count": 19,
+          "media_count": 3295,
+          "tweet_count": 44435
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-26T09:12:55.000Z",
+        "description": "正在输入…",
+        "id": "1143809352773582849",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2071325959261938067",
+        "name": "苯纪日",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143809352773582849/1715393896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739317362720137216/CT_hm-kh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 1022,
+          "like_count": 91891,
+          "listed_count": 5,
+          "media_count": 363,
+          "tweet_count": 7055
+        },
+        "url": "",
+        "username": "NyaRlP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

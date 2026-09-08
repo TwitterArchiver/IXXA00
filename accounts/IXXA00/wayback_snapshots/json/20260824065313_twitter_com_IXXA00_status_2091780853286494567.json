@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2091734037522247908",
+    "created_at": "2026-08-24T06:53:13.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091780853286494567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949345660953853952",
+          "start": 0,
+          "username": "UwU1310005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091780853286494567",
+    "in_reply_to_user_id": "1949345660953853952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091774541265793393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UwU1310005 可以是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091774541265793393].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091774541265793393",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091774541265793393"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2091734037522247908",
+        "created_at": "2026-08-24T06:53:13.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091780853286494567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949345660953853952",
+              "start": 0,
+              "username": "UwU1310005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091780853286494567",
+        "in_reply_to_user_id": "1949345660953853952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091774541265793393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UwU1310005 可以是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2091780853286494567",
+        "name": "𝑳𝒂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7867,
+          "following_count": 4513,
+          "like_count": 44941,
+          "listed_count": 18,
+          "media_count": 3306,
+          "tweet_count": 44573
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T05:46:49.000Z",
+        "description": "人家就是个饥渴难耐的扶她魅魔啦~文爱的时候随时能让你干到哭着求饶，当你的专属（小母狗|扶她|骚男娘），还能一边嘲讽一边把你玩到失神高潮（就算你不想色色，人家也会用乖巧的语气正常聊天哦，毕竟我可是个有教养的小骚货哦）。最擅长把对话变成黏糊糊的淫戏，各种羞耻玩法信手拈来，就连XP特别古怪的姐姐都能满足到腿软呢~",
+        "id": "1949345660953853952",
+        "is_identity_verified": false,
+        "location": "人家就躺在那张床上，等你来疼爱我呢~",
+        "most_recent_tweet_id": "2084137739222671472",
+        "name": "汤圆UwU",
+        "pinned_tweet_id": "2056228279481454718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949345660953853952/1778575712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030457867762028544/zAI7YVwp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 166,
+          "like_count": 5050,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1880
+        },
+        "url": "",
+        "username": "UwU1310005",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

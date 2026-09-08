@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2094685478389981354",
+    "created_at": "2026-09-01T07:15:10.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T08:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094685478389981354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Biden_is_bitch…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Biden_is_bitch/status/2094339420170174736",
+          "start": 35,
+          "url": "https://t.co/MlbQIaZMLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094685478389981354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094339420170174736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样\n我同龄人都退休了，我还在推上嘉豪 ， 收🚪，原神皮冻\n就很 https://t.co/MlbQIaZMLc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2094339388302069760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCWk87akAAKWXY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2094339406601793536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCWmBGaMAA-u_c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2094685478389981354",
+        "created_at": "2026-09-01T07:15:10.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094685478389981354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Biden_is_bitch…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Biden_is_bitch/status/2094339420170174736",
+              "start": 35,
+              "url": "https://t.co/MlbQIaZMLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094685478389981354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094339420170174736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样\n我同龄人都退休了，我还在推上嘉豪 ， 收🚪，原神皮冻\n就很 https://t.co/MlbQIaZMLc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094339388302069760",
+            "3_2094339406601793536"
+          ]
+        },
+        "author_id": "1466640500467769346",
+        "conversation_id": "2094339420170174736",
+        "created_at": "2026-08-31T08:20:03.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094339420170174736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiNOLqzFpW",
+              "end": 59,
+              "expanded_url": "https://x.com/Biden_is_bitch/status/2094339420170174736/photo/1",
+              "media_key": "3_2094339388302069760",
+              "start": 36,
+              "url": "https://t.co/PiNOLqzFpW"
+            },
+            {
+              "display_url": "pic.x.com/PiNOLqzFpW",
+              "end": 59,
+              "expanded_url": "https://x.com/Biden_is_bitch/status/2094339420170174736/photo/1",
+              "media_key": "3_2094339406601793536",
+              "start": 36,
+              "url": "https://t.co/PiNOLqzFpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094339420170174736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094339388302069760"
+          },
+          {
+            "media_key": "3_2094339406601793536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 6529,
+          "like_count": 49,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大支特色内卷：35岁不当领导＝被优化，可惜领导没这么多，最终只能失业😇 https://t.co/PiNOLqzFpW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男性/看起来有点像高维生物/亮点展示冲浪精神面貌",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2094685478389981354",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2094617768058667103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7884,
+          "following_count": 4469,
+          "like_count": 45458,
+          "listed_count": 17,
+          "media_count": 3359,
+          "tweet_count": 45156
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-03T05:29:06.000Z",
+        "description": "现实主义者之所以误判对手，是因为他认为对手跟自己一样理性—马基雅维利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KwouL",
+                "end": 23,
+                "expanded_url": "https://t.me/KwouL",
+                "start": 0,
+                "url": "https://t.co/vm817skdMe"
+              }
+            ]
+          }
+        },
+        "id": "1466640500467769346",
+        "is_identity_verified": false,
+        "location": "Regnum Teutonicorum",
+        "most_recent_tweet_id": "2094669251206672709",
+        "name": "无忧宫匿名用户",
+        "pinned_tweet_id": "2054006523244998674",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1466640500467769346/1692620779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881349672708833280/b41PBgNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 220,
+          "like_count": 14098,
+          "listed_count": 8,
+          "media_count": 3039,
+          "tweet_count": 19122
+        },
+        "url": "https://t.co/vm817skdMe",
+        "username": "Biden_is_bitch",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

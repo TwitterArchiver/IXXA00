@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2096384053926859215",
+    "created_at": "2026-09-07T00:37:47.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096759800579448957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521308732805849089",
+          "start": 0,
+          "username": "tianzige4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096759800579448957",
+    "in_reply_to_user_id": "1521308732805849089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096384053926859215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianzige4 显而易见"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 148608,
+        "height": 1024,
+        "media_key": "13_2096383962256166912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096383962256166912/img/478jyuV6h44hiflS.jpg",
+        "public_metrics": {
+          "view_count": 115690
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096383962256166912/vid/avc1/320x568/t05xHojSW9iim5tl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096383962256166912/vid/avc1/480x852/hcQbFhMYK2PO6Nn3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096383962256166912/vid/avc1/576x1024/9lqn-j8LwL-1mq7m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096383962256166912/pl/UP7eV8Ar_kxeOtrY.m3u8?v=4f9"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2096384053926859215",
+        "created_at": "2026-09-07T00:37:47.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096759800579448957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521308732805849089",
+              "start": 0,
+              "username": "tianzige4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096759800579448957",
+        "in_reply_to_user_id": "1521308732805849089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096384053926859215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianzige4 显而易见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096383962256166912"
+          ]
+        },
+        "author_id": "1521308732805849089",
+        "conversation_id": "2096384053926859215",
+        "created_at": "2026-09-05T23:44:42.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096384053926859215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nd7wlnhCNl",
+              "end": 34,
+              "expanded_url": "https://x.com/tianzige4/status/2096384053926859215/video/1",
+              "media_key": "13_2096383962256166912",
+              "start": 11,
+              "url": "https://t.co/Nd7wlnhCNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096384053926859215",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096383962256166912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 92261,
+          "like_count": 612,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "这个数学老师好温柔🥰 https://t.co/Nd7wlnhCNl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "情绪上瘾。@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2096759800579448957",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2096546967795224577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8005,
+          "following_count": 4469,
+          "like_count": 45874,
+          "listed_count": 19,
+          "media_count": 3400,
+          "tweet_count": 45565
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-03T02:01:00.000Z",
+        "description": "野生时评人\n我的优兔频道：https://t.co/ZdSthFa6rJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-dezhou?s…",
+                "end": 36,
+                "expanded_url": "https://youtube.com/@user-dezhou?si=B0XX2E-_OGkQZt0o",
+                "start": 13,
+                "url": "https://t.co/ZdSthFa6rJ"
+              }
+            ]
+          }
+        },
+        "id": "1521308732805849089",
+        "is_identity_verified": false,
+        "location": "山东",
+        "most_recent_tweet_id": "2096751333361803544",
+        "name": "田字格",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521308732805849089/1660900833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760517663045124096/HXQW4WQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86447,
+          "following_count": 11008,
+          "like_count": 115493,
+          "listed_count": 221,
+          "media_count": 18792,
+          "tweet_count": 35163
+        },
+        "url": "",
+        "username": "tianzige4",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

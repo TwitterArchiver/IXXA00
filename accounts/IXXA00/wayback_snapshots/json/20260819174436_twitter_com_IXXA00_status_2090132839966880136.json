@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2090070227606454495",
+    "created_at": "2026-08-19T17:44:36.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090132839966880136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090132839966880136",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090070227606454495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13696,
+        "height": 1920,
+        "media_key": "13_2090070125911379968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090070125911379968/img/Ld--7eUttf93dqD9.jpg",
+        "public_metrics": {
+          "view_count": 544
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090070125911379968/vid/avc1/480x852/nvvW-CWt6wxNG3V3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090070125911379968/vid/avc1/720x1280/26krgilQzBwUBUZu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090070125911379968/vid/avc1/1080x1920/lGUc4WIn86Tmhgfw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090070125911379968/pl/gWJmeXdzrSidlhYx.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090070125911379968/vid/avc1/320x568/kiUvg1UxaCe1WABE.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090070206702084096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFrx4Ia4AAr3q0.jpg",
+        "width": 1843
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090070217691189248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFryhEbUAASyco.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2090070227606454495",
+        "created_at": "2026-08-19T17:44:36.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090132839966880136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090132839966880136",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090070227606454495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090070125911379968",
+            "3_2090070206702084096",
+            "3_2090070217691189248"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2090070227606454495",
+        "created_at": "2026-08-19T13:35:48.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090070227606454495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KH1AN8zfDI",
+              "end": 71,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2090070227606454495/video/1",
+              "media_key": "13_2090070125911379968",
+              "start": 48,
+              "url": "https://t.co/KH1AN8zfDI"
+            },
+            {
+              "display_url": "pic.x.com/KH1AN8zfDI",
+              "end": 71,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2090070227606454495/video/1",
+              "media_key": "3_2090070206702084096",
+              "start": 48,
+              "url": "https://t.co/KH1AN8zfDI"
+            },
+            {
+              "display_url": "pic.x.com/KH1AN8zfDI",
+              "end": 71,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2090070227606454495/video/1",
+              "media_key": "3_2090070217691189248",
+              "start": 48,
+              "url": "https://t.co/KH1AN8zfDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090070227606454495",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090070125911379968"
+          },
+          {
+            "media_key": "3_2090070206702084096"
+          },
+          {
+            "media_key": "3_2090070217691189248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 929,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草草草\n狐不会有马凡综合征吧TwT\n好哈人...狐还不想死😭😭😭\n坏了坏了坏了&gt;&lt; https://t.co/KH1AN8zfDI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "🚪岁月教人沉静自爱。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2090132839966880136",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2090070899143979157",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7852,
+          "following_count": 4511,
+          "like_count": 44616,
+          "listed_count": 19,
+          "media_count": 3281,
+          "tweet_count": 44229
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2090084577012543993",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 1530,
+          "like_count": 23329,
+          "listed_count": 7,
+          "media_count": 838,
+          "tweet_count": 7523
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

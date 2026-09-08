@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2095281260876976353",
+    "created_at": "2026-09-03T02:12:21.000Z",
+    "display_text_range": [
+      13,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T03:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095334050764574917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490234272598298626",
+          "start": 0,
+          "username": "yinglong233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095334050764574917",
+    "in_reply_to_user_id": "1490234272598298626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095333098196251082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinglong233 不是你。\n我这碗糖水放在你眼前你都找不到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2095281260876976353",
+        "created_at": "2026-09-03T02:12:21.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095334050764574917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490234272598298626",
+              "start": 0,
+              "username": "yinglong233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095334050764574917",
+        "in_reply_to_user_id": "1490234272598298626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095333098196251082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinglong233 不是你。\n我这碗糖水放在你眼前你都找不到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490234272598298626",
+        "conversation_id": "2095281260876976353",
+        "created_at": "2026-09-03T02:08:34.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095333098196251082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095333098196251082",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095281260876976353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 其实是我喝的😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我的糖水被人喝了，这给我留下了不可磨灭的阴影。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2095334050764574917",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2095145593903682027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7885,
+          "following_count": 4471,
+          "like_count": 45583,
+          "listed_count": 17,
+          "media_count": 3374,
+          "tweet_count": 45274
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-06T08:02:00.000Z",
+        "description": "（应龙/イン ローン/ying long）Ciallo！这里是应龙，一个网上半死不活现实半截入土的学畜\n中文/English OK 日本語を勉強中",
+        "id": "1490234272598298626",
+        "is_identity_verified": false,
+        "location": "Shinagawa-ku, Tokyo",
+        "most_recent_tweet_id": "2095333098196251082",
+        "name": "yinglong_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490234272598298626/1715103137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004781453402669058/LdNHzCCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 1129,
+          "like_count": 96460,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 6185
+        },
+        "url": "",
+        "username": "yinglong233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

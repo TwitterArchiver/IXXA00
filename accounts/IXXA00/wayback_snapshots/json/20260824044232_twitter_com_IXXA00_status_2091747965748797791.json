@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2091690068893438234",
+    "created_at": "2026-08-24T04:42:32.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T05:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091747965748797791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814278258189533184",
+          "start": 0,
+          "username": "Asphyxia_v_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091747965748797791",
+    "in_reply_to_user_id": "1814278258189533184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091690068893438234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asphyxia_v_ 椰子脑壳"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091690068893438234].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091690068893438234",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091690068893438234"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2091690068893438234",
+        "created_at": "2026-08-24T04:42:32.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091747965748797791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814278258189533184",
+              "start": 0,
+              "username": "Asphyxia_v_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091747965748797791",
+        "in_reply_to_user_id": "1814278258189533184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091690068893438234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asphyxia_v_ 椰子脑壳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2091747965748797791",
+        "name": "𝑳𝒂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7866,
+          "following_count": 4512,
+          "like_count": 44935,
+          "listed_count": 18,
+          "media_count": 3305,
+          "tweet_count": 44564
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-19T12:37:12.000Z",
+        "description": "你好我是似人酱",
+        "id": "1814278258189533184",
+        "is_identity_verified": false,
+        "location": "航天基地",
+        "most_recent_tweet_id": "2085758842995093538",
+        "name": "废熊Asphyxia",
+        "pinned_tweet_id": "2004530704223445117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814278258189533184/1761581542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022882577758216192/z1p1oxUv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 315,
+          "like_count": 40817,
+          "listed_count": 5,
+          "media_count": 4061,
+          "tweet_count": 34995
+        },
+        "url": "",
+        "username": "Asphyxia_v_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

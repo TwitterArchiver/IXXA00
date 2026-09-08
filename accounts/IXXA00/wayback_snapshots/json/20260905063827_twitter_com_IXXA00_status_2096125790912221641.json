@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2096065412056166822",
+    "created_at": "2026-09-05T06:38:27.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096125790912221641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1454360653",
+          "start": 0,
+          "username": "1greencat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096125790912221641",
+    "in_reply_to_user_id": "1454360653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096088725205770429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1greencat 什么奶龙发言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2096065412056166822",
+        "created_at": "2026-09-05T06:38:27.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096125790912221641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454360653",
+              "start": 0,
+              "username": "1greencat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096125790912221641",
+        "in_reply_to_user_id": "1454360653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096088725205770429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1greencat 什么奶龙发言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454360653",
+        "conversation_id": "2096065412056166822",
+        "created_at": "2026-09-05T04:11:10.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096088725205770429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096088725205770429",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096065412056166822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 奶帅奶帅的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "情绪上瘾。@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2096125790912221641",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2095145593903682027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7901,
+          "following_count": 4470,
+          "like_count": 45697,
+          "listed_count": 19,
+          "media_count": 3387,
+          "tweet_count": 45449
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-24T14:15:27.000Z",
+        "description": "不是所有的平板都是韩小寒",
+        "id": "1454360653",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096125527014953306",
+        "name": "一只绿喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454360653/1632644146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1080051674855571456/AJ0OUWtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8544,
+          "following_count": 489,
+          "like_count": 40163,
+          "listed_count": 35,
+          "media_count": 1706,
+          "tweet_count": 27503
+        },
+        "url": "",
+        "username": "1greencat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
