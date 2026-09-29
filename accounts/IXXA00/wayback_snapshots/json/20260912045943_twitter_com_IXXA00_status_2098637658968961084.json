@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2098598921421590603",
+    "created_at": "2026-09-12T04:59:43.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098637658968961084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098637658968961084",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098598921421590603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 xm 小情鸟"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10105,
+        "height": 720,
+        "media_key": "13_2098598871362629632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098598871362629632/img/4I0--bERwfKgJCfE.jpg",
+        "public_metrics": {
+          "view_count": 141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098598871362629632/vid/avc1/480x270/jcpMlzzrw82QLIRw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098598871362629632/vid/avc1/640x360/YO7ORLvezMFn2Tgo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098598871362629632/vid/avc1/1280x720/BDZbYuo4qMVu8o1h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098598871362629632/pl/15Wfjqsr-T54ujis.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2098598921421590603",
+        "created_at": "2026-09-12T04:59:43.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098637658968961084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098637658968961084",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098598921421590603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 xm 小情鸟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098598871362629632"
+          ]
+        },
+        "author_id": "1362960365055668225",
+        "conversation_id": "2098598921421590603",
+        "created_at": "2026-09-12T02:25:47.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098598921421590603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35rqXDQx3H",
+              "end": 27,
+              "expanded_url": "https://x.com/POI74103174/status/2098598921421590603/video/1",
+              "media_key": "13_2098598871362629632",
+              "start": 4,
+              "url": "https://t.co/35rqXDQx3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098598921421590603",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098598871362629632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好甜哦 https://t.co/35rqXDQx3H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "好女孩得到名声，坏女孩得到一切。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2098637658968961084",
+        "name": "𝑳𝒂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8122,
+          "following_count": 4470,
+          "like_count": 46373,
+          "listed_count": 19,
+          "media_count": 3442,
+          "tweet_count": 45982
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "大变活🐧了（\n饲养员@penguinmomentjp\n日常/小市民；不友任何群体，\n爱具体的人。\n小号@POI74103175\n照片是高p本人长这样➡️🗿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098633050779455620",
+        "name": "優杏@Poi🍨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362960365055668225/1776762875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5050,
+          "following_count": 332,
+          "like_count": 70531,
+          "listed_count": 19,
+          "media_count": 3393,
+          "tweet_count": 27537
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

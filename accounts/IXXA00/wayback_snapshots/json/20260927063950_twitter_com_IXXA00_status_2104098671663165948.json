@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "2104049305095155945",
+    "created_at": "2026-09-27T06:39:50.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T07:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104098671663165948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552439937198587904",
+          "start": 0,
+          "username": "kikiyoshi_2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104098671663165948",
+    "in_reply_to_user_id": "1552439937198587904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104049305095155945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikiyoshi_2233 日之丸拉面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104049296102555648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMVr-QagAADoZs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2104049305095155945",
+        "created_at": "2026-09-27T06:39:50.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104098671663165948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552439937198587904",
+              "start": 0,
+              "username": "kikiyoshi_2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104098671663165948",
+        "in_reply_to_user_id": "1552439937198587904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104049305095155945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikiyoshi_2233 日之丸拉面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104049296102555648"
+          ]
+        },
+        "author_id": "1552439937198587904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104049305095155945",
+        "created_at": "2026-09-27T03:23:40.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104049305095155945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSaJAZmNlh",
+              "end": 30,
+              "expanded_url": "https://x.com/kikiyoshi_2233/status/2104049305095155945/photo/1",
+              "media_key": "3_2104049296102555648",
+              "start": 7,
+              "url": "https://t.co/PSaJAZmNlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104049305095155945",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104049296102555648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 607,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "10元不到😁 https://t.co/PSaJAZmNlh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的。日常：@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2104098671663165948",
+        "name": "isla🌱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101657834249441280/3Zot_08m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8138,
+          "following_count": 4470,
+          "like_count": 47391,
+          "listed_count": 19,
+          "media_count": 3524,
+          "tweet_count": 46827
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T23:45:26.000Z",
+        "description": "个人博客：https://t.co/fGVztYtBQS。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kikiyoshi.blogspot.com",
+                "end": 28,
+                "expanded_url": "https://kikiyoshi.blogspot.com/",
+                "start": 5,
+                "url": "https://t.co/fGVztYtBQS"
+              }
+            ]
+          }
+        },
+        "id": "1552439937198587904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104049305095155945",
+        "name": "ききよし",
+        "pinned_tweet_id": "2069241176482615349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552439937198587904/1687882500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773164373248479232/xSR3ZxIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4264,
+          "following_count": 3300,
+          "like_count": 359870,
+          "listed_count": 34,
+          "media_count": 2558,
+          "tweet_count": 47105
+        },
+        "url": "",
+        "username": "kikiyoshi_2233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

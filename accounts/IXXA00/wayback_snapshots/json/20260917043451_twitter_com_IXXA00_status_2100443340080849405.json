@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2100393245872435517",
+    "created_at": "2026-09-17T04:34:51.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100443340080849405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1672592286713274369",
+          "start": 0,
+          "username": "MissMakima_SAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100443340080849405",
+    "in_reply_to_user_id": "1672592286713274369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100422518092058708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MissMakima_SAMA 那也很好看呢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2168,
+        "media_key": "3_2100422510194102272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYzJP5akAAiTzO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2100393245872435517",
+        "created_at": "2026-09-17T04:34:51.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100443340080849405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1672592286713274369",
+              "start": 0,
+              "username": "MissMakima_SAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100443340080849405",
+        "in_reply_to_user_id": "1672592286713274369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100422518092058708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MissMakima_SAMA 那也很好看呢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100422510194102272"
+          ]
+        },
+        "author_id": "1672592286713274369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2100393245872435517",
+        "created_at": "2026-09-17T03:12:06.000Z",
+        "display_text_range": [
+          8,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100422518092058708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfgUv48rLg",
+              "end": 52,
+              "expanded_url": "https://x.com/MissMakima_SAMA/status/2100422518092058708/photo/1",
+              "media_key": "3_2100422510194102272",
+              "start": 29,
+              "url": "https://t.co/tfgUv48rLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100422518092058708",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100422510194102272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100393245872435517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不用研究了，让 ChatGPT 帮忙穿的 https://t.co/tfgUv48rLg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "坐上来，不许动。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2100443340080849405",
+        "name": "isla🌱",
+        "pinned_tweet_id": "2099396672036196623",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8148,
+          "following_count": 4464,
+          "like_count": 46740,
+          "listed_count": 19,
+          "media_count": 3462,
+          "tweet_count": 46232
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-24T13:07:41.000Z",
+        "description": "Beelzebub has a devil put aside for me, for me, for me!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "FacMata.NET",
+                "end": 23,
+                "expanded_url": "https://FacMata.NET",
+                "start": 0,
+                "url": "https://t.co/VGKbTeYmFq"
+              }
+            ]
+          }
+        },
+        "id": "1672592286713274369",
+        "is_identity_verified": false,
+        "location": "東京 新宿区",
+        "most_recent_tweet_id": "2100422518092058708",
+        "name": "𝕄𝐢𝐬𝐬. 𝕄𝐚𝐤𝐢𝐦𝐚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672592286713274369/1687616414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066892809324634113/C0TyLDSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 39,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/VGKbTeYmFq",
+        "username": "MissMakima_SAMA",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

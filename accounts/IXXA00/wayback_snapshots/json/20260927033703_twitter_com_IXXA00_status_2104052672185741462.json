@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2103996203059081385",
+    "created_at": "2026-09-27T03:37:03.000Z",
+    "display_text_range": [
+      22,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104052672185741462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "729407854973755392",
+          "start": 0,
+          "username": "Arthur2e5"
+        },
+        {
+          "end": 21,
+          "id": "1958453112446017536",
+          "start": 11,
+          "username": "Seki_Seny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104052672185741462",
+    "in_reply_to_user_id": "729407854973755392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104013738202603691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arthur2e5 @Seki_Seny 还行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2103996203059081385",
+        "created_at": "2026-09-27T03:37:03.000Z",
+        "display_text_range": [
+          22,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104052672185741462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "729407854973755392",
+              "start": 0,
+              "username": "Arthur2e5"
+            },
+            {
+              "end": 21,
+              "id": "1958453112446017536",
+              "start": 11,
+              "username": "Seki_Seny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104052672185741462",
+        "in_reply_to_user_id": "729407854973755392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104013738202603691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur2e5 @Seki_Seny 还行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729407854973755392",
+        "conversation_id": "2103996203059081385",
+        "created_at": "2026-09-27T01:02:20.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104013738202603691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958453112446017536",
+              "start": 0,
+              "username": "Seki_Seny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104013738202603691",
+        "in_reply_to_user_id": "1958453112446017536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103996203059081385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seki_Seny 真好（？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的。日常：@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2104052672185741462",
+        "name": "isla🌱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101657834249441280/3Zot_08m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8139,
+          "following_count": 4471,
+          "like_count": 47375,
+          "listed_count": 19,
+          "media_count": 3523,
+          "tweet_count": 46815
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-08T20:29:19.000Z",
+        "description": "#REDIRECT @Artoria2e5 | A2-Legacy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "REDIRECT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Artoria2e5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/arthur2e5",
+                "end": 23,
+                "expanded_url": "https://about.me/arthur2e5",
+                "start": 0,
+                "url": "https://t.co/xMizOdlCdb"
+              }
+            ]
+          }
+        },
+        "id": "729407854973755392",
+        "is_identity_verified": false,
+        "location": "CN-SH ",
+        "most_recent_tweet_id": "2104044257950724119",
+        "name": "Mingye Wang 0.97",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729408171622707200/I1mzuiMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 364,
+          "like_count": 7418,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/xMizOdlCdb",
+        "username": "Arthur2e5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T08:56:30.000Z",
+        "description": "一条黑色小鱼。",
+        "id": "1958453112446017536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102771216969076745",
+        "name": "Ø𝚖𝚗𝚒𝚜 𝙻𝚊𝚌𝚛𝚒𝚖𝚊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958453112446017536/1788564248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102976301548425216/zZObHBzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 0,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Seki_Seny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2097334593678667940",
+    "created_at": "2026-09-09T03:18:23.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097524996235268314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2570568168",
+          "start": 0,
+          "username": "zhujinman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097524996235268314",
+    "in_reply_to_user_id": "2570568168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097522301457797309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhujinman 也许吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2097334593678667940",
+        "created_at": "2026-09-09T03:18:23.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097524996235268314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2570568168",
+              "start": 0,
+              "username": "zhujinman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097524996235268314",
+        "in_reply_to_user_id": "2570568168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097522301457797309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhujinman 也许吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2570568168",
+        "conversation_id": "2097334593678667940",
+        "created_at": "2026-09-09T03:07:41.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097522301457797309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097522301457797309",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097334593678667940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 不好笑嗎？我覺得還挺有趣的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "勉强初具人形。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2097524996235268314",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2096546967795224577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8122,
+          "following_count": 4470,
+          "like_count": 46096,
+          "listed_count": 19,
+          "media_count": 3421,
+          "tweet_count": 45766
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-06-16T09:15:57.000Z",
+        "description": "",
+        "id": "2570568168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097522301457797309",
+        "name": "李米",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2570568168/1524737878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/478466358552711168/58voRvI2_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 35,
+          "like_count": 7083,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "zhujinman",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

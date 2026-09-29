@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2102260669051728355",
+    "created_at": "2026-09-22T05:32:57.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102269900828107149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1553231797655420928",
+          "start": 0,
+          "username": "jack79191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102269900828107149",
+    "in_reply_to_user_id": "1553231797655420928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102260669051728355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack79191 吓晕了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2102260669051728355].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2102260669051728355",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2102260669051728355"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2102260669051728355",
+        "created_at": "2026-09-22T05:32:57.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102269900828107149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1553231797655420928",
+              "start": 0,
+              "username": "jack79191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102269900828107149",
+        "in_reply_to_user_id": "1553231797655420928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102260669051728355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack79191 吓晕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的。日常：@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2102269900828107149",
+        "name": "isla🌱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101657834249441280/3Zot_08m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8145,
+          "following_count": 4467,
+          "like_count": 47157,
+          "listed_count": 19,
+          "media_count": 3501,
+          "tweet_count": 46571
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-30T04:11:53.000Z",
+        "description": "科技与AI爱好者",
+        "id": "1553231797655420928",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2026644088955732207",
+        "name": "猫哥🐱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905375571200409603/knIJRfmw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 3920,
+          "like_count": 82020,
+          "listed_count": 5,
+          "media_count": 923,
+          "tweet_count": 12686
+        },
+        "url": "",
+        "username": "jack79191",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

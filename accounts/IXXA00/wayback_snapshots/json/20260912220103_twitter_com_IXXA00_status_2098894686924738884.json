@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2098804084165972173",
+    "created_at": "2026-09-12T22:01:03.000Z",
+    "display_text_range": [
+      14,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T23:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098894686924738884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743584609965940736",
+          "start": 0,
+          "username": "nugget_pixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098894686924738884",
+    "in_reply_to_user_id": "1743584609965940736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098804084165972173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nugget_pixel 一个健康的关系不会让人有这种想法哦。\n偶尔也要看看是不是关系的问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2098804084165972173",
+        "created_at": "2026-09-12T22:01:03.000Z",
+        "display_text_range": [
+          14,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T23:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098894686924738884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743584609965940736",
+              "start": 0,
+              "username": "nugget_pixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098894686924738884",
+        "in_reply_to_user_id": "1743584609965940736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098804084165972173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nugget_pixel 一个健康的关系不会让人有这种想法哦。\n偶尔也要看看是不是关系的问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743584609965940736",
+        "conversation_id": "2098804084165972173",
+        "created_at": "2026-09-12T16:01:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098804084165972173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098804084165972173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧我就是一个非常矫情的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "好女孩得到名声，坏女孩得到一切。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2098894686924738884",
+        "name": "𝑳𝒂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8123,
+          "following_count": 4468,
+          "like_count": 46430,
+          "listed_count": 19,
+          "media_count": 3445,
+          "tweet_count": 46033
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-06T10:45:49.000Z",
+        "description": "🌈bi🌈 infp/isfp love is love 女巫的碎碎念记录 小女孩請和我互fo 希望大家都能和我玩的開心 不參與任何政治相關",
+        "id": "1743584609965940736",
+        "is_identity_verified": false,
+        "location": "🚪52純绿聊天0意義但是能让我开心一下( ᐛ ) ",
+        "most_recent_tweet_id": "2098804084165972173",
+        "name": "像素雞塊",
+        "pinned_tweet_id": "1754148359626215693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743584609965940736/1704538670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016002223227150336/KUB71Qr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 256,
+          "like_count": 28430,
+          "listed_count": 4,
+          "media_count": 1078,
+          "tweet_count": 10453
+        },
+        "url": "",
+        "username": "nugget_pixel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
