@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2104926329946935439",
+    "created_at": "2026-09-29T13:32:24.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T14:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104927272444776653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104927272444776653",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104926329946935439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 梦幻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11888,
+        "height": 720,
+        "media_key": "13_2104926305666076672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104926305666076672/img/yej7DbtOgtNLXbfM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104926305666076672/vid/avc1/336x270/Wddja3I6FN62Nwqr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104926305666076672/vid/avc1/450x360/4Gi17UryUjgibFvb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104926305666076672/vid/avc1/900x720/9PHVm7bpUhH3-2pN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104926305666076672/pl/KfDi5c_cVeuAqESk.m3u8"
+          }
+        ],
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2104926329946935439",
+        "created_at": "2026-09-29T13:32:24.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104927272444776653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104927272444776653",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104926329946935439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 梦幻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104926305666076672"
+          ]
+        },
+        "author_id": "1906965920515551233",
+        "conversation_id": "2104926329946935439",
+        "created_at": "2026-09-29T13:28:39.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104926329946935439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQDtAiqJJe",
+              "end": 28,
+              "expanded_url": "https://x.com/OrangeTsukii/status/2104926329946935439/video/1",
+              "media_key": "13_2104926305666076672",
+              "start": 5,
+              "url": "https://t.co/DQDtAiqJJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104926329946935439",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104926305666076672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨年の夏 https://t.co/DQDtAiqJJe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的。日常：@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2104927272444776653",
+        "name": "isla🌱",
+        "pinned_tweet_id": "2104765887979164020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101657834249441280/3Zot_08m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8130,
+          "following_count": 4464,
+          "like_count": 47563,
+          "listed_count": 19,
+          "media_count": 3538,
+          "tweet_count": 46977
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖。\n请你为我而失眠。",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "location": "游荡在互联网的初恋幽灵",
+        "most_recent_tweet_id": "2104926329946935439",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2097746438222700904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1789065135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 51,
+          "like_count": 16149,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 902
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

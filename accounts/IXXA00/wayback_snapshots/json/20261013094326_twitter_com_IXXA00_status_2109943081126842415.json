@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2109594486099874105",
+    "created_at": "2026-10-13T09:43:26.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T10:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109943081126842415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3190591392",
+          "start": 0,
+          "username": "jian_w3ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109943081126842415",
+    "in_reply_to_user_id": "3190591392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109594486099874105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jian_w3ng 火葬场一般都是全年无休啊，而且 24 小时倒班的呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2109594486099874105",
+        "created_at": "2026-10-13T09:43:26.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T10:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109943081126842415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3190591392",
+              "start": 0,
+              "username": "jian_w3ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109943081126842415",
+        "in_reply_to_user_id": "3190591392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109594486099874105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jian_w3ng 火葬场一般都是全年无休啊，而且 24 小时倒班的呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3190591392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2109594486099874105",
+        "created_at": "2026-10-12T10:38:14.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109594486099874105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YunJiu/status/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/YunJiu/status/2109584962785845641",
+              "start": 56,
+              "url": "https://t.co/BCyCiNTcWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109594486099874105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109584962785845641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是不是都没有去过火葬场？\n火葬场属于民政局下辖部门。你相信它10.01能开门，不如相信我礼拜四回去吃kfc。 https://t.co/BCyCiNTcWG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2109943081126842415",
+        "name": "isla.nd",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1790759090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109856237257125888/9IcGGbdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8121,
+          "following_count": 4452,
+          "like_count": 48232,
+          "listed_count": 19,
+          "media_count": 3611,
+          "tweet_count": 47691
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-10T09:38:43.000Z",
+        "description": "炫压抑保守老登 理想车主 川粉 上世纪的残党",
+        "id": "3190591392",
+        "is_identity_verified": false,
+        "location": "Kansas",
+        "most_recent_tweet_id": "2109903050475532524",
+        "name": "阿拉伯晴明",
+        "pinned_tweet_id": "2027744821478330764",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3190591392/1759430219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973819509313294336/n7zcXwmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5956,
+          "following_count": 799,
+          "like_count": 31883,
+          "listed_count": 27,
+          "media_count": 624,
+          "tweet_count": 17865
+        },
+        "url": "",
+        "username": "jian_w3ng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

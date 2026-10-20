@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2110266024293715968",
+        "3_2110266034641092608",
+        "3_2110266046171193344",
+        "13_2110266057030258688"
+      ]
+    },
+    "author_id": "1739391734491086848",
+    "conversation_id": "2110266081516675141",
+    "created_at": "2026-10-14T07:06:55.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T08:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2110266081516675141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KK9QJ0kxwk",
+          "end": 29,
+          "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+          "media_key": "3_2110266024293715968",
+          "start": 6,
+          "url": "https://t.co/KK9QJ0kxwk"
+        },
+        {
+          "display_url": "pic.x.com/KK9QJ0kxwk",
+          "end": 29,
+          "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+          "media_key": "3_2110266034641092608",
+          "start": 6,
+          "url": "https://t.co/KK9QJ0kxwk"
+        },
+        {
+          "display_url": "pic.x.com/KK9QJ0kxwk",
+          "end": 29,
+          "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+          "media_key": "3_2110266046171193344",
+          "start": 6,
+          "url": "https://t.co/KK9QJ0kxwk"
+        },
+        {
+          "display_url": "pic.x.com/KK9QJ0kxwk",
+          "end": 29,
+          "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+          "media_key": "13_2110266057030258688",
+          "start": 6,
+          "url": "https://t.co/KK9QJ0kxwk"
+        },
+        {
+          "display_url": "x.com/Yuiko114514/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Yuiko114514/status/2110230198591566186",
+          "start": 30,
+          "url": "https://t.co/bVEXNyFeBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110266081516675141",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2110266024293715968"
+      },
+      {
+        "media_key": "3_2110266034641092608"
+      },
+      {
+        "media_key": "3_2110266046171193344"
+      },
+      {
+        "media_key": "13_2110266057030258688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110230198591566186",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩起来嘛。 https://t.co/KK9QJ0kxwk https://t.co/bVEXNyFeBN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2110266024293715968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkrxLeaUAApZiW.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2110266034641092608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkrxyBawAAq5qy.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1648,
+        "media_key": "3_2110266046171193344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkryc-aIAAjes7.jpg",
+        "width": 1200
+      },
+      {
+        "duration_ms": 6041,
+        "height": 640,
+        "media_key": "13_2110266057030258688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110266057030258688/img/JPok2IbJAY9BHZUg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2110266057030258688/vid/avc1/320x426/V2wrzgnG-hThHkiT.mp4?tag=25"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2110266057030258688/vid/avc1/480x640/NaNQkif3u6quNn4M.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2110266057030258688/pl/xRNQTIp5idHoHN9z.m3u8?tag=25"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2110230181298470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkLK16agAAIh5Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2110230185727713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkLLGabYAAoDGv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2110230189900996609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkLLV9aoAEcINm.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2110230194363785217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkLLmlbYAEx8Wo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110266024293715968",
+            "3_2110266034641092608",
+            "3_2110266046171193344",
+            "13_2110266057030258688"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2110266081516675141",
+        "created_at": "2026-10-14T07:06:55.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T08:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110266081516675141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KK9QJ0kxwk",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+              "media_key": "3_2110266024293715968",
+              "start": 6,
+              "url": "https://t.co/KK9QJ0kxwk"
+            },
+            {
+              "display_url": "pic.x.com/KK9QJ0kxwk",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+              "media_key": "3_2110266034641092608",
+              "start": 6,
+              "url": "https://t.co/KK9QJ0kxwk"
+            },
+            {
+              "display_url": "pic.x.com/KK9QJ0kxwk",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+              "media_key": "3_2110266046171193344",
+              "start": 6,
+              "url": "https://t.co/KK9QJ0kxwk"
+            },
+            {
+              "display_url": "pic.x.com/KK9QJ0kxwk",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/2110266081516675141/video/1",
+              "media_key": "13_2110266057030258688",
+              "start": 6,
+              "url": "https://t.co/KK9QJ0kxwk"
+            },
+            {
+              "display_url": "x.com/Yuiko114514/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Yuiko114514/status/2110230198591566186",
+              "start": 30,
+              "url": "https://t.co/bVEXNyFeBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110266081516675141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2110266024293715968"
+          },
+          {
+            "media_key": "3_2110266034641092608"
+          },
+          {
+            "media_key": "3_2110266046171193344"
+          },
+          {
+            "media_key": "13_2110266057030258688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110230198591566186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩起来嘛。 https://t.co/KK9QJ0kxwk https://t.co/bVEXNyFeBN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110230181298470912",
+            "3_2110230185727713280",
+            "3_2110230189900996609",
+            "3_2110230194363785217"
+          ]
+        },
+        "author_id": "1992627685798137856",
+        "conversation_id": "2110230198591566186",
+        "created_at": "2026-10-14T04:44:20.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T05:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110230198591566186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUItXvEiLM",
+              "end": 131,
+              "expanded_url": "https://x.com/Yuiko114514/status/2110230198591566186/photo/1",
+              "media_key": "3_2110230181298470912",
+              "start": 108,
+              "url": "https://t.co/DUItXvEiLM"
+            },
+            {
+              "display_url": "pic.x.com/DUItXvEiLM",
+              "end": 131,
+              "expanded_url": "https://x.com/Yuiko114514/status/2110230198591566186/photo/1",
+              "media_key": "3_2110230185727713280",
+              "start": 108,
+              "url": "https://t.co/DUItXvEiLM"
+            },
+            {
+              "display_url": "pic.x.com/DUItXvEiLM",
+              "end": 131,
+              "expanded_url": "https://x.com/Yuiko114514/status/2110230198591566186/photo/1",
+              "media_key": "3_2110230189900996609",
+              "start": 108,
+              "url": "https://t.co/DUItXvEiLM"
+            },
+            {
+              "display_url": "pic.x.com/DUItXvEiLM",
+              "end": 131,
+              "expanded_url": "https://x.com/Yuiko114514/status/2110230198591566186/photo/1",
+              "media_key": "3_2110230194363785217",
+              "start": 108,
+              "url": "https://t.co/DUItXvEiLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110230198591566186",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2110230181298470912"
+          },
+          {
+            "media_key": "3_2110230185727713280"
+          },
+          {
+            "media_key": "3_2110230189900996609"
+          },
+          {
+            "media_key": "3_2110230194363785217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "🌿谁家帅逼啊这是🤣\n\n魔法咒文:\n参考我上传的照片，保留人物真实五官、脸型及辨识度，其他内容自由随机创作，包括发型、服装、妆容、场景、季节、天气、动作、表情、构图和拍摄角度。每次生成全新画面，不重复固定场景或姿势。\n\n整体风格为90年代至00年代初日系青春电影、复古胶片、梦核摄影。强调如梦境般的朦胧、怀旧、孤独、空灵与轻微超现实感，仿佛从遗失的青春记忆中截取的一帧。强烈自然泛光、柔焦、轻微失焦、高光溢出、梦幻光晕、镜头雾感、16mm胶片颗粒、低清扫描质感、轻微色差与曝光不均。色调以褪色黄绿、奶油暖光、灰青色和墨绿阴影为主，可随环境自然变化。构图随意、真实抓拍，允许留白、运动模糊和不完美。\n\n重点增强真实感：画面要像真实拍摄出来的照片，而不是明显的AI制图。保留自然皮肤纹理、轻微毛孔感、细小瑕疵、真实发丝、自然光影过渡和真实镜头成像效果，不过度磨皮，不过度美化，不过度对称。人物妆容可加强，但不得改变原有面部特征，不要出现假人感、塑料感或过强的CG感。整体更像真实生活中偶然抓拍到的一张胶片照片，有生活气息和摄影真实感。\n\n避免商业写真、高清数码感、HDR、过度锐化、塑料磨皮及刻意摆拍。不要自动添加文字或水印。不要询问细节，直接随机生成一张梦幻、失真、柔软、真实而富有故事感的日系胶片照片。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌿谁家帅逼啊这是🤣\n\n魔法咒文:\n参考我上传的照片，保留人物真实五官、脸型及辨识度，其他内容自由随机创作，包括发型、服装、妆容、场景、季节、天气、动作、表情、构图和拍摄角度。每次生成全新画面，不重复固定场景或姿势。 https://t.co/DUItXvEiLM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2110266081516675141",
+        "name": "isla.nd",
+        "pinned_tweet_id": "2109464707027616071",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1790759090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109856237257125888/9IcGGbdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8122,
+          "following_count": 4452,
+          "like_count": 48268,
+          "listed_count": 19,
+          "media_count": 3615,
+          "tweet_count": 47737
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "🧭#一瞬一瞬で一生 🌸🍊🐧🐱🐼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "一瞬一瞬で一生"
+              }
+            ]
+          }
+        },
+        "id": "1992627685798137856",
+        "is_identity_verified": false,
+        "location": "月ノ森女子学園",
+        "most_recent_tweet_id": "2110252335566106908",
+        "name": "家人",
+        "pinned_tweet_id": "2069700513747378382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992627685798137856/1787797481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098452136631971840/PAOBuFKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 1281,
+          "like_count": 26926,
+          "listed_count": 10,
+          "media_count": 3323,
+          "tweet_count": 10792
+        },
+        "url": "",
+        "username": "Yuiko114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

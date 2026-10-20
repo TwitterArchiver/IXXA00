@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2108736720611201287",
+    "created_at": "2026-10-10T02:30:18.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T03:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108746916909699217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3986595852",
+          "start": 0,
+          "username": "kevin_cscs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108746916909699217",
+    "in_reply_to_user_id": "3986595852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108742032026148940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevin_cscs 谁问你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2108736720611201287",
+        "created_at": "2026-10-10T02:30:18.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T03:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108746916909699217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3986595852",
+              "start": 0,
+              "username": "kevin_cscs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108746916909699217",
+        "in_reply_to_user_id": "3986595852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108742032026148940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevin_cscs 谁问你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3986595852",
+        "conversation_id": "2108736720611201287",
+        "created_at": "2026-10-10T02:10:53.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T03:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108742032026148940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108742032026148940",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108736720611201287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我不面基"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "此生故彼生，此灭故彼灭。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2108746916909699217",
+        "name": "isla 🐖",
+        "pinned_tweet_id": "2108521985827639404",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1790759090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107117908317114368/timco_WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8131,
+          "following_count": 4455,
+          "like_count": 48084,
+          "listed_count": 19,
+          "media_count": 3588,
+          "tweet_count": 47506
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-23T02:46:11.000Z",
+        "description": "Nothing to see here.",
+        "id": "3986595852",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2108742032026148940",
+        "name": "kevinwaibing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3986595852/1742058067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679048332524802050/t3cAAjct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 2480,
+          "like_count": 73426,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 763
+        },
+        "url": "",
+        "username": "kevin_cscs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

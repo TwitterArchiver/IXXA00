@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "conversation_id": "2104345345253871846",
+    "created_at": "2026-09-28T05:19:22.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104440809819177288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "869576263463129090",
+          "start": 0,
+          "username": "willy860829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104440809819177288",
+    "in_reply_to_user_id": "869576263463129090",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104356422511456420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willy860829 🌱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2104345345253871846",
+        "created_at": "2026-09-28T05:19:22.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104440809819177288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "869576263463129090",
+              "start": 0,
+              "username": "willy860829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104440809819177288",
+        "in_reply_to_user_id": "869576263463129090",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104356422511456420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willy860829 🌱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "869576263463129090",
+        "conversation_id": "2104345345253871846",
+        "created_at": "2026-09-27T23:44:02.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104356422511456420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104356422511456420",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104345345253871846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 おはよう"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的。日常：@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2104440809819177288",
+        "name": "isla🌱",
+        "pinned_tweet_id": "2103816335398436891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101657834249441280/3Zot_08m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8132,
+          "following_count": 4466,
+          "like_count": 47460,
+          "listed_count": 19,
+          "media_count": 3531,
+          "tweet_count": 46885
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-30T15:28:31.000Z",
+        "description": "やらなければならないのに、やりたくない時に、やることが大変でも、やれるだけ、やろう。やってください。",
+        "id": "869576263463129090",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2104427835528233393",
+        "name": "お米は大事と存じます",
+        "pinned_tweet_id": "1635811939690647552",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/869576263463129090/1582197332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230450904983171072/3RP4wcij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 4376,
+          "like_count": 50799,
+          "listed_count": 9,
+          "media_count": 1647,
+          "tweet_count": 42709
+        },
+        "url": "",
+        "username": "willy860829",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

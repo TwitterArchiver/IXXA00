@@ -1,0 +1,658 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1739391734491086848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named places in the world, like Fenway Park",
+          "id": "13",
+          "name": "Place"
+        },
+        "entity": {
+          "id": "1418291134049120259",
+          "name": "Cafe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596891185152",
+          "name": "Jewelry - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Rolex",
+          "id": "1107717379310514176",
+          "name": "Rolex"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846449261914996736",
+          "name": "Watches"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rolex",
+          "id": "1107717379310514176",
+          "name": "Rolex"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418291134049120259",
+          "name": "Cafe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      }
+    ],
+    "conversation_id": "2105065420013404569",
+    "created_at": "2026-09-29T22:41:21.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T23:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105065420013404569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/leoxbtt/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/leoxbtt/status/2104803201266409641",
+          "start": 5,
+          "url": "https://t.co/wQJ2V1km7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105065420013404569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104803201266409641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正确的。 https://t.co/wQJ2V1km7x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596891185152",
+              "name": "Jewelry - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          }
+        ],
+        "conversation_id": "2105065420013404569",
+        "created_at": "2026-09-29T22:41:21.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105065420013404569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leoxbtt/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/leoxbtt/status/2104803201266409641",
+              "start": 5,
+              "url": "https://t.co/wQJ2V1km7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105065420013404569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104803201266409641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正确的。 https://t.co/wQJ2V1km7x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687994347004850176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596891185152",
+              "name": "Jewelry - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          }
+        ],
+        "conversation_id": "2104803201266409641",
+        "created_at": "2026-09-29T05:19:23.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104803201266409641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104803201266409641",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Sinceramente, no tengo ningún deseo de ser rico para poder comprarme un Rolex o un Lamborghini.  \n\nQuiero ser rico para poder disponer de mi tiempo y poder ir al gimnasio a las 3 de la tarde de un lunes.  \n\nPara sentarme en una cafetería y relajarme durante una hora en una tarde lluviosa.  \n\nPara poder cocinar en casa con ingredientes frescos.  \n\nGastar en mi familia y amigos sin preocuparme por el presupuesto.  \n\nEsa es mi idea de una vida rica, no la falsa idea consumista que nos han metido en la cabeza."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 820,
+          "impression_count": 310227,
+          "like_count": 17706,
+          "quote_count": 149,
+          "reply_count": 336,
+          "retweet_count": 2954
+        },
+        "reply_settings": "everyone",
+        "text": "Sinceramente, no tengo ningún deseo de ser rico para poder comprarme un Rolex o un Lamborghini.  \n\nQuiero ser rico para poder disponer de mi tiempo y poder ir al gimnasio a las 3 de la tarde de un lunes.  \n\nPara sentarme en una cafetería y relajarme durante una hora en una tarde"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的。日常：@seki_seny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "seki_seny"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2105065420013404569",
+        "name": "isla🌱",
+        "pinned_tweet_id": "2104765887979164020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101657834249441280/3Zot_08m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8130,
+          "following_count": 4464,
+          "like_count": 47599,
+          "listed_count": 19,
+          "media_count": 3539,
+          "tweet_count": 47009
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-06T01:10:07.000Z",
+        "description": "Probably posting bangers || Content Creator Web3 + AI || Team @casaweb3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "casaweb3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/leoxbtt",
+                "end": 23,
+                "expanded_url": "https://t.me/leoxbtt",
+                "start": 0,
+                "url": "https://t.co/kAHDOojEF8"
+              }
+            ]
+          }
+        },
+        "id": "1687994347004850176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105051233476317556",
+        "name": "Leo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687994347004850176/1771694789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025260845995888641/ZAHMId8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12257,
+          "following_count": 388,
+          "like_count": 19817,
+          "listed_count": 89,
+          "media_count": 461,
+          "tweet_count": 8165
+        },
+        "url": "https://t.co/kAHDOojEF8",
+        "username": "leoxbtt",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
